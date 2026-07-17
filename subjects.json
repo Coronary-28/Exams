@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "id": "introduction",
+    "name": "Introduction",
+    "lectures": [
+      {
+        "id": "introduction__lecture__ent",
+        "name": "ENT",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/ENT.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__ent__1__kqay5k",
+            "number": "1",
+            "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+            "options": [
+              "Septal deviation",
+              "Allergic rhinitis",
+              "Juvenile nasal angiofibroma",
+              "Nasal polyp",
+              "Foreign body"
+            ],
+            "originalOptions": [
+              "Septal deviation",
+              "Allergic rhinitis",
+              "Juvenile nasal angiofibroma",
+              "Nasal polyp",
+              "Foreign body"
+            ],
+            "correctAnswer": "C) Juvenile nasal angiofibroma",
+            "correctAnswerText": "Juvenile nasal angiofibroma",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Unilateral epistaxis in a young male (adolescent) is a classic presentation of juvenile nasal angiofibroma (JNA), a vascular tumor requiring rule-out by nasal endoscopy. Septal deviation and foreign body typically cause obstruction rather than recurrent bleeding, and allergic rhinitis/nasal polyps are usually bilateral.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__2__xlgbjg",
+            "number": "2",
+            "text": "A patient presents with hearing loss. What type of hearing loss is indicated if it's conductive in nature on the right side?",
+            "options": [
+              "Right conductive hearing loss",
+              "Left conductive hearing loss",
+              "Right sensorineural hearing loss",
+              "Bilateral conductive hearing loss",
+              "Left sensorineural hearing loss"
+            ],
+            "originalOptions": [
+              "Right conductive hearing loss",
+              "Left conductive hearing loss",
+              "Right sensorineural hearing loss",
+              "Bilateral conductive hearing loss",
+              "Left sensorineural hearing loss"
+            ],
+            "correctAnswer": "A) Right conductive hearing loss",
+            "correctAnswerText": "Right conductive hearing loss",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Conductive hearing loss localizes the problem to the external or middle ear on the affected side; since the pathology is specified as right-sided and conductive, the diagnosis is right conductive hearing loss. Sensorineural options are excluded since the defect is described as conductive, not inner ear/nerve related.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__3__awc2cf",
+            "number": "3",
+            "text": "What tuning fork frequency is used for hearing tests?",
+            "options": [
+              "128 Hz",
+              "256 Hz",
+              "1024 Hz",
+              "512 Hz",
+              "2048 Hz"
+            ],
+            "originalOptions": [
+              "128 Hz",
+              "256 Hz",
+              "1024 Hz",
+              "512 Hz",
+              "2048 Hz"
+            ],
+            "correctAnswer": "D) 512 Hz",
+            "correctAnswerText": "512 Hz",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "The standard tuning fork used for Weber's and Rinne's tests is 512 Hz, providing a balance between adequate duration of vibration and clinical accuracy. Lower frequencies (128–256 Hz) are felt more than heard, while higher frequencies decay too quickly for reliable bedside testing.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__4__lzafsj",
+            "number": "4",
+            "text": "A child presents with a midline neck lump that moves when they stick out their tongue. What is the diagnosis?",
+            "options": [
+              "Dermoid cyst",
+              "Submental lymph node",
+              "Thyroid isthmus swelling",
+              "Branchial cyst",
+              "Thyroglossal cyst"
+            ],
+            "originalOptions": [
+              "Dermoid cyst",
+              "Submental lymph node",
+              "Thyroid isthmus swelling",
+              "Branchial cyst",
+              "Thyroglossal cyst"
+            ],
+            "correctAnswer": "E) Thyroglossal cyst",
+            "correctAnswerText": "Thyroglossal cyst",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "A thyroglossal cyst is a midline neck lump that characteristically moves upward on tongue protrusion due to its embryological connection to the foramen cecum. Thyroid isthmus swelling moves with swallowing but not tongue protrusion, dermoid cysts are non-tender and mobile without this movement, and branchial cysts are lateral, not midline.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          }
+        ]
+      }
+    ],
+    "ai": [],
+    "years": [],
+    "allQuestions": [
+      {
+        "id": "introduction__lecture__ent__1__kqay5k",
+        "number": "1",
+        "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+        "options": [
+          "Septal deviation",
+          "Allergic rhinitis",
+          "Juvenile nasal angiofibroma",
+          "Nasal polyp",
+          "Foreign body"
+        ],
+        "originalOptions": [
+          "Septal deviation",
+          "Allergic rhinitis",
+          "Juvenile nasal angiofibroma",
+          "Nasal polyp",
+          "Foreign body"
+        ],
+        "correctAnswer": "C) Juvenile nasal angiofibroma",
+        "correctAnswerText": "Juvenile nasal angiofibroma",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Unilateral epistaxis in a young male (adolescent) is a classic presentation of juvenile nasal angiofibroma (JNA), a vascular tumor requiring rule-out by nasal endoscopy. Septal deviation and foreign body typically cause obstruction rather than recurrent bleeding, and allergic rhinitis/nasal polyps are usually bilateral.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__2__xlgbjg",
+        "number": "2",
+        "text": "A patient presents with hearing loss. What type of hearing loss is indicated if it's conductive in nature on the right side?",
+        "options": [
+          "Right conductive hearing loss",
+          "Left conductive hearing loss",
+          "Right sensorineural hearing loss",
+          "Bilateral conductive hearing loss",
+          "Left sensorineural hearing loss"
+        ],
+        "originalOptions": [
+          "Right conductive hearing loss",
+          "Left conductive hearing loss",
+          "Right sensorineural hearing loss",
+          "Bilateral conductive hearing loss",
+          "Left sensorineural hearing loss"
+        ],
+        "correctAnswer": "A) Right conductive hearing loss",
+        "correctAnswerText": "Right conductive hearing loss",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Conductive hearing loss localizes the problem to the external or middle ear on the affected side; since the pathology is specified as right-sided and conductive, the diagnosis is right conductive hearing loss. Sensorineural options are excluded since the defect is described as conductive, not inner ear/nerve related.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__3__awc2cf",
+        "number": "3",
+        "text": "What tuning fork frequency is used for hearing tests?",
+        "options": [
+          "128 Hz",
+          "256 Hz",
+          "1024 Hz",
+          "512 Hz",
+          "2048 Hz"
+        ],
+        "originalOptions": [
+          "128 Hz",
+          "256 Hz",
+          "1024 Hz",
+          "512 Hz",
+          "2048 Hz"
+        ],
+        "correctAnswer": "D) 512 Hz",
+        "correctAnswerText": "512 Hz",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "The standard tuning fork used for Weber's and Rinne's tests is 512 Hz, providing a balance between adequate duration of vibration and clinical accuracy. Lower frequencies (128–256 Hz) are felt more than heard, while higher frequencies decay too quickly for reliable bedside testing.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__4__lzafsj",
+        "number": "4",
+        "text": "A child presents with a midline neck lump that moves when they stick out their tongue. What is the diagnosis?",
+        "options": [
+          "Dermoid cyst",
+          "Submental lymph node",
+          "Thyroid isthmus swelling",
+          "Branchial cyst",
+          "Thyroglossal cyst"
+        ],
+        "originalOptions": [
+          "Dermoid cyst",
+          "Submental lymph node",
+          "Thyroid isthmus swelling",
+          "Branchial cyst",
+          "Thyroglossal cyst"
+        ],
+        "correctAnswer": "E) Thyroglossal cyst",
+        "correctAnswerText": "Thyroglossal cyst",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "A thyroglossal cyst is a midline neck lump that characteristically moves upward on tongue protrusion due to its embryological connection to the foramen cecum. Thyroid isthmus swelling moves with swallowing but not tongue protrusion, dermoid cysts are non-tender and mobile without this movement, and branchial cysts are lateral, not midline.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      }
+    ],
+    "totalQuestions": 4,
+    "totalLectures": 1,
+    "hasAiFolder": false
+  }
+]
