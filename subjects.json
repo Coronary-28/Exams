@@ -42,28 +42,28 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ent__2__xlgbjg",
+            "id": "introduction__lecture__ent__2__fitit1",
             "number": "2",
-            "text": "A patient presents with hearing loss. What type of hearing loss is indicated if it's conductive in nature on the right side?",
+            "text": "A patient has bone conduction better than air conduction on the right ear (negative Rinne). On Weber's test, sound is heard better in the right ear. What is the diagnosis?",
             "options": [
               "Right conductive hearing loss",
               "Left conductive hearing loss",
               "Right sensorineural hearing loss",
-              "Bilateral conductive hearing loss",
+              "Bilateral sensorineural hearing loss",
               "Left sensorineural hearing loss"
             ],
             "originalOptions": [
               "Right conductive hearing loss",
               "Left conductive hearing loss",
               "Right sensorineural hearing loss",
-              "Bilateral conductive hearing loss",
+              "Bilateral sensorineural hearing loss",
               "Left sensorineural hearing loss"
             ],
             "correctAnswer": "A) Right conductive hearing loss",
             "correctAnswerText": "Right conductive hearing loss",
             "correctIndex": 0,
             "correctAnswerLetter": "A",
-            "explanation": "Conductive hearing loss localizes the problem to the external or middle ear on the affected side; since the pathology is specified as right-sided and conductive, the diagnosis is right conductive hearing loss. Sensorineural options are excluded since the defect is described as conductive, not inner ear/nerve related.",
+            "explanation": "A negative Rinne test (bone conduction > air conduction) on the right ear indicates a conductive problem in that ear, and Weber lateralizing to the same (right) ear confirms this, since sound lateralizes toward the affected ear in conductive hearing loss. In sensorineural loss, Rinne would remain positive (air > bone) and Weber would lateralize to the opposite, better-hearing ear.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Introduction",
@@ -687,28 +687,28 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ent__2__xlgbjg",
+        "id": "introduction__lecture__ent__2__fitit1",
         "number": "2",
-        "text": "A patient presents with hearing loss. What type of hearing loss is indicated if it's conductive in nature on the right side?",
+        "text": "A patient has bone conduction better than air conduction on the right ear (negative Rinne). On Weber's test, sound is heard better in the right ear. What is the diagnosis?",
         "options": [
           "Right conductive hearing loss",
           "Left conductive hearing loss",
           "Right sensorineural hearing loss",
-          "Bilateral conductive hearing loss",
+          "Bilateral sensorineural hearing loss",
           "Left sensorineural hearing loss"
         ],
         "originalOptions": [
           "Right conductive hearing loss",
           "Left conductive hearing loss",
           "Right sensorineural hearing loss",
-          "Bilateral conductive hearing loss",
+          "Bilateral sensorineural hearing loss",
           "Left sensorineural hearing loss"
         ],
         "correctAnswer": "A) Right conductive hearing loss",
         "correctAnswerText": "Right conductive hearing loss",
         "correctIndex": 0,
         "correctAnswerLetter": "A",
-        "explanation": "Conductive hearing loss localizes the problem to the external or middle ear on the affected side; since the pathology is specified as right-sided and conductive, the diagnosis is right conductive hearing loss. Sensorineural options are excluded since the defect is described as conductive, not inner ear/nerve related.",
+        "explanation": "A negative Rinne test (bone conduction > air conduction) on the right ear indicates a conductive problem in that ear, and Weber lateralizing to the same (right) ear confirms this, since sound lateralizes toward the affected ear in conductive hearing loss. In sensorineural loss, Rinne would remain positive (air > bone) and Weber would lateralize to the opposite, better-hearing ear.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Introduction",
