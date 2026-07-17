@@ -135,6 +135,201 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "introduction__lecture__forensic",
+        "name": "Forensic",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Forensic.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__forensic__1__m6g1z7",
+            "number": "1",
+            "text": "Forensic Which of the following is NOT an early sign of death?",
+            "options": [
+              "Livor mortis (postmortem hypostasis)",
+              "Rigor mortis",
+              "Pallor mortis",
+              "Cessation of cardiac output",
+              "Loss of peripheral pulse"
+            ],
+            "originalOptions": [
+              "Livor mortis (postmortem hypostasis)",
+              "Rigor mortis",
+              "Pallor mortis",
+              "Cessation of cardiac output",
+              "Loss of peripheral pulse"
+            ],
+            "correctAnswer": "E) Loss of peripheral pulse",
+            "correctAnswerText": "Loss of peripheral pulse",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Livor mortis, rigor mortis, and pallor mortis are recognized postmortem changes that develop progressively over time and are used forensically to estimate time and circumstances of death. Loss of peripheral pulse occurs immediately at the moment of cardiac arrest rather than developing afterward, so it is a clinical sign of death, not a postmortem change. This distinction is why the lecture emphasized rigor mortis, hypostasis, and decomposition as the key diagnostic postmortem changes.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__2__7s8bw",
+            "number": "2",
+            "text": "Traumatic asphyxia results from severe injury to which part of the body?",
+            "options": [
+              "Neck",
+              "Chest (with abdomen)",
+              "Abdomen only",
+              "Mouth and nose",
+              "Larynx"
+            ],
+            "originalOptions": [
+              "Neck",
+              "Chest (with abdomen)",
+              "Abdomen only",
+              "Mouth and nose",
+              "Larynx"
+            ],
+            "correctAnswer": "B) Chest (with abdomen)",
+            "correctAnswerText": "Chest (with abdomen)",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Traumatic asphyxia is defined as compression on the chest and abdomen by external force, impairing the mechanical ability to breathe. This differs from strangulation/hanging (neck level) and smothering (mouth and nose level), which are other forms of violent asphyxia acting at different anatomical levels.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__3__egnwux",
+            "number": "3",
+            "text": "In forensic medicine, strangulation can be categorized into which manner of death?",
+            "options": [
+              "Suicidal manner",
+              "Homicidal manner",
+              "Accidental manner",
+              "Natural manner",
+              "Undetermined manner"
+            ],
+            "originalOptions": [
+              "Suicidal manner",
+              "Homicidal manner",
+              "Accidental manner",
+              "Natural manner",
+              "Undetermined manner"
+            ],
+            "correctAnswer": "B) Homicidal manner",
+            "correctAnswerText": "Homicidal manner",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Strangulation (compression of neck structures by ligature or hands) is mostly homicidal, unlike hanging, which is mostly suicidal but can be accidental or homicidal. This distinction in manner of death is forensically important because it directly affects legal classification and investigation of the case.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__4__p7vnwd",
+            "number": "4",
+            "text": "Which type of injury is not caused by a blunt object but rather by a sharp object, typically resulting in clean, well-defined wound edges?",
+            "options": [
+              "Laceration",
+              "Abrasion",
+              "Contusion",
+              "Incised (incision) wound",
+              "Stab wound"
+            ],
+            "originalOptions": [
+              "Laceration",
+              "Abrasion",
+              "Contusion",
+              "Incised (incision) wound",
+              "Stab wound"
+            ],
+            "correctAnswer": "D) Incised (incision) wound",
+            "correctAnswerText": "Incised (incision) wound",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife or glass splinter, producing regular edges, clear margins, and no tissue bridging. In contrast, lacerations, abrasions, and contusions all result from blunt trauma and typically show irregular edges, contused margins, and tissue bridging.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__5__3t2y52",
+            "number": "5",
+            "text": "What is the approximate time window during which myocardial cells can be harvested after cardiac arrest?",
+            "options": [
+              "60 minutes",
+              "5-7 minutes",
+              "45 minutes",
+              "2 hours",
+              "24 hours"
+            ],
+            "originalOptions": [
+              "60 minutes",
+              "5-7 minutes",
+              "45 minutes",
+              "2 hours",
+              "24 hours"
+            ],
+            "correctAnswer": "A) 60 minutes",
+            "correctAnswerText": "60 minutes",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Different tissues and organs remain viable for different durations after death, since cells do not die instantly and organs vary in their tolerance to anoxia (the lecture notes the brain survives only 5-7 minutes and the kidney about 45 minutes). This variability explains why timing is critical for organ/tissue donation and harvesting after cardiac arrest.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__6__xpmw1v",
+            "number": "6",
+            "text": "Stab wounds can be classified into which of the following categories?",
+            "options": [
+              "Sharp",
+              "Blunt",
+              "All of the above",
+              "Blunt with a pointed ending",
+              "None of the above"
+            ],
+            "originalOptions": [
+              "Sharp",
+              "Blunt",
+              "All of the above",
+              "Blunt with a pointed ending",
+              "None of the above"
+            ],
+            "correctAnswer": "C) All of the above",
+            "correctAnswerText": "All of the above",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Stab wounds can result from a purely sharp instrument, a blunt instrument, or a blunt object with a pointed tip (as illustrated by the example of a worker falling onto a round-tipped iron rod), since what matters legally and clinically is the depth and mechanism of penetration rather than the object's overall sharpness. This is why all three categories are considered valid classifications of stab wounds in forensic assessment.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [
@@ -585,6 +780,192 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__forensic__1__m6g1z7",
+        "number": "1",
+        "text": "Forensic Which of the following is NOT an early sign of death?",
+        "options": [
+          "Livor mortis (postmortem hypostasis)",
+          "Rigor mortis",
+          "Pallor mortis",
+          "Cessation of cardiac output",
+          "Loss of peripheral pulse"
+        ],
+        "originalOptions": [
+          "Livor mortis (postmortem hypostasis)",
+          "Rigor mortis",
+          "Pallor mortis",
+          "Cessation of cardiac output",
+          "Loss of peripheral pulse"
+        ],
+        "correctAnswer": "E) Loss of peripheral pulse",
+        "correctAnswerText": "Loss of peripheral pulse",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Livor mortis, rigor mortis, and pallor mortis are recognized postmortem changes that develop progressively over time and are used forensically to estimate time and circumstances of death. Loss of peripheral pulse occurs immediately at the moment of cardiac arrest rather than developing afterward, so it is a clinical sign of death, not a postmortem change. This distinction is why the lecture emphasized rigor mortis, hypostasis, and decomposition as the key diagnostic postmortem changes.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__2__7s8bw",
+        "number": "2",
+        "text": "Traumatic asphyxia results from severe injury to which part of the body?",
+        "options": [
+          "Neck",
+          "Chest (with abdomen)",
+          "Abdomen only",
+          "Mouth and nose",
+          "Larynx"
+        ],
+        "originalOptions": [
+          "Neck",
+          "Chest (with abdomen)",
+          "Abdomen only",
+          "Mouth and nose",
+          "Larynx"
+        ],
+        "correctAnswer": "B) Chest (with abdomen)",
+        "correctAnswerText": "Chest (with abdomen)",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Traumatic asphyxia is defined as compression on the chest and abdomen by external force, impairing the mechanical ability to breathe. This differs from strangulation/hanging (neck level) and smothering (mouth and nose level), which are other forms of violent asphyxia acting at different anatomical levels.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__3__egnwux",
+        "number": "3",
+        "text": "In forensic medicine, strangulation can be categorized into which manner of death?",
+        "options": [
+          "Suicidal manner",
+          "Homicidal manner",
+          "Accidental manner",
+          "Natural manner",
+          "Undetermined manner"
+        ],
+        "originalOptions": [
+          "Suicidal manner",
+          "Homicidal manner",
+          "Accidental manner",
+          "Natural manner",
+          "Undetermined manner"
+        ],
+        "correctAnswer": "B) Homicidal manner",
+        "correctAnswerText": "Homicidal manner",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Strangulation (compression of neck structures by ligature or hands) is mostly homicidal, unlike hanging, which is mostly suicidal but can be accidental or homicidal. This distinction in manner of death is forensically important because it directly affects legal classification and investigation of the case.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__4__p7vnwd",
+        "number": "4",
+        "text": "Which type of injury is not caused by a blunt object but rather by a sharp object, typically resulting in clean, well-defined wound edges?",
+        "options": [
+          "Laceration",
+          "Abrasion",
+          "Contusion",
+          "Incised (incision) wound",
+          "Stab wound"
+        ],
+        "originalOptions": [
+          "Laceration",
+          "Abrasion",
+          "Contusion",
+          "Incised (incision) wound",
+          "Stab wound"
+        ],
+        "correctAnswer": "D) Incised (incision) wound",
+        "correctAnswerText": "Incised (incision) wound",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife or glass splinter, producing regular edges, clear margins, and no tissue bridging. In contrast, lacerations, abrasions, and contusions all result from blunt trauma and typically show irregular edges, contused margins, and tissue bridging.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__5__3t2y52",
+        "number": "5",
+        "text": "What is the approximate time window during which myocardial cells can be harvested after cardiac arrest?",
+        "options": [
+          "60 minutes",
+          "5-7 minutes",
+          "45 minutes",
+          "2 hours",
+          "24 hours"
+        ],
+        "originalOptions": [
+          "60 minutes",
+          "5-7 minutes",
+          "45 minutes",
+          "2 hours",
+          "24 hours"
+        ],
+        "correctAnswer": "A) 60 minutes",
+        "correctAnswerText": "60 minutes",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Different tissues and organs remain viable for different durations after death, since cells do not die instantly and organs vary in their tolerance to anoxia (the lecture notes the brain survives only 5-7 minutes and the kidney about 45 minutes). This variability explains why timing is critical for organ/tissue donation and harvesting after cardiac arrest.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__6__xpmw1v",
+        "number": "6",
+        "text": "Stab wounds can be classified into which of the following categories?",
+        "options": [
+          "Sharp",
+          "Blunt",
+          "All of the above",
+          "Blunt with a pointed ending",
+          "None of the above"
+        ],
+        "originalOptions": [
+          "Sharp",
+          "Blunt",
+          "All of the above",
+          "Blunt with a pointed ending",
+          "None of the above"
+        ],
+        "correctAnswer": "C) All of the above",
+        "correctAnswerText": "All of the above",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Stab wounds can result from a purely sharp instrument, a blunt instrument, or a blunt object with a pointed tip (as illustrated by the example of a worker falling onto a round-tipped iron rod), since what matters legally and clinically is the depth and mechanism of penetration rather than the object's overall sharpness. This is why all three categories are considered valid classifications of stab wounds in forensic assessment.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__amrm9",
         "number": "1",
         "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -895,8 +1276,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 14,
-    "totalLectures": 2,
+    "totalQuestions": 20,
+    "totalLectures": 3,
     "hasAiFolder": true
   }
 ]
