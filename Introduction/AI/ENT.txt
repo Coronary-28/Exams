@@ -1,0 +1,100 @@
+ENT
+Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?
+A) Malleus
+B) Stapes
+C) Incus
+D) Cochlea
+E) Tympanic membrane
+Correct Answer: B) Stapes
+Explanation:
+The stapes footplate sits on the oval window and pushes on it to generate perilymph waves in the cochlea, continuing the sound conduction pathway. The malleus and incus are earlier links in the ossicular chain but do not directly contact the oval window.
+###
+A 70-year-old poorly controlled diabetic presents with severe otalgia and granulation tissue in the ear canal. Which diagnosis must be suspected?
+A) Acute otitis media
+B) Perichondritis
+C) Cholesteatoma
+D) Necrotizing otitis externa
+E) Acute otitis externa
+Correct Answer: D) Necrotizing otitis externa
+Explanation:
+Severe otalgia in an elderly patient with uncontrolled diabetes is a classic red flag for necrotizing (malignant) otitis externa, an aggressive infection that can extend to the skull base. Acute otitis externa and media are far more common but do not carry this specific risk profile of severe pain plus uncontrolled diabetes.
+###
+Shedding of otoconia (crystals) from the utricle into the semicircular canals is the underlying mechanism of which condition?
+A) Benign paroxysmal positional vertigo
+B) Vestibular neuritis
+C) Ménière's disease
+D) Acoustic neuroma
+E) Central vertigo
+Correct Answer: A) Benign paroxysmal positional vertigo
+Explanation:
+BPPV results from displaced otoconia (crystals) from the utricle entering the semicircular canals, causing brief seconds-long vertigo with position change. Ménière's disease involves endolymphatic hydrops instead, and vestibular neuritis is due to inflammation, not crystal displacement.
+###
+A patient reports recurrent vertigo lasting hours, associated with fluctuating unilateral hearing loss, tinnitus, and aural fullness. What is the most likely diagnosis?
+A) Vestibular neuritis
+B) Benign paroxysmal positional vertigo
+C) Migraine-associated vertigo
+D) Acute otitis media
+E) Ménière's disease
+Correct Answer: E) Ménière's disease
+Explanation:
+The triad of episodic vertigo (hours), fluctuating sensorineural hearing loss, tinnitus, and aural fullness is characteristic of Ménière's disease (endolymphatic hydrops). BPPV lasts seconds and vestibular neuritis lasts days, and neither is typically associated with hearing loss.
+###
+Vesicles in the ear canal accompanied by ipsilateral facial nerve palsy should raise suspicion for which condition?
+A) Acute otitis media
+B) Ramsay Hunt syndrome
+C) Perichondritis
+D) Cholesteatoma
+E) Otosclerosis
+Correct Answer: B) Ramsay Hunt syndrome
+Explanation:
+Ramsay Hunt syndrome (herpes zoster oticus) presents with vesicles in the ear canal, facial nerve palsy, and sometimes vertigo or sensorineural hearing loss. This combination of vesicles plus facial palsy is not typical of the other otological conditions listed.
+###
+On Weber's test, sound lateralizes to the right ear. Rinne's test on the right shows bone conduction greater than air conduction. What is the diagnosis?
+A) Left sensorineural hearing loss
+B) Right conductive hearing loss
+C) Right sensorineural hearing loss
+D) Bilateral normal hearing
+E) Left conductive hearing loss
+Correct Answer: B) Right conductive hearing loss
+Explanation:
+Lateralization to the affected ear on Weber's test combined with a negative Rinne's test (bone conduction greater than air conduction) on that same side confirms a conductive hearing loss in the right ear. Sensorineural loss would instead lateralize away from the affected ear with a positive Rinne's test.
+###
+What is the primary function of the Eustachian tube?
+A) Amplification of sound waves
+B) Production of endolymph
+C) Transmission of vibration to the cochlea
+D) Ventilation and equalization of middle ear pressure
+E) Filtration of inhaled air
+Correct Answer: D) Ventilation and equalization of middle ear pressure
+Explanation:
+The Eustachian tube connects the middle ear to the nasopharynx and functions to ventilate the middle ear space, equalizing its pressure with atmospheric pressure. Sound amplification and vibration transmission are functions of the ossicles, not the Eustachian tube.
+###
+During an emergency airway obstruction, a cricothyrotomy is performed through which structure?
+A) Hyoid bone
+B) Thyroid isthmus
+C) Cricothyroid membrane
+D) Epiglottis
+E) Cricoid cartilage
+Correct Answer: C) Cricothyroid membrane
+Explanation:
+The cricothyroid membrane, located between the thyroid and cricoid cartilages, is the site used for emergency cricothyrotomy due to its superficial and relatively avascular location. The cricoid cartilage and thyroid isthmus are nearby structures but are not the incision site for this procedure.
+###
+A 55-year-old smoker presents with hoarseness of voice persisting for more than 3 weeks. What is the most appropriate next step?
+A) Reassure and review in 6 months
+B) Prescribe empirical antibiotics
+C) Start proton pump inhibitor and observe
+D) Voice rest and follow-up in 1 month
+E) Urgent referral to ENT for fiberoptic laryngoscopy
+Correct Answer: E) Urgent referral to ENT for fiberoptic laryngoscopy
+Explanation:
+Persistent hoarseness beyond 3 weeks in a smoker is a red flag for laryngeal malignancy and warrants urgent ENT referral for fiberoptic endoscopy to visualize the vocal cords and rule out tumors. Reassurance, antibiotics, or symptomatic measures risk delaying diagnosis of a potentially neoplastic process.
+###
+Tenderness elicited on palpation of the tragus is most suggestive of which condition?
+A) Acute otitis media
+B) Ménière's disease
+C) Otitis externa
+D) Otosclerosis
+E) Acoustic neuroma
+Correct Answer: C) Otitis externa
+Explanation:
+Tragal tenderness on palpation is a classic clinical sign of otitis externa, as inflammation of the external auditory canal makes movement of the pinna/tragus painful. Acute otitis media, a middle ear condition, does not typically produce tragal tenderness since the external ear is not primarily inflamed.
