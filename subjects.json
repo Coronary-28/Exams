@@ -137,7 +137,327 @@
         ]
       }
     ],
-    "ai": [],
+    "ai": [
+      {
+        "id": "introduction__ai__ent",
+        "name": "ENT",
+        "type": "ai",
+        "subjectName": "Introduction",
+        "path": "Introduction/AI/ENT.txt",
+        "questions": [
+          {
+            "id": "introduction__ai__ent__1__amrm9",
+            "number": "1",
+            "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+            "options": [
+              "Malleus",
+              "Stapes",
+              "Incus",
+              "Cochlea",
+              "Tympanic membrane"
+            ],
+            "originalOptions": [
+              "Malleus",
+              "Stapes",
+              "Incus",
+              "Cochlea",
+              "Tympanic membrane"
+            ],
+            "correctAnswer": "B) Stapes",
+            "correctAnswerText": "Stapes",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "The stapes footplate sits on the oval window and pushes on it to generate perilymph waves in the cochlea, continuing the sound conduction pathway. The malleus and incus are earlier links in the ossicular chain but do not directly contact the oval window.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__2__cqs7ct",
+            "number": "2",
+            "text": "A 70-year-old poorly controlled diabetic presents with severe otalgia and granulation tissue in the ear canal. Which diagnosis must be suspected?",
+            "options": [
+              "Acute otitis media",
+              "Perichondritis",
+              "Cholesteatoma",
+              "Necrotizing otitis externa",
+              "Acute otitis externa"
+            ],
+            "originalOptions": [
+              "Acute otitis media",
+              "Perichondritis",
+              "Cholesteatoma",
+              "Necrotizing otitis externa",
+              "Acute otitis externa"
+            ],
+            "correctAnswer": "D) Necrotizing otitis externa",
+            "correctAnswerText": "Necrotizing otitis externa",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Severe otalgia in an elderly patient with uncontrolled diabetes is a classic red flag for necrotizing (malignant) otitis externa, an aggressive infection that can extend to the skull base. Acute otitis externa and media are far more common but do not carry this specific risk profile of severe pain plus uncontrolled diabetes.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__3__7n5wf",
+            "number": "3",
+            "text": "Shedding of otoconia (crystals) from the utricle into the semicircular canals is the underlying mechanism of which condition?",
+            "options": [
+              "Benign paroxysmal positional vertigo",
+              "Vestibular neuritis",
+              "Ménière's disease",
+              "Acoustic neuroma",
+              "Central vertigo"
+            ],
+            "originalOptions": [
+              "Benign paroxysmal positional vertigo",
+              "Vestibular neuritis",
+              "Ménière's disease",
+              "Acoustic neuroma",
+              "Central vertigo"
+            ],
+            "correctAnswer": "A) Benign paroxysmal positional vertigo",
+            "correctAnswerText": "Benign paroxysmal positional vertigo",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "BPPV results from displaced otoconia (crystals) from the utricle entering the semicircular canals, causing brief seconds-long vertigo with position change. Ménière's disease involves endolymphatic hydrops instead, and vestibular neuritis is due to inflammation, not crystal displacement.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__4__xldh44",
+            "number": "4",
+            "text": "A patient reports recurrent vertigo lasting hours, associated with fluctuating unilateral hearing loss, tinnitus, and aural fullness. What is the most likely diagnosis?",
+            "options": [
+              "Vestibular neuritis",
+              "Benign paroxysmal positional vertigo",
+              "Migraine-associated vertigo",
+              "Acute otitis media",
+              "Ménière's disease"
+            ],
+            "originalOptions": [
+              "Vestibular neuritis",
+              "Benign paroxysmal positional vertigo",
+              "Migraine-associated vertigo",
+              "Acute otitis media",
+              "Ménière's disease"
+            ],
+            "correctAnswer": "E) Ménière's disease",
+            "correctAnswerText": "Ménière's disease",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "The triad of episodic vertigo (hours), fluctuating sensorineural hearing loss, tinnitus, and aural fullness is characteristic of Ménière's disease (endolymphatic hydrops). BPPV lasts seconds and vestibular neuritis lasts days, and neither is typically associated with hearing loss.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__5__spetf9",
+            "number": "5",
+            "text": "Vesicles in the ear canal accompanied by ipsilateral facial nerve palsy should raise suspicion for which condition?",
+            "options": [
+              "Acute otitis media",
+              "Ramsay Hunt syndrome",
+              "Perichondritis",
+              "Cholesteatoma",
+              "Otosclerosis"
+            ],
+            "originalOptions": [
+              "Acute otitis media",
+              "Ramsay Hunt syndrome",
+              "Perichondritis",
+              "Cholesteatoma",
+              "Otosclerosis"
+            ],
+            "correctAnswer": "B) Ramsay Hunt syndrome",
+            "correctAnswerText": "Ramsay Hunt syndrome",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Ramsay Hunt syndrome (herpes zoster oticus) presents with vesicles in the ear canal, facial nerve palsy, and sometimes vertigo or sensorineural hearing loss. This combination of vesicles plus facial palsy is not typical of the other otological conditions listed.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__6__fvgebj",
+            "number": "6",
+            "text": "On Weber's test, sound lateralizes to the right ear. Rinne's test on the right shows bone conduction greater than air conduction. What is the diagnosis?",
+            "options": [
+              "Left sensorineural hearing loss",
+              "Right conductive hearing loss",
+              "Right sensorineural hearing loss",
+              "Bilateral normal hearing",
+              "Left conductive hearing loss"
+            ],
+            "originalOptions": [
+              "Left sensorineural hearing loss",
+              "Right conductive hearing loss",
+              "Right sensorineural hearing loss",
+              "Bilateral normal hearing",
+              "Left conductive hearing loss"
+            ],
+            "correctAnswer": "B) Right conductive hearing loss",
+            "correctAnswerText": "Right conductive hearing loss",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Lateralization to the affected ear on Weber's test combined with a negative Rinne's test (bone conduction greater than air conduction) on that same side confirms a conductive hearing loss in the right ear. Sensorineural loss would instead lateralize away from the affected ear with a positive Rinne's test.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__7__owqqlv",
+            "number": "7",
+            "text": "What is the primary function of the Eustachian tube?",
+            "options": [
+              "Amplification of sound waves",
+              "Production of endolymph",
+              "Transmission of vibration to the cochlea",
+              "Ventilation and equalization of middle ear pressure",
+              "Filtration of inhaled air"
+            ],
+            "originalOptions": [
+              "Amplification of sound waves",
+              "Production of endolymph",
+              "Transmission of vibration to the cochlea",
+              "Ventilation and equalization of middle ear pressure",
+              "Filtration of inhaled air"
+            ],
+            "correctAnswer": "D) Ventilation and equalization of middle ear pressure",
+            "correctAnswerText": "Ventilation and equalization of middle ear pressure",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "The Eustachian tube connects the middle ear to the nasopharynx and functions to ventilate the middle ear space, equalizing its pressure with atmospheric pressure. Sound amplification and vibration transmission are functions of the ossicles, not the Eustachian tube.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__8__ngjkyq",
+            "number": "8",
+            "text": "During an emergency airway obstruction, a cricothyrotomy is performed through which structure?",
+            "options": [
+              "Hyoid bone",
+              "Thyroid isthmus",
+              "Cricothyroid membrane",
+              "Epiglottis",
+              "Cricoid cartilage"
+            ],
+            "originalOptions": [
+              "Hyoid bone",
+              "Thyroid isthmus",
+              "Cricothyroid membrane",
+              "Epiglottis",
+              "Cricoid cartilage"
+            ],
+            "correctAnswer": "C) Cricothyroid membrane",
+            "correctAnswerText": "Cricothyroid membrane",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "The cricothyroid membrane, located between the thyroid and cricoid cartilages, is the site used for emergency cricothyrotomy due to its superficial and relatively avascular location. The cricoid cartilage and thyroid isthmus are nearby structures but are not the incision site for this procedure.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__9__vq2z32",
+            "number": "9",
+            "text": "A 55-year-old smoker presents with hoarseness of voice persisting for more than 3 weeks. What is the most appropriate next step?",
+            "options": [
+              "Reassure and review in 6 months",
+              "Prescribe empirical antibiotics",
+              "Start proton pump inhibitor and observe",
+              "Voice rest and follow-up in 1 month",
+              "Urgent referral to ENT for fiberoptic laryngoscopy"
+            ],
+            "originalOptions": [
+              "Reassure and review in 6 months",
+              "Prescribe empirical antibiotics",
+              "Start proton pump inhibitor and observe",
+              "Voice rest and follow-up in 1 month",
+              "Urgent referral to ENT for fiberoptic laryngoscopy"
+            ],
+            "correctAnswer": "E) Urgent referral to ENT for fiberoptic laryngoscopy",
+            "correctAnswerText": "Urgent referral to ENT for fiberoptic laryngoscopy",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Persistent hoarseness beyond 3 weeks in a smoker is a red flag for laryngeal malignancy and warrants urgent ENT referral for fiberoptic endoscopy to visualize the vocal cords and rule out tumors. Reassurance, antibiotics, or symptomatic measures risk delaying diagnosis of a potentially neoplastic process.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__ent__10__abspki",
+            "number": "10",
+            "text": "Tenderness elicited on palpation of the tragus is most suggestive of which condition?",
+            "options": [
+              "Acute otitis media",
+              "Ménière's disease",
+              "Otitis externa",
+              "Otosclerosis",
+              "Acoustic neuroma"
+            ],
+            "originalOptions": [
+              "Acute otitis media",
+              "Ménière's disease",
+              "Otitis externa",
+              "Otosclerosis",
+              "Acoustic neuroma"
+            ],
+            "correctAnswer": "C) Otitis externa",
+            "correctAnswerText": "Otitis externa",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Tragal tenderness on palpation is a classic clinical sign of otitis externa, as inflammation of the external auditory canal makes movement of the pinna/tragus painful. Acute otitis media, a middle ear condition, does not typically produce tragal tenderness since the external ear is not primarily inflamed.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "ai"
+          }
+        ]
+      }
+    ],
     "years": [],
     "allQuestions": [
       {
@@ -263,10 +583,320 @@
         "lectureName": "ENT",
         "groupName": "ENT",
         "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__ai__ent__1__amrm9",
+        "number": "1",
+        "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+        "options": [
+          "Malleus",
+          "Stapes",
+          "Incus",
+          "Cochlea",
+          "Tympanic membrane"
+        ],
+        "originalOptions": [
+          "Malleus",
+          "Stapes",
+          "Incus",
+          "Cochlea",
+          "Tympanic membrane"
+        ],
+        "correctAnswer": "B) Stapes",
+        "correctAnswerText": "Stapes",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "The stapes footplate sits on the oval window and pushes on it to generate perilymph waves in the cochlea, continuing the sound conduction pathway. The malleus and incus are earlier links in the ossicular chain but do not directly contact the oval window.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__2__cqs7ct",
+        "number": "2",
+        "text": "A 70-year-old poorly controlled diabetic presents with severe otalgia and granulation tissue in the ear canal. Which diagnosis must be suspected?",
+        "options": [
+          "Acute otitis media",
+          "Perichondritis",
+          "Cholesteatoma",
+          "Necrotizing otitis externa",
+          "Acute otitis externa"
+        ],
+        "originalOptions": [
+          "Acute otitis media",
+          "Perichondritis",
+          "Cholesteatoma",
+          "Necrotizing otitis externa",
+          "Acute otitis externa"
+        ],
+        "correctAnswer": "D) Necrotizing otitis externa",
+        "correctAnswerText": "Necrotizing otitis externa",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Severe otalgia in an elderly patient with uncontrolled diabetes is a classic red flag for necrotizing (malignant) otitis externa, an aggressive infection that can extend to the skull base. Acute otitis externa and media are far more common but do not carry this specific risk profile of severe pain plus uncontrolled diabetes.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__3__7n5wf",
+        "number": "3",
+        "text": "Shedding of otoconia (crystals) from the utricle into the semicircular canals is the underlying mechanism of which condition?",
+        "options": [
+          "Benign paroxysmal positional vertigo",
+          "Vestibular neuritis",
+          "Ménière's disease",
+          "Acoustic neuroma",
+          "Central vertigo"
+        ],
+        "originalOptions": [
+          "Benign paroxysmal positional vertigo",
+          "Vestibular neuritis",
+          "Ménière's disease",
+          "Acoustic neuroma",
+          "Central vertigo"
+        ],
+        "correctAnswer": "A) Benign paroxysmal positional vertigo",
+        "correctAnswerText": "Benign paroxysmal positional vertigo",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "BPPV results from displaced otoconia (crystals) from the utricle entering the semicircular canals, causing brief seconds-long vertigo with position change. Ménière's disease involves endolymphatic hydrops instead, and vestibular neuritis is due to inflammation, not crystal displacement.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__4__xldh44",
+        "number": "4",
+        "text": "A patient reports recurrent vertigo lasting hours, associated with fluctuating unilateral hearing loss, tinnitus, and aural fullness. What is the most likely diagnosis?",
+        "options": [
+          "Vestibular neuritis",
+          "Benign paroxysmal positional vertigo",
+          "Migraine-associated vertigo",
+          "Acute otitis media",
+          "Ménière's disease"
+        ],
+        "originalOptions": [
+          "Vestibular neuritis",
+          "Benign paroxysmal positional vertigo",
+          "Migraine-associated vertigo",
+          "Acute otitis media",
+          "Ménière's disease"
+        ],
+        "correctAnswer": "E) Ménière's disease",
+        "correctAnswerText": "Ménière's disease",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "The triad of episodic vertigo (hours), fluctuating sensorineural hearing loss, tinnitus, and aural fullness is characteristic of Ménière's disease (endolymphatic hydrops). BPPV lasts seconds and vestibular neuritis lasts days, and neither is typically associated with hearing loss.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__5__spetf9",
+        "number": "5",
+        "text": "Vesicles in the ear canal accompanied by ipsilateral facial nerve palsy should raise suspicion for which condition?",
+        "options": [
+          "Acute otitis media",
+          "Ramsay Hunt syndrome",
+          "Perichondritis",
+          "Cholesteatoma",
+          "Otosclerosis"
+        ],
+        "originalOptions": [
+          "Acute otitis media",
+          "Ramsay Hunt syndrome",
+          "Perichondritis",
+          "Cholesteatoma",
+          "Otosclerosis"
+        ],
+        "correctAnswer": "B) Ramsay Hunt syndrome",
+        "correctAnswerText": "Ramsay Hunt syndrome",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Ramsay Hunt syndrome (herpes zoster oticus) presents with vesicles in the ear canal, facial nerve palsy, and sometimes vertigo or sensorineural hearing loss. This combination of vesicles plus facial palsy is not typical of the other otological conditions listed.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__6__fvgebj",
+        "number": "6",
+        "text": "On Weber's test, sound lateralizes to the right ear. Rinne's test on the right shows bone conduction greater than air conduction. What is the diagnosis?",
+        "options": [
+          "Left sensorineural hearing loss",
+          "Right conductive hearing loss",
+          "Right sensorineural hearing loss",
+          "Bilateral normal hearing",
+          "Left conductive hearing loss"
+        ],
+        "originalOptions": [
+          "Left sensorineural hearing loss",
+          "Right conductive hearing loss",
+          "Right sensorineural hearing loss",
+          "Bilateral normal hearing",
+          "Left conductive hearing loss"
+        ],
+        "correctAnswer": "B) Right conductive hearing loss",
+        "correctAnswerText": "Right conductive hearing loss",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Lateralization to the affected ear on Weber's test combined with a negative Rinne's test (bone conduction greater than air conduction) on that same side confirms a conductive hearing loss in the right ear. Sensorineural loss would instead lateralize away from the affected ear with a positive Rinne's test.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__7__owqqlv",
+        "number": "7",
+        "text": "What is the primary function of the Eustachian tube?",
+        "options": [
+          "Amplification of sound waves",
+          "Production of endolymph",
+          "Transmission of vibration to the cochlea",
+          "Ventilation and equalization of middle ear pressure",
+          "Filtration of inhaled air"
+        ],
+        "originalOptions": [
+          "Amplification of sound waves",
+          "Production of endolymph",
+          "Transmission of vibration to the cochlea",
+          "Ventilation and equalization of middle ear pressure",
+          "Filtration of inhaled air"
+        ],
+        "correctAnswer": "D) Ventilation and equalization of middle ear pressure",
+        "correctAnswerText": "Ventilation and equalization of middle ear pressure",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "The Eustachian tube connects the middle ear to the nasopharynx and functions to ventilate the middle ear space, equalizing its pressure with atmospheric pressure. Sound amplification and vibration transmission are functions of the ossicles, not the Eustachian tube.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__8__ngjkyq",
+        "number": "8",
+        "text": "During an emergency airway obstruction, a cricothyrotomy is performed through which structure?",
+        "options": [
+          "Hyoid bone",
+          "Thyroid isthmus",
+          "Cricothyroid membrane",
+          "Epiglottis",
+          "Cricoid cartilage"
+        ],
+        "originalOptions": [
+          "Hyoid bone",
+          "Thyroid isthmus",
+          "Cricothyroid membrane",
+          "Epiglottis",
+          "Cricoid cartilage"
+        ],
+        "correctAnswer": "C) Cricothyroid membrane",
+        "correctAnswerText": "Cricothyroid membrane",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "The cricothyroid membrane, located between the thyroid and cricoid cartilages, is the site used for emergency cricothyrotomy due to its superficial and relatively avascular location. The cricoid cartilage and thyroid isthmus are nearby structures but are not the incision site for this procedure.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__9__vq2z32",
+        "number": "9",
+        "text": "A 55-year-old smoker presents with hoarseness of voice persisting for more than 3 weeks. What is the most appropriate next step?",
+        "options": [
+          "Reassure and review in 6 months",
+          "Prescribe empirical antibiotics",
+          "Start proton pump inhibitor and observe",
+          "Voice rest and follow-up in 1 month",
+          "Urgent referral to ENT for fiberoptic laryngoscopy"
+        ],
+        "originalOptions": [
+          "Reassure and review in 6 months",
+          "Prescribe empirical antibiotics",
+          "Start proton pump inhibitor and observe",
+          "Voice rest and follow-up in 1 month",
+          "Urgent referral to ENT for fiberoptic laryngoscopy"
+        ],
+        "correctAnswer": "E) Urgent referral to ENT for fiberoptic laryngoscopy",
+        "correctAnswerText": "Urgent referral to ENT for fiberoptic laryngoscopy",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Persistent hoarseness beyond 3 weeks in a smoker is a red flag for laryngeal malignancy and warrants urgent ENT referral for fiberoptic endoscopy to visualize the vocal cords and rule out tumors. Reassurance, antibiotics, or symptomatic measures risk delaying diagnosis of a potentially neoplastic process.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__ent__10__abspki",
+        "number": "10",
+        "text": "Tenderness elicited on palpation of the tragus is most suggestive of which condition?",
+        "options": [
+          "Acute otitis media",
+          "Ménière's disease",
+          "Otitis externa",
+          "Otosclerosis",
+          "Acoustic neuroma"
+        ],
+        "originalOptions": [
+          "Acute otitis media",
+          "Ménière's disease",
+          "Otitis externa",
+          "Otosclerosis",
+          "Acoustic neuroma"
+        ],
+        "correctAnswer": "C) Otitis externa",
+        "correctAnswerText": "Otitis externa",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Tragal tenderness on palpation is a classic clinical sign of otitis externa, as inflammation of the external auditory canal makes movement of the pinna/tragus painful. Acute otitis media, a middle ear condition, does not typically produce tragal tenderness since the external ear is not primarily inflamed.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "ai"
       }
     ],
-    "totalQuestions": 4,
-    "totalLectures": 1,
-    "hasAiFolder": false
+    "totalQuestions": 14,
+    "totalLectures": 2,
+    "hasAiFolder": true
   }
 ]
