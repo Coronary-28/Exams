@@ -58,3 +58,53 @@ E) None of the above
 Correct Answer: C) All of the above
 Explanation:
 Stab wounds can result from a purely sharp instrument, a blunt instrument, or a blunt object with a pointed tip (as illustrated by the example of a worker falling onto a round-tipped iron rod), since what matters legally and clinically is the depth and mechanism of penetration rather than the object's overall sharpness. This is why all three categories are considered valid classifications of stab wounds in forensic assessment.
+###
+Which of the following is NOT a cause of an incisional (cut) wound?
+A) Knife
+B) Razor
+C) Broken glass
+D) Rock
+E) Glass splinter
+Correct Answer: D) Rock
+Explanation:
+Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife, razor, or glass splinter/broken glass. A rock is a blunt object, so injury from it produces a laceration (irregular tear-like wound), not an incision — making it the exception among the choices.
+###
+The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?
+A) Depolymerization of actin filaments
+B) Binding of actin and myosin fibres into a gel
+C) Breakdown of myosin heads
+D) Calcium efflux from the sarcoplasmic reticulum
+E) Increased ATP-dependent cross-bridge cycling
+Correct Answer: B) Binding of actin and myosin fibres into a gel
+Explanation:
+After death, anaerobic respiration causes lactic acid buildup and increasing acidity; combined with low ATP, this causes the actin and myosin fibres to bind together and form a stiff gel, producing rigor mortis. This is why rigor mortis preserves and reflects the position the person died in, rather than reflecting later body movement.
+###
+Smothering is best defined as which of the following?
+A) Compression on neck structures by ligature
+B) Compression on neck structures by the weight of the body
+C) Closure of the nostrils and mouth at the same time from outside
+D) Compression on the chest and abdomen by external force
+E) Occlusion of the respiratory passages from inside
+Correct Answer: C) Closure of the nostrils and mouth at the same time from outside
+Explanation:
+Smothering occurs at the level of the mouth and nose, involving external closure of both openings simultaneously, and is mostly suicidal though it can be homicidal. This differs from gagging, which produces a similar effect but from inside the mouth (e.g., a cloth pushed into the mouth and pharynx).
+###
+A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?
+A) Incision
+B) Abrasion
+C) Contusion
+D) Laceration
+E) Puncture wound
+Correct Answer: D) Laceration
+Explanation:
+Lacerations are irregular tear-like wounds caused by blunt trauma, requiring a firm structure (such as bone) beneath the skin to allow the tissue to tear and the skin to open. This contrasts with incisions, which have regular edges and clear margins from a sharp object, and abrasions, which are superficial scrapes of the epidermis only.
+###
+The color of skin discoloration seen in postmortem hypostasis is primarily determined by which factor?
+A) The ambient temperature at the death scene
+B) The position in which the body was found
+C) The chemical state of hemoglobin molecules
+D) The total blood volume remaining in the vessels
+E) The time elapsed since cardiac arrest
+Correct Answer: C) The chemical state of hemoglobin molecules
+Explanation:
+Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.
