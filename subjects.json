@@ -328,6 +328,161 @@
             "lectureName": "Forensic",
             "groupName": "Forensic",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__7__9pgaj1",
+            "number": "7",
+            "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+            "options": [
+              "Knife",
+              "Razor",
+              "Broken glass",
+              "Rock",
+              "Glass splinter"
+            ],
+            "originalOptions": [
+              "Knife",
+              "Razor",
+              "Broken glass",
+              "Rock",
+              "Glass splinter"
+            ],
+            "correctAnswer": "D) Rock",
+            "correctAnswerText": "Rock",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife, razor, or glass splinter/broken glass. A rock is a blunt object, so injury from it produces a laceration (irregular tear-like wound), not an incision — making it the exception among the choices.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__8__hc5fro",
+            "number": "8",
+            "text": "The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?",
+            "options": [
+              "Depolymerization of actin filaments",
+              "Binding of actin and myosin fibres into a gel",
+              "Breakdown of myosin heads",
+              "Calcium efflux from the sarcoplasmic reticulum",
+              "Increased ATP-dependent cross-bridge cycling"
+            ],
+            "originalOptions": [
+              "Depolymerization of actin filaments",
+              "Binding of actin and myosin fibres into a gel",
+              "Breakdown of myosin heads",
+              "Calcium efflux from the sarcoplasmic reticulum",
+              "Increased ATP-dependent cross-bridge cycling"
+            ],
+            "correctAnswer": "B) Binding of actin and myosin fibres into a gel",
+            "correctAnswerText": "Binding of actin and myosin fibres into a gel",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "After death, anaerobic respiration causes lactic acid buildup and increasing acidity; combined with low ATP, this causes the actin and myosin fibres to bind together and form a stiff gel, producing rigor mortis. This is why rigor mortis preserves and reflects the position the person died in, rather than reflecting later body movement.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__9__ltsx96",
+            "number": "9",
+            "text": "Smothering is best defined as which of the following?",
+            "options": [
+              "Compression on neck structures by ligature",
+              "Compression on neck structures by the weight of the body",
+              "Closure of the nostrils and mouth at the same time from outside",
+              "Compression on the chest and abdomen by external force",
+              "Occlusion of the respiratory passages from inside"
+            ],
+            "originalOptions": [
+              "Compression on neck structures by ligature",
+              "Compression on neck structures by the weight of the body",
+              "Closure of the nostrils and mouth at the same time from outside",
+              "Compression on the chest and abdomen by external force",
+              "Occlusion of the respiratory passages from inside"
+            ],
+            "correctAnswer": "C) Closure of the nostrils and mouth at the same time from outside",
+            "correctAnswerText": "Closure of the nostrils and mouth at the same time from outside",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Smothering occurs at the level of the mouth and nose, involving external closure of both openings simultaneously, and is mostly suicidal though it can be homicidal. This differs from gagging, which produces a similar effect but from inside the mouth (e.g., a cloth pushed into the mouth and pharynx).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__10__oyx90z",
+            "number": "10",
+            "text": "A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?",
+            "options": [
+              "Incision",
+              "Abrasion",
+              "Contusion",
+              "Laceration",
+              "Puncture wound"
+            ],
+            "originalOptions": [
+              "Incision",
+              "Abrasion",
+              "Contusion",
+              "Laceration",
+              "Puncture wound"
+            ],
+            "correctAnswer": "D) Laceration",
+            "correctAnswerText": "Laceration",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Lacerations are irregular tear-like wounds caused by blunt trauma, requiring a firm structure (such as bone) beneath the skin to allow the tissue to tear and the skin to open. This contrasts with incisions, which have regular edges and clear margins from a sharp object, and abrasions, which are superficial scrapes of the epidermis only.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__11__7ok9ex",
+            "number": "11",
+            "text": "The color of skin discoloration seen in postmortem hypostasis is primarily determined by which factor?",
+            "options": [
+              "The ambient temperature at the death scene",
+              "The position in which the body was found",
+              "The chemical state of hemoglobin molecules",
+              "The total blood volume remaining in the vessels",
+              "The time elapsed since cardiac arrest"
+            ],
+            "originalOptions": [
+              "The ambient temperature at the death scene",
+              "The position in which the body was found",
+              "The chemical state of hemoglobin molecules",
+              "The total blood volume remaining in the vessels",
+              "The time elapsed since cardiac arrest"
+            ],
+            "correctAnswer": "C) The chemical state of hemoglobin molecules",
+            "correctAnswerText": "The chemical state of hemoglobin molecules",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
           }
         ]
       }
@@ -966,6 +1121,161 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__forensic__7__9pgaj1",
+        "number": "7",
+        "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+        "options": [
+          "Knife",
+          "Razor",
+          "Broken glass",
+          "Rock",
+          "Glass splinter"
+        ],
+        "originalOptions": [
+          "Knife",
+          "Razor",
+          "Broken glass",
+          "Rock",
+          "Glass splinter"
+        ],
+        "correctAnswer": "D) Rock",
+        "correctAnswerText": "Rock",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife, razor, or glass splinter/broken glass. A rock is a blunt object, so injury from it produces a laceration (irregular tear-like wound), not an incision — making it the exception among the choices.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__8__hc5fro",
+        "number": "8",
+        "text": "The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?",
+        "options": [
+          "Depolymerization of actin filaments",
+          "Binding of actin and myosin fibres into a gel",
+          "Breakdown of myosin heads",
+          "Calcium efflux from the sarcoplasmic reticulum",
+          "Increased ATP-dependent cross-bridge cycling"
+        ],
+        "originalOptions": [
+          "Depolymerization of actin filaments",
+          "Binding of actin and myosin fibres into a gel",
+          "Breakdown of myosin heads",
+          "Calcium efflux from the sarcoplasmic reticulum",
+          "Increased ATP-dependent cross-bridge cycling"
+        ],
+        "correctAnswer": "B) Binding of actin and myosin fibres into a gel",
+        "correctAnswerText": "Binding of actin and myosin fibres into a gel",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "After death, anaerobic respiration causes lactic acid buildup and increasing acidity; combined with low ATP, this causes the actin and myosin fibres to bind together and form a stiff gel, producing rigor mortis. This is why rigor mortis preserves and reflects the position the person died in, rather than reflecting later body movement.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__9__ltsx96",
+        "number": "9",
+        "text": "Smothering is best defined as which of the following?",
+        "options": [
+          "Compression on neck structures by ligature",
+          "Compression on neck structures by the weight of the body",
+          "Closure of the nostrils and mouth at the same time from outside",
+          "Compression on the chest and abdomen by external force",
+          "Occlusion of the respiratory passages from inside"
+        ],
+        "originalOptions": [
+          "Compression on neck structures by ligature",
+          "Compression on neck structures by the weight of the body",
+          "Closure of the nostrils and mouth at the same time from outside",
+          "Compression on the chest and abdomen by external force",
+          "Occlusion of the respiratory passages from inside"
+        ],
+        "correctAnswer": "C) Closure of the nostrils and mouth at the same time from outside",
+        "correctAnswerText": "Closure of the nostrils and mouth at the same time from outside",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Smothering occurs at the level of the mouth and nose, involving external closure of both openings simultaneously, and is mostly suicidal though it can be homicidal. This differs from gagging, which produces a similar effect but from inside the mouth (e.g., a cloth pushed into the mouth and pharynx).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__10__oyx90z",
+        "number": "10",
+        "text": "A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?",
+        "options": [
+          "Incision",
+          "Abrasion",
+          "Contusion",
+          "Laceration",
+          "Puncture wound"
+        ],
+        "originalOptions": [
+          "Incision",
+          "Abrasion",
+          "Contusion",
+          "Laceration",
+          "Puncture wound"
+        ],
+        "correctAnswer": "D) Laceration",
+        "correctAnswerText": "Laceration",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Lacerations are irregular tear-like wounds caused by blunt trauma, requiring a firm structure (such as bone) beneath the skin to allow the tissue to tear and the skin to open. This contrasts with incisions, which have regular edges and clear margins from a sharp object, and abrasions, which are superficial scrapes of the epidermis only.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__11__7ok9ex",
+        "number": "11",
+        "text": "The color of skin discoloration seen in postmortem hypostasis is primarily determined by which factor?",
+        "options": [
+          "The ambient temperature at the death scene",
+          "The position in which the body was found",
+          "The chemical state of hemoglobin molecules",
+          "The total blood volume remaining in the vessels",
+          "The time elapsed since cardiac arrest"
+        ],
+        "originalOptions": [
+          "The ambient temperature at the death scene",
+          "The position in which the body was found",
+          "The chemical state of hemoglobin molecules",
+          "The total blood volume remaining in the vessels",
+          "The time elapsed since cardiac arrest"
+        ],
+        "correctAnswer": "C) The chemical state of hemoglobin molecules",
+        "correctAnswerText": "The chemical state of hemoglobin molecules",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__amrm9",
         "number": "1",
         "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -1276,7 +1586,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 20,
+    "totalQuestions": 25,
     "totalLectures": 3,
     "hasAiFolder": true
   }
