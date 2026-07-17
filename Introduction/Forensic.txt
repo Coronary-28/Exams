@@ -1,0 +1,60 @@
+Forensic
+Which of the following is NOT an early sign of death?
+A) Livor mortis (postmortem hypostasis)
+B) Rigor mortis
+C) Pallor mortis
+D) Cessation of cardiac output
+E) Loss of peripheral pulse
+Correct Answer: E) Loss of peripheral pulse
+Explanation:
+Livor mortis, rigor mortis, and pallor mortis are recognized postmortem changes that develop progressively over time and are used forensically to estimate time and circumstances of death. Loss of peripheral pulse occurs immediately at the moment of cardiac arrest rather than developing afterward, so it is a clinical sign of death, not a postmortem change. This distinction is why the lecture emphasized rigor mortis, hypostasis, and decomposition as the key diagnostic postmortem changes.
+###
+Traumatic asphyxia results from severe injury to which part of the body?
+A) Neck
+B) Chest (with abdomen)
+C) Abdomen only
+D) Mouth and nose
+E) Larynx
+Correct Answer: B) Chest (with abdomen)
+Explanation:
+Traumatic asphyxia is defined as compression on the chest and abdomen by external force, impairing the mechanical ability to breathe. This differs from strangulation/hanging (neck level) and smothering (mouth and nose level), which are other forms of violent asphyxia acting at different anatomical levels.
+###
+In forensic medicine, strangulation can be categorized into which manner of death?
+A) Suicidal manner
+B) Homicidal manner
+C) Accidental manner
+D) Natural manner
+E) Undetermined manner
+Correct Answer: B) Homicidal manner
+Explanation:
+Strangulation (compression of neck structures by ligature or hands) is mostly homicidal, unlike hanging, which is mostly suicidal but can be accidental or homicidal. This distinction in manner of death is forensically important because it directly affects legal classification and investigation of the case.
+###
+Which type of injury is not caused by a blunt object but rather by a sharp object, typically resulting in clean, well-defined wound edges?
+A) Laceration
+B) Abrasion
+C) Contusion
+D) Incised (incision) wound
+E) Stab wound
+Correct Answer: D) Incised (incision) wound
+Explanation:
+Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife or glass splinter, producing regular edges, clear margins, and no tissue bridging. In contrast, lacerations, abrasions, and contusions all result from blunt trauma and typically show irregular edges, contused margins, and tissue bridging.
+###
+What is the approximate time window during which myocardial cells can be harvested after cardiac arrest?
+A) 60 minutes
+B) 5-7 minutes
+C) 45 minutes
+D) 2 hours
+E) 24 hours
+Correct Answer: A) 60 minutes
+Explanation:
+Different tissues and organs remain viable for different durations after death, since cells do not die instantly and organs vary in their tolerance to anoxia (the lecture notes the brain survives only 5-7 minutes and the kidney about 45 minutes). This variability explains why timing is critical for organ/tissue donation and harvesting after cardiac arrest.
+###
+Stab wounds can be classified into which of the following categories?
+A) Sharp
+B) Blunt
+C) All of the above
+D) Blunt with a pointed ending
+E) None of the above
+Correct Answer: C) All of the above
+Explanation:
+Stab wounds can result from a purely sharp instrument, a blunt instrument, or a blunt object with a pointed tip (as illustrated by the example of a worker falling onto a round-tipped iron rod), since what matters legally and clinically is the depth and mechanism of penetration rather than the object's overall sharpness. This is why all three categories are considered valid classifications of stab wounds in forensic assessment.
