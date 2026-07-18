@@ -67,3 +67,13 @@ E) Convergence, dilation, and visual acuity
 Correct Answer: A) Accommodation, pupillary constriction, and convergence
 Explanation:
 The near reflex triad is lens accommodation + pupillary constriction + convergence. B and C swap in divergence (the opposite of convergence), D swaps in dilation (opposite of constriction), and E replaces accommodation with visual acuity, which isn't part of the triad.
+###
+The limbus houses germinative stem cells that maintain the corneal epithelium. What is the primary function of this layer?
+A) Anchoring the epithelium via desmosomes only
+B) Maintaining endothelial cell density
+C) Providing mechanical strength via collagen fibrils
+D) Regulating aqueous humor outflow
+E) Regeneration and proliferation of epithelial cells
+Correct Answer: E) Regeneration and proliferation of epithelial cells
+Explanation:
+Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.
