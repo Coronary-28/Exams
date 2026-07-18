@@ -19,15 +19,15 @@ Correct Answer: D) Color vision
 Explanation:
 The pseudoisochromatic plate shown (numbers embedded in colored dots) is used to assess color vision, testing one of the key optic nerve functions. Visual acuity uses the Snellen chart, not colored dot plates, making A incorrect.
 ###
-What condition causes painful loss of vision?
-A) Giant cell arteritis
+What condition causes acute, painful loss of vision?
+A) Central Retinal Artery Occlusion (CRAO)
 B) Acute angle-closure glaucoma
 C) Cataract
 D) Age-related macular degeneration
 E) Retinal detachment
-Correct Answer: B) Acute angle-closure glaucoma
-Explanation:
-Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.
+​Correct Answer: B) Acute angle-closure glaucoma
+​Explanation:
+Acute angle-closure glaucoma classically presents with acute and painful loss of vision. In contrast, CRAO and retinal detachment cause acute but strictly painless vision loss, while Cataract and AMD present with gradual, painless visual decline.
 ###
 All are causes of this sign except (The image shows: A red eye) ?
 A) Allergic conjunctivitis
