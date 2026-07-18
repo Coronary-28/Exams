@@ -1152,6 +1152,37 @@
             "lectureName": "Psychology",
             "groupName": "Psychology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__15__w5kb32",
+            "number": "15",
+            "text": "Which of the following is a component of thought content?",
+            "options": [
+              "Attention and concentration",
+              "Obsessions",
+              "Speech rate and tone",
+              "Orientation to time and place",
+              "Eye contact and grooming"
+            ],
+            "originalOptions": [
+              "Attention and concentration",
+              "Obsessions",
+              "Speech rate and tone",
+              "Orientation to time and place",
+              "Eye contact and grooming"
+            ],
+            "correctAnswer": "B) Obsessions",
+            "correctAnswerText": "Obsessions",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Thought content refers to what the patient is actually thinking about, including delusions, obsessions, and suicidal or homicidal ideation. The other options belong to different MSE domains: cognition (attention, orientation) or appearance/behavior/speech, not thought content.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -4160,6 +4191,37 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__psychology__15__w5kb32",
+        "number": "15",
+        "text": "Which of the following is a component of thought content?",
+        "options": [
+          "Attention and concentration",
+          "Obsessions",
+          "Speech rate and tone",
+          "Orientation to time and place",
+          "Eye contact and grooming"
+        ],
+        "originalOptions": [
+          "Attention and concentration",
+          "Obsessions",
+          "Speech rate and tone",
+          "Orientation to time and place",
+          "Eye contact and grooming"
+        ],
+        "correctAnswer": "B) Obsessions",
+        "correctAnswerText": "Obsessions",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Thought content refers to what the patient is actually thinking about, including delusions, obsessions, and suicidal or homicidal ideation. The other options belong to different MSE domains: cognition (attention, orientation) or appearance/behavior/speech, not thought content.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__radiology__1__pyp8o1",
         "number": "1",
         "text": "Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
@@ -5989,7 +6051,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 95,
+    "totalQuestions": 96,
     "totalLectures": 10,
     "hasAiFolder": true
   }
