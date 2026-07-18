@@ -771,6 +771,37 @@
             "lectureName": "Ophthalmology",
             "groupName": "Ophthalmology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__8__w975qi",
+            "number": "8",
+            "text": "The limbus houses germinative stem cells that maintain the corneal epithelium. What is the primary function of this layer?",
+            "options": [
+              "Anchoring the epithelium via desmosomes only",
+              "Maintaining endothelial cell density",
+              "Providing mechanical strength via collagen fibrils",
+              "Regulating aqueous humor outflow",
+              "Regeneration and proliferation of epithelial cells"
+            ],
+            "originalOptions": [
+              "Anchoring the epithelium via desmosomes only",
+              "Maintaining endothelial cell density",
+              "Providing mechanical strength via collagen fibrils",
+              "Regulating aqueous humor outflow",
+              "Regeneration and proliferation of epithelial cells"
+            ],
+            "correctAnswer": "E) Regeneration and proliferation of epithelial cells",
+            "correctAnswerText": "Regeneration and proliferation of epithelial cells",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -3881,6 +3912,37 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__ophthalmology__8__w975qi",
+        "number": "8",
+        "text": "The limbus houses germinative stem cells that maintain the corneal epithelium. What is the primary function of this layer?",
+        "options": [
+          "Anchoring the epithelium via desmosomes only",
+          "Maintaining endothelial cell density",
+          "Providing mechanical strength via collagen fibrils",
+          "Regulating aqueous humor outflow",
+          "Regeneration and proliferation of epithelial cells"
+        ],
+        "originalOptions": [
+          "Anchoring the epithelium via desmosomes only",
+          "Maintaining endothelial cell density",
+          "Providing mechanical strength via collagen fibrils",
+          "Regulating aqueous humor outflow",
+          "Regeneration and proliferation of epithelial cells"
+        ],
+        "correctAnswer": "E) Regeneration and proliferation of epithelial cells",
+        "correctAnswerText": "Regeneration and proliferation of epithelial cells",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__psychology__1__y1dddk",
         "number": "1",
         "text": "Which of the following statements best describes Alogia?",
@@ -6175,7 +6237,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 98,
+    "totalQuestions": 99,
     "totalLectures": 10,
     "hasAiFolder": true
   }
