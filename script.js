@@ -916,33 +916,23 @@ function renderExam(){
   const answerSummaryHtml = showAnswerState ? `<div class="answer-summary"><strong>Correct Answer:</strong> <span class="answer-value">${escapeHtml(getFormattedCurrentCorrectAnswer(q))}</span></div>` : '';
   el('question-container').innerHTML=`<div class="question-header"><span class="question-number">Q${escapeHtml(q.number||String(idx+1))}</span><div class="question-actions"><button class="icon-btn ${fav?'active':''}" onclick="toggleFavorite('${q.id}')">💚</button><button class="icon-btn" onclick="toggleQuestionLocation()">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(q.text)}</p><div class="options-list">${q.options.map((opt,i)=>renderOptionButton(opt,i,idx,showAnswerState,state.currentExam.answers[idx],correctIdx)).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${renderRemoveWrongBtn()}`;
   el('question-container').classList.add('exam-content-ltr');
-     // ✅ عرض الصورة إن وجدت
-   if (q.imageUrl) {
-     const questionContent = el('question-container');
-     const existingImage = questionContent.querySelector('.question-image');
-     
-     if (!existingImage) {
-       const imageDiv = document.createElement('div');
-       imageDiv.className = 'question-image';
-       imageDiv.style.cssText = 'margin: 16px 0; text-align: center; border-radius: 8px; overflow: hidden; background: var(--bg-soft);';
-       
-       const img = document.createElement('img');
-       img.src = `./images/${q.imageUrl}`;
-       img.alt = 'سؤال صورة';
-       img.style.cssText = 'max-width: 100%; max-height: 400px; display: block; margin: 0 auto; border-radius: 8px;';
-       
-       img.onerror = function() {
-         this.parentElement.innerHTML = `<div style="padding: 20px; color: var(--text-muted); text-align: center;">❌ لم يتمكن من تحميل الصورة: ${q.imageUrl}</div>`;
-       };
-       
-       imageDiv.appendChild(img);
-       const optionsSection = questionContent.querySelector('.options-grid') || questionContent.querySelector('.options-container');
-       if (optionsSection) {
-         optionsSection.parentElement.insertBefore(imageDiv, optionsSection);
-       } else {
-         questionContent.appendChild(imageDiv);
+  
+      if (q.imageUrl) {
+     setTimeout(() => {
+       const qc = el('question-container');
+       if (qc && !qc.querySelector('.question-image')) {
+         const div = document.createElement('div');
+         div.className = 'question-image';
+         div.style.cssText = 'margin: 12px 0; text-align: center; border-radius: 6px;';
+         const img = document.createElement('img');
+         img.src = `images/${q.imageUrl}`;
+         img.alt = 'صورة السؤال';
+         img.style.cssText = 'max-width: 100%; max-height: 350px; border-radius: 6px;';
+         div.appendChild(img);
+         const opts = qc.querySelector('.options-grid');
+         if (opts) opts.parentElement.insertBefore(div, opts);
        }
-     }
+     }, 10);
    }
   renderExamNav();
 }
