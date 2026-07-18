@@ -11,9 +11,9 @@
         "path": "Introduction/ENT.txt",
         "questions": [
           {
-            "id": "introduction__lecture__ent__1__kqay5k",
+            "id": "introduction__lecture__ent__1__p1ggod",
             "number": "1",
-            "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+            "text": "A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
             "options": [
               "Septal deviation",
               "Allergic rhinitis",
@@ -2951,9 +2951,9 @@
     "years": [],
     "allQuestions": [
       {
-        "id": "introduction__lecture__ent__1__kqay5k",
+        "id": "introduction__lecture__ent__1__p1ggod",
         "number": "1",
-        "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+        "text": "A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
         "options": [
           "Septal deviation",
           "Allergic rhinitis",
