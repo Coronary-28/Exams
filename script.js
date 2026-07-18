@@ -246,28 +246,8 @@ function applyThemeUI(){ const t=theme(); el('nav-icon-exams').textContent=t.ico
 function syncSettingsControls(){ const entries=[['dark-mode-toggle','checked',!!state.settings.darkMode],['theme-selector','value',state.settings.theme],['exam-theme-selector','value',state.settings.theme],['sound-selector','value',state.settings.bgSound],['exam-sound-selector','value',state.settings.bgSound],['bg-sound-enabled-toggle','checked',state.settings.bgSoundEnabled!==false],['exam-bg-sound-enabled-toggle','checked',state.settings.bgSoundEnabled!==false],['volume-control','value',state.settings.volume],['exam-volume-control','value',state.settings.volume],['feedback-toggle','checked',state.settings.feedbackEnabled!==false],['exam-feedback-toggle','checked',state.settings.feedbackEnabled!==false],['animations-toggle','checked',state.settings.animations!==false]]; entries.forEach(([id,prop,val])=>{ const x=el(id); if(x) x[prop]=val; }); }
 async function resolveAssetPath(candidates){ for(const item of candidates.filter(Boolean)){ try{ const u=encodeURI(item); const r=await fetch(u,{method:'HEAD'}); if(r.ok) return u; }catch(e){} } return encodeURI(candidates.find(Boolean)||''); }
 async function applyBackgroundSound(){ const audio=el('bg-audio'); if(!audio) return; audio.volume=(state.settings.volume||50)/100; const key=state.settings.bgSound||'none'; const sound=BACKGROUND_SOUNDS[key]||BACKGROUND_SOUNDS.none; if(!state.settings.bgSoundEnabled || key==='none' || !sound.file){ audio.pause(); return; } const src=await resolveAssetPath([sound.file,'audio/'+sound.file,'assets/audio/'+sound.file]); if(audio.dataset.currentSrc!==src){ audio.src=src; audio.dataset.currentSrc=src; audio.load(); } if(state.audioUnlocked) audio.play().catch(()=>{}); }
-function applyEffectAudioVolumes(){
-  ['right-audio','wrong-audio','celebrate-audio'].forEach(id=>{
-    const a=el(id);
-    if(a) a.volume=(state.settings.volume||50)/100;
-  });
-  if(state.secondsAudio) state.secondsAudio.volume=(state.settings.volume||50)/100;
-}
-async function prepareStaticEffectAudio(){
-  const right = el('right-audio');
-  const wrong = el('wrong-audio');
-  const celebrate = el('celebrate-audio');
-
-  if(right) right.src=await resolveAssetPath(['right.mp3','audio/right.mp3','assets/audio/right.mp3']);
-  if(wrong) wrong.src=await resolveAssetPath(['wrong.mp3','audio/wrong.mp3','assets/audio/wrong.mp3']);
-  if(celebrate) celebrate.src=await resolveAssetPath(['celebrate.mp3','audio/celebrate.mp3','assets/audio/celebrate.mp3']);
-
-  const secondsSrc = await resolveAssetPath(['seconds.mp3','audio/seconds.mp3','assets/audio/seconds.mp3']);
-  state.secondsAudio = new Audio(secondsSrc);
-  state.secondsAudio.volume = (state.settings.volume || 50) / 100;
-
-  applyEffectAudioVolumes();
-}
+function applyEffectAudioVolumes(){ ['right-audio','wrong-audio','celebrate-audio'].forEach(id=>{ const a=el(id); if(a) a.volume=(state.settings.volume||50)/100; }); }
+async function prepareStaticEffectAudio(){ const right = el('right-audio'); const wrong = el('wrong-audio'); const celebrate = el('celebrate-audio'); if(right) right.src=await resolveAssetPath(['right.mp3','audio/right.mp3','assets/audio/right.mp3']); if(wrong) wrong.src=await resolveAssetPath(['wrong.mp3','audio/wrong.mp3','assets/audio/wrong.mp3']); if(celebrate) celebrate.src=await resolveAssetPath(['celebrate.mp3','audio/celebrate.mp3','assets/audio/celebrate.mp3']); applyEffectAudioVolumes(); }
 function primeAudioUnlock(){ function unlock(){ if(state.audioUnlocked) return; state.audioUnlocked=true; applyBackgroundSound(); document.removeEventListener('click',unlock); document.removeEventListener('touchstart',unlock); document.removeEventListener('keydown',unlock); } document.addEventListener('click',unlock,{once:true}); document.addEventListener('touchstart',unlock,{once:true}); document.addEventListener('keydown',unlock,{once:true}); }
 function playEffectSound(kind){ if(!state.currentExam || state.currentExam.mode!=='training' || state.settings.feedbackEnabled===false) return; const a=el(kind==='right'?'right-audio':'wrong-audio'); if(!a||!a.src) return; try{ a.currentTime=0; a.play().catch(()=>{}); }catch(e){} }
 function playCelebrateSound(){ const a=el('celebrate-audio'); if(!a||!a.src) return; try{ a.currentTime=0; a.play().catch(()=>{}); }catch(e){} }
@@ -651,64 +631,29 @@ function showResetConfirmation(){
 }
 function goResetStep1(){ el('reset-step1').classList.remove('hidden'); el('reset-step2').classList.add('hidden'); }
 function executeResetStatistics(){
-   const selected = state.resetSelectedSubjects;
-   const allSubjects = sortSubjects(state.subjects);
-   const toDelete = new Set(selected);
-   const newProgress = {};
-
-   for(const [key, value] of Object.entries(state.progress)){
-     let keep = true;
-
-     for(const subject of allSubjects){
-       if(toDelete.has(subject.id)){
-         if(key === `subject:${subject.name}`) keep = false;
-         if(key.startsWith(`lecture:${subject.name}/`)) keep = false;
-         if(key.startsWith(`lectures:${subject.name}/`)) keep = false;
-         if(key.startsWith(`year:${subject.name}/`)) keep = false;
-         if(key.startsWith(`years:${subject.name}/`)) keep = false;
-         if(key.startsWith(`ai:${subject.name}/`)) keep = false;
-       }
-     }
-
-     if(keep) newProgress[key] = value;
-   }
-
-   state.progress = newProgress;
-
-   allSubjects.forEach(subject => {
-     if(!toDelete.has(subject.id)) return;
-
-     (subject.lectures || []).forEach(group => {
-       if(state.checklistCompleted[group.id]) delete state.checklistCompleted[group.id];
-     });
-
-     (subject.years || []).forEach(group => {
-       if(state.checklistCompleted[group.id]) delete state.checklistCompleted[group.id];
-     });
-
-     (subject.ai || []).forEach(group => {
-       if(state.checklistCompleted[group.id]) delete state.checklistCompleted[group.id];
-     });
-   });
-
-   state.subjectStatsSettings = Object.keys(state.subjectStatsSettings).reduce((acc, subjectId) => {
-     if(!toDelete.has(subjectId)) acc[subjectId] = {
-       lectures: true,
-       years: false,
-       ai: false
-     };
-     return acc;
-   }, {});
-
-   persistSubjectStatsSettings();
-   saveChecklistStore();
-   saveProgressStore();
-   renderStatisticsPage();
-   renderChecklist();
-   closeResetModal();
-   showToast('تم إعادة ضبط البيانات للمواد المحددة.', 'success');
-   updateStatisticsIfOpen();
-   renderMemories();
+  const selected = state.resetSelectedSubjects;
+  const allSubjects = sortSubjects(state.subjects);
+  const toDelete = new Set(selected);
+  const newProgress = {};
+  for(const [key, value] of Object.entries(state.progress)){
+    let keep = true;
+    for(const subject of allSubjects){
+      if(toDelete.has(subject.id)){
+        if(key === `subject:${subject.name}`) keep = false;
+        if(key.startsWith(`lecture:${subject.name}/`)) keep = false;
+        if(key.startsWith(`year:${subject.name}/`)) keep = false;
+        if(key.startsWith(`ai:${subject.name}/`)) keep = false;
+      }
+    }
+    if(keep) newProgress[key] = value;
+  }
+  state.progress = newProgress;
+  saveProgressStore();
+  renderStatisticsPage();
+  closeResetModal();
+  showToast('تم إعادة ضبط البيانات للمواد المحددة.', 'success');
+  updateStatisticsIfOpen();
+  renderMemories();
 }
 function toggleStatistics(){ openStatisticsPage(); }
 function updateStatisticsIfOpen(){
@@ -732,15 +677,15 @@ function getCurrentBrowseSubjects(){
 
 function setEmptyText(text, icon='📁'){ if(el('subjects-empty-text')) el('subjects-empty-text').textContent=text; const empty=el('subjects-empty'); const ic=empty?empty.querySelector('.empty-icon'):null; if(ic) ic.textContent=icon; }
 function subjectMetaRows(subject){
-   const lectureCount = subject.lectures.length;
-   const lectureQuestions = countQuestions(subject.lectures);
-   const rows = [
-     `<div><span>Lectures</span><strong>${lectureCount}</strong></div>`,
-     `<div><span>Questions</span><strong>${lectureQuestions}</strong></div>`
-   ];
-   if(subject.years.length){ rows.push(`<div><span>Years</span><strong dir="ltr"><span dir="ltr">${subject.years.length} Batches</span><small dir="ltr">${countQuestions(subject.years)} Q</small></strong></div>`); }
-   if(subject.ai.length){ rows.push(`<div><span>AI Questions</span><strong>${countQuestions(subject.ai)}</strong></div>`); }
-   return rows.join('');
+  const lectureCount = subject.lectures.length;
+  const lectureQuestions = countQuestions(subject.lectures);
+  const rows = [
+    `<div><span>Lectures</span><strong>${lectureCount}</strong></div>`,
+    `<div><span>Questions</span><strong>${lectureQuestions}</strong></div>`
+  ];
+  if(subject.years.length){ rows.push(`<div><span>Years</span><strong><span>Batchs ${subject.years.length}</span><small>${countQuestions(subject.years)}Q</small></strong></div>`); }
+  if(subject.ai.length){ rows.push(`<div><span>AI Questions</span><strong>${countQuestions(subject.ai)}</strong></div>`); }
+  return rows.join('');
 }
 function renderSubjects(){
   const container=el('subjects-list'); const empty=el('subjects-empty'); if(!container||!empty) return;
@@ -844,60 +789,32 @@ function renderChecklistSubject(){
 }
 function toggleChecklistSubject(subjectId){ openChecklistSubject(subjectId); }
 function toggleChecklistLecture(groupId){ 
-   const subject = state.currentSubject;
-   if(!subject) return;
-   
-   const lectures = subject.lectures || [];
-   const lectureIndex = lectures.findIndex(g => g.id === groupId);
-   if(lectureIndex === -1) return;
-   
-   const isCurrentlyCompleted = state.checklistCompleted[groupId];
-   
-   if(!isCurrentlyCompleted) {
-     state.checklistCompleted[groupId] = true;
-     const allCompleted = lectures.every(g => state.checklistCompleted[g.id]);
-     
-     if(allCompleted) {
-       const completedLecture = lectures[lectureIndex];
-       lectures.splice(lectureIndex, 1);
-       lectures.push(completedLecture);
-     }
-   } else {
-     state.checklistCompleted[groupId] = false;
-     const completedLecture = lectures[lectureIndex];
-     lectures.splice(lectureIndex, 1);
-     lectures.push(completedLecture);
-   }
-   
-   saveChecklistStore(); 
-   renderChecklistSubject();
+  const subject = state.currentSubject;
+  if(!subject) return;
+  
+  const lectures = subject.lectures || [];
+  const lectureIndex = lectures.findIndex(g => g.id === groupId);
+  if(lectureIndex === -1) return;
+  
+  const isCurrentlyCompleted = state.checklistCompleted[groupId];
+  
+  if(!isCurrentlyCompleted) {
+    state.checklistCompleted[groupId] = true;
+  } else {
+    state.checklistCompleted[groupId] = true;
+    
+    const completedLecture = lectures[lectureIndex];
+    lectures.splice(lectureIndex, 1);
+    lectures.push(completedLecture);
+  }
+  
+  saveChecklistStore(); 
+  renderChecklistSubject();
 }
 function openSubject(subjectId){ state.currentSubject=state.displayedSubjects.find(s=>s.id===subjectId) || state.subjects.find(s=>s.id===subjectId) || null; if(!state.currentSubject){ showToast('المادة غير موجودة.','error'); return; } const t=theme(); el('subject-sections-title').textContent=state.currentSubject.name; el('subject-sections-summary').innerHTML=`<div class="subject-summary-grid"><div><span>${t.icons.lectures} المحاضرات</span><strong>${state.currentSubject.lectures.length}</strong></div><div><span>${t.icons.years} Years</span><strong>${state.currentSubject.years.length}</strong></div><div><span>${t.icons.ai} AI</span><strong>${state.currentSubject.ai.length}</strong></div><div><span>${t.icons.progress} إجمالي الأسئلة</span><strong>${state.currentSubject.totalQuestions}</strong></div></div>`; const cards=[]; if(state.currentSubject.lectures.length) cards.push(buildCategoryCard('lectures','Lectures','Lectures',state.currentSubject.lectures.length,countQuestions(state.currentSubject.lectures),true)); if(state.currentSubject.years.length) cards.push(buildCategoryCard('years','Years','Years',state.currentSubject.years.length,countQuestions(state.currentSubject.years),true)); if(state.currentSubject.ai.length || (state.browseMode==='all' && state.currentSubject.hasAiFolder)) cards.push(buildCategoryCard('ai','AI','AI',state.currentSubject.ai.length,countQuestions(state.currentSubject.ai),state.currentSubject.ai.length>0 || (state.browseMode==='all' && state.currentSubject.hasAiFolder))); el('subject-categories').innerHTML=cards.join('') || '<div class="empty-state"><div class="empty-icon">📭</div><p>لا توجد ملفات TXT بعد داخل هذه المادة.</p></div>'; showScreen('subject-sections-screen'); }
 function countQuestions(groups){ return groups.reduce((sum,g)=>sum+g.questions.length,0); }
 function buildCategoryCard(type,title,badgeText,itemCount,totalQuestions,enabled){ if(!enabled) return ''; return `<button class="category-card" onclick="openSubjectCategory('${type}')"><span class="category-badge">${badgeText}</span><div class="category-meta"><div><span>المحاضرات</span><strong>${itemCount}</strong></div><div><span>الأسئلة</span><strong>${totalQuestions}</strong></div></div></button>`; }
-function openSubjectCategory(type){
-  if(!state.currentSubject) return;
-
-  let groups=[], title='';
-  let placeholder='ابحث...';
-
-  if(type==='lectures'){
-    groups=state.currentSubject.lectures;
-    title='Lectures';
-    placeholder='ابحث عن اسم المحاضرة...';
-  } else if(type==='years'){
-    syncCompletedGroupsToBottom(state.currentSubject, 'years');
-    groups=state.currentSubject.years;
-    title='Years';
-    placeholder='ابحث عن الدفعة...';
-  } else {
-    groups=state.currentSubject.ai;
-    title='AI';
-    placeholder='ابحث عن ملف AI...';
-  }
-
-  showSelectionScreen(groups, title, { backContext:'subject', searchable:true, searchPlaceholder:placeholder, sectionType:type, collectionType: state.browseMode!=='all' ? state.browseMode : null, displayLabel: state.currentSubject.name + ' · ' + title });
-}
+function openSubjectCategory(type){ if(!state.currentSubject) return; let groups=[], title=''; let placeholder='ابحث...'; if(type==='lectures'){ groups=state.currentSubject.lectures; title='Lectures'; placeholder='ابحث عن اسم المحاضرة...'; } else if(type==='years'){ groups=state.currentSubject.years; title='Years'; placeholder='ابحث عن الدفعة...'; } else { groups=state.currentSubject.ai; title='AI'; placeholder='ابحث عن ملف AI...'; } showSelectionScreen(groups, title, { backContext:'subject', searchable:true, searchPlaceholder:placeholder, sectionType:type, collectionType: state.browseMode!=='all' ? state.browseMode : null, displayLabel: state.currentSubject.name + ' · ' + title }); }
 function backFromSelection(){ if(state.currentSelectionMeta && state.currentSelectionMeta.backContext==='subject' && state.currentSubject) openSubject(state.currentSubject.id); else goHome(); }
 
 function showSelectionScreen(groups,title,meta){ state.selectedGroups=[]; state.currentGroups=groups.slice(); state.selectedMode=null; state.selectedDirection=null; state.extraTime=0; state.extraTimeAdded=false; state.currentSelectionMeta=meta||{}; showScreen('selection-screen'); el('selection-title').textContent=title; const searchContainer=el('selection-search-container'); const searchInput=el('selection-search'); if(meta&&meta.searchable){ searchContainer.classList.remove('hidden'); searchInput.value=''; searchInput.placeholder=meta.searchPlaceholder||'ابحث...'; } else { searchContainer.classList.add('hidden'); searchInput.value=''; } const list=el('selection-list'); const t=theme(); list.innerHTML=''; groups.forEach((group,idx)=>{ const icon=group.type==='ai'?t.icons.ai:(group.type==='year'?t.icons.years:t.icons.lectures); const item=document.createElement('div'); item.className='selection-item'; item.setAttribute('data-group-name',(group.name+' '+(group.subjectName||'')).toLowerCase()); item.innerHTML=`<input type="checkbox" id="group-${idx}" onchange="toggleGroupSelection(${idx})"><label for="group-${idx}" style="width:100%; cursor:pointer;"><strong>${icon} ${escapeHtml(group.name)}</strong><br><small style="color:var(--text-muted)">${group.questions.length} questions</small></label>`; item.addEventListener('click',function(event){ if(event.target.closest('input')||event.target.closest('label')) return; const cb=item.querySelector('input'); cb.checked=!cb.checked; toggleGroupSelection(idx); }); list.appendChild(item); }); el('selection-footer').classList.add('hidden'); el('direction-selection').classList.add('hidden'); el('timer-options').classList.add('hidden'); el('start-section').classList.add('hidden'); document.querySelectorAll('.btn-mode').forEach(btn=>btn.classList.remove('active')); document.querySelectorAll('.btn-direction').forEach(btn=>btn.classList.remove('active')); }
@@ -929,6 +846,7 @@ function prepareQuestionForExam(question){
   clone.correctIndex = resolveCorrectIndex(clone.options, clone.correctAnswerText);
   return clone;
 }
+
 function startExamSession(questions, mode, direction, sourceLabel, extraMinutes, meta) {
   state.currentExam = {
     mode, direction,
@@ -945,10 +863,10 @@ function startExamSession(questions, mode, direction, sourceLabel, extraMinutes,
     totalTime: (questions.length + (extraMinutes || 0)) * 60 * 1000,
     submitted: false,
     showAnswer: false,
-    masteredWrongIds: [],
-    secondsSoundPlayed: false
+    masteredWrongIds: []
   };
 
+  // إظهار أو إخفاء المؤقت وعداد التقدم حسب نمط الامتحان
   const timerEl = el('exam-timer');
   const progressEl = el('exam-progress-compact');
   if (mode === 'exam') {
@@ -998,6 +916,34 @@ function renderExam(){
   const answerSummaryHtml = showAnswerState ? `<div class="answer-summary"><strong>Correct Answer:</strong> <span class="answer-value">${escapeHtml(getFormattedCurrentCorrectAnswer(q))}</span></div>` : '';
   el('question-container').innerHTML=`<div class="question-header"><span class="question-number">Q${escapeHtml(q.number||String(idx+1))}</span><div class="question-actions"><button class="icon-btn ${fav?'active':''}" onclick="toggleFavorite('${q.id}')">💚</button><button class="icon-btn" onclick="toggleQuestionLocation()">${t.icons.location}</button></div></div><p class="question-text">${escapeHtml(q.text)}</p><div class="options-list">${q.options.map((opt,i)=>renderOptionButton(opt,i,idx,showAnswerState,state.currentExam.answers[idx],correctIdx)).join('')}</div>${answerSummaryHtml}<div class="explanation-box ${showAnswerState?'visible':''}"><strong>Explanation:</strong> ${escapeHtml(q.explanation||'No explanation available.')}</div>${renderRemoveWrongBtn()}`;
   el('question-container').classList.add('exam-content-ltr');
+     // ✅ عرض الصورة إن وجدت
+   if (q.imageUrl) {
+     const questionContent = el('question-container');
+     const existingImage = questionContent.querySelector('.question-image');
+     
+     if (!existingImage) {
+       const imageDiv = document.createElement('div');
+       imageDiv.className = 'question-image';
+       imageDiv.style.cssText = 'margin: 16px 0; text-align: center; border-radius: 8px; overflow: hidden; background: var(--bg-soft);';
+       
+       const img = document.createElement('img');
+       img.src = `images/${q.imageUrl}`;
+       img.alt = 'سؤال صورة';
+       img.style.cssText = 'max-width: 100%; max-height: 400px; display: block; margin: 0 auto; border-radius: 8px;';
+       
+       img.onerror = function() {
+         this.parentElement.innerHTML = `<div style="padding: 20px; color: var(--text-muted); text-align: center;">❌ لم يتمكن من تحميل الصورة: ${q.imageUrl}</div>`;
+       };
+       
+       imageDiv.appendChild(img);
+       const optionsSection = questionContent.querySelector('.options-grid') || questionContent.querySelector('.options-container');
+       if (optionsSection) {
+         optionsSection.parentElement.insertBefore(imageDiv, optionsSection);
+       } else {
+         questionContent.appendChild(imageDiv);
+       }
+     }
+   }
   renderExamNav();
 }
 function renderGrid(){ if(!state.currentExam) return; const grid=el('question-grid'); grid.innerHTML=''; state.currentExam.questions.forEach((q,idx)=>{ let cls='grid-btn'; if(idx===state.currentExam.currentIndex) cls+=' current'; else if(state.currentExam.answers[idx]!==null){ if(state.currentExam.mode==='training' && state.currentExam.firstAnswers[idx]!==null) cls+=isAnswerCorrect(q,state.currentExam.firstAnswers[idx])?' answered':' wrong'; else cls+=' answered'; } if(state.currentExam.direction==='oneway' && idx<state.currentExam.currentIndex) cls+=' disabled'; const btn=document.createElement('button'); btn.className=cls; btn.textContent=String(idx+1); btn.onclick=()=>navigateToQuestion(idx); grid.appendChild(btn); }); }
@@ -1082,45 +1028,8 @@ function exitExam() {
     actions.appendChild(cancelBtn);
   }, 0);
 }
-function startTimer(){
-  clearInterval(state.timerInterval);
-  const timerEl=el('exam-timer');
-  timerEl.classList.remove('hidden');
 
-  state.timerInterval=setInterval(()=>{
-    if(!state.currentExam || state.currentExam.submitted){
-      clearInterval(state.timerInterval);
-      state.timerInterval=null;
-      return;
-    }
-
-    if(typeof state.currentExam.secondsSoundPlayed !== 'boolean'){
-      state.currentExam.secondsSoundPlayed = false;
-    }
-
-    const elapsed=Date.now()-state.currentExam.startTime;
-    const remaining=state.currentExam.totalTime-elapsed;
-
-    if(remaining<=0){
-      clearInterval(state.timerInterval);
-      state.timerInterval=null;
-      timeUp();
-      return;
-    }
-
-    const mins=Math.floor(remaining/60000);
-    const secs=Math.floor((remaining%60000)/1000);
-
-    if(!state.currentExam.secondsSoundPlayed && mins === 0 && secs === 13){
-      state.currentExam.secondsSoundPlayed = true;
-      saveExamState();
-      playSecondsSound();
-    }
-
-    timerEl.textContent=mins+':'+String(secs).padStart(2,'0');
-    timerEl.classList.toggle('timer-danger', remaining<=60000);
-  },1000);
-}
+function startTimer(){ clearInterval(state.timerInterval); const timerEl=el('exam-timer'); timerEl.classList.remove('hidden'); state.timerInterval=setInterval(()=>{ if(!state.currentExam || state.currentExam.submitted){ clearInterval(state.timerInterval); state.timerInterval=null; return; } const elapsed=Date.now()-state.currentExam.startTime; const remaining=state.currentExam.totalTime-elapsed; if(remaining<=0){ clearInterval(state.timerInterval); state.timerInterval=null; timeUp(); return; } const mins=Math.floor(remaining/60000); const secs=Math.floor((remaining%60000)/1000); timerEl.textContent=mins+':'+String(secs).padStart(2,'0'); timerEl.classList.toggle('timer-danger', remaining<=60000); },1000); }
 function timeUp(){ if(!state.currentExam) return; const unanswered=state.currentExam.answers.filter(a=>a===null).length; showToast('انتهى الوقت! يوجد '+unanswered+' سؤالًا بدون إجابة.','error'); finishExam(); }
 function recordExamMemory(){
   if(!state.currentExam) return;
@@ -1222,35 +1131,7 @@ function submitExamFinish(){
     showWaitingMessages();
   } else showResults();
 }
-function saveProgress(){
-  if(!state.currentExam) return;
-
-  const answers=state.currentExam.mode==='exam'?state.currentExam.answers:state.currentExam.firstAnswers;
-
-  state.currentExam.questions.forEach((q,idx)=>{
-    if(answers[idx]===null) return;
-
-    addProgressId('subject:'+q.subjectName,q.id);
-
-    const actual=q.originalSourceType||q.sourceType;
-
-    if(actual==='lecture') addProgressId('lecture:'+q.subjectName+'/'+q.lectureName,q.id);
-    if(actual==='ai') addProgressId('ai:'+q.subjectName+'/'+q.lectureName,q.id);
-    if(q.batchName) addProgressId('year:'+q.subjectName+'/'+q.batchName,q.id);
-  });
-
-  state.subjects.forEach(subject => {
-    syncCompletedGroupsToBottom(subject, 'years');
-  });
-
-  if(state.currentSubject){
-    syncCompletedGroupsToBottom(state.currentSubject, 'years');
-  }
-
-  saveProgressStore();
-  updateStatisticsIfOpen();
-  renderMemories();
-}
+function saveProgress(){ if(!state.currentExam) return; const answers=state.currentExam.mode==='exam'?state.currentExam.answers:state.currentExam.firstAnswers; state.currentExam.questions.forEach((q,idx)=>{ if(answers[idx]===null) return; addProgressId('subject:'+q.subjectName,q.id); const actual=q.originalSourceType||q.sourceType; if(actual==='lecture') addProgressId('lecture:'+q.subjectName+'/'+q.lectureName,q.id); if(actual==='ai') addProgressId('ai:'+q.subjectName+'/'+q.lectureName,q.id); if(q.batchName) addProgressId('year:'+q.subjectName+'/'+q.batchName,q.id); }); saveProgressStore(); updateStatisticsIfOpen(); renderMemories(); }
 function showWaitingMessages(){ const waitDiv=el('results-waiting'), contentDiv=el('results-content'), reviewDiv=el('results-review'), messageEl=el('waiting-message'); const messages=['انتظر ...','قاعد بصلّح لك الامتحان ...','استنى شوي ...','هاي قرّبت أكمل ...','أصبر ثواني ...','هيني كمّلت 🫡🐦‍🔥💚']; waitDiv.classList.remove('hidden'); reviewDiv.classList.add('hidden'); reviewDiv.innerHTML=''; contentDiv.innerHTML=''; let idx=0; messageEl.textContent=messages[0]; const interval=setInterval(()=>{ idx=Math.min(idx+1, messages.length-1); messageEl.textContent=messages[idx]; },1150); setTimeout(()=>{ clearInterval(interval); waitDiv.classList.add('hidden'); showResults(); },7000); }
 function calculateScore(exam){ const questions=exam.questions; const answers=exam.mode==='exam'?exam.answers:exam.firstAnswers; const total=questions.length; const answered=answers.filter(a=>a!==null).length; const correct=answers.reduce((sum,a,idx)=>sum + (a!==null && isAnswerCorrect(questions[idx],a) ? 1 : 0),0); return {total, answered, correct, unanswered:total-answered, incorrect:answered-correct, score: total>0 ? Math.round((correct/total)*100) : 0}; }
 function renderMasteredWrongButton(){ if(!state.currentExam || !state.currentExam.masteredWrongIds || !state.currentExam.masteredWrongIds.length) return ''; return `<button class="btn-secondary mt-10" onclick="confirmBulkRemoveMasteredWrong()">✅ إزالة الأسئلة التي تمكنت منها من الأسئلة الخاطئة</button>`; }
@@ -1290,54 +1171,6 @@ function toggleFavorite(questionId){ const idx=state.favorites.indexOf(questionI
 function getGroupProgressKey(type, subjectName, groupName){ return type+':'+subjectName+'/'+groupName; }
 function getAnsweredCountForKey(key){
   return getNormalizedProgressIdsForKey(key).length;
-}
-function normalizeGroupTypeForProgress(type){
-  if(type === 'lectures') return 'lecture';
-  if(type === 'years') return 'year';
-  return type || 'lecture';
-}
-
-function isGroupFullyCompletedForProgress(group){
-  if(!group || !Array.isArray(group.questions) || group.questions.length === 0) return false;
-
-  const type = normalizeGroupTypeForProgress(group.type);
-  const subjectName = group.subjectName || state.currentSubject?.name || '';
-  const key = getGroupProgressKey(type, subjectName, group.name);
-  const answeredIds = new Set(getNormalizedProgressIdsForKey(key));
-  const questionIds = Array.from(new Set(group.questions.map(q => q.id).filter(Boolean)));
-
-  if(questionIds.length !== group.questions.length) return false;
-
-  return questionIds.every(id => answeredIds.has(id));
-}
-
-function getGroupsWithCompletedLast(groups){
-  const list = (groups || []).slice();
-  const incomplete = [];
-  const completed = [];
-
-  list.forEach(group => {
-    if(isGroupFullyCompletedForProgress(group)) completed.push(group);
-    else incomplete.push(group);
-  });
-
-  return incomplete.concat(completed);
-}
-
-function syncCompletedGroupsToBottom(subject, sectionType){
-  if(!subject) return;
-
-  if(sectionType === 'years'){
-    subject.years = getGroupsWithCompletedLast(subject.years || []);
-  }
-
-  if(sectionType === 'ai'){
-    subject.ai = getGroupsWithCompletedLast(subject.ai || []);
-  }
-
-  if(sectionType === 'lectures'){
-    subject.lectures = getGroupsWithCompletedLast(subject.lectures || []);
-  }
 }
 function getSectionSummary(subject, type){ const groups = type==='lecture' ? subject.lectures : type==='ai' ? subject.ai : subject.years; const totalQuestions = groups.reduce((sum,g)=>sum+g.questions.length,0); let answered = 0; groups.forEach(g=>answered += getAnsweredCountForKey(getGroupProgressKey(type, subject.name, g.name))); const pct = totalQuestions ? Math.round((answered/totalQuestions)*100) : 0; return { groups, totalQuestions, answered, pct }; }
 function resetProgressFull(){ askConfirm('هل تريد إعادة ضبط جميع البيانات (جميع المواد)؟ لا يمكن التراجع عن هذا الإجراء.', ()=>{ state.progress={}; saveProgressStore(); showToast('تمت إعادة ضبط جميع بيانات التقدم.','success'); updateStatisticsIfOpen(); renderMemories(); }); }
