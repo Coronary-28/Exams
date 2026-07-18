@@ -133,6 +133,68 @@
             "lectureName": "ENT",
             "groupName": "ENT",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__5__b00fqh",
+            "number": "5",
+            "text": "A 55-year-old male smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next step in management?",
+            "options": [
+              "Reassure and review in 3 months",
+              "Trial of proton pump inhibitor",
+              "Empirical antibiotics",
+              "Urgent referral to ENT for fiberoptic laryngoscopy",
+              "Voice rest and speech therapy"
+            ],
+            "originalOptions": [
+              "Reassure and review in 3 months",
+              "Trial of proton pump inhibitor",
+              "Empirical antibiotics",
+              "Urgent referral to ENT for fiberoptic laryngoscopy",
+              "Voice rest and speech therapy"
+            ],
+            "correctAnswer": "D) Urgent referral to ENT for fiberoptic laryngoscopy",
+            "correctAnswerText": "Urgent referral to ENT for fiberoptic laryngoscopy",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Any smoker with hoarseness lasting more than 3 weeks is a red flag requiring urgent ENT referral for fiberoptic endoscopy to look for laryngeal tumors, as emphasized directly in the lecture. Antibiotics, PPIs, or reassurance risk delaying diagnosis of a potentially malignant cause.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__6__ssfuv2",
+            "number": "6",
+            "text": "A young male teacher presents with hoarseness of voice for 3 weeks with a history of prolonged vocal strain. Laryngoscopy reveals a smooth, unilateral lesion on the vocal cord. What is the most likely diagnosis?",
+            "options": [
+              "Laryngeal carcinoma",
+              "Vocal cord paralysis",
+              "Vocal cord polyp",
+              "Vocal cord nodules",
+              "Reflux laryngitis"
+            ],
+            "originalOptions": [
+              "Laryngeal carcinoma",
+              "Vocal cord paralysis",
+              "Vocal cord polyp",
+              "Vocal cord nodules",
+              "Reflux laryngitis"
+            ],
+            "correctAnswer": "C) Vocal cord polyp",
+            "correctAnswerText": "Vocal cord polyp",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "A vocal cord polyp typically presents as a unilateral, smooth lesion following a single episode of vocal strain or trauma, unlike nodules which are bilateral and related to chronic voice abuse (e.g., singers/teachers using their voice repetitively).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -3199,6 +3261,68 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__ent__5__b00fqh",
+        "number": "5",
+        "text": "A 55-year-old male smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next step in management?",
+        "options": [
+          "Reassure and review in 3 months",
+          "Trial of proton pump inhibitor",
+          "Empirical antibiotics",
+          "Urgent referral to ENT for fiberoptic laryngoscopy",
+          "Voice rest and speech therapy"
+        ],
+        "originalOptions": [
+          "Reassure and review in 3 months",
+          "Trial of proton pump inhibitor",
+          "Empirical antibiotics",
+          "Urgent referral to ENT for fiberoptic laryngoscopy",
+          "Voice rest and speech therapy"
+        ],
+        "correctAnswer": "D) Urgent referral to ENT for fiberoptic laryngoscopy",
+        "correctAnswerText": "Urgent referral to ENT for fiberoptic laryngoscopy",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Any smoker with hoarseness lasting more than 3 weeks is a red flag requiring urgent ENT referral for fiberoptic endoscopy to look for laryngeal tumors, as emphasized directly in the lecture. Antibiotics, PPIs, or reassurance risk delaying diagnosis of a potentially malignant cause.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__6__ssfuv2",
+        "number": "6",
+        "text": "A young male teacher presents with hoarseness of voice for 3 weeks with a history of prolonged vocal strain. Laryngoscopy reveals a smooth, unilateral lesion on the vocal cord. What is the most likely diagnosis?",
+        "options": [
+          "Laryngeal carcinoma",
+          "Vocal cord paralysis",
+          "Vocal cord polyp",
+          "Vocal cord nodules",
+          "Reflux laryngitis"
+        ],
+        "originalOptions": [
+          "Laryngeal carcinoma",
+          "Vocal cord paralysis",
+          "Vocal cord polyp",
+          "Vocal cord nodules",
+          "Reflux laryngitis"
+        ],
+        "correctAnswer": "C) Vocal cord polyp",
+        "correctAnswerText": "Vocal cord polyp",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "A vocal cord polyp typically presents as a unilateral, smooth lesion following a single episode of vocal strain or trauma, unlike nodules which are bilateral and related to chronic voice abuse (e.g., singers/teachers using their voice repetitively).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__forensic__1__aaw2e6",
         "number": "1",
         "text": "Which of the following is NOT an early sign of death?",
@@ -6051,7 +6175,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 96,
+    "totalQuestions": 98,
     "totalLectures": 10,
     "hasAiFolder": true
   }
