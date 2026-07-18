@@ -1,0 +1,110 @@
+Psychology
+Which of the following statements best describes Alogia?
+A) It refers to speech that lacks content but is delivered fluently and without hesitation
+B) It involves both poverty in speech output and poverty in the content of speech
+C) It refers to speech that is rich in content but delivered in an impoverished, halting manner
+D) It refers to an excessive amount of speech with overly detailed content
+E) It refers to speech that is normal in amount but disorganized in structure
+Correct Answer: B) It involves both poverty in speech output and poverty in the content of speech
+Explanation:
+Alogia (poverty of speech) is a negative symptom involving reduction in both the amount of speech produced and the richness of its content. This distinguishes it from disorders of speech delivery alone, where content may still be preserved.
+###
+Which of the following is NOT a component of thought content?
+A) Hallucinations
+B) Suicidal ideation/homicidal ideation
+C) Delusions
+D) Obsessions
+E) Overvalued ideas
+Correct Answer: A) Hallucinations
+Explanation:
+Thought content covers delusions, obsessions, overvalued ideas, and suicidal/homicidal ideation. Hallucinations are a disturbance of perception, not thought content, so they are assessed separately under the perception domain of the MSE.
+###
+What is the difference between mood and affect?
+A) Mood is a temporary emotional state, while affect is a persistent, long-lasting state
+B) Mood is the external expression of emotions, while affect is the internal and sustained emotional state
+C) Mood and affect are interchangeable terms describing the same clinical finding
+D) Mood is the internal and sustained emotional state, while affect is the external expression of emotions
+E) Mood refers only to observable facial expression, while affect refers to the patient's subjective report
+Correct Answer: D) Mood is the internal and sustained emotional state, while affect is the external expression of emotions
+Explanation:
+Mood is the patient's subjective, sustained internal emotional climate, typically elicited by asking how they feel. Affect is the examiner's objective observation of the moment-to-moment external expression of that emotion during the interview.
+###
+A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?
+A) Justice
+B) Beneficence
+C) Non-maleficence
+D) Autonomy
+E) Confidentiality
+Correct Answer: D) Autonomy
+Explanation:
+Autonomy is the patient's right to make informed decisions about their own care, including the right to refuse even life-saving treatment, provided they have decision-making capacity. The physician's role is to ensure understanding and document the discussion, not to override the choice.
+###
+A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?
+A) Justice
+B) Non-maleficence
+C) Autonomy
+D) Beneficence
+E) Confidentiality
+Correct Answer: B) Non-maleficence
+Explanation:
+Non-maleficence means "do no harm." Causing avoidable harm, such as unnecessary side effects or injury from an excessive dose that provided no additional benefit, is a direct breach of this principle rather than of beneficence, which concerns actively promoting the patient's welfare.
+###
+A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?
+A) Beneficence
+B) Justice
+C) Non-maleficence
+D) Autonomy
+E) Confidentiality
+Correct Answer: A) Beneficence
+Explanation:
+Beneficence is the duty to actively act in the patient's best interest, such as providing effective treatment, preventing harm, and supporting recovery. This differs from non-maleficence, which is about avoiding harm rather than actively promoting benefit.
+###
+A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?
+A) Autonomy
+B) Beneficence
+C) Non-maleficence
+D) Confidentiality
+E) Justice
+Correct Answer: E) Justice
+Explanation:
+Justice refers to fair and equal treatment, including equal access to care regardless of social standing, and avoiding discrimination or use of influence to obtain preferential treatment. Allocating resources by clinical need rather than status exemplifies this principle.
+###
+A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?
+A) Maintain strict confidentiality regardless of the threat, since disclosure would breach trust
+B) Disclose only the minimum necessary information to protect the identified person at risk
+C) Disclose the patient's entire treatment record to the police
+D) Wait until the patient is discharged before taking any action
+E) Ask the patient's family to decide whether to report it
+Correct Answer: B) Disclose only the minimum necessary information to protect the identified person at risk
+Explanation:
+Confidentiality may be overridden when there is a serious risk of harm to others, such as a specific, credible threat of violence. The guiding principle is to disclose only the minimum information necessary to protect the person at risk, not the full record.
+###
+All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:
+A) Understanding relevant information about the treatment
+B) Appreciating how the information applies to their own situation
+C) Reasoning about the available treatment options
+D) Having no psychiatric diagnosis
+E) Communicating a consistent choice
+Correct Answer: D) Having no psychiatric diagnosis
+Explanation:
+Capacity requires understanding, appreciation, reasoning, and the ability to communicate a consistent choice. A psychiatric diagnosis alone does not equal lack of capacity, since capacity is decision-specific and can fluctuate independently of diagnosis.
+###
+A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:
+A) Capacity
+B) Autonomy
+C) Competence
+D) Insight
+E) Judgment
+Correct Answer: C) Competence
+Explanation:
+Competence is a legal determination made by a court and tends to be more globally stable, whereas capacity is a clinical assessment made by physicians that is decision-specific and can change over time.
+###
+Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?
+A) Justice
+B) Beneficence
+C) Non-maleficence
+D) Competence
+E) Autonomy
+Correct Answer: E) Autonomy
+Explanation:
+Autonomy underlies a patient's right to receive truthful information, give informed consent, and have their disclosures kept confidential, since all of these depend on respecting the patient's self-determination and control over their own care.
