@@ -137,3 +137,13 @@ E) Pressured, rapidly shifting speech
 Correct Answer: D) Suicidal thoughts
 Explanation:
 Flight of ideas, clang associations, tangentiality, and pressured speech are all disturbances of thought process (form), commonly seen in mania. Suicidal thoughts belong to thought content, not thought process, making it the outlier among the options.
+###
+Which of the following is a component of thought content?
+A) Attention and concentration
+B) Obsessions
+C) Speech rate and tone
+D) Orientation to time and place
+E) Eye contact and grooming
+Correct Answer: B) Obsessions
+Explanation:
+Thought content refers to what the patient is actually thinking about, including delusions, obsessions, and suicidal or homicidal ideation. The other options belong to different MSE domains: cognition (attention, orientation) or appearance/behavior/speech, not thought content.
