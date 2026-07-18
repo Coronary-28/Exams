@@ -1,0 +1,100 @@
+Radiology
+On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?
+A) Hyperdense
+B) Hypodense
+C) Isodense
+D) Heterogeneous
+E) Calcified
+Correct Answer: A) Hyperdense
+Explanation:
+Fresh blood is denser than brain parenchyma, so acute hemorrhage (0–3 days) appears hyperdense on CT. This density evolves predictably over time, becoming isodense in the subacute phase and hypodense once chronic.
+###
+A hemorrhage older than 4 weeks (chronic stage) typically appears on CT as which of the following?
+A) Hyperdense
+B) Isodense
+C) Hypodense
+D) Heterogeneous
+E) Hyperintense
+Correct Answer: C) Hypodense
+Explanation:
+As clot breaks down and fluid content increases, hemorrhage density decreases over time: hyperdense when acute, isodense when subacute, and hypodense once chronic (over 4 weeks). Confusing the acute and chronic stages is a common exam trap since the pattern is opposite to what students expect.
+###
+Which early CT finding is characteristic of hyperacute ischemic stroke (6–24 hours)?
+A) Loss of grey-white differentiation
+B) Cortical calcification
+C) Ventricular dilation
+D) Gyral enhancement
+E) Marginal bone erosion
+Correct Answer: A) Loss of grey-white differentiation
+Explanation:
+In the early hyperacute phase of ischemia, cytotoxic edema causes cortical hypodensity with loss of grey-white matter differentiation and gyral effacement. This is an early, subtle sign, while volume loss and calcification only appear in the chronic stage.
+###
+Vasogenic edema on brain imaging is classically seen surrounding which of the following?
+A) Brain tumor
+B) Ischemic infarct core
+C) Chronic hydrocephalus
+D) Degenerative joint disease
+E) Old pleural effusion
+Correct Answer: A) Brain tumor
+Explanation:
+Vasogenic edema classically surrounds tumors, abscesses, and hemorrhages due to disruption of the blood-brain barrier. This is distinct from cytotoxic edema, which occurs in ischemia and affects both grey and white matter directly.
+###
+Which radiological feature helps distinguish pulmonary consolidation from lobar collapse?
+A) Presence of air bronchograms
+B) Presence of pleural fluid
+C) Degree of cardiomegaly
+D) Associated rib fracture
+E) Costophrenic angle blunting
+Correct Answer: A) Presence of air bronchograms
+Explanation:
+Consolidation shows airspace opacification with air bronchograms and no volume loss or fissure displacement, since the airways remain patent. Collapse, in contrast, shows volume loss and fissure displacement toward the affected lobe, with no air bronchograms.
+###
+Which imaging modality is preferred for diagnosing acute cholecystitis?
+A) Ultrasound
+B) Chest radiograph
+C) Brain MRI
+D) Barium enema
+E) Mammography
+Correct Answer: A) Ultrasound
+Explanation:
+Ultrasound is the preferred modality for cholecystitis, showing a distended gallbladder, thickened wall, calculi, and pericholecystic fluid. It is also the preferred first study for bowel obstruction and appendicitis per the lecture.
+###
+In a patient with suspected bowel perforation, which radiograph is most sensitive for detecting free intraperitoneal air?
+A) Erect chest radiograph
+B) Supine abdominal radiograph
+C) Chest CT scan
+D) Barium enema study
+E) Pelvic ultrasound scan
+Correct Answer: A) Erect chest radiograph
+Explanation:
+An erect chest x-ray is the most sensitive plain radiograph for detecting free intraperitoneal gas, appearing as lucent air beneath the diaphragm. Abdominal signs such as the Rigler (double wall) sign and football sign are also associated findings of pneumoperitoneum.
+###
+A barium enema shows an "apple core" sign with eccentric wall thickening in the descending colon. This finding is characteristic of which condition?
+A) Colorectal carcinoma
+B) Acute diverticulitis
+C) Adhesive bowel obstruction
+D) Ulcerative colitis flare
+E) Ischemic colitis episode
+Correct Answer: A) Colorectal carcinoma
+Explanation:
+The apple core sign reflects eccentric, annular wall thickening typical of colorectal carcinoma and is often associated with luminal obstruction. This classic contrast-study sign was specifically highlighted in the lecture for colorectal cancer.
+###
+What is the earliest radiological finding in ankylosing spondylitis?
+A) Bamboo spine appearance
+B) Dagger spine sign
+C) Sacroiliitis
+D) Vertebral body squaring
+E) Syndesmophyte formation
+Correct Answer: C) Sacroiliitis
+Explanation:
+Sacroiliitis, seen as widening or narrowing of the sacroiliac joints, is the earliest radiological finding in ankylosing spondylitis. Bamboo spine, dagger spine, and vertebral squaring are later findings that develop as the disease progresses.
+###
+A 45-year-old woman's screening mammogram is classified as BI-RADS 4. What is the appropriate next step?
+A) Routine annual mammogram
+B) Short interval follow-up scan
+C) Biopsy should be considered
+D) No further action needed
+E) Repeat mammogram same day
+Correct Answer: C) Biopsy should be considered
+Explanation:
+BI-RADS 4 indicates a suspicious finding with roughly 2–94% probability of malignancy, so biopsy should be considered. This contrasts with BI-RADS 3 (probably benign, short-interval follow-up) and BI-RADS 1–2 (normal or benign, routine follow-up).
