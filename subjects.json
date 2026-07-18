@@ -556,39 +556,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__3__wtbbtv",
+            "id": "introduction__lecture__ophthalmology__3__v0jw9f",
             "number": "3",
-            "text": "What condition causes painful loss of vision?",
-            "options": [
-              "Giant cell arteritis",
-              "Acute angle-closure glaucoma",
-              "Cataract",
-              "Age-related macular degeneration",
-              "Retinal detachment"
-            ],
-            "originalOptions": [
-              "Giant cell arteritis",
-              "Acute angle-closure glaucoma",
-              "Cataract",
-              "Age-related macular degeneration",
-              "Retinal detachment"
-            ],
-            "correctAnswer": "B) Acute angle-closure glaucoma",
-            "correctAnswerText": "Acute angle-closure glaucoma",
-            "correctIndex": 1,
-            "correctAnswerLetter": "B",
-            "explanation": "Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.",
-            "batchName": "",
-            "pageNumber": "",
-            "subjectName": "Introduction",
-            "subjectId": "introduction",
-            "lectureName": "Ophthalmology",
-            "groupName": "Ophthalmology",
-            "sourceType": "lecture"
-          },
-          {
-            "id": "introduction__lecture__ophthalmology__4__v0jw9f",
-            "number": "4",
             "text": "All are causes of this sign except (The image shows: A red eye) ?",
             "options": [
               "Allergic conjunctivitis",
@@ -618,8 +587,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__5__xqin3w",
-            "number": "5",
+            "id": "introduction__lecture__ophthalmology__4__xqin3w",
+            "number": "4",
             "text": "What is the term for pupils of different sizes?",
             "options": [
               "Nystagmus",
@@ -649,8 +618,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__6__mtury6",
-            "number": "6",
+            "id": "introduction__lecture__ophthalmology__5__mtury6",
+            "number": "5",
             "text": "What is the visual field exam called?",
             "options": [
               "Ishihara test",
@@ -680,8 +649,8 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__7__vg0w00",
-            "number": "7",
+            "id": "introduction__lecture__ophthalmology__6__vg0w00",
+            "number": "6",
             "text": "What are the three components involved in accommodation?",
             "options": [
               "Accommodation, pupillary constriction, and convergence",
@@ -3478,39 +3447,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__3__wtbbtv",
+        "id": "introduction__lecture__ophthalmology__3__v0jw9f",
         "number": "3",
-        "text": "What condition causes painful loss of vision?",
-        "options": [
-          "Giant cell arteritis",
-          "Acute angle-closure glaucoma",
-          "Cataract",
-          "Age-related macular degeneration",
-          "Retinal detachment"
-        ],
-        "originalOptions": [
-          "Giant cell arteritis",
-          "Acute angle-closure glaucoma",
-          "Cataract",
-          "Age-related macular degeneration",
-          "Retinal detachment"
-        ],
-        "correctAnswer": "B) Acute angle-closure glaucoma",
-        "correctAnswerText": "Acute angle-closure glaucoma",
-        "correctIndex": 1,
-        "correctAnswerLetter": "B",
-        "explanation": "Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.",
-        "batchName": "",
-        "pageNumber": "",
-        "subjectName": "Introduction",
-        "subjectId": "introduction",
-        "lectureName": "Ophthalmology",
-        "groupName": "Ophthalmology",
-        "sourceType": "lecture"
-      },
-      {
-        "id": "introduction__lecture__ophthalmology__4__v0jw9f",
-        "number": "4",
         "text": "All are causes of this sign except (The image shows: A red eye) ?",
         "options": [
           "Allergic conjunctivitis",
@@ -3540,8 +3478,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__5__xqin3w",
-        "number": "5",
+        "id": "introduction__lecture__ophthalmology__4__xqin3w",
+        "number": "4",
         "text": "What is the term for pupils of different sizes?",
         "options": [
           "Nystagmus",
@@ -3571,8 +3509,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__6__mtury6",
-        "number": "6",
+        "id": "introduction__lecture__ophthalmology__5__mtury6",
+        "number": "5",
         "text": "What is the visual field exam called?",
         "options": [
           "Ishihara test",
@@ -3602,8 +3540,8 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__7__vg0w00",
-        "number": "7",
+        "id": "introduction__lecture__ophthalmology__6__vg0w00",
+        "number": "6",
         "text": "What are the three components involved in accommodation?",
         "options": [
           "Accommodation, pupillary constriction, and convergence",
@@ -5803,7 +5741,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 92,
+    "totalQuestions": 91,
     "totalLectures": 10,
     "hasAiFolder": true
   }
