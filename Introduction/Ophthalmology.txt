@@ -19,7 +19,7 @@ Correct Answer: D) Color vision
 Explanation:
 The pseudoisochromatic plate shown (numbers embedded in colored dots) is used to assess color vision, testing one of the key optic nerve functions. Visual acuity uses the Snellen chart, not colored dot plates, making A incorrect.
 ###
-What condition causes painful loss of vision?
+What condition causes acute painful loss of vision?
 A) Central retinal artery occlusion
 B) Acute angle-closure glaucoma
 C) Cataract
