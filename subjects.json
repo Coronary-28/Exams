@@ -485,6 +485,356 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "introduction__lecture__psychology",
+        "name": "Psychology",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Psychology.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__psychology__1__2x0qqn",
+            "number": "1",
+            "text": "Psychology Which of the following statements best describes Alogia?",
+            "options": [
+              "It refers to speech that lacks content but is delivered fluently and without hesitation",
+              "It involves both poverty in speech output and poverty in the content of speech",
+              "It refers to speech that is rich in content but delivered in an impoverished, halting manner",
+              "It refers to an excessive amount of speech with overly detailed content",
+              "It refers to speech that is normal in amount but disorganized in structure"
+            ],
+            "originalOptions": [
+              "It refers to speech that lacks content but is delivered fluently and without hesitation",
+              "It involves both poverty in speech output and poverty in the content of speech",
+              "It refers to speech that is rich in content but delivered in an impoverished, halting manner",
+              "It refers to an excessive amount of speech with overly detailed content",
+              "It refers to speech that is normal in amount but disorganized in structure"
+            ],
+            "correctAnswer": "B) It involves both poverty in speech output and poverty in the content of speech",
+            "correctAnswerText": "It involves both poverty in speech output and poverty in the content of speech",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Alogia (poverty of speech) is a negative symptom involving reduction in both the amount of speech produced and the richness of its content. This distinguishes it from disorders of speech delivery alone, where content may still be preserved.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__2__8zspe3",
+            "number": "2",
+            "text": "Which of the following is NOT a component of thought content?",
+            "options": [
+              "Hallucinations",
+              "Suicidal ideation/homicidal ideation",
+              "Delusions",
+              "Obsessions",
+              "Overvalued ideas"
+            ],
+            "originalOptions": [
+              "Hallucinations",
+              "Suicidal ideation/homicidal ideation",
+              "Delusions",
+              "Obsessions",
+              "Overvalued ideas"
+            ],
+            "correctAnswer": "A) Hallucinations",
+            "correctAnswerText": "Hallucinations",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Thought content covers delusions, obsessions, overvalued ideas, and suicidal/homicidal ideation. Hallucinations are a disturbance of perception, not thought content, so they are assessed separately under the perception domain of the MSE.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__3__2wo25y",
+            "number": "3",
+            "text": "What is the difference between mood and affect?",
+            "options": [
+              "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
+              "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
+              "Mood and affect are interchangeable terms describing the same clinical finding",
+              "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+              "Mood refers only to observable facial expression, while affect refers to the patient's subjective report"
+            ],
+            "originalOptions": [
+              "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
+              "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
+              "Mood and affect are interchangeable terms describing the same clinical finding",
+              "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+              "Mood refers only to observable facial expression, while affect refers to the patient's subjective report"
+            ],
+            "correctAnswer": "D) Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+            "correctAnswerText": "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Mood is the patient's subjective, sustained internal emotional climate, typically elicited by asking how they feel. Affect is the examiner's objective observation of the moment-to-moment external expression of that emotion during the interview.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__4__qyeep1",
+            "number": "4",
+            "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
+            "options": [
+              "Justice",
+              "Beneficence",
+              "Non-maleficence",
+              "Autonomy",
+              "Confidentiality"
+            ],
+            "originalOptions": [
+              "Justice",
+              "Beneficence",
+              "Non-maleficence",
+              "Autonomy",
+              "Confidentiality"
+            ],
+            "correctAnswer": "D) Autonomy",
+            "correctAnswerText": "Autonomy",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Autonomy is the patient's right to make informed decisions about their own care, including the right to refuse even life-saving treatment, provided they have decision-making capacity. The physician's role is to ensure understanding and document the discussion, not to override the choice.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__5__g75hoj",
+            "number": "5",
+            "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
+            "options": [
+              "Justice",
+              "Non-maleficence",
+              "Autonomy",
+              "Beneficence",
+              "Confidentiality"
+            ],
+            "originalOptions": [
+              "Justice",
+              "Non-maleficence",
+              "Autonomy",
+              "Beneficence",
+              "Confidentiality"
+            ],
+            "correctAnswer": "B) Non-maleficence",
+            "correctAnswerText": "Non-maleficence",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Non-maleficence means \"do no harm.\" Causing avoidable harm, such as unnecessary side effects or injury from an excessive dose that provided no additional benefit, is a direct breach of this principle rather than of beneficence, which concerns actively promoting the patient's welfare.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__6__w3qvni",
+            "number": "6",
+            "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
+            "options": [
+              "Beneficence",
+              "Justice",
+              "Non-maleficence",
+              "Autonomy",
+              "Confidentiality"
+            ],
+            "originalOptions": [
+              "Beneficence",
+              "Justice",
+              "Non-maleficence",
+              "Autonomy",
+              "Confidentiality"
+            ],
+            "correctAnswer": "A) Beneficence",
+            "correctAnswerText": "Beneficence",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Beneficence is the duty to actively act in the patient's best interest, such as providing effective treatment, preventing harm, and supporting recovery. This differs from non-maleficence, which is about avoiding harm rather than actively promoting benefit.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__7__qd4vwr",
+            "number": "7",
+            "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
+            "options": [
+              "Autonomy",
+              "Beneficence",
+              "Non-maleficence",
+              "Confidentiality",
+              "Justice"
+            ],
+            "originalOptions": [
+              "Autonomy",
+              "Beneficence",
+              "Non-maleficence",
+              "Confidentiality",
+              "Justice"
+            ],
+            "correctAnswer": "E) Justice",
+            "correctAnswerText": "Justice",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Justice refers to fair and equal treatment, including equal access to care regardless of social standing, and avoiding discrimination or use of influence to obtain preferential treatment. Allocating resources by clinical need rather than status exemplifies this principle.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__8__bwdj8l",
+            "number": "8",
+            "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
+            "options": [
+              "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
+              "Disclose only the minimum necessary information to protect the identified person at risk",
+              "Disclose the patient's entire treatment record to the police",
+              "Wait until the patient is discharged before taking any action",
+              "Ask the patient's family to decide whether to report it"
+            ],
+            "originalOptions": [
+              "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
+              "Disclose only the minimum necessary information to protect the identified person at risk",
+              "Disclose the patient's entire treatment record to the police",
+              "Wait until the patient is discharged before taking any action",
+              "Ask the patient's family to decide whether to report it"
+            ],
+            "correctAnswer": "B) Disclose only the minimum necessary information to protect the identified person at risk",
+            "correctAnswerText": "Disclose only the minimum necessary information to protect the identified person at risk",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Confidentiality may be overridden when there is a serious risk of harm to others, such as a specific, credible threat of violence. The guiding principle is to disclose only the minimum information necessary to protect the person at risk, not the full record.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__9__h8ntno",
+            "number": "9",
+            "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
+            "options": [
+              "Understanding relevant information about the treatment",
+              "Appreciating how the information applies to their own situation",
+              "Reasoning about the available treatment options",
+              "Having no psychiatric diagnosis",
+              "Communicating a consistent choice"
+            ],
+            "originalOptions": [
+              "Understanding relevant information about the treatment",
+              "Appreciating how the information applies to their own situation",
+              "Reasoning about the available treatment options",
+              "Having no psychiatric diagnosis",
+              "Communicating a consistent choice"
+            ],
+            "correctAnswer": "D) Having no psychiatric diagnosis",
+            "correctAnswerText": "Having no psychiatric diagnosis",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Capacity requires understanding, appreciation, reasoning, and the ability to communicate a consistent choice. A psychiatric diagnosis alone does not equal lack of capacity, since capacity is decision-specific and can fluctuate independently of diagnosis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__10__7g2ze8",
+            "number": "10",
+            "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
+            "options": [
+              "Capacity",
+              "Autonomy",
+              "Competence",
+              "Insight",
+              "Judgment"
+            ],
+            "originalOptions": [
+              "Capacity",
+              "Autonomy",
+              "Competence",
+              "Insight",
+              "Judgment"
+            ],
+            "correctAnswer": "C) Competence",
+            "correctAnswerText": "Competence",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Competence is a legal determination made by a court and tends to be more globally stable, whereas capacity is a clinical assessment made by physicians that is decision-specific and can change over time.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__11__rbd9y0",
+            "number": "11",
+            "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
+            "options": [
+              "Justice",
+              "Beneficence",
+              "Non-maleficence",
+              "Competence",
+              "Autonomy"
+            ],
+            "originalOptions": [
+              "Justice",
+              "Beneficence",
+              "Non-maleficence",
+              "Competence",
+              "Autonomy"
+            ],
+            "correctAnswer": "E) Autonomy",
+            "correctAnswerText": "Autonomy",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Autonomy underlies a patient's right to receive truthful information, give informed consent, and have their disclosures kept confidential, since all of these depend on respecting the patient's self-determination and control over their own care.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [
@@ -1276,6 +1626,347 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__psychology__1__2x0qqn",
+        "number": "1",
+        "text": "Psychology Which of the following statements best describes Alogia?",
+        "options": [
+          "It refers to speech that lacks content but is delivered fluently and without hesitation",
+          "It involves both poverty in speech output and poverty in the content of speech",
+          "It refers to speech that is rich in content but delivered in an impoverished, halting manner",
+          "It refers to an excessive amount of speech with overly detailed content",
+          "It refers to speech that is normal in amount but disorganized in structure"
+        ],
+        "originalOptions": [
+          "It refers to speech that lacks content but is delivered fluently and without hesitation",
+          "It involves both poverty in speech output and poverty in the content of speech",
+          "It refers to speech that is rich in content but delivered in an impoverished, halting manner",
+          "It refers to an excessive amount of speech with overly detailed content",
+          "It refers to speech that is normal in amount but disorganized in structure"
+        ],
+        "correctAnswer": "B) It involves both poverty in speech output and poverty in the content of speech",
+        "correctAnswerText": "It involves both poverty in speech output and poverty in the content of speech",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Alogia (poverty of speech) is a negative symptom involving reduction in both the amount of speech produced and the richness of its content. This distinguishes it from disorders of speech delivery alone, where content may still be preserved.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__2__8zspe3",
+        "number": "2",
+        "text": "Which of the following is NOT a component of thought content?",
+        "options": [
+          "Hallucinations",
+          "Suicidal ideation/homicidal ideation",
+          "Delusions",
+          "Obsessions",
+          "Overvalued ideas"
+        ],
+        "originalOptions": [
+          "Hallucinations",
+          "Suicidal ideation/homicidal ideation",
+          "Delusions",
+          "Obsessions",
+          "Overvalued ideas"
+        ],
+        "correctAnswer": "A) Hallucinations",
+        "correctAnswerText": "Hallucinations",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Thought content covers delusions, obsessions, overvalued ideas, and suicidal/homicidal ideation. Hallucinations are a disturbance of perception, not thought content, so they are assessed separately under the perception domain of the MSE.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__3__2wo25y",
+        "number": "3",
+        "text": "What is the difference between mood and affect?",
+        "options": [
+          "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
+          "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
+          "Mood and affect are interchangeable terms describing the same clinical finding",
+          "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+          "Mood refers only to observable facial expression, while affect refers to the patient's subjective report"
+        ],
+        "originalOptions": [
+          "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
+          "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
+          "Mood and affect are interchangeable terms describing the same clinical finding",
+          "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+          "Mood refers only to observable facial expression, while affect refers to the patient's subjective report"
+        ],
+        "correctAnswer": "D) Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+        "correctAnswerText": "Mood is the internal and sustained emotional state, while affect is the external expression of emotions",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Mood is the patient's subjective, sustained internal emotional climate, typically elicited by asking how they feel. Affect is the examiner's objective observation of the moment-to-moment external expression of that emotion during the interview.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__4__qyeep1",
+        "number": "4",
+        "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
+        "options": [
+          "Justice",
+          "Beneficence",
+          "Non-maleficence",
+          "Autonomy",
+          "Confidentiality"
+        ],
+        "originalOptions": [
+          "Justice",
+          "Beneficence",
+          "Non-maleficence",
+          "Autonomy",
+          "Confidentiality"
+        ],
+        "correctAnswer": "D) Autonomy",
+        "correctAnswerText": "Autonomy",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Autonomy is the patient's right to make informed decisions about their own care, including the right to refuse even life-saving treatment, provided they have decision-making capacity. The physician's role is to ensure understanding and document the discussion, not to override the choice.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__5__g75hoj",
+        "number": "5",
+        "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
+        "options": [
+          "Justice",
+          "Non-maleficence",
+          "Autonomy",
+          "Beneficence",
+          "Confidentiality"
+        ],
+        "originalOptions": [
+          "Justice",
+          "Non-maleficence",
+          "Autonomy",
+          "Beneficence",
+          "Confidentiality"
+        ],
+        "correctAnswer": "B) Non-maleficence",
+        "correctAnswerText": "Non-maleficence",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Non-maleficence means \"do no harm.\" Causing avoidable harm, such as unnecessary side effects or injury from an excessive dose that provided no additional benefit, is a direct breach of this principle rather than of beneficence, which concerns actively promoting the patient's welfare.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__6__w3qvni",
+        "number": "6",
+        "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
+        "options": [
+          "Beneficence",
+          "Justice",
+          "Non-maleficence",
+          "Autonomy",
+          "Confidentiality"
+        ],
+        "originalOptions": [
+          "Beneficence",
+          "Justice",
+          "Non-maleficence",
+          "Autonomy",
+          "Confidentiality"
+        ],
+        "correctAnswer": "A) Beneficence",
+        "correctAnswerText": "Beneficence",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Beneficence is the duty to actively act in the patient's best interest, such as providing effective treatment, preventing harm, and supporting recovery. This differs from non-maleficence, which is about avoiding harm rather than actively promoting benefit.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__7__qd4vwr",
+        "number": "7",
+        "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
+        "options": [
+          "Autonomy",
+          "Beneficence",
+          "Non-maleficence",
+          "Confidentiality",
+          "Justice"
+        ],
+        "originalOptions": [
+          "Autonomy",
+          "Beneficence",
+          "Non-maleficence",
+          "Confidentiality",
+          "Justice"
+        ],
+        "correctAnswer": "E) Justice",
+        "correctAnswerText": "Justice",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Justice refers to fair and equal treatment, including equal access to care regardless of social standing, and avoiding discrimination or use of influence to obtain preferential treatment. Allocating resources by clinical need rather than status exemplifies this principle.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__8__bwdj8l",
+        "number": "8",
+        "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
+        "options": [
+          "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
+          "Disclose only the minimum necessary information to protect the identified person at risk",
+          "Disclose the patient's entire treatment record to the police",
+          "Wait until the patient is discharged before taking any action",
+          "Ask the patient's family to decide whether to report it"
+        ],
+        "originalOptions": [
+          "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
+          "Disclose only the minimum necessary information to protect the identified person at risk",
+          "Disclose the patient's entire treatment record to the police",
+          "Wait until the patient is discharged before taking any action",
+          "Ask the patient's family to decide whether to report it"
+        ],
+        "correctAnswer": "B) Disclose only the minimum necessary information to protect the identified person at risk",
+        "correctAnswerText": "Disclose only the minimum necessary information to protect the identified person at risk",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Confidentiality may be overridden when there is a serious risk of harm to others, such as a specific, credible threat of violence. The guiding principle is to disclose only the minimum information necessary to protect the person at risk, not the full record.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__9__h8ntno",
+        "number": "9",
+        "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
+        "options": [
+          "Understanding relevant information about the treatment",
+          "Appreciating how the information applies to their own situation",
+          "Reasoning about the available treatment options",
+          "Having no psychiatric diagnosis",
+          "Communicating a consistent choice"
+        ],
+        "originalOptions": [
+          "Understanding relevant information about the treatment",
+          "Appreciating how the information applies to their own situation",
+          "Reasoning about the available treatment options",
+          "Having no psychiatric diagnosis",
+          "Communicating a consistent choice"
+        ],
+        "correctAnswer": "D) Having no psychiatric diagnosis",
+        "correctAnswerText": "Having no psychiatric diagnosis",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Capacity requires understanding, appreciation, reasoning, and the ability to communicate a consistent choice. A psychiatric diagnosis alone does not equal lack of capacity, since capacity is decision-specific and can fluctuate independently of diagnosis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__10__7g2ze8",
+        "number": "10",
+        "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
+        "options": [
+          "Capacity",
+          "Autonomy",
+          "Competence",
+          "Insight",
+          "Judgment"
+        ],
+        "originalOptions": [
+          "Capacity",
+          "Autonomy",
+          "Competence",
+          "Insight",
+          "Judgment"
+        ],
+        "correctAnswer": "C) Competence",
+        "correctAnswerText": "Competence",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Competence is a legal determination made by a court and tends to be more globally stable, whereas capacity is a clinical assessment made by physicians that is decision-specific and can change over time.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__11__rbd9y0",
+        "number": "11",
+        "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
+        "options": [
+          "Justice",
+          "Beneficence",
+          "Non-maleficence",
+          "Competence",
+          "Autonomy"
+        ],
+        "originalOptions": [
+          "Justice",
+          "Beneficence",
+          "Non-maleficence",
+          "Competence",
+          "Autonomy"
+        ],
+        "correctAnswer": "E) Autonomy",
+        "correctAnswerText": "Autonomy",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Autonomy underlies a patient's right to receive truthful information, give informed consent, and have their disclosures kept confidential, since all of these depend on respecting the patient's self-determination and control over their own care.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__amrm9",
         "number": "1",
         "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -1586,8 +2277,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 25,
-    "totalLectures": 3,
+    "totalQuestions": 36,
+    "totalLectures": 4,
     "hasAiFolder": true
   }
 ]
