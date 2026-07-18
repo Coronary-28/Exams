@@ -835,6 +835,294 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "introduction__lecture__radiology",
+        "name": "Radiology",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Radiology.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__radiology__1__m4br5d",
+            "number": "1",
+            "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+            "options": [
+              "Ultrasound",
+              "T1-weighted MRI",
+              "Computed tomography (CT)",
+              "Doppler ultrasound",
+              "T2-weighted MRI"
+            ],
+            "originalOptions": [
+              "Ultrasound",
+              "T1-weighted MRI",
+              "Computed tomography (CT)",
+              "Doppler ultrasound",
+              "T2-weighted MRI"
+            ],
+            "correctAnswer": "C) Computed tomography (CT)",
+            "correctAnswerText": "Computed tomography (CT)",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "CT uses x-rays (ionizing radiation) to construct cross-sectional \"slices\" of the body, exactly like a conventional radiograph. MRI and ultrasound, in all their sequences/modes, do not use ionizing radiation, making them safer alternatives for repeated imaging.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__2__fbrbwd",
+            "number": "2",
+            "text": "An erect chest radiograph shows a thin white visceral pleural line with no lung markings peripheral to it, and an adjacent area that is darker than the surrounding lung. Which pathology produces this radiolucent appearance?",
+            "options": [
+              "Pleural effusion",
+              "Pneumothorax",
+              "Heart failure with pulmonary congestion",
+              "Osteoarthritis with sclerosis",
+              "Rheumatoid arthritis with soft tissue swelling"
+            ],
+            "originalOptions": [
+              "Pleural effusion",
+              "Pneumothorax",
+              "Heart failure with pulmonary congestion",
+              "Osteoarthritis with sclerosis",
+              "Rheumatoid arthritis with soft tissue swelling"
+            ],
+            "correctAnswer": "B) Pneumothorax",
+            "correctAnswerText": "Pneumothorax",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Pneumothorax is gas within the pleural space; because it contains no vessels or lymphatics, it appears markedly radiolucent (dark) compared to aerated lung, which still contains vascular and bronchial structures. Pleural effusion and heart failure instead produce opacity (whiteness) on chest x-ray, the opposite finding.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__3__3axz1g",
+            "number": "3",
+            "text": "On a CT scan, which structures appear white?",
+            "options": [
+              "Hyperdense structures",
+              "Hypodense structures",
+              "Isodense structures",
+              "Radiolucent structures",
+              "Hypoechoic structures"
+            ],
+            "originalOptions": [
+              "Hyperdense structures",
+              "Hypodense structures",
+              "Isodense structures",
+              "Radiolucent structures",
+              "Hypoechoic structures"
+            ],
+            "correctAnswer": "A) Hyperdense structures",
+            "correctAnswerText": "Hyperdense structures",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "CT terminology describes density relative to surrounding tissue as hyperdense (white), hypodense (black), or isodense (equal), with bone being a classic hyperdense example. \"Radiolucent\" is the equivalent x-ray term and \"hypoechoic\" is an ultrasound term, so applying them to CT is a common terminology mix-up.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__4__tsvbkc",
+            "number": "4",
+            "text": "Which of the following best defines hydrocephalus?",
+            "options": [
+              "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
+              "Overproduction of CSF by a choroid plexus papilloma",
+              "Obstruction of CSF flow at the foramen of Monro by a colloid cyst",
+              "Compensatory dilation of the ventricles secondary to brain atrophy",
+              "Increase in the volume of CSF causing distension of the cerebral ventricles"
+            ],
+            "originalOptions": [
+              "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
+              "Overproduction of CSF by a choroid plexus papilloma",
+              "Obstruction of CSF flow at the foramen of Monro by a colloid cyst",
+              "Compensatory dilation of the ventricles secondary to brain atrophy",
+              "Increase in the volume of CSF causing distension of the cerebral ventricles"
+            ],
+            "correctAnswer": "E) Increase in the volume of CSF causing distension of the cerebral ventricles",
+            "correctAnswerText": "Increase in the volume of CSF causing distension of the cerebral ventricles",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Hydrocephalus is defined as ventriculomegaly resulting from increased CSF volume, regardless of the underlying cause. Options A, B, and C describe specific mechanisms/causes (communicating vs. non-communicating types) rather than the definition itself, while option D describes ex-vacuo ventricular enlargement from atrophy, a mimicker that is not true hydrocephalus since CSF volume is not increased.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__5__xr6kbu",
+            "number": "5",
+            "text": "A patient with symmetric small joint involvement shows the following radiographic finding. Which abnormality is characteristic of rheumatoid arthritis rather than osteoarthritis?",
+            "options": [
+              "Osteophyte formation",
+              "Subchondral cyst (geode) formation",
+              "Asymmetric joint space narrowing",
+              "Marginal bone erosions",
+              "Sacroiliitis"
+            ],
+            "originalOptions": [
+              "Osteophyte formation",
+              "Subchondral cyst (geode) formation",
+              "Asymmetric joint space narrowing",
+              "Marginal bone erosions",
+              "Sacroiliitis"
+            ],
+            "correctAnswer": "D) Marginal bone erosions",
+            "correctAnswerText": "Marginal bone erosions",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Rheumatoid arthritis characteristically produces marginal erosions, soft tissue swelling, juxta-articular then generalized osteoporosis, and symmetric joint space narrowing. Osteophytes, subchondral cysts, and asymmetric narrowing instead point to osteoarthritis, while sacroiliitis is the earliest radiological finding in ankylosing spondylitis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__6__nfnus1",
+            "number": "6",
+            "text": "On MRI, structures that appear white are described using which term?",
+            "options": [
+              "Hyperintense",
+              "Hypointense",
+              "Isointense",
+              "Hyperdense",
+              "Hyperechoic"
+            ],
+            "originalOptions": [
+              "Hyperintense",
+              "Hypointense",
+              "Isointense",
+              "Hyperdense",
+              "Hyperechoic"
+            ],
+            "correctAnswer": "A) Hyperintense",
+            "correctAnswerText": "Hyperintense",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "MRI signal intensity is described as hyperintense (white), hypointense (black), or isointense (equal signal), unlike CT which uses \"hyperdense/hypodense\" or ultrasound which uses \"hyperechoic/hypoechoic.\" Mixing up these modality-specific terms is a classic exam trap.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__7__rqkinm",
+            "number": "7",
+            "text": "Which of the following imaging modalities relies on ionizing radiation, unlike the others listed?",
+            "options": [
+              "Chest ultrasound",
+              "Cardiac MRI",
+              "Conventional radiograph (X-ray)",
+              "T2-weighted MRI",
+              "Doppler ultrasound"
+            ],
+            "originalOptions": [
+              "Chest ultrasound",
+              "Cardiac MRI",
+              "Conventional radiograph (X-ray)",
+              "T2-weighted MRI",
+              "Doppler ultrasound"
+            ],
+            "correctAnswer": "C) Conventional radiograph (X-ray)",
+            "correctAnswerText": "Conventional radiograph (X-ray)",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "The conventional radiograph utilizes ionizing radiation to produce images, the same principle CT is built on. Ultrasound and MRI, regardless of sequence or mode, do not use ionizing radiation, which is why they are preferred when repeated imaging or radiation avoidance is needed.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__8__b12ddq",
+            "number": "8",
+            "text": "Which imaging modality avoids ionizing radiation by instead using a large, powerful magnet to generate images?",
+            "options": [
+              "CT",
+              "Conventional radiograph",
+              "MRI",
+              "Fluoroscopy",
+              "Mammography"
+            ],
+            "originalOptions": [
+              "CT",
+              "Conventional radiograph",
+              "MRI",
+              "Fluoroscopy",
+              "Mammography"
+            ],
+            "correctAnswer": "C) MRI",
+            "correctAnswerText": "MRI",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "MRI does not use ionizing radiation; instead, the scanner consists of a large, powerful magnet in which the patient lies, and images are generated using sequences such as T1, T2, FLAIR, and DWI. CT, radiographs, fluoroscopy, and mammography all rely on x-rays.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__9__6iea3l",
+            "number": "9",
+            "text": "A patient presents with a new cough. What is the most appropriate initial imaging test to evaluate the chest?",
+            "options": [
+              "Chest CT with contrast",
+              "Chest ultrasound",
+              "Cardiac MRI",
+              "Chest radiograph (X-ray)",
+              "Mammography"
+            ],
+            "originalOptions": [
+              "Chest CT with contrast",
+              "Chest ultrasound",
+              "Cardiac MRI",
+              "Chest radiograph (X-ray)",
+              "Mammography"
+            ],
+            "correctAnswer": "D) Chest radiograph (X-ray)",
+            "correctAnswerText": "Chest radiograph (X-ray)",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "For any chest complaint, the chest x-ray is the first study obtained, since it is fast, widely available, and gives a broad initial assessment. CT is reserved for further characterization, ultrasound is mainly used for pleural effusion follow-up or procedures, and MRI of the chest is rarely performed.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [
@@ -2605,6 +2893,285 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__radiology__1__m4br5d",
+        "number": "1",
+        "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+        "options": [
+          "Ultrasound",
+          "T1-weighted MRI",
+          "Computed tomography (CT)",
+          "Doppler ultrasound",
+          "T2-weighted MRI"
+        ],
+        "originalOptions": [
+          "Ultrasound",
+          "T1-weighted MRI",
+          "Computed tomography (CT)",
+          "Doppler ultrasound",
+          "T2-weighted MRI"
+        ],
+        "correctAnswer": "C) Computed tomography (CT)",
+        "correctAnswerText": "Computed tomography (CT)",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "CT uses x-rays (ionizing radiation) to construct cross-sectional \"slices\" of the body, exactly like a conventional radiograph. MRI and ultrasound, in all their sequences/modes, do not use ionizing radiation, making them safer alternatives for repeated imaging.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__2__fbrbwd",
+        "number": "2",
+        "text": "An erect chest radiograph shows a thin white visceral pleural line with no lung markings peripheral to it, and an adjacent area that is darker than the surrounding lung. Which pathology produces this radiolucent appearance?",
+        "options": [
+          "Pleural effusion",
+          "Pneumothorax",
+          "Heart failure with pulmonary congestion",
+          "Osteoarthritis with sclerosis",
+          "Rheumatoid arthritis with soft tissue swelling"
+        ],
+        "originalOptions": [
+          "Pleural effusion",
+          "Pneumothorax",
+          "Heart failure with pulmonary congestion",
+          "Osteoarthritis with sclerosis",
+          "Rheumatoid arthritis with soft tissue swelling"
+        ],
+        "correctAnswer": "B) Pneumothorax",
+        "correctAnswerText": "Pneumothorax",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Pneumothorax is gas within the pleural space; because it contains no vessels or lymphatics, it appears markedly radiolucent (dark) compared to aerated lung, which still contains vascular and bronchial structures. Pleural effusion and heart failure instead produce opacity (whiteness) on chest x-ray, the opposite finding.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__3__3axz1g",
+        "number": "3",
+        "text": "On a CT scan, which structures appear white?",
+        "options": [
+          "Hyperdense structures",
+          "Hypodense structures",
+          "Isodense structures",
+          "Radiolucent structures",
+          "Hypoechoic structures"
+        ],
+        "originalOptions": [
+          "Hyperdense structures",
+          "Hypodense structures",
+          "Isodense structures",
+          "Radiolucent structures",
+          "Hypoechoic structures"
+        ],
+        "correctAnswer": "A) Hyperdense structures",
+        "correctAnswerText": "Hyperdense structures",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "CT terminology describes density relative to surrounding tissue as hyperdense (white), hypodense (black), or isodense (equal), with bone being a classic hyperdense example. \"Radiolucent\" is the equivalent x-ray term and \"hypoechoic\" is an ultrasound term, so applying them to CT is a common terminology mix-up.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__4__tsvbkc",
+        "number": "4",
+        "text": "Which of the following best defines hydrocephalus?",
+        "options": [
+          "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
+          "Overproduction of CSF by a choroid plexus papilloma",
+          "Obstruction of CSF flow at the foramen of Monro by a colloid cyst",
+          "Compensatory dilation of the ventricles secondary to brain atrophy",
+          "Increase in the volume of CSF causing distension of the cerebral ventricles"
+        ],
+        "originalOptions": [
+          "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
+          "Overproduction of CSF by a choroid plexus papilloma",
+          "Obstruction of CSF flow at the foramen of Monro by a colloid cyst",
+          "Compensatory dilation of the ventricles secondary to brain atrophy",
+          "Increase in the volume of CSF causing distension of the cerebral ventricles"
+        ],
+        "correctAnswer": "E) Increase in the volume of CSF causing distension of the cerebral ventricles",
+        "correctAnswerText": "Increase in the volume of CSF causing distension of the cerebral ventricles",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Hydrocephalus is defined as ventriculomegaly resulting from increased CSF volume, regardless of the underlying cause. Options A, B, and C describe specific mechanisms/causes (communicating vs. non-communicating types) rather than the definition itself, while option D describes ex-vacuo ventricular enlargement from atrophy, a mimicker that is not true hydrocephalus since CSF volume is not increased.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__5__xr6kbu",
+        "number": "5",
+        "text": "A patient with symmetric small joint involvement shows the following radiographic finding. Which abnormality is characteristic of rheumatoid arthritis rather than osteoarthritis?",
+        "options": [
+          "Osteophyte formation",
+          "Subchondral cyst (geode) formation",
+          "Asymmetric joint space narrowing",
+          "Marginal bone erosions",
+          "Sacroiliitis"
+        ],
+        "originalOptions": [
+          "Osteophyte formation",
+          "Subchondral cyst (geode) formation",
+          "Asymmetric joint space narrowing",
+          "Marginal bone erosions",
+          "Sacroiliitis"
+        ],
+        "correctAnswer": "D) Marginal bone erosions",
+        "correctAnswerText": "Marginal bone erosions",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Rheumatoid arthritis characteristically produces marginal erosions, soft tissue swelling, juxta-articular then generalized osteoporosis, and symmetric joint space narrowing. Osteophytes, subchondral cysts, and asymmetric narrowing instead point to osteoarthritis, while sacroiliitis is the earliest radiological finding in ankylosing spondylitis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__6__nfnus1",
+        "number": "6",
+        "text": "On MRI, structures that appear white are described using which term?",
+        "options": [
+          "Hyperintense",
+          "Hypointense",
+          "Isointense",
+          "Hyperdense",
+          "Hyperechoic"
+        ],
+        "originalOptions": [
+          "Hyperintense",
+          "Hypointense",
+          "Isointense",
+          "Hyperdense",
+          "Hyperechoic"
+        ],
+        "correctAnswer": "A) Hyperintense",
+        "correctAnswerText": "Hyperintense",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "MRI signal intensity is described as hyperintense (white), hypointense (black), or isointense (equal signal), unlike CT which uses \"hyperdense/hypodense\" or ultrasound which uses \"hyperechoic/hypoechoic.\" Mixing up these modality-specific terms is a classic exam trap.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__7__rqkinm",
+        "number": "7",
+        "text": "Which of the following imaging modalities relies on ionizing radiation, unlike the others listed?",
+        "options": [
+          "Chest ultrasound",
+          "Cardiac MRI",
+          "Conventional radiograph (X-ray)",
+          "T2-weighted MRI",
+          "Doppler ultrasound"
+        ],
+        "originalOptions": [
+          "Chest ultrasound",
+          "Cardiac MRI",
+          "Conventional radiograph (X-ray)",
+          "T2-weighted MRI",
+          "Doppler ultrasound"
+        ],
+        "correctAnswer": "C) Conventional radiograph (X-ray)",
+        "correctAnswerText": "Conventional radiograph (X-ray)",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "The conventional radiograph utilizes ionizing radiation to produce images, the same principle CT is built on. Ultrasound and MRI, regardless of sequence or mode, do not use ionizing radiation, which is why they are preferred when repeated imaging or radiation avoidance is needed.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__8__b12ddq",
+        "number": "8",
+        "text": "Which imaging modality avoids ionizing radiation by instead using a large, powerful magnet to generate images?",
+        "options": [
+          "CT",
+          "Conventional radiograph",
+          "MRI",
+          "Fluoroscopy",
+          "Mammography"
+        ],
+        "originalOptions": [
+          "CT",
+          "Conventional radiograph",
+          "MRI",
+          "Fluoroscopy",
+          "Mammography"
+        ],
+        "correctAnswer": "C) MRI",
+        "correctAnswerText": "MRI",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "MRI does not use ionizing radiation; instead, the scanner consists of a large, powerful magnet in which the patient lies, and images are generated using sequences such as T1, T2, FLAIR, and DWI. CT, radiographs, fluoroscopy, and mammography all rely on x-rays.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__9__6iea3l",
+        "number": "9",
+        "text": "A patient presents with a new cough. What is the most appropriate initial imaging test to evaluate the chest?",
+        "options": [
+          "Chest CT with contrast",
+          "Chest ultrasound",
+          "Cardiac MRI",
+          "Chest radiograph (X-ray)",
+          "Mammography"
+        ],
+        "originalOptions": [
+          "Chest CT with contrast",
+          "Chest ultrasound",
+          "Cardiac MRI",
+          "Chest radiograph (X-ray)",
+          "Mammography"
+        ],
+        "correctAnswer": "D) Chest radiograph (X-ray)",
+        "correctAnswerText": "Chest radiograph (X-ray)",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "For any chest complaint, the chest x-ray is the first study obtained, since it is fast, widely available, and gives a broad initial assessment. CT is reserved for further characterization, ultrasound is mainly used for pleural effusion follow-up or procedures, and MRI of the chest is rarely performed.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__amrm9",
         "number": "1",
         "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -3535,8 +4102,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 56,
-    "totalLectures": 6,
+    "totalQuestions": 65,
+    "totalLectures": 7,
     "hasAiFolder": true
   }
 ]
