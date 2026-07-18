@@ -1,0 +1,100 @@
+Ophthalmology
+A patient underwent uncomplicated cataract surgery three weeks ago and now presents with a red, painful eye. What is the most likely diagnosis?
+A) Endophthalmitis
+B) Allergic conjunctivitis
+C) Exposure keratopathy
+D) Recurrent anterior uveitis
+E) Blepharitis flare
+Correct Answer: A) Endophthalmitis
+Explanation:
+A patient with recent cataract surgery presenting with red, painful eye must be assumed to have endophthalmitis until proven otherwise, as it is a sight-threatening postoperative infection requiring urgent management. Allergic conjunctivitis and blepharitis do not carry this same post-surgical urgency.
+###
+During the swinging light test, light is moved to the affected eye and both pupils dilate instead of constricting. What does this finding represent?
+A) Normal consensual reflex
+B) Bilateral optic neuritis
+C) A positive relative afferent pupillary defect
+D) Horner syndrome
+E) Adie tonic pupil
+Correct Answer: C) A positive relative afferent pupillary defect
+Explanation:
+A positive RAPD occurs when light swung to the affected eye produces paradoxical dilation of both pupils because that eye has a reduced afferent signal reaching the brain. This paradoxical response distinguishes RAPD from a normal reflex, where both pupils would constrict equally.
+###
+A glaucoma patient with a known sulfa allergy needs additional intraocular pressure control. Which medication should be avoided?
+A) Timolol
+B) Latanoprost
+C) Brimonidine
+D) Acetazolamide
+E) Pilocarpine
+Correct Answer: D) Acetazolamide
+Explanation:
+Acetazolamide is a sulfonamide-derived carbonic anhydrase inhibitor, so it must be avoided in patients with a documented sulfa allergy. The other listed glaucoma agents belong to different drug classes and do not carry this cross-reactivity risk.
+###
+A patient has limited abduction of one eye on examination, with normal movement in all other directions. Which cranial nerve is most likely affected?
+A) Oculomotor nerve
+B) Trochlear nerve
+C) Trigeminal nerve
+D) Abducent nerve
+E) Facial nerve
+Correct Answer: D) Abducent nerve
+Explanation:
+Isolated limitation of abduction in one eye reflects lateral rectus weakness, which is supplied by the abducent (CN VI) nerve. The oculomotor and trochlear nerves control other extraocular muscles and would not cause this isolated abduction deficit.
+###
+A patient on long-term antimalarial therapy develops progressive visual field loss. Which drug is most associated with this retinal complication?
+A) Roaccutane
+B) Topical steroids
+C) Acetazolamide
+D) Anticholinergics
+E) Chloroquine
+Correct Answer: E) Chloroquine
+Explanation:
+Chloroquine and related antimalarials are well recognized to cause retinal toxicity with long-term use, which can lead to progressive visual field loss. Roaccutane instead causes severe ocular dryness, and topical steroids are more associated with cataract and raised intraocular pressure.
+###
+On confrontation visual field testing, the examiner notes the patient's blind spot is larger than expected. What should this finding raise suspicion for?
+A) Optic nerve disorder such as papilledema
+B) Normal anatomical variant
+C) Refractive error
+D) Cataract formation
+E) Eyelid malposition
+Correct Answer: A) Optic nerve disorder such as papilledema
+Explanation:
+The physiological blind spot should have a fixed, unenlarged size on confrontation testing; enlargement points toward an optic nerve disorder such as papilledema or optic neuritis. A refractive error or cataract would not selectively enlarge the blind spot.
+###
+A patient presents with bilateral limitation of abduction on eye movement examination. Which location is most likely responsible?
+A) Optic chiasm
+B) Brainstem
+C) Occipital cortex
+D) Ciliary body
+E) Optic radiation
+Correct Answer: B) Brainstem
+Explanation:
+Bilateral limitation of abduction suggests a lesion affecting both abducent nerve pathways simultaneously, which localizes to the brainstem rather than a single peripheral nerve. Chiasmal or occipital lesions instead produce visual field defects rather than isolated bilateral eye movement restriction.
+###
+A patient with a history of chronic topical steroid use for ocular inflammation develops gradually worsening vision. Which type of cataract is most classically associated with steroid use?
+A) Nuclear sclerotic cataract
+B) Posterior subcapsular cataract
+C) Cortical cataract
+D) Congenital cataract
+E) Traumatic cataract
+Correct Answer: B) Posterior subcapsular cataract
+Explanation:
+Chronic steroid use is classically linked to posterior subcapsular cataract formation, which characteristically causes early visual disturbance despite a relatively clear lens periphery. Nuclear sclerotic and cortical cataracts are more typically age-related rather than steroid-induced.
+###
+During ophthalmoscopy, the examiner needs to determine whether the fundus image belongs to the right or left eye. Which anatomical relationship allows this distinction?
+A) Position of the optic disc relative to the fovea
+B) Size of the retinal vessels
+C) Color of the choroid
+D) Location of the ciliary body
+E) Position of the optic disc relative to the macula
+Correct Answer: E) Position of the optic disc relative to the macula
+Explanation:
+The optic disc lies nasal to the macula, so identifying which side the disc appears on relative to the macula tells the examiner whether the image is of the right or left eye. Vessel size and choroidal color do not vary in a way that reliably indicates laterality.
+###
+A patient presents with progressive loss of the outer visual field in both eyes, sparing the central visual field. Which underlying process is most likely responsible?
+A) Retinal detachment
+B) Acute angle-closure glaucoma
+C) Compression at the optic chiasm
+D) Age-related macular degeneration
+E) Transient ischemic attack
+Correct Answer: C) Compression at the optic chiasm
+Explanation:
+Bitemporal visual field loss reflects damage to the crossing nasal retinal fibers at the optic chiasm, most commonly from a compressive lesion such as a pituitary adenoma. Retinal detachment and AMD instead produce peripheral or central field loss localized to one eye rather than a bitemporal pattern.
