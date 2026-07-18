@@ -14,6 +14,7 @@
             "id": "introduction__lecture__ent__1__kqay5k",
             "number": "1",
             "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+            "imageUrl": null,
             "options": [
               "Septal deviation",
               "Allergic rhinitis",
@@ -45,6 +46,7 @@
             "id": "introduction__lecture__ent__2__fitit1",
             "number": "2",
             "text": "A patient has bone conduction better than air conduction on the right ear (negative Rinne). On Weber's test, sound is heard better in the right ear. What is the diagnosis?",
+            "imageUrl": null,
             "options": [
               "Right conductive hearing loss",
               "Left conductive hearing loss",
@@ -76,6 +78,7 @@
             "id": "introduction__lecture__ent__3__awc2cf",
             "number": "3",
             "text": "What tuning fork frequency is used for hearing tests?",
+            "imageUrl": null,
             "options": [
               "128 Hz",
               "256 Hz",
@@ -107,6 +110,7 @@
             "id": "introduction__lecture__ent__4__lzafsj",
             "number": "4",
             "text": "A child presents with a midline neck lump that moves when they stick out their tongue. What is the diagnosis?",
+            "imageUrl": null,
             "options": [
               "Dermoid cyst",
               "Submental lymph node",
@@ -147,6 +151,7 @@
             "id": "introduction__lecture__forensic__1__m6g1z7",
             "number": "1",
             "text": "Forensic Which of the following is NOT an early sign of death?",
+            "imageUrl": null,
             "options": [
               "Livor mortis (postmortem hypostasis)",
               "Rigor mortis",
@@ -178,6 +183,7 @@
             "id": "introduction__lecture__forensic__2__7s8bw",
             "number": "2",
             "text": "Traumatic asphyxia results from severe injury to which part of the body?",
+            "imageUrl": null,
             "options": [
               "Neck",
               "Chest (with abdomen)",
@@ -209,6 +215,7 @@
             "id": "introduction__lecture__forensic__3__egnwux",
             "number": "3",
             "text": "In forensic medicine, strangulation can be categorized into which manner of death?",
+            "imageUrl": null,
             "options": [
               "Suicidal manner",
               "Homicidal manner",
@@ -240,6 +247,7 @@
             "id": "introduction__lecture__forensic__4__p7vnwd",
             "number": "4",
             "text": "Which type of injury is not caused by a blunt object but rather by a sharp object, typically resulting in clean, well-defined wound edges?",
+            "imageUrl": null,
             "options": [
               "Laceration",
               "Abrasion",
@@ -271,6 +279,7 @@
             "id": "introduction__lecture__forensic__5__3t2y52",
             "number": "5",
             "text": "What is the approximate time window during which myocardial cells can be harvested after cardiac arrest?",
+            "imageUrl": null,
             "options": [
               "60 minutes",
               "5-7 minutes",
@@ -302,6 +311,7 @@
             "id": "introduction__lecture__forensic__6__xpmw1v",
             "number": "6",
             "text": "Stab wounds can be classified into which of the following categories?",
+            "imageUrl": null,
             "options": [
               "Sharp",
               "Blunt",
@@ -333,6 +343,7 @@
             "id": "introduction__lecture__forensic__7__9pgaj1",
             "number": "7",
             "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+            "imageUrl": null,
             "options": [
               "Knife",
               "Razor",
@@ -364,6 +375,7 @@
             "id": "introduction__lecture__forensic__8__hc5fro",
             "number": "8",
             "text": "The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?",
+            "imageUrl": null,
             "options": [
               "Depolymerization of actin filaments",
               "Binding of actin and myosin fibres into a gel",
@@ -395,6 +407,7 @@
             "id": "introduction__lecture__forensic__9__ltsx96",
             "number": "9",
             "text": "Smothering is best defined as which of the following?",
+            "imageUrl": null,
             "options": [
               "Compression on neck structures by ligature",
               "Compression on neck structures by the weight of the body",
@@ -426,6 +439,7 @@
             "id": "introduction__lecture__forensic__10__oyx90z",
             "number": "10",
             "text": "A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?",
+            "imageUrl": null,
             "options": [
               "Incision",
               "Abrasion",
@@ -457,6 +471,7 @@
             "id": "introduction__lecture__forensic__11__7ok9ex",
             "number": "11",
             "text": "The color of skin discoloration seen in postmortem hypostasis is primarily determined by which factor?",
+            "imageUrl": null,
             "options": [
               "The ambient temperature at the death scene",
               "The position in which the body was found",
@@ -497,6 +512,7 @@
             "id": "introduction__lecture__psychology__1__2x0qqn",
             "number": "1",
             "text": "Psychology Which of the following statements best describes Alogia?",
+            "imageUrl": null,
             "options": [
               "It refers to speech that lacks content but is delivered fluently and without hesitation",
               "It involves both poverty in speech output and poverty in the content of speech",
@@ -528,6 +544,7 @@
             "id": "introduction__lecture__psychology__2__8zspe3",
             "number": "2",
             "text": "Which of the following is NOT a component of thought content?",
+            "imageUrl": null,
             "options": [
               "Hallucinations",
               "Suicidal ideation/homicidal ideation",
@@ -559,6 +576,7 @@
             "id": "introduction__lecture__psychology__3__2wo25y",
             "number": "3",
             "text": "What is the difference between mood and affect?",
+            "imageUrl": null,
             "options": [
               "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
               "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
@@ -590,6 +608,7 @@
             "id": "introduction__lecture__psychology__4__qyeep1",
             "number": "4",
             "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
+            "imageUrl": null,
             "options": [
               "Justice",
               "Beneficence",
@@ -621,6 +640,7 @@
             "id": "introduction__lecture__psychology__5__g75hoj",
             "number": "5",
             "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
+            "imageUrl": null,
             "options": [
               "Justice",
               "Non-maleficence",
@@ -652,6 +672,7 @@
             "id": "introduction__lecture__psychology__6__w3qvni",
             "number": "6",
             "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
+            "imageUrl": null,
             "options": [
               "Beneficence",
               "Justice",
@@ -683,6 +704,7 @@
             "id": "introduction__lecture__psychology__7__qd4vwr",
             "number": "7",
             "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
+            "imageUrl": null,
             "options": [
               "Autonomy",
               "Beneficence",
@@ -714,6 +736,7 @@
             "id": "introduction__lecture__psychology__8__bwdj8l",
             "number": "8",
             "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
+            "imageUrl": null,
             "options": [
               "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
               "Disclose only the minimum necessary information to protect the identified person at risk",
@@ -745,6 +768,7 @@
             "id": "introduction__lecture__psychology__9__h8ntno",
             "number": "9",
             "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
+            "imageUrl": null,
             "options": [
               "Understanding relevant information about the treatment",
               "Appreciating how the information applies to their own situation",
@@ -776,6 +800,7 @@
             "id": "introduction__lecture__psychology__10__7g2ze8",
             "number": "10",
             "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
+            "imageUrl": null,
             "options": [
               "Capacity",
               "Autonomy",
@@ -807,6 +832,7 @@
             "id": "introduction__lecture__psychology__11__rbd9y0",
             "number": "11",
             "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
+            "imageUrl": null,
             "options": [
               "Justice",
               "Beneficence",
@@ -847,6 +873,7 @@
             "id": "introduction__lecture__radiology__1__m4br5d",
             "number": "1",
             "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+            "imageUrl": null,
             "options": [
               "Ultrasound",
               "T1-weighted MRI",
@@ -878,6 +905,7 @@
             "id": "introduction__lecture__radiology__2__fbrbwd",
             "number": "2",
             "text": "An erect chest radiograph shows a thin white visceral pleural line with no lung markings peripheral to it, and an adjacent area that is darker than the surrounding lung. Which pathology produces this radiolucent appearance?",
+            "imageUrl": null,
             "options": [
               "Pleural effusion",
               "Pneumothorax",
@@ -909,6 +937,7 @@
             "id": "introduction__lecture__radiology__3__3axz1g",
             "number": "3",
             "text": "On a CT scan, which structures appear white?",
+            "imageUrl": null,
             "options": [
               "Hyperdense structures",
               "Hypodense structures",
@@ -940,6 +969,7 @@
             "id": "introduction__lecture__radiology__4__tsvbkc",
             "number": "4",
             "text": "Which of the following best defines hydrocephalus?",
+            "imageUrl": null,
             "options": [
               "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
               "Overproduction of CSF by a choroid plexus papilloma",
@@ -971,6 +1001,7 @@
             "id": "introduction__lecture__radiology__5__xr6kbu",
             "number": "5",
             "text": "A patient with symmetric small joint involvement shows the following radiographic finding. Which abnormality is characteristic of rheumatoid arthritis rather than osteoarthritis?",
+            "imageUrl": null,
             "options": [
               "Osteophyte formation",
               "Subchondral cyst (geode) formation",
@@ -1002,6 +1033,7 @@
             "id": "introduction__lecture__radiology__6__nfnus1",
             "number": "6",
             "text": "On MRI, structures that appear white are described using which term?",
+            "imageUrl": null,
             "options": [
               "Hyperintense",
               "Hypointense",
@@ -1033,6 +1065,7 @@
             "id": "introduction__lecture__radiology__7__rqkinm",
             "number": "7",
             "text": "Which of the following imaging modalities relies on ionizing radiation, unlike the others listed?",
+            "imageUrl": null,
             "options": [
               "Chest ultrasound",
               "Cardiac MRI",
@@ -1064,6 +1097,7 @@
             "id": "introduction__lecture__radiology__8__b12ddq",
             "number": "8",
             "text": "Which imaging modality avoids ionizing radiation by instead using a large, powerful magnet to generate images?",
+            "imageUrl": null,
             "options": [
               "CT",
               "Conventional radiograph",
@@ -1095,6 +1129,7 @@
             "id": "introduction__lecture__radiology__9__6iea3l",
             "number": "9",
             "text": "A patient presents with a new cough. What is the most appropriate initial imaging test to evaluate the chest?",
+            "imageUrl": null,
             "options": [
               "Chest CT with contrast",
               "Chest ultrasound",
@@ -1137,6 +1172,7 @@
             "id": "introduction__ai__ent__1__amrm9",
             "number": "1",
             "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+            "imageUrl": null,
             "options": [
               "Malleus",
               "Stapes",
@@ -1168,6 +1204,7 @@
             "id": "introduction__ai__ent__2__cqs7ct",
             "number": "2",
             "text": "A 70-year-old poorly controlled diabetic presents with severe otalgia and granulation tissue in the ear canal. Which diagnosis must be suspected?",
+            "imageUrl": null,
             "options": [
               "Acute otitis media",
               "Perichondritis",
@@ -1199,6 +1236,7 @@
             "id": "introduction__ai__ent__3__7n5wf",
             "number": "3",
             "text": "Shedding of otoconia (crystals) from the utricle into the semicircular canals is the underlying mechanism of which condition?",
+            "imageUrl": null,
             "options": [
               "Benign paroxysmal positional vertigo",
               "Vestibular neuritis",
@@ -1230,6 +1268,7 @@
             "id": "introduction__ai__ent__4__xldh44",
             "number": "4",
             "text": "A patient reports recurrent vertigo lasting hours, associated with fluctuating unilateral hearing loss, tinnitus, and aural fullness. What is the most likely diagnosis?",
+            "imageUrl": null,
             "options": [
               "Vestibular neuritis",
               "Benign paroxysmal positional vertigo",
@@ -1261,6 +1300,7 @@
             "id": "introduction__ai__ent__5__spetf9",
             "number": "5",
             "text": "Vesicles in the ear canal accompanied by ipsilateral facial nerve palsy should raise suspicion for which condition?",
+            "imageUrl": null,
             "options": [
               "Acute otitis media",
               "Ramsay Hunt syndrome",
@@ -1292,6 +1332,7 @@
             "id": "introduction__ai__ent__6__fvgebj",
             "number": "6",
             "text": "On Weber's test, sound lateralizes to the right ear. Rinne's test on the right shows bone conduction greater than air conduction. What is the diagnosis?",
+            "imageUrl": null,
             "options": [
               "Left sensorineural hearing loss",
               "Right conductive hearing loss",
@@ -1323,6 +1364,7 @@
             "id": "introduction__ai__ent__7__owqqlv",
             "number": "7",
             "text": "What is the primary function of the Eustachian tube?",
+            "imageUrl": null,
             "options": [
               "Amplification of sound waves",
               "Production of endolymph",
@@ -1354,6 +1396,7 @@
             "id": "introduction__ai__ent__8__ngjkyq",
             "number": "8",
             "text": "During an emergency airway obstruction, a cricothyrotomy is performed through which structure?",
+            "imageUrl": null,
             "options": [
               "Hyoid bone",
               "Thyroid isthmus",
@@ -1385,6 +1428,7 @@
             "id": "introduction__ai__ent__9__vq2z32",
             "number": "9",
             "text": "A 55-year-old smoker presents with hoarseness of voice persisting for more than 3 weeks. What is the most appropriate next step?",
+            "imageUrl": null,
             "options": [
               "Reassure and review in 6 months",
               "Prescribe empirical antibiotics",
@@ -1416,6 +1460,7 @@
             "id": "introduction__ai__ent__10__abspki",
             "number": "10",
             "text": "Tenderness elicited on palpation of the tragus is most suggestive of which condition?",
+            "imageUrl": null,
             "options": [
               "Acute otitis media",
               "Ménière's disease",
@@ -1456,6 +1501,7 @@
             "id": "introduction__ai__forensic__1__ahluix",
             "number": "1",
             "text": "Forensic Death is defined as the complete, irreversible cessation of the integrated function of which three systems?",
+            "imageUrl": null,
             "options": [
               "CNS, RS, CVS",
               "CNS, GIT, CVS",
@@ -1487,6 +1533,7 @@
             "id": "introduction__ai__forensic__2__8et2wc",
             "number": "2",
             "text": "What is the main clinical rationale for recognizing early postmortem changes such as rigor mortis, hypostasis, and decomposition?",
+            "imageUrl": null,
             "options": [
               "To determine the exact cause of death immediately",
               "To confirm death and avoid unnecessary resuscitation attempts",
@@ -1518,6 +1565,7 @@
             "id": "introduction__ai__forensic__3__lalxhu",
             "number": "3",
             "text": "The pale areas seen at pressure points within a region of postmortem hypostasis are best explained by:",
+            "imageUrl": null,
             "options": [
               "Increased hemoglobin breakdown at those sites",
               "Localized rigor mortis affecting the skin",
@@ -1549,6 +1597,7 @@
             "id": "introduction__ai__forensic__4__cmrbgk",
             "number": "4",
             "text": "Rigor mortis characteristically begins first in which muscle group before descending through the body?",
+            "imageUrl": null,
             "options": [
               "Muscles of the hands and fingers",
               "Muscles of the lower limbs",
@@ -1580,6 +1629,7 @@
             "id": "introduction__ai__forensic__5__5ro91u",
             "number": "5",
             "text": "A body found suspended by a ligature around the neck, with compression caused by the weight of the body, is most consistent with which manner of death?",
+            "imageUrl": null,
             "options": [
               "Mostly homicidal",
               "Mostly accidental",
@@ -1611,6 +1661,7 @@
             "id": "introduction__ai__forensic__6__3vc1zk",
             "number": "6",
             "text": "Choking, as a mechanical anoxic death, results from occlusion of the respiratory passages at which level?",
+            "imageUrl": null,
             "options": [
               "Larynx level, from inside",
               "Nose and mouth level, from outside",
@@ -1642,6 +1693,7 @@
             "id": "introduction__ai__forensic__7__fit75r",
             "number": "7",
             "text": "The presence of froth at the mouth when a body is retrieved from water is most suggestive of:",
+            "imageUrl": null,
             "options": [
               "Postmortem submersion after death",
               "Antemortem drowning (alive when submerged)",
@@ -1673,6 +1725,7 @@
             "id": "introduction__ai__forensic__8__r4lf9h",
             "number": "8",
             "text": "In a burn victim, a blood carboxyhemoglobin (CO) level above approximately 10% suggests which of the following?",
+            "imageUrl": null,
             "options": [
               "The person died before the fire started",
               "The person had chronic COPD prior to death",
@@ -1704,6 +1757,7 @@
             "id": "introduction__ai__forensic__9__b2dded",
             "number": "9",
             "text": "\"Gagging\" differs from \"smothering\" mainly in that gagging involves closure of the airway:",
+            "imageUrl": null,
             "options": [
               "At the neck level rather than the mouth",
               "By a ligature rather than by hands",
@@ -1735,6 +1789,7 @@
             "id": "introduction__ai__forensic__10__i68crv",
             "number": "10",
             "text": "Which wound feature at the wound bottom is most useful in distinguishing a laceration from an incised (cut) wound?",
+            "imageUrl": null,
             "options": [
               "Presence of surrounding contusion",
               "Presence of surface bleeding",
@@ -1775,6 +1830,7 @@
             "id": "introduction__ai__psychology__1__nqeq2k",
             "number": "1",
             "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+            "imageUrl": null,
             "options": [
               "A subspecialty of neurology focused on brain imaging",
               "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
@@ -1806,6 +1862,7 @@
             "id": "introduction__ai__psychology__2__tzf0xz",
             "number": "2",
             "text": "Why is psychiatry considered clinically important according to the lecture?",
+            "imageUrl": null,
             "options": [
               "It only becomes relevant during inpatient hospital stays",
               "It is exclusively concerned with rare genetic brain disorders",
@@ -1837,6 +1894,7 @@
             "id": "introduction__ai__psychology__3__f1mbc0",
             "number": "3",
             "text": "According to the biopsychosocial model, mental illness is best understood as:",
+            "imageUrl": null,
             "options": [
               "A condition with a single dominant biological cause",
               "A purely psychological phenomenon unrelated to biology",
@@ -1868,6 +1926,7 @@
             "id": "introduction__ai__psychology__4__tdykdz",
             "number": "4",
             "text": "Which statement correctly distinguishes mental health from mental illness?",
+            "imageUrl": null,
             "options": [
               "Mental health is the complete absence of any disorder",
               "Mental health includes emotional well-being and social functioning",
@@ -1899,6 +1958,7 @@
             "id": "introduction__ai__psychology__5__k2glfp",
             "number": "5",
             "text": "For a condition to be classified as a mental disorder, which combination of features must generally be present?",
+            "imageUrl": null,
             "options": [
               "Disturbance in cognition or behavior, with no distress required",
               "Any unusual thought, regardless of its effect on functioning",
@@ -1930,6 +1990,7 @@
             "id": "introduction__ai__psychology__6__yvx4y9",
             "number": "6",
             "text": "A patient describes an anxiety symptom in which the world suddenly feels vivid, \"like a rainbow,\" yet the sensation is distressing and overwhelming rather than pleasant. This is most consistent with which symptom?",
+            "imageUrl": null,
             "options": [
               "Fear, with the world perceived as uniformly dark",
               "Panic, which can present as a heightened, vivid perception of reality",
@@ -1961,6 +2022,7 @@
             "id": "introduction__ai__psychology__7__paaoew",
             "number": "7",
             "text": "Hallucinations and delusions are classified under which domains of the Mental Status Examination, respectively?",
+            "imageUrl": null,
             "options": [
               "Thought process and cognition",
               "Perception and thought content",
@@ -1992,6 +2054,7 @@
             "id": "introduction__ai__psychology__8__c49ywf",
             "number": "8",
             "text": "Which of the following is emphasized as essential to always assess as part of psychiatric risk assessment?",
+            "imageUrl": null,
             "options": [
               "Only suicide risk, addressed separately from other risks",
               "Only substance use, as the most common comorbidity",
@@ -2023,6 +2086,7 @@
             "id": "introduction__ai__psychology__9__hsg02g",
             "number": "9",
             "text": "Which pairing correctly identifies the brain stimulation therapies discussed among treatment modalities?",
+            "imageUrl": null,
             "options": [
               "ECT and TMS",
               "ECT and total mood stabilization",
@@ -2054,6 +2118,7 @@
             "id": "introduction__ai__psychology__10__6yl7xz",
             "number": "10",
             "text": "According to the lecture, stigma in psychiatry manifests in three primary forms. Which set correctly represents these?",
+            "imageUrl": null,
             "options": [
               "Public, self, and structural stigma",
               "Public, financial, and legal stigma",
@@ -2094,6 +2159,7 @@
             "id": "introduction__ai__radiology__1__5juf4a",
             "number": "1",
             "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+            "imageUrl": null,
             "options": [
               "Hyperdense",
               "Hypodense",
@@ -2125,6 +2191,7 @@
             "id": "introduction__ai__radiology__2__jw51v4",
             "number": "2",
             "text": "A hemorrhage older than 4 weeks (chronic stage) typically appears on CT as which of the following?",
+            "imageUrl": null,
             "options": [
               "Hyperdense",
               "Isodense",
@@ -2156,6 +2223,7 @@
             "id": "introduction__ai__radiology__3__7mwqsf",
             "number": "3",
             "text": "Which early CT finding is characteristic of hyperacute ischemic stroke (6–24 hours)?",
+            "imageUrl": null,
             "options": [
               "Loss of grey-white differentiation",
               "Cortical calcification",
@@ -2187,6 +2255,7 @@
             "id": "introduction__ai__radiology__4__fnsipu",
             "number": "4",
             "text": "Vasogenic edema on brain imaging is classically seen surrounding which of the following?",
+            "imageUrl": null,
             "options": [
               "Brain tumor",
               "Ischemic infarct core",
@@ -2218,6 +2287,7 @@
             "id": "introduction__ai__radiology__5__b2cov",
             "number": "5",
             "text": "Which radiological feature helps distinguish pulmonary consolidation from lobar collapse?",
+            "imageUrl": null,
             "options": [
               "Presence of air bronchograms",
               "Presence of pleural fluid",
@@ -2249,6 +2319,7 @@
             "id": "introduction__ai__radiology__6__3ob1af",
             "number": "6",
             "text": "Which imaging modality is preferred for diagnosing acute cholecystitis?",
+            "imageUrl": null,
             "options": [
               "Ultrasound",
               "Chest radiograph",
@@ -2280,6 +2351,7 @@
             "id": "introduction__ai__radiology__7__vnim32",
             "number": "7",
             "text": "In a patient with suspected bowel perforation, which radiograph is most sensitive for detecting free intraperitoneal air?",
+            "imageUrl": null,
             "options": [
               "Erect chest radiograph",
               "Supine abdominal radiograph",
@@ -2311,6 +2383,7 @@
             "id": "introduction__ai__radiology__8__xzt6ot",
             "number": "8",
             "text": "A barium enema shows an \"apple core\" sign with eccentric wall thickening in the descending colon. This finding is characteristic of which condition?",
+            "imageUrl": null,
             "options": [
               "Colorectal carcinoma",
               "Acute diverticulitis",
@@ -2342,6 +2415,7 @@
             "id": "introduction__ai__radiology__9__odq9as",
             "number": "9",
             "text": "What is the earliest radiological finding in ankylosing spondylitis?",
+            "imageUrl": null,
             "options": [
               "Bamboo spine appearance",
               "Dagger spine sign",
@@ -2373,6 +2447,7 @@
             "id": "introduction__ai__radiology__10__buvoxr",
             "number": "10",
             "text": "A 45-year-old woman's screening mammogram is classified as BI-RADS 4. What is the appropriate next step?",
+            "imageUrl": null,
             "options": [
               "Routine annual mammogram",
               "Short interval follow-up scan",
@@ -2409,6 +2484,7 @@
         "id": "introduction__lecture__ent__1__kqay5k",
         "number": "1",
         "text": "ENT A young male presents with unilateral epistaxis. What is the most likely diagnosis?",
+        "imageUrl": null,
         "options": [
           "Septal deviation",
           "Allergic rhinitis",
@@ -2440,6 +2516,7 @@
         "id": "introduction__lecture__ent__2__fitit1",
         "number": "2",
         "text": "A patient has bone conduction better than air conduction on the right ear (negative Rinne). On Weber's test, sound is heard better in the right ear. What is the diagnosis?",
+        "imageUrl": null,
         "options": [
           "Right conductive hearing loss",
           "Left conductive hearing loss",
@@ -2471,6 +2548,7 @@
         "id": "introduction__lecture__ent__3__awc2cf",
         "number": "3",
         "text": "What tuning fork frequency is used for hearing tests?",
+        "imageUrl": null,
         "options": [
           "128 Hz",
           "256 Hz",
@@ -2502,6 +2580,7 @@
         "id": "introduction__lecture__ent__4__lzafsj",
         "number": "4",
         "text": "A child presents with a midline neck lump that moves when they stick out their tongue. What is the diagnosis?",
+        "imageUrl": null,
         "options": [
           "Dermoid cyst",
           "Submental lymph node",
@@ -2533,6 +2612,7 @@
         "id": "introduction__lecture__forensic__1__m6g1z7",
         "number": "1",
         "text": "Forensic Which of the following is NOT an early sign of death?",
+        "imageUrl": null,
         "options": [
           "Livor mortis (postmortem hypostasis)",
           "Rigor mortis",
@@ -2564,6 +2644,7 @@
         "id": "introduction__lecture__forensic__2__7s8bw",
         "number": "2",
         "text": "Traumatic asphyxia results from severe injury to which part of the body?",
+        "imageUrl": null,
         "options": [
           "Neck",
           "Chest (with abdomen)",
@@ -2595,6 +2676,7 @@
         "id": "introduction__lecture__forensic__3__egnwux",
         "number": "3",
         "text": "In forensic medicine, strangulation can be categorized into which manner of death?",
+        "imageUrl": null,
         "options": [
           "Suicidal manner",
           "Homicidal manner",
@@ -2626,6 +2708,7 @@
         "id": "introduction__lecture__forensic__4__p7vnwd",
         "number": "4",
         "text": "Which type of injury is not caused by a blunt object but rather by a sharp object, typically resulting in clean, well-defined wound edges?",
+        "imageUrl": null,
         "options": [
           "Laceration",
           "Abrasion",
@@ -2657,6 +2740,7 @@
         "id": "introduction__lecture__forensic__5__3t2y52",
         "number": "5",
         "text": "What is the approximate time window during which myocardial cells can be harvested after cardiac arrest?",
+        "imageUrl": null,
         "options": [
           "60 minutes",
           "5-7 minutes",
@@ -2688,6 +2772,7 @@
         "id": "introduction__lecture__forensic__6__xpmw1v",
         "number": "6",
         "text": "Stab wounds can be classified into which of the following categories?",
+        "imageUrl": null,
         "options": [
           "Sharp",
           "Blunt",
@@ -2719,6 +2804,7 @@
         "id": "introduction__lecture__forensic__7__9pgaj1",
         "number": "7",
         "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+        "imageUrl": null,
         "options": [
           "Knife",
           "Razor",
@@ -2750,6 +2836,7 @@
         "id": "introduction__lecture__forensic__8__hc5fro",
         "number": "8",
         "text": "The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?",
+        "imageUrl": null,
         "options": [
           "Depolymerization of actin filaments",
           "Binding of actin and myosin fibres into a gel",
@@ -2781,6 +2868,7 @@
         "id": "introduction__lecture__forensic__9__ltsx96",
         "number": "9",
         "text": "Smothering is best defined as which of the following?",
+        "imageUrl": null,
         "options": [
           "Compression on neck structures by ligature",
           "Compression on neck structures by the weight of the body",
@@ -2812,6 +2900,7 @@
         "id": "introduction__lecture__forensic__10__oyx90z",
         "number": "10",
         "text": "A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?",
+        "imageUrl": null,
         "options": [
           "Incision",
           "Abrasion",
@@ -2843,6 +2932,7 @@
         "id": "introduction__lecture__forensic__11__7ok9ex",
         "number": "11",
         "text": "The color of skin discoloration seen in postmortem hypostasis is primarily determined by which factor?",
+        "imageUrl": null,
         "options": [
           "The ambient temperature at the death scene",
           "The position in which the body was found",
@@ -2874,6 +2964,7 @@
         "id": "introduction__lecture__psychology__1__2x0qqn",
         "number": "1",
         "text": "Psychology Which of the following statements best describes Alogia?",
+        "imageUrl": null,
         "options": [
           "It refers to speech that lacks content but is delivered fluently and without hesitation",
           "It involves both poverty in speech output and poverty in the content of speech",
@@ -2905,6 +2996,7 @@
         "id": "introduction__lecture__psychology__2__8zspe3",
         "number": "2",
         "text": "Which of the following is NOT a component of thought content?",
+        "imageUrl": null,
         "options": [
           "Hallucinations",
           "Suicidal ideation/homicidal ideation",
@@ -2936,6 +3028,7 @@
         "id": "introduction__lecture__psychology__3__2wo25y",
         "number": "3",
         "text": "What is the difference between mood and affect?",
+        "imageUrl": null,
         "options": [
           "Mood is a temporary emotional state, while affect is a persistent, long-lasting state",
           "Mood is the external expression of emotions, while affect is the internal and sustained emotional state",
@@ -2967,6 +3060,7 @@
         "id": "introduction__lecture__psychology__4__qyeep1",
         "number": "4",
         "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
+        "imageUrl": null,
         "options": [
           "Justice",
           "Beneficence",
@@ -2998,6 +3092,7 @@
         "id": "introduction__lecture__psychology__5__g75hoj",
         "number": "5",
         "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
+        "imageUrl": null,
         "options": [
           "Justice",
           "Non-maleficence",
@@ -3029,6 +3124,7 @@
         "id": "introduction__lecture__psychology__6__w3qvni",
         "number": "6",
         "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
+        "imageUrl": null,
         "options": [
           "Beneficence",
           "Justice",
@@ -3060,6 +3156,7 @@
         "id": "introduction__lecture__psychology__7__qd4vwr",
         "number": "7",
         "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
+        "imageUrl": null,
         "options": [
           "Autonomy",
           "Beneficence",
@@ -3091,6 +3188,7 @@
         "id": "introduction__lecture__psychology__8__bwdj8l",
         "number": "8",
         "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
+        "imageUrl": null,
         "options": [
           "Maintain strict confidentiality regardless of the threat, since disclosure would breach trust",
           "Disclose only the minimum necessary information to protect the identified person at risk",
@@ -3122,6 +3220,7 @@
         "id": "introduction__lecture__psychology__9__h8ntno",
         "number": "9",
         "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
+        "imageUrl": null,
         "options": [
           "Understanding relevant information about the treatment",
           "Appreciating how the information applies to their own situation",
@@ -3153,6 +3252,7 @@
         "id": "introduction__lecture__psychology__10__7g2ze8",
         "number": "10",
         "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
+        "imageUrl": null,
         "options": [
           "Capacity",
           "Autonomy",
@@ -3184,6 +3284,7 @@
         "id": "introduction__lecture__psychology__11__rbd9y0",
         "number": "11",
         "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
+        "imageUrl": null,
         "options": [
           "Justice",
           "Beneficence",
@@ -3215,6 +3316,7 @@
         "id": "introduction__lecture__radiology__1__m4br5d",
         "number": "1",
         "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+        "imageUrl": null,
         "options": [
           "Ultrasound",
           "T1-weighted MRI",
@@ -3246,6 +3348,7 @@
         "id": "introduction__lecture__radiology__2__fbrbwd",
         "number": "2",
         "text": "An erect chest radiograph shows a thin white visceral pleural line with no lung markings peripheral to it, and an adjacent area that is darker than the surrounding lung. Which pathology produces this radiolucent appearance?",
+        "imageUrl": null,
         "options": [
           "Pleural effusion",
           "Pneumothorax",
@@ -3277,6 +3380,7 @@
         "id": "introduction__lecture__radiology__3__3axz1g",
         "number": "3",
         "text": "On a CT scan, which structures appear white?",
+        "imageUrl": null,
         "options": [
           "Hyperdense structures",
           "Hypodense structures",
@@ -3308,6 +3412,7 @@
         "id": "introduction__lecture__radiology__4__tsvbkc",
         "number": "4",
         "text": "Which of the following best defines hydrocephalus?",
+        "imageUrl": null,
         "options": [
           "Obstruction of CSF absorption at the arachnoid granulations following subarachnoid hemorrhage",
           "Overproduction of CSF by a choroid plexus papilloma",
@@ -3339,6 +3444,7 @@
         "id": "introduction__lecture__radiology__5__xr6kbu",
         "number": "5",
         "text": "A patient with symmetric small joint involvement shows the following radiographic finding. Which abnormality is characteristic of rheumatoid arthritis rather than osteoarthritis?",
+        "imageUrl": null,
         "options": [
           "Osteophyte formation",
           "Subchondral cyst (geode) formation",
@@ -3370,6 +3476,7 @@
         "id": "introduction__lecture__radiology__6__nfnus1",
         "number": "6",
         "text": "On MRI, structures that appear white are described using which term?",
+        "imageUrl": null,
         "options": [
           "Hyperintense",
           "Hypointense",
@@ -3401,6 +3508,7 @@
         "id": "introduction__lecture__radiology__7__rqkinm",
         "number": "7",
         "text": "Which of the following imaging modalities relies on ionizing radiation, unlike the others listed?",
+        "imageUrl": null,
         "options": [
           "Chest ultrasound",
           "Cardiac MRI",
@@ -3432,6 +3540,7 @@
         "id": "introduction__lecture__radiology__8__b12ddq",
         "number": "8",
         "text": "Which imaging modality avoids ionizing radiation by instead using a large, powerful magnet to generate images?",
+        "imageUrl": null,
         "options": [
           "CT",
           "Conventional radiograph",
@@ -3463,6 +3572,7 @@
         "id": "introduction__lecture__radiology__9__6iea3l",
         "number": "9",
         "text": "A patient presents with a new cough. What is the most appropriate initial imaging test to evaluate the chest?",
+        "imageUrl": null,
         "options": [
           "Chest CT with contrast",
           "Chest ultrasound",
@@ -3494,6 +3604,7 @@
         "id": "introduction__ai__ent__1__amrm9",
         "number": "1",
         "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+        "imageUrl": null,
         "options": [
           "Malleus",
           "Stapes",
@@ -3525,6 +3636,7 @@
         "id": "introduction__ai__ent__2__cqs7ct",
         "number": "2",
         "text": "A 70-year-old poorly controlled diabetic presents with severe otalgia and granulation tissue in the ear canal. Which diagnosis must be suspected?",
+        "imageUrl": null,
         "options": [
           "Acute otitis media",
           "Perichondritis",
@@ -3556,6 +3668,7 @@
         "id": "introduction__ai__ent__3__7n5wf",
         "number": "3",
         "text": "Shedding of otoconia (crystals) from the utricle into the semicircular canals is the underlying mechanism of which condition?",
+        "imageUrl": null,
         "options": [
           "Benign paroxysmal positional vertigo",
           "Vestibular neuritis",
@@ -3587,6 +3700,7 @@
         "id": "introduction__ai__ent__4__xldh44",
         "number": "4",
         "text": "A patient reports recurrent vertigo lasting hours, associated with fluctuating unilateral hearing loss, tinnitus, and aural fullness. What is the most likely diagnosis?",
+        "imageUrl": null,
         "options": [
           "Vestibular neuritis",
           "Benign paroxysmal positional vertigo",
@@ -3618,6 +3732,7 @@
         "id": "introduction__ai__ent__5__spetf9",
         "number": "5",
         "text": "Vesicles in the ear canal accompanied by ipsilateral facial nerve palsy should raise suspicion for which condition?",
+        "imageUrl": null,
         "options": [
           "Acute otitis media",
           "Ramsay Hunt syndrome",
@@ -3649,6 +3764,7 @@
         "id": "introduction__ai__ent__6__fvgebj",
         "number": "6",
         "text": "On Weber's test, sound lateralizes to the right ear. Rinne's test on the right shows bone conduction greater than air conduction. What is the diagnosis?",
+        "imageUrl": null,
         "options": [
           "Left sensorineural hearing loss",
           "Right conductive hearing loss",
@@ -3680,6 +3796,7 @@
         "id": "introduction__ai__ent__7__owqqlv",
         "number": "7",
         "text": "What is the primary function of the Eustachian tube?",
+        "imageUrl": null,
         "options": [
           "Amplification of sound waves",
           "Production of endolymph",
@@ -3711,6 +3828,7 @@
         "id": "introduction__ai__ent__8__ngjkyq",
         "number": "8",
         "text": "During an emergency airway obstruction, a cricothyrotomy is performed through which structure?",
+        "imageUrl": null,
         "options": [
           "Hyoid bone",
           "Thyroid isthmus",
@@ -3742,6 +3860,7 @@
         "id": "introduction__ai__ent__9__vq2z32",
         "number": "9",
         "text": "A 55-year-old smoker presents with hoarseness of voice persisting for more than 3 weeks. What is the most appropriate next step?",
+        "imageUrl": null,
         "options": [
           "Reassure and review in 6 months",
           "Prescribe empirical antibiotics",
@@ -3773,6 +3892,7 @@
         "id": "introduction__ai__ent__10__abspki",
         "number": "10",
         "text": "Tenderness elicited on palpation of the tragus is most suggestive of which condition?",
+        "imageUrl": null,
         "options": [
           "Acute otitis media",
           "Ménière's disease",
@@ -3804,6 +3924,7 @@
         "id": "introduction__ai__forensic__1__ahluix",
         "number": "1",
         "text": "Forensic Death is defined as the complete, irreversible cessation of the integrated function of which three systems?",
+        "imageUrl": null,
         "options": [
           "CNS, RS, CVS",
           "CNS, GIT, CVS",
@@ -3835,6 +3956,7 @@
         "id": "introduction__ai__forensic__2__8et2wc",
         "number": "2",
         "text": "What is the main clinical rationale for recognizing early postmortem changes such as rigor mortis, hypostasis, and decomposition?",
+        "imageUrl": null,
         "options": [
           "To determine the exact cause of death immediately",
           "To confirm death and avoid unnecessary resuscitation attempts",
@@ -3866,6 +3988,7 @@
         "id": "introduction__ai__forensic__3__lalxhu",
         "number": "3",
         "text": "The pale areas seen at pressure points within a region of postmortem hypostasis are best explained by:",
+        "imageUrl": null,
         "options": [
           "Increased hemoglobin breakdown at those sites",
           "Localized rigor mortis affecting the skin",
@@ -3897,6 +4020,7 @@
         "id": "introduction__ai__forensic__4__cmrbgk",
         "number": "4",
         "text": "Rigor mortis characteristically begins first in which muscle group before descending through the body?",
+        "imageUrl": null,
         "options": [
           "Muscles of the hands and fingers",
           "Muscles of the lower limbs",
@@ -3928,6 +4052,7 @@
         "id": "introduction__ai__forensic__5__5ro91u",
         "number": "5",
         "text": "A body found suspended by a ligature around the neck, with compression caused by the weight of the body, is most consistent with which manner of death?",
+        "imageUrl": null,
         "options": [
           "Mostly homicidal",
           "Mostly accidental",
@@ -3959,6 +4084,7 @@
         "id": "introduction__ai__forensic__6__3vc1zk",
         "number": "6",
         "text": "Choking, as a mechanical anoxic death, results from occlusion of the respiratory passages at which level?",
+        "imageUrl": null,
         "options": [
           "Larynx level, from inside",
           "Nose and mouth level, from outside",
@@ -3990,6 +4116,7 @@
         "id": "introduction__ai__forensic__7__fit75r",
         "number": "7",
         "text": "The presence of froth at the mouth when a body is retrieved from water is most suggestive of:",
+        "imageUrl": null,
         "options": [
           "Postmortem submersion after death",
           "Antemortem drowning (alive when submerged)",
@@ -4021,6 +4148,7 @@
         "id": "introduction__ai__forensic__8__r4lf9h",
         "number": "8",
         "text": "In a burn victim, a blood carboxyhemoglobin (CO) level above approximately 10% suggests which of the following?",
+        "imageUrl": null,
         "options": [
           "The person died before the fire started",
           "The person had chronic COPD prior to death",
@@ -4052,6 +4180,7 @@
         "id": "introduction__ai__forensic__9__b2dded",
         "number": "9",
         "text": "\"Gagging\" differs from \"smothering\" mainly in that gagging involves closure of the airway:",
+        "imageUrl": null,
         "options": [
           "At the neck level rather than the mouth",
           "By a ligature rather than by hands",
@@ -4083,6 +4212,7 @@
         "id": "introduction__ai__forensic__10__i68crv",
         "number": "10",
         "text": "Which wound feature at the wound bottom is most useful in distinguishing a laceration from an incised (cut) wound?",
+        "imageUrl": null,
         "options": [
           "Presence of surrounding contusion",
           "Presence of surface bleeding",
@@ -4114,6 +4244,7 @@
         "id": "introduction__ai__psychology__1__nqeq2k",
         "number": "1",
         "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+        "imageUrl": null,
         "options": [
           "A subspecialty of neurology focused on brain imaging",
           "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
@@ -4145,6 +4276,7 @@
         "id": "introduction__ai__psychology__2__tzf0xz",
         "number": "2",
         "text": "Why is psychiatry considered clinically important according to the lecture?",
+        "imageUrl": null,
         "options": [
           "It only becomes relevant during inpatient hospital stays",
           "It is exclusively concerned with rare genetic brain disorders",
@@ -4176,6 +4308,7 @@
         "id": "introduction__ai__psychology__3__f1mbc0",
         "number": "3",
         "text": "According to the biopsychosocial model, mental illness is best understood as:",
+        "imageUrl": null,
         "options": [
           "A condition with a single dominant biological cause",
           "A purely psychological phenomenon unrelated to biology",
@@ -4207,6 +4340,7 @@
         "id": "introduction__ai__psychology__4__tdykdz",
         "number": "4",
         "text": "Which statement correctly distinguishes mental health from mental illness?",
+        "imageUrl": null,
         "options": [
           "Mental health is the complete absence of any disorder",
           "Mental health includes emotional well-being and social functioning",
@@ -4238,6 +4372,7 @@
         "id": "introduction__ai__psychology__5__k2glfp",
         "number": "5",
         "text": "For a condition to be classified as a mental disorder, which combination of features must generally be present?",
+        "imageUrl": null,
         "options": [
           "Disturbance in cognition or behavior, with no distress required",
           "Any unusual thought, regardless of its effect on functioning",
@@ -4269,6 +4404,7 @@
         "id": "introduction__ai__psychology__6__yvx4y9",
         "number": "6",
         "text": "A patient describes an anxiety symptom in which the world suddenly feels vivid, \"like a rainbow,\" yet the sensation is distressing and overwhelming rather than pleasant. This is most consistent with which symptom?",
+        "imageUrl": null,
         "options": [
           "Fear, with the world perceived as uniformly dark",
           "Panic, which can present as a heightened, vivid perception of reality",
@@ -4300,6 +4436,7 @@
         "id": "introduction__ai__psychology__7__paaoew",
         "number": "7",
         "text": "Hallucinations and delusions are classified under which domains of the Mental Status Examination, respectively?",
+        "imageUrl": null,
         "options": [
           "Thought process and cognition",
           "Perception and thought content",
@@ -4331,6 +4468,7 @@
         "id": "introduction__ai__psychology__8__c49ywf",
         "number": "8",
         "text": "Which of the following is emphasized as essential to always assess as part of psychiatric risk assessment?",
+        "imageUrl": null,
         "options": [
           "Only suicide risk, addressed separately from other risks",
           "Only substance use, as the most common comorbidity",
@@ -4362,6 +4500,7 @@
         "id": "introduction__ai__psychology__9__hsg02g",
         "number": "9",
         "text": "Which pairing correctly identifies the brain stimulation therapies discussed among treatment modalities?",
+        "imageUrl": null,
         "options": [
           "ECT and TMS",
           "ECT and total mood stabilization",
@@ -4393,6 +4532,7 @@
         "id": "introduction__ai__psychology__10__6yl7xz",
         "number": "10",
         "text": "According to the lecture, stigma in psychiatry manifests in three primary forms. Which set correctly represents these?",
+        "imageUrl": null,
         "options": [
           "Public, self, and structural stigma",
           "Public, financial, and legal stigma",
@@ -4424,6 +4564,7 @@
         "id": "introduction__ai__radiology__1__5juf4a",
         "number": "1",
         "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+        "imageUrl": null,
         "options": [
           "Hyperdense",
           "Hypodense",
@@ -4455,6 +4596,7 @@
         "id": "introduction__ai__radiology__2__jw51v4",
         "number": "2",
         "text": "A hemorrhage older than 4 weeks (chronic stage) typically appears on CT as which of the following?",
+        "imageUrl": null,
         "options": [
           "Hyperdense",
           "Isodense",
@@ -4486,6 +4628,7 @@
         "id": "introduction__ai__radiology__3__7mwqsf",
         "number": "3",
         "text": "Which early CT finding is characteristic of hyperacute ischemic stroke (6–24 hours)?",
+        "imageUrl": null,
         "options": [
           "Loss of grey-white differentiation",
           "Cortical calcification",
@@ -4517,6 +4660,7 @@
         "id": "introduction__ai__radiology__4__fnsipu",
         "number": "4",
         "text": "Vasogenic edema on brain imaging is classically seen surrounding which of the following?",
+        "imageUrl": null,
         "options": [
           "Brain tumor",
           "Ischemic infarct core",
@@ -4548,6 +4692,7 @@
         "id": "introduction__ai__radiology__5__b2cov",
         "number": "5",
         "text": "Which radiological feature helps distinguish pulmonary consolidation from lobar collapse?",
+        "imageUrl": null,
         "options": [
           "Presence of air bronchograms",
           "Presence of pleural fluid",
@@ -4579,6 +4724,7 @@
         "id": "introduction__ai__radiology__6__3ob1af",
         "number": "6",
         "text": "Which imaging modality is preferred for diagnosing acute cholecystitis?",
+        "imageUrl": null,
         "options": [
           "Ultrasound",
           "Chest radiograph",
@@ -4610,6 +4756,7 @@
         "id": "introduction__ai__radiology__7__vnim32",
         "number": "7",
         "text": "In a patient with suspected bowel perforation, which radiograph is most sensitive for detecting free intraperitoneal air?",
+        "imageUrl": null,
         "options": [
           "Erect chest radiograph",
           "Supine abdominal radiograph",
@@ -4641,6 +4788,7 @@
         "id": "introduction__ai__radiology__8__xzt6ot",
         "number": "8",
         "text": "A barium enema shows an \"apple core\" sign with eccentric wall thickening in the descending colon. This finding is characteristic of which condition?",
+        "imageUrl": null,
         "options": [
           "Colorectal carcinoma",
           "Acute diverticulitis",
@@ -4672,6 +4820,7 @@
         "id": "introduction__ai__radiology__9__odq9as",
         "number": "9",
         "text": "What is the earliest radiological finding in ankylosing spondylitis?",
+        "imageUrl": null,
         "options": [
           "Bamboo spine appearance",
           "Dagger spine sign",
@@ -4703,6 +4852,7 @@
         "id": "introduction__ai__radiology__10__buvoxr",
         "number": "10",
         "text": "A 45-year-old woman's screening mammogram is classified as BI-RADS 4. What is the appropriate next step?",
+        "imageUrl": null,
         "options": [
           "Routine annual mammogram",
           "Short interval follow-up scan",
