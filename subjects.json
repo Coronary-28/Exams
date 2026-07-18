@@ -1156,6 +1156,325 @@
             "sourceType": "ai"
           }
         ]
+      },
+      {
+        "id": "introduction__ai__psychology",
+        "name": "Psychology",
+        "type": "ai",
+        "subjectName": "Introduction",
+        "path": "Introduction/AI/Psychology.txt",
+        "questions": [
+          {
+            "id": "introduction__ai__psychology__1__nqeq2k",
+            "number": "1",
+            "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+            "options": [
+              "A subspecialty of neurology focused on brain imaging",
+              "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+              "A field limited to prescribing medication for behavioral complaints",
+              "A discipline concerned only with social counseling services",
+              "A field limited to managing psychotic disorders in hospitals"
+            ],
+            "originalOptions": [
+              "A subspecialty of neurology focused on brain imaging",
+              "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+              "A field limited to prescribing medication for behavioral complaints",
+              "A discipline concerned only with social counseling services",
+              "A field limited to managing psychotic disorders in hospitals"
+            ],
+            "correctAnswer": "B) The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+            "correctAnswerText": "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Psychiatry is defined by its four core functions: prevention, diagnosis, treatment, and rehabilitation. Because psychiatrists are physicians, they integrate biological, psychological, and social factors rather than being limited to medication or counseling alone.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__2__tzf0xz",
+            "number": "2",
+            "text": "Why is psychiatry considered clinically important according to the lecture?",
+            "options": [
+              "It only becomes relevant during inpatient hospital stays",
+              "It is exclusively concerned with rare genetic brain disorders",
+              "Mental illness increases mortality from physical disease",
+              "It has no measurable effect on outcomes in physical illness",
+              "It is relevant mainly to forensic and legal settings"
+            ],
+            "originalOptions": [
+              "It only becomes relevant during inpatient hospital stays",
+              "It is exclusively concerned with rare genetic brain disorders",
+              "Mental illness increases mortality from physical disease",
+              "It has no measurable effect on outcomes in physical illness",
+              "It is relevant mainly to forensic and legal settings"
+            ],
+            "correctAnswer": "C) Mental illness increases mortality from physical disease",
+            "correctAnswerText": "Mental illness increases mortality from physical disease",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "The lecture emphasizes that roughly 1 in 8 people worldwide are affected by mental disorders, depression is the second leading cause of disability after cardiovascular disease, and mental illness worsens outcomes in physical disease, underscoring why every physician practices some psychiatry.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__3__f1mbc0",
+            "number": "3",
+            "text": "According to the biopsychosocial model, mental illness is best understood as:",
+            "options": [
+              "A condition with a single dominant biological cause",
+              "A purely psychological phenomenon unrelated to biology",
+              "A result of interaction between biological, psychological, and social domains",
+              "A social construct with no biological basis",
+              "A condition determined solely by genetics"
+            ],
+            "originalOptions": [
+              "A condition with a single dominant biological cause",
+              "A purely psychological phenomenon unrelated to biology",
+              "A result of interaction between biological, psychological, and social domains",
+              "A social construct with no biological basis",
+              "A condition determined solely by genetics"
+            ],
+            "correctAnswer": "C) A result of interaction between biological, psychological, and social domains",
+            "correctAnswerText": "A result of interaction between biological, psychological, and social domains",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "The biopsychosocial model frames mental illness as multifactorial, arising from the interaction of biological factors (genetics, brain function, neurotransmitters), psychological factors (personality, coping, trauma), and social factors (family, culture, employment).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__4__tdykdz",
+            "number": "4",
+            "text": "Which statement correctly distinguishes mental health from mental illness?",
+            "options": [
+              "Mental health is the complete absence of any disorder",
+              "Mental health includes emotional well-being and social functioning",
+              "Mental illness and mental health cannot coexist",
+              "Mental health refers only to absence of psychotic symptoms",
+              "Mental health is determined by occupational performance alone"
+            ],
+            "originalOptions": [
+              "Mental health is the complete absence of any disorder",
+              "Mental health includes emotional well-being and social functioning",
+              "Mental illness and mental health cannot coexist",
+              "Mental health refers only to absence of psychotic symptoms",
+              "Mental health is determined by occupational performance alone"
+            ],
+            "correctAnswer": "B) Mental health includes emotional well-being and social functioning",
+            "correctAnswerText": "Mental health includes emotional well-being and social functioning",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "The lecture explicitly states mental health is not merely the absence of disease; it is a positive state encompassing emotional well-being, psychological resilience, social functioning, occupational ability, and stress coping.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__5__k2glfp",
+            "number": "5",
+            "text": "For a condition to be classified as a mental disorder, which combination of features must generally be present?",
+            "options": [
+              "Disturbance in cognition or behavior, with no distress required",
+              "Any unusual thought, regardless of its effect on functioning",
+              "Disturbance in a core domain plus significant distress or impairment",
+              "Impairment in occupational functioning alone",
+              "A diagnosis made only after psychiatric hospitalization"
+            ],
+            "originalOptions": [
+              "Disturbance in cognition or behavior, with no distress required",
+              "Any unusual thought, regardless of its effect on functioning",
+              "Disturbance in a core domain plus significant distress or impairment",
+              "Impairment in occupational functioning alone",
+              "A diagnosis made only after psychiatric hospitalization"
+            ],
+            "correctAnswer": "C) Disturbance in a core domain plus significant distress or impairment",
+            "correctAnswerText": "Disturbance in a core domain plus significant distress or impairment",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "A mental disorder requires both a disturbance in one of the core domains (cognition, emotion, behavior, interpersonal functioning) AND that this disturbance produces significant distress or impairment affecting social life, relationships, work, or studying.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__6__yvx4y9",
+            "number": "6",
+            "text": "A patient describes an anxiety symptom in which the world suddenly feels vivid, \"like a rainbow,\" yet the sensation is distressing and overwhelming rather than pleasant. This is most consistent with which symptom?",
+            "options": [
+              "Fear, with the world perceived as uniformly dark",
+              "Panic, which can present as a heightened, vivid perception of reality",
+              "Elation, as a pure mood symptom without anxiety",
+              "Confusion, as a cognitive symptom",
+              "Withdrawal, as a behavioral symptom"
+            ],
+            "originalOptions": [
+              "Fear, with the world perceived as uniformly dark",
+              "Panic, which can present as a heightened, vivid perception of reality",
+              "Elation, as a pure mood symptom without anxiety",
+              "Confusion, as a cognitive symptom",
+              "Withdrawal, as a behavioral symptom"
+            ],
+            "correctAnswer": "B) Panic, which can present as a heightened, vivid perception of reality",
+            "correctAnswerText": "Panic, which can present as a heightened, vivid perception of reality",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "The lecture notes panic can sometimes present as a vivid, almost euphoric perception of the world (colorful, \"life feels great\") rather than only the classic dark, threatening perception seen in fear, making panic recognizable in atypical presentations.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__7__paaoew",
+            "number": "7",
+            "text": "Hallucinations and delusions are classified under which domains of the Mental Status Examination, respectively?",
+            "options": [
+              "Thought process and cognition",
+              "Perception and thought content",
+              "Insight and judgment",
+              "Cognition and perception",
+              "Judgment and thought process"
+            ],
+            "originalOptions": [
+              "Thought process and cognition",
+              "Perception and thought content",
+              "Insight and judgment",
+              "Cognition and perception",
+              "Judgment and thought process"
+            ],
+            "correctAnswer": "B) Perception and thought content",
+            "correctAnswerText": "Perception and thought content",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Hallucinations (perceiving things that are not present) fall under perception, while delusions (fixed false beliefs) fall under thought content. The lecture separates these domains within the MSE, alongside thought process, cognition, insight, and judgment.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__8__c49ywf",
+            "number": "8",
+            "text": "Which of the following is emphasized as essential to always assess as part of psychiatric risk assessment?",
+            "options": [
+              "Only suicide risk, addressed separately from other risks",
+              "Only substance use, as the most common comorbidity",
+              "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+              "Only homicidal ideation in forensic patients",
+              "Only domestic violence in female patients"
+            ],
+            "originalOptions": [
+              "Only suicide risk, addressed separately from other risks",
+              "Only substance use, as the most common comorbidity",
+              "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+              "Only homicidal ideation in forensic patients",
+              "Only domestic violence in female patients"
+            ],
+            "correctAnswer": "C) Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+            "correctAnswerText": "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Risk assessment is part of every psychiatric evaluation and must always cover this full set of areas, since each carries potentially serious and preventable consequences if missed during assessment.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__9__hsg02g",
+            "number": "9",
+            "text": "Which pairing correctly identifies the brain stimulation therapies discussed among treatment modalities?",
+            "options": [
+              "ECT and TMS",
+              "ECT and total mood stabilization",
+              "Deep brain stimulation and psychotherapy",
+              "Transcranial muscle stimulation and CBT",
+              "ECT combined with lifestyle intervention"
+            ],
+            "originalOptions": [
+              "ECT and TMS",
+              "ECT and total mood stabilization",
+              "Deep brain stimulation and psychotherapy",
+              "Transcranial muscle stimulation and CBT",
+              "ECT combined with lifestyle intervention"
+            ],
+            "correctAnswer": "A) ECT and TMS",
+            "correctAnswerText": "ECT and TMS",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "The lecture lists brain stimulation therapies as a distinct treatment modality alongside psychotherapy and medication, specifically naming ECT (Electroconvulsive Therapy) and TMS (Transcranial Magnetic Stimulation).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__psychology__10__6yl7xz",
+            "number": "10",
+            "text": "According to the lecture, stigma in psychiatry manifests in three primary forms. Which set correctly represents these?",
+            "options": [
+              "Public, self, and structural stigma",
+              "Public, financial, and legal stigma",
+              "Self, occupational, and diagnostic stigma",
+              "Structural, familial, and public stigma only",
+              "Self and public stigma only"
+            ],
+            "originalOptions": [
+              "Public, self, and structural stigma",
+              "Public, financial, and legal stigma",
+              "Self, occupational, and diagnostic stigma",
+              "Structural, familial, and public stigma only",
+              "Self and public stigma only"
+            ],
+            "correctAnswer": "A) Public, self, and structural stigma",
+            "correctAnswerText": "Public, self, and structural stigma",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Stigma manifests as public stigma (societal discrimination and stereotypes), self-stigma (internalizing negative views leading to shame), and structural stigma (institutional policies limiting rights or care), together contributing to delayed treatment and poor adherence.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "ai"
+          }
+        ]
       }
     ],
     "years": [],
@@ -2275,10 +2594,320 @@
         "lectureName": "ENT",
         "groupName": "ENT",
         "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__1__nqeq2k",
+        "number": "1",
+        "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+        "options": [
+          "A subspecialty of neurology focused on brain imaging",
+          "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+          "A field limited to prescribing medication for behavioral complaints",
+          "A discipline concerned only with social counseling services",
+          "A field limited to managing psychotic disorders in hospitals"
+        ],
+        "originalOptions": [
+          "A subspecialty of neurology focused on brain imaging",
+          "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+          "A field limited to prescribing medication for behavioral complaints",
+          "A discipline concerned only with social counseling services",
+          "A field limited to managing psychotic disorders in hospitals"
+        ],
+        "correctAnswer": "B) The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+        "correctAnswerText": "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Psychiatry is defined by its four core functions: prevention, diagnosis, treatment, and rehabilitation. Because psychiatrists are physicians, they integrate biological, psychological, and social factors rather than being limited to medication or counseling alone.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__2__tzf0xz",
+        "number": "2",
+        "text": "Why is psychiatry considered clinically important according to the lecture?",
+        "options": [
+          "It only becomes relevant during inpatient hospital stays",
+          "It is exclusively concerned with rare genetic brain disorders",
+          "Mental illness increases mortality from physical disease",
+          "It has no measurable effect on outcomes in physical illness",
+          "It is relevant mainly to forensic and legal settings"
+        ],
+        "originalOptions": [
+          "It only becomes relevant during inpatient hospital stays",
+          "It is exclusively concerned with rare genetic brain disorders",
+          "Mental illness increases mortality from physical disease",
+          "It has no measurable effect on outcomes in physical illness",
+          "It is relevant mainly to forensic and legal settings"
+        ],
+        "correctAnswer": "C) Mental illness increases mortality from physical disease",
+        "correctAnswerText": "Mental illness increases mortality from physical disease",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "The lecture emphasizes that roughly 1 in 8 people worldwide are affected by mental disorders, depression is the second leading cause of disability after cardiovascular disease, and mental illness worsens outcomes in physical disease, underscoring why every physician practices some psychiatry.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__3__f1mbc0",
+        "number": "3",
+        "text": "According to the biopsychosocial model, mental illness is best understood as:",
+        "options": [
+          "A condition with a single dominant biological cause",
+          "A purely psychological phenomenon unrelated to biology",
+          "A result of interaction between biological, psychological, and social domains",
+          "A social construct with no biological basis",
+          "A condition determined solely by genetics"
+        ],
+        "originalOptions": [
+          "A condition with a single dominant biological cause",
+          "A purely psychological phenomenon unrelated to biology",
+          "A result of interaction between biological, psychological, and social domains",
+          "A social construct with no biological basis",
+          "A condition determined solely by genetics"
+        ],
+        "correctAnswer": "C) A result of interaction between biological, psychological, and social domains",
+        "correctAnswerText": "A result of interaction between biological, psychological, and social domains",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "The biopsychosocial model frames mental illness as multifactorial, arising from the interaction of biological factors (genetics, brain function, neurotransmitters), psychological factors (personality, coping, trauma), and social factors (family, culture, employment).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__4__tdykdz",
+        "number": "4",
+        "text": "Which statement correctly distinguishes mental health from mental illness?",
+        "options": [
+          "Mental health is the complete absence of any disorder",
+          "Mental health includes emotional well-being and social functioning",
+          "Mental illness and mental health cannot coexist",
+          "Mental health refers only to absence of psychotic symptoms",
+          "Mental health is determined by occupational performance alone"
+        ],
+        "originalOptions": [
+          "Mental health is the complete absence of any disorder",
+          "Mental health includes emotional well-being and social functioning",
+          "Mental illness and mental health cannot coexist",
+          "Mental health refers only to absence of psychotic symptoms",
+          "Mental health is determined by occupational performance alone"
+        ],
+        "correctAnswer": "B) Mental health includes emotional well-being and social functioning",
+        "correctAnswerText": "Mental health includes emotional well-being and social functioning",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "The lecture explicitly states mental health is not merely the absence of disease; it is a positive state encompassing emotional well-being, psychological resilience, social functioning, occupational ability, and stress coping.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__5__k2glfp",
+        "number": "5",
+        "text": "For a condition to be classified as a mental disorder, which combination of features must generally be present?",
+        "options": [
+          "Disturbance in cognition or behavior, with no distress required",
+          "Any unusual thought, regardless of its effect on functioning",
+          "Disturbance in a core domain plus significant distress or impairment",
+          "Impairment in occupational functioning alone",
+          "A diagnosis made only after psychiatric hospitalization"
+        ],
+        "originalOptions": [
+          "Disturbance in cognition or behavior, with no distress required",
+          "Any unusual thought, regardless of its effect on functioning",
+          "Disturbance in a core domain plus significant distress or impairment",
+          "Impairment in occupational functioning alone",
+          "A diagnosis made only after psychiatric hospitalization"
+        ],
+        "correctAnswer": "C) Disturbance in a core domain plus significant distress or impairment",
+        "correctAnswerText": "Disturbance in a core domain plus significant distress or impairment",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "A mental disorder requires both a disturbance in one of the core domains (cognition, emotion, behavior, interpersonal functioning) AND that this disturbance produces significant distress or impairment affecting social life, relationships, work, or studying.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__6__yvx4y9",
+        "number": "6",
+        "text": "A patient describes an anxiety symptom in which the world suddenly feels vivid, \"like a rainbow,\" yet the sensation is distressing and overwhelming rather than pleasant. This is most consistent with which symptom?",
+        "options": [
+          "Fear, with the world perceived as uniformly dark",
+          "Panic, which can present as a heightened, vivid perception of reality",
+          "Elation, as a pure mood symptom without anxiety",
+          "Confusion, as a cognitive symptom",
+          "Withdrawal, as a behavioral symptom"
+        ],
+        "originalOptions": [
+          "Fear, with the world perceived as uniformly dark",
+          "Panic, which can present as a heightened, vivid perception of reality",
+          "Elation, as a pure mood symptom without anxiety",
+          "Confusion, as a cognitive symptom",
+          "Withdrawal, as a behavioral symptom"
+        ],
+        "correctAnswer": "B) Panic, which can present as a heightened, vivid perception of reality",
+        "correctAnswerText": "Panic, which can present as a heightened, vivid perception of reality",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "The lecture notes panic can sometimes present as a vivid, almost euphoric perception of the world (colorful, \"life feels great\") rather than only the classic dark, threatening perception seen in fear, making panic recognizable in atypical presentations.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__7__paaoew",
+        "number": "7",
+        "text": "Hallucinations and delusions are classified under which domains of the Mental Status Examination, respectively?",
+        "options": [
+          "Thought process and cognition",
+          "Perception and thought content",
+          "Insight and judgment",
+          "Cognition and perception",
+          "Judgment and thought process"
+        ],
+        "originalOptions": [
+          "Thought process and cognition",
+          "Perception and thought content",
+          "Insight and judgment",
+          "Cognition and perception",
+          "Judgment and thought process"
+        ],
+        "correctAnswer": "B) Perception and thought content",
+        "correctAnswerText": "Perception and thought content",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Hallucinations (perceiving things that are not present) fall under perception, while delusions (fixed false beliefs) fall under thought content. The lecture separates these domains within the MSE, alongside thought process, cognition, insight, and judgment.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__8__c49ywf",
+        "number": "8",
+        "text": "Which of the following is emphasized as essential to always assess as part of psychiatric risk assessment?",
+        "options": [
+          "Only suicide risk, addressed separately from other risks",
+          "Only substance use, as the most common comorbidity",
+          "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+          "Only homicidal ideation in forensic patients",
+          "Only domestic violence in female patients"
+        ],
+        "originalOptions": [
+          "Only suicide risk, addressed separately from other risks",
+          "Only substance use, as the most common comorbidity",
+          "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+          "Only homicidal ideation in forensic patients",
+          "Only domestic violence in female patients"
+        ],
+        "correctAnswer": "C) Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+        "correctAnswerText": "Suicide, self-harm, homicidal thoughts, psychosis, and abuse",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Risk assessment is part of every psychiatric evaluation and must always cover this full set of areas, since each carries potentially serious and preventable consequences if missed during assessment.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__9__hsg02g",
+        "number": "9",
+        "text": "Which pairing correctly identifies the brain stimulation therapies discussed among treatment modalities?",
+        "options": [
+          "ECT and TMS",
+          "ECT and total mood stabilization",
+          "Deep brain stimulation and psychotherapy",
+          "Transcranial muscle stimulation and CBT",
+          "ECT combined with lifestyle intervention"
+        ],
+        "originalOptions": [
+          "ECT and TMS",
+          "ECT and total mood stabilization",
+          "Deep brain stimulation and psychotherapy",
+          "Transcranial muscle stimulation and CBT",
+          "ECT combined with lifestyle intervention"
+        ],
+        "correctAnswer": "A) ECT and TMS",
+        "correctAnswerText": "ECT and TMS",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "The lecture lists brain stimulation therapies as a distinct treatment modality alongside psychotherapy and medication, specifically naming ECT (Electroconvulsive Therapy) and TMS (Transcranial Magnetic Stimulation).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__psychology__10__6yl7xz",
+        "number": "10",
+        "text": "According to the lecture, stigma in psychiatry manifests in three primary forms. Which set correctly represents these?",
+        "options": [
+          "Public, self, and structural stigma",
+          "Public, financial, and legal stigma",
+          "Self, occupational, and diagnostic stigma",
+          "Structural, familial, and public stigma only",
+          "Self and public stigma only"
+        ],
+        "originalOptions": [
+          "Public, self, and structural stigma",
+          "Public, financial, and legal stigma",
+          "Self, occupational, and diagnostic stigma",
+          "Structural, familial, and public stigma only",
+          "Self and public stigma only"
+        ],
+        "correctAnswer": "A) Public, self, and structural stigma",
+        "correctAnswerText": "Public, self, and structural stigma",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Stigma manifests as public stigma (societal discrimination and stereotypes), self-stigma (internalizing negative views leading to shame), and structural stigma (institutional policies limiting rights or care), together contributing to delayed treatment and poor adherence.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "ai"
       }
     ],
-    "totalQuestions": 36,
-    "totalLectures": 4,
+    "totalQuestions": 46,
+    "totalLectures": 5,
     "hasAiFolder": true
   }
 ]
