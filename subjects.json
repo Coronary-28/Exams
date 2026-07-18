@@ -1059,6 +1059,99 @@
             "lectureName": "Psychology",
             "groupName": "Psychology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__12__eehgne",
+            "number": "12",
+            "text": "A psychiatrist prescribes a new antidepressant to a patient during a rushed clinic visit. The consultation only covers dosage and administration timing, and the patient is discharged without a clear explanation of the possible adverse effects, discovering them only after experiencing severe symptoms at home. Which of the following best represents a breach of the principle of non-maleficence in this scenario?",
+            "options": [
+              "The patient did not fully understand the side effects of the medication",
+              "The patient was not given the option to choose an alternative treatment",
+              "The psychiatrist did not verify the patient's insurance coverage for the drug",
+              "The patient's family was not informed of the diagnosis",
+              "The consultation lasted less time than the patient expected"
+            ],
+            "originalOptions": [
+              "The patient did not fully understand the side effects of the medication",
+              "The patient was not given the option to choose an alternative treatment",
+              "The psychiatrist did not verify the patient's insurance coverage for the drug",
+              "The patient's family was not informed of the diagnosis",
+              "The consultation lasted less time than the patient expected"
+            ],
+            "correctAnswer": "A) The patient did not fully understand the side effects of the medication",
+            "correctAnswerText": "The patient did not fully understand the side effects of the medication",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "A is correct because non-maleficence means actively preventing avoidable harm, and failing to explain side effects left the patient unable to recognize or avoid the harm that followed. B relates to autonomy (right to choose among options), not harm prevention. C is an administrative/logistical issue with no ethical bearing on harm. D concerns confidentiality/family involvement, not non-maleficence. E is simply a matter of consultation length, not an ethical breach on its own.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__13__z7g2dx",
+            "number": "13",
+            "text": "A 66-year-old man is brought in for evaluation of memory difficulty. During the interview, he gives the exact same response to every question asked, regardless of its content. This finding is most suggestive of which underlying process?",
+            "options": [
+              "Flight of ideas",
+              "Clang associations",
+              "Organic brain damage",
+              "Delusional thinking",
+              "Thought blocking"
+            ],
+            "originalOptions": [
+              "Flight of ideas",
+              "Clang associations",
+              "Organic brain damage",
+              "Delusional thinking",
+              "Thought blocking"
+            ],
+            "correctAnswer": "C) Organic brain damage",
+            "correctAnswerText": "Organic brain damage",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Giving the same fixed response regardless of the question (perseveration) is a cognitive sign often associated with organic brain pathology such as dementia or frontal lobe damage, rather than a primary thought disorder seen in psychotic or mood disorders.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology__14__kowix",
+            "number": "14",
+            "text": "A patient in an acute manic episode rapidly shifts from topic to topic, with each idea loosely connected to the previous one, and later begins stringing words together based on their sound rather than their meaning. Which of the following is NOT a thought process typically seen in this presentation?",
+            "options": [
+              "Flight of ideas",
+              "Clang associations",
+              "Tangentiality",
+              "Suicidal thoughts",
+              "Pressured, rapidly shifting speech"
+            ],
+            "originalOptions": [
+              "Flight of ideas",
+              "Clang associations",
+              "Tangentiality",
+              "Suicidal thoughts",
+              "Pressured, rapidly shifting speech"
+            ],
+            "correctAnswer": "D) Suicidal thoughts",
+            "correctAnswerText": "Suicidal thoughts",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Flight of ideas, clang associations, tangentiality, and pressured speech are all disturbances of thought process (form), commonly seen in mania. Suicidal thoughts belong to thought content, not thought process, making it the outlier among the options.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology",
+            "groupName": "Psychology",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -3974,6 +4067,99 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__psychology__12__eehgne",
+        "number": "12",
+        "text": "A psychiatrist prescribes a new antidepressant to a patient during a rushed clinic visit. The consultation only covers dosage and administration timing, and the patient is discharged without a clear explanation of the possible adverse effects, discovering them only after experiencing severe symptoms at home. Which of the following best represents a breach of the principle of non-maleficence in this scenario?",
+        "options": [
+          "The patient did not fully understand the side effects of the medication",
+          "The patient was not given the option to choose an alternative treatment",
+          "The psychiatrist did not verify the patient's insurance coverage for the drug",
+          "The patient's family was not informed of the diagnosis",
+          "The consultation lasted less time than the patient expected"
+        ],
+        "originalOptions": [
+          "The patient did not fully understand the side effects of the medication",
+          "The patient was not given the option to choose an alternative treatment",
+          "The psychiatrist did not verify the patient's insurance coverage for the drug",
+          "The patient's family was not informed of the diagnosis",
+          "The consultation lasted less time than the patient expected"
+        ],
+        "correctAnswer": "A) The patient did not fully understand the side effects of the medication",
+        "correctAnswerText": "The patient did not fully understand the side effects of the medication",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "A is correct because non-maleficence means actively preventing avoidable harm, and failing to explain side effects left the patient unable to recognize or avoid the harm that followed. B relates to autonomy (right to choose among options), not harm prevention. C is an administrative/logistical issue with no ethical bearing on harm. D concerns confidentiality/family involvement, not non-maleficence. E is simply a matter of consultation length, not an ethical breach on its own.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__13__z7g2dx",
+        "number": "13",
+        "text": "A 66-year-old man is brought in for evaluation of memory difficulty. During the interview, he gives the exact same response to every question asked, regardless of its content. This finding is most suggestive of which underlying process?",
+        "options": [
+          "Flight of ideas",
+          "Clang associations",
+          "Organic brain damage",
+          "Delusional thinking",
+          "Thought blocking"
+        ],
+        "originalOptions": [
+          "Flight of ideas",
+          "Clang associations",
+          "Organic brain damage",
+          "Delusional thinking",
+          "Thought blocking"
+        ],
+        "correctAnswer": "C) Organic brain damage",
+        "correctAnswerText": "Organic brain damage",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Giving the same fixed response regardless of the question (perseveration) is a cognitive sign often associated with organic brain pathology such as dementia or frontal lobe damage, rather than a primary thought disorder seen in psychotic or mood disorders.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology__14__kowix",
+        "number": "14",
+        "text": "A patient in an acute manic episode rapidly shifts from topic to topic, with each idea loosely connected to the previous one, and later begins stringing words together based on their sound rather than their meaning. Which of the following is NOT a thought process typically seen in this presentation?",
+        "options": [
+          "Flight of ideas",
+          "Clang associations",
+          "Tangentiality",
+          "Suicidal thoughts",
+          "Pressured, rapidly shifting speech"
+        ],
+        "originalOptions": [
+          "Flight of ideas",
+          "Clang associations",
+          "Tangentiality",
+          "Suicidal thoughts",
+          "Pressured, rapidly shifting speech"
+        ],
+        "correctAnswer": "D) Suicidal thoughts",
+        "correctAnswerText": "Suicidal thoughts",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Flight of ideas, clang associations, tangentiality, and pressured speech are all disturbances of thought process (form), commonly seen in mania. Suicidal thoughts belong to thought content, not thought process, making it the outlier among the options.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology",
+        "groupName": "Psychology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__radiology__1__pyp8o1",
         "number": "1",
         "text": "Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
@@ -5803,7 +5989,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 92,
+    "totalQuestions": 95,
     "totalLectures": 10,
     "hasAiFolder": true
   }
