@@ -2215,9 +2215,9 @@
         "path": "Introduction/AI/Ophthalmology.txt",
         "questions": [
           {
-            "id": "introduction__ai__ophthalmology__1__90lh60",
+            "id": "introduction__ai__ophthalmology__1__yuzgxx",
             "number": "1",
-            "text": "Ophthalmology A patient underwent uncomplicated cataract surgery three weeks ago and now presents with a red, painful eye. What is the most likely diagnosis?",
+            "text": "A patient underwent uncomplicated cataract surgery three weeks ago and now presents with a red, painful eye. What is the most likely diagnosis?",
             "options": [
               "Endophthalmitis",
               "Allergic conjunctivitis",
@@ -5307,9 +5307,9 @@
         "sourceType": "ai"
       },
       {
-        "id": "introduction__ai__ophthalmology__1__90lh60",
+        "id": "introduction__ai__ophthalmology__1__yuzgxx",
         "number": "1",
-        "text": "Ophthalmology A patient underwent uncomplicated cataract surgery three weeks ago and now presents with a red, painful eye. What is the most likely diagnosis?",
+        "text": "A patient underwent uncomplicated cataract surgery three weeks ago and now presents with a red, painful eye. What is the most likely diagnosis?",
         "options": [
           "Endophthalmitis",
           "Allergic conjunctivitis",
