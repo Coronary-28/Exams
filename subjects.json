@@ -525,9 +525,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__2__xzj5x7",
+            "id": "introduction__lecture__ophthalmology__2__cc091z",
             "number": "2",
-            "text": "This test is used to asses?[IMG:colorvisiontest.png]",
+            "text": "This test is used to asses(Click here to see the image: )?",
             "options": [
               "Visual acuity",
               "Pupillary reflex",
@@ -3128,9 +3128,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__2__xzj5x7",
+        "id": "introduction__lecture__ophthalmology__2__cc091z",
         "number": "2",
-        "text": "This test is used to asses?[IMG:colorvisiontest.png]",
+        "text": "This test is used to asses(Click here to see the image: )?",
         "options": [
           "Visual acuity",
           "Pupillary reflex",
