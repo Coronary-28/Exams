@@ -1070,9 +1070,9 @@
         "path": "Introduction/Radiology.txt",
         "questions": [
           {
-            "id": "introduction__lecture__radiology__1__m4br5d",
+            "id": "introduction__lecture__radiology__1__pyp8o1",
             "number": "1",
-            "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+            "text": "Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
             "options": [
               "Ultrasound",
               "T1-weighted MRI",
@@ -3974,9 +3974,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__radiology__1__m4br5d",
+        "id": "introduction__lecture__radiology__1__pyp8o1",
         "number": "1",
-        "text": "Radiology Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
+        "text": "Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
         "options": [
           "Ultrasound",
           "T1-weighted MRI",
