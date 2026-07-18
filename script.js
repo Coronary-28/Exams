@@ -927,7 +927,7 @@ function renderExam(){
        imageDiv.style.cssText = 'margin: 16px 0; text-align: center; border-radius: 8px; overflow: hidden; background: var(--bg-soft);';
        
        const img = document.createElement('img');
-       img.src = `/Exams/images/${q.imageUrl}`;
+       img.src = `./images/${q.imageUrl}`;
        img.alt = 'سؤال صورة';
        img.style.cssText = 'max-width: 100%; max-height: 400px; display: block; margin: 0 auto; border-radius: 8px;';
        
