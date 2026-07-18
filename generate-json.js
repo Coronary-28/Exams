@@ -57,134 +57,154 @@ function resolveCorrectIndex(options, correctAnswer) {
   return -1;
 }
 function parseQuestionFile(raw, meta) {
-  const text = normalizeText(raw);
-  if (!text) return [];
-  let blocks = text.split(/(?:^|\n)\s*###\s*(?=\n|$)/g).map(x => x.trim()).filter(Boolean);
-  if (blocks.length <= 1) {
-    const paragraphs = text.split(/\n{2,}/).map(x => x.trim()).filter(Boolean);
-    if (paragraphs.length <= 1) blocks = [text];
-    else {
-      blocks = [];
-      let current = [];
-      let hasCorrect = false;
-      for (let i = 0; i < paragraphs.length; i++) {
-        const p = paragraphs[i];
-        const first = (p.split('\n').find(l => l.trim()) || '').trim();
-        const looksNew = current.length > 0 && hasCorrect && !/^(Correct\s*Answer|Explanation)\s*:/i.test(first) && !/^[A-E][\)\.\-]/.test(first) && !isPageLine(first);
-        if (looksNew) {
-          blocks.push(current.join('\n\n').trim());
-          current = [];
-          hasCorrect = false;
-        }
-        current.push(p);
-        if (/^\s*Correct\s*Answer\s*:/im.test(p)) hasCorrect = true;
-        if (i === paragraphs.length - 1 && current.length) blocks.push(current.join('\n\n').trim());
-      }
-    }
-  }
+   const text = normalizeText(raw);
+   if (!text) return [];
+   let blocks = text.split(/(?:^|\n)\s*###\s*(?=\n|$)/g).map(x => x.trim()).filter(Boolean);
+   if (blocks.length <= 1) {
+     const paragraphs = text.split(/\n{2,}/).map(x => x.trim()).filter(Boolean);
+     if (paragraphs.length <= 1) blocks = [text];
+     else {
+       blocks = [];
+       let current = [];
+       let hasCorrect = false;
+       for (let i = 0; i < paragraphs.length; i++) {
+         const p = paragraphs[i];
+         const first = (p.split('\n').find(l => l.trim()) || '').trim();
+         const looksNew = current.length > 0 && hasCorrect && !/^(Correct\s*Answer|Explanation)\s*:/i.test(first) && !/^[A-E][\)\.\-]/.test(first) && !isPageLine(first);
+         if (looksNew) {
+           blocks.push(current.join('\n\n').trim());
+           current = [];
+           hasCorrect = false;
+         }
+         current.push(p);
+         if (/^\s*Correct\s*Answer\s*:/im.test(p)) hasCorrect = true;
+         if (i === paragraphs.length - 1 && current.length) blocks.push(current.join('\n\n').trim());
+       }
+     }
+   }
 
-  const questions = [];
-  let fallback = meta.startCounter || 1;
-  for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
-    const lines = blocks[blockIndex].split('\n').map(l => l.trim()).filter(Boolean);
-    if (!lines.length || !lines.some(l => /^Correct\s*Answer\s*:/i.test(l))) continue;
-    let questionNumber = '';
-    let questionText = '';
-    let options = [];
-    let correctAnswer = '';
-    let correctAnswerLetter = '';
-    let explanation = '';
-    let batchName = '';
-    let pageNumber = '';
-    let startIndex = 0;
-    const head = (lines[0] || '').match(/^Question\s*(\d+)\s*[:\-.]?\s*(.*)$/i);
-    if (head) {
-      questionNumber = head[1] || '';
-      if (head[2]) lines[0] = head[2].trim();
-      else startIndex = 1;
-    }
-    const ansIdx = lines.findIndex(l => /^Correct\s*Answer\s*:/i.test(l));
-    if (ansIdx === -1) continue;
-    const before = lines.slice(startIndex, ansIdx);
-    const firstOpt = before.findIndex(l => /^[A-E][\)\.\-]\s*/i.test(l));
-    if (firstOpt === -1) continue;
-    questionText = before.slice(0, firstOpt).join(' ').trim() || ('Question ' + fallback);
-    options = before.slice(firstOpt).filter(l => /^[A-E][\)\.\-]\s*/i.test(l)).map(stripOptionPrefix);
-    correctAnswer = lines[ansIdx].replace(/^Correct\s*Answer\s*:\s*/i, '').trim();
-    // استخراج حرف الإجابة الصحيحة (A-E)
-    const letterMatch = correctAnswer.match(/^([A-E])\s*[\)\.\-]\s*/i);
-    if(letterMatch) correctAnswerLetter = letterMatch[1].toUpperCase();
-    else correctAnswerLetter = '';
-    let i = ansIdx + 1;
-    if (i < lines.length && /^Explanation\s*:/i.test(lines[i])) {
-      const exp = [];
-      const first = lines[i].replace(/^Explanation\s*:\s*/i, '').trim();
-      if (first) exp.push(first);
-      i++;
-      while (i < lines.length && !isMetadataLine(lines[i])) {
-        exp.push(lines[i]);
-        i++;
-      }
-      explanation = exp.join(' ').trim();
-    }
-    while (i < lines.length) {
-      const line = lines[i];
-      if (isPageLine(line)) pageNumber = line;
-      else if (!batchName && isBatchLine(line)) batchName = line;
-      else if (!batchName && looksLikeMetadataTail(line)) batchName = line;
-      else if (!explanation && !/^Explanation\s*:/i.test(line)) explanation = [explanation, line].filter(Boolean).join(' ').trim();
-      i++;
-    }
-    if (!questionNumber) questionNumber = String(fallback);
-    // تحديد الإجابة الصحيحة باستخدام الحرف أولاً
-    let correctIndex = -1;
-    let correctAnswerText = '';
-    if(correctAnswerLetter){
-      const letterIndex = correctAnswerLetter.charCodeAt(0) - 65;
-      if(letterIndex >= 0 && letterIndex < options.length){
-        correctIndex = letterIndex;
-        correctAnswerText = options[letterIndex];
-      }
-    }
-    if(correctIndex === -1){
-      // فشل في استخدام الحرف، نستخدم الطريقة النصية القديمة
-      const possibleIndex = resolveCorrectIndex(options, correctAnswer);
-      if(possibleIndex >= 0 && options[possibleIndex]){
-        correctIndex = possibleIndex;
-        correctAnswerText = options[possibleIndex];
-      } else {
-        correctAnswerText = stripOptionPrefix(correctAnswer);
-        const fallbackIndex = resolveCorrectIndex(options, correctAnswerText);
-        if(fallbackIndex >= 0 && options[fallbackIndex]){
-          correctIndex = fallbackIndex;
-          correctAnswerText = options[fallbackIndex];
-        }
-      }
-    }
-    const id = [slugify(meta.subjectName), slugify(meta.sourceType), slugify(meta.lectureName), slugify(questionNumber), hashString(questionText).slice(0, 10)].join('__');
-    questions.push({
-      id,
-      number: questionNumber,
-      text: questionText,
-      options,
-      originalOptions: options.slice(),
-      correctAnswer,
-      correctAnswerText,
-      correctIndex,
-      correctAnswerLetter,
-      explanation,
-      batchName,
-      pageNumber,
-      subjectName: meta.subjectName,
-      subjectId: meta.subjectId || slugify(meta.subjectName),
-      lectureName: meta.lectureName,
-      groupName: meta.lectureName,
-      sourceType: meta.sourceType,
-      sourcePath: meta.sourcePath
-    });
-    fallback++;
-  }
-  return questions;
+   const questions = [];
+   let fallback = meta.startCounter || 1;
+   for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
+     const lines = blocks[blockIndex].split('\n').map(l => l.trim()).filter(Boolean);
+     if (!lines.length || !lines.some(l => /^Correct\s*Answer\s*:/i.test(l))) continue;
+     
+     let questionNumber = '';
+     let questionText = '';
+     let imageUrl = '';  // ✅ حقل جديد للصورة
+     let options = [];
+     let correctAnswer = '';
+     let correctAnswerLetter = '';
+     let explanation = '';
+     let batchName = '';
+     let pageNumber = '';
+     let startIndex = 0;
+     
+     const head = (lines[0] || '').match(/^Question\s*(\d+)\s*[:\-.]?\s*(.*)$/i);
+     if (head) {
+       questionNumber = head[1] || '';
+       if (head[2]) lines[0] = head[2].trim();
+       else startIndex = 1;
+     }
+     
+     const ansIdx = lines.findIndex(l => /^Correct\s*Answer\s*:/i.test(l));
+     if (ansIdx === -1) continue;
+     
+     const before = lines.slice(startIndex, ansIdx);
+     const firstOpt = before.findIndex(l => /^[A-E][\)\.\-]\s*/i.test(l));
+     if (firstOpt === -1) continue;
+     
+     questionText = before.slice(0, firstOpt).join(' ').trim() || ('Question ' + fallback);
+     
+     // ✅ استخراج الصورة من النص
+     const imgMatch = questionText.match(/\[IMG:([^\]]+)\]/i);
+     if (imgMatch) {
+       imageUrl = imgMatch[1];
+       questionText = questionText.replace(/\[IMG:[^\]]+\]/i, '').trim();
+     }
+     
+     options = before.slice(firstOpt).filter(l => /^[A-E][\)\.\-]\s*/i.test(l)).map(stripOptionPrefix);
+     correctAnswer = lines[ansIdx].replace(/^Correct\s*Answer\s*:\s*/i, '').trim();
+     
+     // استخراج حرف الإجابة الصحيحة (A-E)
+     const letterMatch = correctAnswer.match(/^([A-E])\s*[\)\.\-]\s*/i);
+     if (letterMatch) correctAnswerLetter = letterMatch[1].toUpperCase();
+     else correctAnswerLetter = '';
+     
+     let i = ansIdx + 1;
+     if (i < lines.length && /^Explanation\s*:/i.test(lines[i])) {
+       const exp = [];
+       const first = lines[i].replace(/^Explanation\s*:\s*/i, '').trim();
+       if (first) exp.push(first);
+       i++;
+       while (i < lines.length && !isMetadataLine(lines[i])) {
+         exp.push(lines[i]);
+         i++;
+       }
+       explanation = exp.join(' ').trim();
+     }
+     
+     while (i < lines.length) {
+       const line = lines[i];
+       if (isPageLine(line)) pageNumber = line;
+       else if (!batchName && isBatchLine(line)) batchName = line;
+       else if (!batchName && looksLikeMetadataTail(line)) batchName = line;
+       else if (!explanation && !/^Explanation\s*:/i.test(line)) explanation = [explanation, line].filter(Boolean).join(' ').trim();
+       i++;
+     }
+     
+     if (!questionNumber) questionNumber = String(fallback);
+     
+     // تحديد الإجابة الصحيحة باستخدام الحرف أولاً
+     let correctIndex = -1;
+     let correctAnswerText = '';
+     if (correctAnswerLetter) {
+       const letterIndex = correctAnswerLetter.charCodeAt(0) - 65;
+       if (letterIndex >= 0 && letterIndex < options.length) {
+         correctIndex = letterIndex;
+         correctAnswerText = options[letterIndex];
+       }
+     }
+     if (correctIndex === -1) {
+       const possibleIndex = resolveCorrectIndex(options, correctAnswer);
+       if (possibleIndex >= 0 && options[possibleIndex]) {
+         correctIndex = possibleIndex;
+         correctAnswerText = options[possibleIndex];
+       } else {
+         correctAnswerText = stripOptionPrefix(correctAnswer);
+         const fallbackIndex = resolveCorrectIndex(options, correctAnswerText);
+         if (fallbackIndex >= 0 && options[fallbackIndex]) {
+           correctIndex = fallbackIndex;
+           correctAnswerText = options[fallbackIndex];
+         }
+       }
+     }
+     
+     const id = [slugify(meta.subjectName), slugify(meta.sourceType), slugify(meta.lectureName), slugify(questionNumber), hashString(questionText).slice(0, 10)].join('__');
+     questions.push({
+       id,
+       number: questionNumber,
+       text: questionText,
+       imageUrl: imageUrl || null,  // ✅ إضافة الحقل الجديد
+       options,
+       originalOptions: options.slice(),
+       correctAnswer,
+       correctAnswerText,
+       correctIndex,
+       correctAnswerLetter,
+       explanation,
+       batchName,
+       pageNumber,
+       subjectName: meta.subjectName,
+       subjectId: meta.subjectId || slugify(meta.subjectName),
+       lectureName: meta.lectureName,
+       groupName: meta.lectureName,
+       sourceType: meta.sourceType,
+       sourcePath: meta.sourcePath
+     });
+     fallback++;
+   }
+   return questions;
 }
 function buildGroupFromFile(filePath, subjectName, subjectId, sourceType) {
   const raw = fs.readFileSync(filePath, 'utf8');
