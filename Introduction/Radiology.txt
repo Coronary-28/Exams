@@ -1,4 +1,3 @@
-Radiology
 Which imaging modality utilizes ionizing radiation to generate diagnostic images?
 A) Ultrasound
 B) T1-weighted MRI
