@@ -525,9 +525,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__2__cc091z",
+            "id": "introduction__lecture__ophthalmology__2__a7qpoc",
             "number": "2",
-            "text": "This test is used to asses(Click here to see the image: )?",
+            "text": "This test is used to asses(Click here to see the image: https://coronary-28.github.io/Exams/images/colorvisiontest.png )?",
             "options": [
               "Visual acuity",
               "Pupillary reflex",
@@ -587,9 +587,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__4__1kiz61",
+            "id": "introduction__lecture__ophthalmology__4__jv5pfi",
             "number": "4",
-            "text": "All are causes of this sign except? [IMG:redeye.png]",
+            "text": "All are causes of this sign except (Click here to see the image: https://coronary-28.github.io/Exams/images/redeye.png )?",
             "options": [
               "Allergic conjunctivitis",
               "Subconjunctival hemorrhage",
@@ -3128,9 +3128,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__2__cc091z",
+        "id": "introduction__lecture__ophthalmology__2__a7qpoc",
         "number": "2",
-        "text": "This test is used to asses(Click here to see the image: )?",
+        "text": "This test is used to asses(Click here to see the image: https://coronary-28.github.io/Exams/images/colorvisiontest.png )?",
         "options": [
           "Visual acuity",
           "Pupillary reflex",
@@ -3190,9 +3190,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__4__1kiz61",
+        "id": "introduction__lecture__ophthalmology__4__jv5pfi",
         "number": "4",
-        "text": "All are causes of this sign except? [IMG:redeye.png]",
+        "text": "All are causes of this sign except (Click here to see the image: https://coronary-28.github.io/Exams/images/redeye.png )?",
         "options": [
           "Allergic conjunctivitis",
           "Subconjunctival hemorrhage",
