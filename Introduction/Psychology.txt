@@ -107,3 +107,33 @@ E) Autonomy
 Correct Answer: E) Autonomy
 Explanation:
 Autonomy underlies a patient's right to receive truthful information, give informed consent, and have their disclosures kept confidential, since all of these depend on respecting the patient's self-determination and control over their own care.
+###
+A psychiatrist prescribes a new antidepressant to a patient during a rushed clinic visit. The consultation only covers dosage and administration timing, and the patient is discharged without a clear explanation of the possible adverse effects, discovering them only after experiencing severe symptoms at home. Which of the following best represents a breach of the principle of non-maleficence in this scenario?
+A) The patient did not fully understand the side effects of the medication
+B) The patient was not given the option to choose an alternative treatment
+C) The psychiatrist did not verify the patient's insurance coverage for the drug
+D) The patient's family was not informed of the diagnosis
+E) The consultation lasted less time than the patient expected
+Correct Answer: A) The patient did not fully understand the side effects of the medication
+Explanation:
+A is correct because non-maleficence means actively preventing avoidable harm, and failing to explain side effects left the patient unable to recognize or avoid the harm that followed. B relates to autonomy (right to choose among options), not harm prevention. C is an administrative/logistical issue with no ethical bearing on harm. D concerns confidentiality/family involvement, not non-maleficence. E is simply a matter of consultation length, not an ethical breach on its own.
+###
+A 66-year-old man is brought in for evaluation of memory difficulty. During the interview, he gives the exact same response to every question asked, regardless of its content. This finding is most suggestive of which underlying process?
+A) Flight of ideas
+B) Clang associations
+C) Organic brain damage
+D) Delusional thinking
+E) Thought blocking
+Correct Answer: C) Organic brain damage
+Explanation:
+Giving the same fixed response regardless of the question (perseveration) is a cognitive sign often associated with organic brain pathology such as dementia or frontal lobe damage, rather than a primary thought disorder seen in psychotic or mood disorders.
+###
+A patient in an acute manic episode rapidly shifts from topic to topic, with each idea loosely connected to the previous one, and later begins stringing words together based on their sound rather than their meaning. Which of the following is NOT a thought process typically seen in this presentation?
+A) Flight of ideas
+B) Clang associations
+C) Tangentiality
+D) Suicidal thoughts
+E) Pressured, rapidly shifting speech
+Correct Answer: D) Suicidal thoughts
+Explanation:
+Flight of ideas, clang associations, tangentiality, and pressured speech are all disturbances of thought process (form), commonly seen in mania. Suicidal thoughts belong to thought content, not thought process, making it the outlier among the options.
