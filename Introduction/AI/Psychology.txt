@@ -1,0 +1,100 @@
+Psychology 
+Which of the following best defines psychiatry as a medical specialty?
+A) A subspecialty of neurology focused on brain imaging
+B) The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders
+C) A field limited to prescribing medication for behavioral complaints
+D) A discipline concerned only with social counseling services
+E) A field limited to managing psychotic disorders in hospitals
+Correct Answer: B) The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders
+Explanation:
+Psychiatry is defined by its four core functions: prevention, diagnosis, treatment, and rehabilitation. Because psychiatrists are physicians, they integrate biological, psychological, and social factors rather than being limited to medication or counseling alone.
+###
+Why is psychiatry considered clinically important according to the lecture?
+A) It only becomes relevant during inpatient hospital stays
+B) It is exclusively concerned with rare genetic brain disorders
+C) Mental illness increases mortality from physical disease
+D) It has no measurable effect on outcomes in physical illness
+E) It is relevant mainly to forensic and legal settings
+Correct Answer: C) Mental illness increases mortality from physical disease
+Explanation:
+The lecture emphasizes that roughly 1 in 8 people worldwide are affected by mental disorders, depression is the second leading cause of disability after cardiovascular disease, and mental illness worsens outcomes in physical disease, underscoring why every physician practices some psychiatry.
+###
+According to the biopsychosocial model, mental illness is best understood as:
+A) A condition with a single dominant biological cause
+B) A purely psychological phenomenon unrelated to biology
+C) A result of interaction between biological, psychological, and social domains
+D) A social construct with no biological basis
+E) A condition determined solely by genetics
+Correct Answer: C) A result of interaction between biological, psychological, and social domains
+Explanation:
+The biopsychosocial model frames mental illness as multifactorial, arising from the interaction of biological factors (genetics, brain function, neurotransmitters), psychological factors (personality, coping, trauma), and social factors (family, culture, employment).
+###
+Which statement correctly distinguishes mental health from mental illness?
+A) Mental health is the complete absence of any disorder
+B) Mental health includes emotional well-being and social functioning
+C) Mental illness and mental health cannot coexist
+D) Mental health refers only to absence of psychotic symptoms
+E) Mental health is determined by occupational performance alone
+Correct Answer: B) Mental health includes emotional well-being and social functioning
+Explanation:
+The lecture explicitly states mental health is not merely the absence of disease; it is a positive state encompassing emotional well-being, psychological resilience, social functioning, occupational ability, and stress coping.
+###
+For a condition to be classified as a mental disorder, which combination of features must generally be present?
+A) Disturbance in cognition or behavior, with no distress required
+B) Any unusual thought, regardless of its effect on functioning
+C) Disturbance in a core domain plus significant distress or impairment
+D) Impairment in occupational functioning alone
+E) A diagnosis made only after psychiatric hospitalization
+Correct Answer: C) Disturbance in a core domain plus significant distress or impairment
+Explanation:
+A mental disorder requires both a disturbance in one of the core domains (cognition, emotion, behavior, interpersonal functioning) AND that this disturbance produces significant distress or impairment affecting social life, relationships, work, or studying.
+###
+A patient describes an anxiety symptom in which the world suddenly feels vivid, "like a rainbow," yet the sensation is distressing and overwhelming rather than pleasant. This is most consistent with which symptom?
+A) Fear, with the world perceived as uniformly dark
+B) Panic, which can present as a heightened, vivid perception of reality
+C) Elation, as a pure mood symptom without anxiety
+D) Confusion, as a cognitive symptom
+E) Withdrawal, as a behavioral symptom
+Correct Answer: B) Panic, which can present as a heightened, vivid perception of reality
+Explanation:
+The lecture notes panic can sometimes present as a vivid, almost euphoric perception of the world (colorful, "life feels great") rather than only the classic dark, threatening perception seen in fear, making panic recognizable in atypical presentations.
+###
+Hallucinations and delusions are classified under which domains of the Mental Status Examination, respectively?
+A) Thought process and cognition
+B) Perception and thought content
+C) Insight and judgment
+D) Cognition and perception
+E) Judgment and thought process
+Correct Answer: B) Perception and thought content
+Explanation:
+Hallucinations (perceiving things that are not present) fall under perception, while delusions (fixed false beliefs) fall under thought content. The lecture separates these domains within the MSE, alongside thought process, cognition, insight, and judgment.
+###
+Which of the following is emphasized as essential to always assess as part of psychiatric risk assessment?
+A) Only suicide risk, addressed separately from other risks
+B) Only substance use, as the most common comorbidity
+C) Suicide, self-harm, homicidal thoughts, psychosis, and abuse
+D) Only homicidal ideation in forensic patients
+E) Only domestic violence in female patients
+Correct Answer: C) Suicide, self-harm, homicidal thoughts, psychosis, and abuse
+Explanation:
+Risk assessment is part of every psychiatric evaluation and must always cover this full set of areas, since each carries potentially serious and preventable consequences if missed during assessment.
+###
+Which pairing correctly identifies the brain stimulation therapies discussed among treatment modalities?
+A) ECT and TMS
+B) ECT and total mood stabilization
+C) Deep brain stimulation and psychotherapy
+D) Transcranial muscle stimulation and CBT
+E) ECT combined with lifestyle intervention
+Correct Answer: A) ECT and TMS
+Explanation:
+The lecture lists brain stimulation therapies as a distinct treatment modality alongside psychotherapy and medication, specifically naming ECT (Electroconvulsive Therapy) and TMS (Transcranial Magnetic Stimulation).
+###
+According to the lecture, stigma in psychiatry manifests in three primary forms. Which set correctly represents these?
+A) Public, self, and structural stigma
+B) Public, financial, and legal stigma
+C) Self, occupational, and diagnostic stigma
+D) Structural, familial, and public stigma only
+E) Self and public stigma only
+Correct Answer: A) Public, self, and structural stigma
+Explanation:
+Stigma manifests as public stigma (societal discrimination and stereotypes), self-stigma (internalizing negative views leading to shame), and structural stigma (institutional policies limiting rights or care), together contributing to delayed treatment and poor adherence.
