@@ -289,7 +289,7 @@ if (!fs.existsSync(MATERIALS_DIR)) {
 // استبعاد المجلدات غير المرغوبة (النظامية)
 const subjectFolders = fs.readdirSync(MATERIALS_DIR).filter(item => {
   const full = path.join(MATERIALS_DIR, item);
-  return fs.statSync(full).isDirectory() && !['.git', 'node_modules', '.github', 'scripts', 'audio', 'subjects', 'assets'].includes(item);
+  return fs.statSync(full).isDirectory() && !['.git', 'node_modules', '.github', 'scripts', 'audio', 'subjects', 'assets', 'images'].includes(item);
 });
 
 const subjects = [];
