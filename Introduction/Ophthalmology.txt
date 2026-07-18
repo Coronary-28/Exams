@@ -9,7 +9,7 @@ Correct Answer: A) They can see at 6 meters what a person with normal vision can
 Explanation:
 Visual acuity is expressed as test distance/line read by a normal eye. A 6/12 result means the patient stands at the standard 6-meter testing distance but can only resolve letters that a normal-sighted person could read from 12 meters, indicating reduced acuity. Option B reverses the fraction and describes better-than-normal vision, which is incorrect.
 ###
-This test is used to asses(Click here to see the image: )?
+This test is used to asses(Click here to see the image: https://coronary-28.github.io/Exams/images/colorvisiontest.png )?
 A) Visual acuity
 B) Pupillary reflex
 C) Visual field
@@ -29,7 +29,7 @@ Correct Answer: B) Acute angle-closure glaucoma
 Explanation:
 Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.
 ###
-All are causes of this sign except? [IMG:redeye.png]
+All are causes of this sign except (Click here to see the image: https://coronary-28.github.io/Exams/images/redeye.png )?
 A) Allergic conjunctivitis
 B) Subconjunctival hemorrhage
 C) Bacterial keratitis
