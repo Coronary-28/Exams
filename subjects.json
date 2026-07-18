@@ -2853,9 +2853,9 @@
         "path": "Introduction/AI/Radiology.txt",
         "questions": [
           {
-            "id": "introduction__ai__radiology__1__5juf4a",
+            "id": "introduction__ai__radiology__1__nm8d96",
             "number": "1",
-            "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+            "text": "On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
             "options": [
               "Hyperdense",
               "Hypodense",
@@ -5927,9 +5927,9 @@
         "sourceType": "ai"
       },
       {
-        "id": "introduction__ai__radiology__1__5juf4a",
+        "id": "introduction__ai__radiology__1__nm8d96",
         "number": "1",
-        "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+        "text": "On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
         "options": [
           "Hyperdense",
           "Hypodense",
