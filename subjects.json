@@ -525,9 +525,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__2__a7qpoc",
+            "id": "introduction__lecture__ophthalmology__2__x5zi8f",
             "number": "2",
-            "text": "This test is used to asses(Click here to see the image: https://coronary-28.github.io/Exams/images/colorvisiontest.png )?",
+            "text": "This test is used to asses (The image shows: A circle of green dots containing the number 12 made of orange dots) ?",
             "options": [
               "Visual acuity",
               "Pupillary reflex",
@@ -587,9 +587,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__4__jv5pfi",
+            "id": "introduction__lecture__ophthalmology__4__v0jw9f",
             "number": "4",
-            "text": "All are causes of this sign except (Click here to see the image: https://coronary-28.github.io/Exams/images/redeye.png )?",
+            "text": "All are causes of this sign except (The image shows: A red eye) ?",
             "options": [
               "Allergic conjunctivitis",
               "Subconjunctival hemorrhage",
@@ -3128,9 +3128,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__2__a7qpoc",
+        "id": "introduction__lecture__ophthalmology__2__x5zi8f",
         "number": "2",
-        "text": "This test is used to asses(Click here to see the image: https://coronary-28.github.io/Exams/images/colorvisiontest.png )?",
+        "text": "This test is used to asses (The image shows: A circle of green dots containing the number 12 made of orange dots) ?",
         "options": [
           "Visual acuity",
           "Pupillary reflex",
@@ -3190,9 +3190,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__4__jv5pfi",
+        "id": "introduction__lecture__ophthalmology__4__v0jw9f",
         "number": "4",
-        "text": "All are causes of this sign except (Click here to see the image: https://coronary-28.github.io/Exams/images/redeye.png )?",
+        "text": "All are causes of this sign except (The image shows: A red eye) ?",
         "options": [
           "Allergic conjunctivitis",
           "Subconjunctival hemorrhage",
@@ -5177,16 +5177,5 @@
     "totalQuestions": 82,
     "totalLectures": 9,
     "hasAiFolder": true
-  },
-  {
-    "id": "images",
-    "name": "images",
-    "lectures": [],
-    "ai": [],
-    "years": [],
-    "allQuestions": [],
-    "totalQuestions": 0,
-    "totalLectures": 0,
-    "hasAiFolder": false
   }
 ]
