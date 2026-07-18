@@ -37,3 +37,23 @@ E) Thyroglossal cyst
 Correct Answer: E) Thyroglossal cyst
 Explanation:
 A thyroglossal cyst is a midline neck lump that characteristically moves upward on tongue protrusion due to its embryological connection to the foramen cecum. Thyroid isthmus swelling moves with swallowing but not tongue protrusion, dermoid cysts are non-tender and mobile without this movement, and branchial cysts are lateral, not midline.
+###
+A 55-year-old male smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next step in management?
+A) Reassure and review in 3 months
+B) Trial of proton pump inhibitor
+C) Empirical antibiotics
+D) Urgent referral to ENT for fiberoptic laryngoscopy
+E) Voice rest and speech therapy
+Correct Answer: D) Urgent referral to ENT for fiberoptic laryngoscopy
+Explanation:
+Any smoker with hoarseness lasting more than 3 weeks is a red flag requiring urgent ENT referral for fiberoptic endoscopy to look for laryngeal tumors, as emphasized directly in the lecture. Antibiotics, PPIs, or reassurance risk delaying diagnosis of a potentially malignant cause.
+###
+A young male teacher presents with hoarseness of voice for 3 weeks with a history of prolonged vocal strain. Laryngoscopy reveals a smooth, unilateral lesion on the vocal cord. What is the most likely diagnosis?
+A) Laryngeal carcinoma
+B) Vocal cord paralysis
+C) Vocal cord polyp
+D) Vocal cord nodules
+E) Reflux laryngitis
+Correct Answer: C) Vocal cord polyp
+Explanation:
+A vocal cord polyp typically presents as a unilateral, smooth lesion following a single episode of vocal strain or trauma, unlike nodules which are bilateral and related to chronic voice abuse (e.g., singers/teachers using their voice repetitively).
