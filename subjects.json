@@ -2534,9 +2534,9 @@
         "path": "Introduction/AI/Psychology.txt",
         "questions": [
           {
-            "id": "introduction__ai__psychology__1__nqeq2k",
+            "id": "introduction__ai__psychology__1__7wjgpx",
             "number": "1",
-            "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+            "text": "Which of the following best defines psychiatry as a medical specialty?",
             "options": [
               "A subspecialty of neurology focused on brain imaging",
               "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
@@ -5617,9 +5617,9 @@
         "sourceType": "ai"
       },
       {
-        "id": "introduction__ai__psychology__1__nqeq2k",
+        "id": "introduction__ai__psychology__1__7wjgpx",
         "number": "1",
-        "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
+        "text": "Which of the following best defines psychiatry as a medical specialty?",
         "options": [
           "A subspecialty of neurology focused on brain imaging",
           "The branch of medicine concerned with prevention, diagnosis, treatment, and rehabilitation of mental disorders",
