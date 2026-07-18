@@ -2082,6 +2082,325 @@
             "sourceType": "ai"
           }
         ]
+      },
+      {
+        "id": "introduction__ai__radiology",
+        "name": "Radiology",
+        "type": "ai",
+        "subjectName": "Introduction",
+        "path": "Introduction/AI/Radiology.txt",
+        "questions": [
+          {
+            "id": "introduction__ai__radiology__1__5juf4a",
+            "number": "1",
+            "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+            "options": [
+              "Hyperdense",
+              "Hypodense",
+              "Isodense",
+              "Heterogeneous",
+              "Calcified"
+            ],
+            "originalOptions": [
+              "Hyperdense",
+              "Hypodense",
+              "Isodense",
+              "Heterogeneous",
+              "Calcified"
+            ],
+            "correctAnswer": "A) Hyperdense",
+            "correctAnswerText": "Hyperdense",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Fresh blood is denser than brain parenchyma, so acute hemorrhage (0–3 days) appears hyperdense on CT. This density evolves predictably over time, becoming isodense in the subacute phase and hypodense once chronic.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__2__jw51v4",
+            "number": "2",
+            "text": "A hemorrhage older than 4 weeks (chronic stage) typically appears on CT as which of the following?",
+            "options": [
+              "Hyperdense",
+              "Isodense",
+              "Hypodense",
+              "Heterogeneous",
+              "Hyperintense"
+            ],
+            "originalOptions": [
+              "Hyperdense",
+              "Isodense",
+              "Hypodense",
+              "Heterogeneous",
+              "Hyperintense"
+            ],
+            "correctAnswer": "C) Hypodense",
+            "correctAnswerText": "Hypodense",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "As clot breaks down and fluid content increases, hemorrhage density decreases over time: hyperdense when acute, isodense when subacute, and hypodense once chronic (over 4 weeks). Confusing the acute and chronic stages is a common exam trap since the pattern is opposite to what students expect.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__3__7mwqsf",
+            "number": "3",
+            "text": "Which early CT finding is characteristic of hyperacute ischemic stroke (6–24 hours)?",
+            "options": [
+              "Loss of grey-white differentiation",
+              "Cortical calcification",
+              "Ventricular dilation",
+              "Gyral enhancement",
+              "Marginal bone erosion"
+            ],
+            "originalOptions": [
+              "Loss of grey-white differentiation",
+              "Cortical calcification",
+              "Ventricular dilation",
+              "Gyral enhancement",
+              "Marginal bone erosion"
+            ],
+            "correctAnswer": "A) Loss of grey-white differentiation",
+            "correctAnswerText": "Loss of grey-white differentiation",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "In the early hyperacute phase of ischemia, cytotoxic edema causes cortical hypodensity with loss of grey-white matter differentiation and gyral effacement. This is an early, subtle sign, while volume loss and calcification only appear in the chronic stage.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__4__fnsipu",
+            "number": "4",
+            "text": "Vasogenic edema on brain imaging is classically seen surrounding which of the following?",
+            "options": [
+              "Brain tumor",
+              "Ischemic infarct core",
+              "Chronic hydrocephalus",
+              "Degenerative joint disease",
+              "Old pleural effusion"
+            ],
+            "originalOptions": [
+              "Brain tumor",
+              "Ischemic infarct core",
+              "Chronic hydrocephalus",
+              "Degenerative joint disease",
+              "Old pleural effusion"
+            ],
+            "correctAnswer": "A) Brain tumor",
+            "correctAnswerText": "Brain tumor",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Vasogenic edema classically surrounds tumors, abscesses, and hemorrhages due to disruption of the blood-brain barrier. This is distinct from cytotoxic edema, which occurs in ischemia and affects both grey and white matter directly.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__5__b2cov",
+            "number": "5",
+            "text": "Which radiological feature helps distinguish pulmonary consolidation from lobar collapse?",
+            "options": [
+              "Presence of air bronchograms",
+              "Presence of pleural fluid",
+              "Degree of cardiomegaly",
+              "Associated rib fracture",
+              "Costophrenic angle blunting"
+            ],
+            "originalOptions": [
+              "Presence of air bronchograms",
+              "Presence of pleural fluid",
+              "Degree of cardiomegaly",
+              "Associated rib fracture",
+              "Costophrenic angle blunting"
+            ],
+            "correctAnswer": "A) Presence of air bronchograms",
+            "correctAnswerText": "Presence of air bronchograms",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Consolidation shows airspace opacification with air bronchograms and no volume loss or fissure displacement, since the airways remain patent. Collapse, in contrast, shows volume loss and fissure displacement toward the affected lobe, with no air bronchograms.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__6__3ob1af",
+            "number": "6",
+            "text": "Which imaging modality is preferred for diagnosing acute cholecystitis?",
+            "options": [
+              "Ultrasound",
+              "Chest radiograph",
+              "Brain MRI",
+              "Barium enema",
+              "Mammography"
+            ],
+            "originalOptions": [
+              "Ultrasound",
+              "Chest radiograph",
+              "Brain MRI",
+              "Barium enema",
+              "Mammography"
+            ],
+            "correctAnswer": "A) Ultrasound",
+            "correctAnswerText": "Ultrasound",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Ultrasound is the preferred modality for cholecystitis, showing a distended gallbladder, thickened wall, calculi, and pericholecystic fluid. It is also the preferred first study for bowel obstruction and appendicitis per the lecture.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__7__vnim32",
+            "number": "7",
+            "text": "In a patient with suspected bowel perforation, which radiograph is most sensitive for detecting free intraperitoneal air?",
+            "options": [
+              "Erect chest radiograph",
+              "Supine abdominal radiograph",
+              "Chest CT scan",
+              "Barium enema study",
+              "Pelvic ultrasound scan"
+            ],
+            "originalOptions": [
+              "Erect chest radiograph",
+              "Supine abdominal radiograph",
+              "Chest CT scan",
+              "Barium enema study",
+              "Pelvic ultrasound scan"
+            ],
+            "correctAnswer": "A) Erect chest radiograph",
+            "correctAnswerText": "Erect chest radiograph",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "An erect chest x-ray is the most sensitive plain radiograph for detecting free intraperitoneal gas, appearing as lucent air beneath the diaphragm. Abdominal signs such as the Rigler (double wall) sign and football sign are also associated findings of pneumoperitoneum.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__8__xzt6ot",
+            "number": "8",
+            "text": "A barium enema shows an \"apple core\" sign with eccentric wall thickening in the descending colon. This finding is characteristic of which condition?",
+            "options": [
+              "Colorectal carcinoma",
+              "Acute diverticulitis",
+              "Adhesive bowel obstruction",
+              "Ulcerative colitis flare",
+              "Ischemic colitis episode"
+            ],
+            "originalOptions": [
+              "Colorectal carcinoma",
+              "Acute diverticulitis",
+              "Adhesive bowel obstruction",
+              "Ulcerative colitis flare",
+              "Ischemic colitis episode"
+            ],
+            "correctAnswer": "A) Colorectal carcinoma",
+            "correctAnswerText": "Colorectal carcinoma",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "The apple core sign reflects eccentric, annular wall thickening typical of colorectal carcinoma and is often associated with luminal obstruction. This classic contrast-study sign was specifically highlighted in the lecture for colorectal cancer.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__9__odq9as",
+            "number": "9",
+            "text": "What is the earliest radiological finding in ankylosing spondylitis?",
+            "options": [
+              "Bamboo spine appearance",
+              "Dagger spine sign",
+              "Sacroiliitis",
+              "Vertebral body squaring",
+              "Syndesmophyte formation"
+            ],
+            "originalOptions": [
+              "Bamboo spine appearance",
+              "Dagger spine sign",
+              "Sacroiliitis",
+              "Vertebral body squaring",
+              "Syndesmophyte formation"
+            ],
+            "correctAnswer": "C) Sacroiliitis",
+            "correctAnswerText": "Sacroiliitis",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "Sacroiliitis, seen as widening or narrowing of the sacroiliac joints, is the earliest radiological finding in ankylosing spondylitis. Bamboo spine, dagger spine, and vertebral squaring are later findings that develop as the disease progresses.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__radiology__10__buvoxr",
+            "number": "10",
+            "text": "A 45-year-old woman's screening mammogram is classified as BI-RADS 4. What is the appropriate next step?",
+            "options": [
+              "Routine annual mammogram",
+              "Short interval follow-up scan",
+              "Biopsy should be considered",
+              "No further action needed",
+              "Repeat mammogram same day"
+            ],
+            "originalOptions": [
+              "Routine annual mammogram",
+              "Short interval follow-up scan",
+              "Biopsy should be considered",
+              "No further action needed",
+              "Repeat mammogram same day"
+            ],
+            "correctAnswer": "C) Biopsy should be considered",
+            "correctAnswerText": "Biopsy should be considered",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "BI-RADS 4 indicates a suspicious finding with roughly 2–94% probability of malignancy, so biopsy should be considered. This contrasts with BI-RADS 3 (probably benign, short-interval follow-up) and BI-RADS 1–2 (normal or benign, routine follow-up).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "ai"
+          }
+        ]
       }
     ],
     "years": [],
@@ -4100,10 +4419,320 @@
         "lectureName": "Psychology",
         "groupName": "Psychology",
         "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__1__5juf4a",
+        "number": "1",
+        "text": "Radiology On CT, an acute intracranial hemorrhage (0–3 days old) typically appears as which of the following?",
+        "options": [
+          "Hyperdense",
+          "Hypodense",
+          "Isodense",
+          "Heterogeneous",
+          "Calcified"
+        ],
+        "originalOptions": [
+          "Hyperdense",
+          "Hypodense",
+          "Isodense",
+          "Heterogeneous",
+          "Calcified"
+        ],
+        "correctAnswer": "A) Hyperdense",
+        "correctAnswerText": "Hyperdense",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Fresh blood is denser than brain parenchyma, so acute hemorrhage (0–3 days) appears hyperdense on CT. This density evolves predictably over time, becoming isodense in the subacute phase and hypodense once chronic.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__2__jw51v4",
+        "number": "2",
+        "text": "A hemorrhage older than 4 weeks (chronic stage) typically appears on CT as which of the following?",
+        "options": [
+          "Hyperdense",
+          "Isodense",
+          "Hypodense",
+          "Heterogeneous",
+          "Hyperintense"
+        ],
+        "originalOptions": [
+          "Hyperdense",
+          "Isodense",
+          "Hypodense",
+          "Heterogeneous",
+          "Hyperintense"
+        ],
+        "correctAnswer": "C) Hypodense",
+        "correctAnswerText": "Hypodense",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "As clot breaks down and fluid content increases, hemorrhage density decreases over time: hyperdense when acute, isodense when subacute, and hypodense once chronic (over 4 weeks). Confusing the acute and chronic stages is a common exam trap since the pattern is opposite to what students expect.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__3__7mwqsf",
+        "number": "3",
+        "text": "Which early CT finding is characteristic of hyperacute ischemic stroke (6–24 hours)?",
+        "options": [
+          "Loss of grey-white differentiation",
+          "Cortical calcification",
+          "Ventricular dilation",
+          "Gyral enhancement",
+          "Marginal bone erosion"
+        ],
+        "originalOptions": [
+          "Loss of grey-white differentiation",
+          "Cortical calcification",
+          "Ventricular dilation",
+          "Gyral enhancement",
+          "Marginal bone erosion"
+        ],
+        "correctAnswer": "A) Loss of grey-white differentiation",
+        "correctAnswerText": "Loss of grey-white differentiation",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "In the early hyperacute phase of ischemia, cytotoxic edema causes cortical hypodensity with loss of grey-white matter differentiation and gyral effacement. This is an early, subtle sign, while volume loss and calcification only appear in the chronic stage.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__4__fnsipu",
+        "number": "4",
+        "text": "Vasogenic edema on brain imaging is classically seen surrounding which of the following?",
+        "options": [
+          "Brain tumor",
+          "Ischemic infarct core",
+          "Chronic hydrocephalus",
+          "Degenerative joint disease",
+          "Old pleural effusion"
+        ],
+        "originalOptions": [
+          "Brain tumor",
+          "Ischemic infarct core",
+          "Chronic hydrocephalus",
+          "Degenerative joint disease",
+          "Old pleural effusion"
+        ],
+        "correctAnswer": "A) Brain tumor",
+        "correctAnswerText": "Brain tumor",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Vasogenic edema classically surrounds tumors, abscesses, and hemorrhages due to disruption of the blood-brain barrier. This is distinct from cytotoxic edema, which occurs in ischemia and affects both grey and white matter directly.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__5__b2cov",
+        "number": "5",
+        "text": "Which radiological feature helps distinguish pulmonary consolidation from lobar collapse?",
+        "options": [
+          "Presence of air bronchograms",
+          "Presence of pleural fluid",
+          "Degree of cardiomegaly",
+          "Associated rib fracture",
+          "Costophrenic angle blunting"
+        ],
+        "originalOptions": [
+          "Presence of air bronchograms",
+          "Presence of pleural fluid",
+          "Degree of cardiomegaly",
+          "Associated rib fracture",
+          "Costophrenic angle blunting"
+        ],
+        "correctAnswer": "A) Presence of air bronchograms",
+        "correctAnswerText": "Presence of air bronchograms",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Consolidation shows airspace opacification with air bronchograms and no volume loss or fissure displacement, since the airways remain patent. Collapse, in contrast, shows volume loss and fissure displacement toward the affected lobe, with no air bronchograms.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__6__3ob1af",
+        "number": "6",
+        "text": "Which imaging modality is preferred for diagnosing acute cholecystitis?",
+        "options": [
+          "Ultrasound",
+          "Chest radiograph",
+          "Brain MRI",
+          "Barium enema",
+          "Mammography"
+        ],
+        "originalOptions": [
+          "Ultrasound",
+          "Chest radiograph",
+          "Brain MRI",
+          "Barium enema",
+          "Mammography"
+        ],
+        "correctAnswer": "A) Ultrasound",
+        "correctAnswerText": "Ultrasound",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Ultrasound is the preferred modality for cholecystitis, showing a distended gallbladder, thickened wall, calculi, and pericholecystic fluid. It is also the preferred first study for bowel obstruction and appendicitis per the lecture.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__7__vnim32",
+        "number": "7",
+        "text": "In a patient with suspected bowel perforation, which radiograph is most sensitive for detecting free intraperitoneal air?",
+        "options": [
+          "Erect chest radiograph",
+          "Supine abdominal radiograph",
+          "Chest CT scan",
+          "Barium enema study",
+          "Pelvic ultrasound scan"
+        ],
+        "originalOptions": [
+          "Erect chest radiograph",
+          "Supine abdominal radiograph",
+          "Chest CT scan",
+          "Barium enema study",
+          "Pelvic ultrasound scan"
+        ],
+        "correctAnswer": "A) Erect chest radiograph",
+        "correctAnswerText": "Erect chest radiograph",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "An erect chest x-ray is the most sensitive plain radiograph for detecting free intraperitoneal gas, appearing as lucent air beneath the diaphragm. Abdominal signs such as the Rigler (double wall) sign and football sign are also associated findings of pneumoperitoneum.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__8__xzt6ot",
+        "number": "8",
+        "text": "A barium enema shows an \"apple core\" sign with eccentric wall thickening in the descending colon. This finding is characteristic of which condition?",
+        "options": [
+          "Colorectal carcinoma",
+          "Acute diverticulitis",
+          "Adhesive bowel obstruction",
+          "Ulcerative colitis flare",
+          "Ischemic colitis episode"
+        ],
+        "originalOptions": [
+          "Colorectal carcinoma",
+          "Acute diverticulitis",
+          "Adhesive bowel obstruction",
+          "Ulcerative colitis flare",
+          "Ischemic colitis episode"
+        ],
+        "correctAnswer": "A) Colorectal carcinoma",
+        "correctAnswerText": "Colorectal carcinoma",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "The apple core sign reflects eccentric, annular wall thickening typical of colorectal carcinoma and is often associated with luminal obstruction. This classic contrast-study sign was specifically highlighted in the lecture for colorectal cancer.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__9__odq9as",
+        "number": "9",
+        "text": "What is the earliest radiological finding in ankylosing spondylitis?",
+        "options": [
+          "Bamboo spine appearance",
+          "Dagger spine sign",
+          "Sacroiliitis",
+          "Vertebral body squaring",
+          "Syndesmophyte formation"
+        ],
+        "originalOptions": [
+          "Bamboo spine appearance",
+          "Dagger spine sign",
+          "Sacroiliitis",
+          "Vertebral body squaring",
+          "Syndesmophyte formation"
+        ],
+        "correctAnswer": "C) Sacroiliitis",
+        "correctAnswerText": "Sacroiliitis",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "Sacroiliitis, seen as widening or narrowing of the sacroiliac joints, is the earliest radiological finding in ankylosing spondylitis. Bamboo spine, dagger spine, and vertebral squaring are later findings that develop as the disease progresses.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__radiology__10__buvoxr",
+        "number": "10",
+        "text": "A 45-year-old woman's screening mammogram is classified as BI-RADS 4. What is the appropriate next step?",
+        "options": [
+          "Routine annual mammogram",
+          "Short interval follow-up scan",
+          "Biopsy should be considered",
+          "No further action needed",
+          "Repeat mammogram same day"
+        ],
+        "originalOptions": [
+          "Routine annual mammogram",
+          "Short interval follow-up scan",
+          "Biopsy should be considered",
+          "No further action needed",
+          "Repeat mammogram same day"
+        ],
+        "correctAnswer": "C) Biopsy should be considered",
+        "correctAnswerText": "Biopsy should be considered",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "BI-RADS 4 indicates a suspicious finding with roughly 2–94% probability of malignancy, so biopsy should be considered. This contrasts with BI-RADS 3 (probably benign, short-interval follow-up) and BI-RADS 1–2 (normal or benign, routine follow-up).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "ai"
       }
     ],
-    "totalQuestions": 65,
-    "totalLectures": 7,
+    "totalQuestions": 75,
+    "totalLectures": 8,
     "hasAiFolder": true
   }
 ]
