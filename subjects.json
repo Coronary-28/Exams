@@ -1577,9 +1577,9 @@
         "path": "Introduction/AI/ENT.txt",
         "questions": [
           {
-            "id": "introduction__ai__ent__1__amrm9",
+            "id": "introduction__ai__ent__1__xx36t8",
             "number": "1",
-            "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+            "text": "Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
             "options": [
               "Malleus",
               "Stapes",
@@ -4687,9 +4687,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__ai__ent__1__amrm9",
+        "id": "introduction__ai__ent__1__xx36t8",
         "number": "1",
-        "text": "ENT Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
+        "text": "Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
         "options": [
           "Malleus",
           "Stapes",
