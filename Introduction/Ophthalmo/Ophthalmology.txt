@@ -1,0 +1,71 @@
+Ophthalmology
+If a patient has a visual acuity of 6/12, what does this mean?
+A) They can see at 6 meters what a person with normal vision can see at 12 meters
+B) They can see at 12 meters what a person with normal vision can see at 6 meters
+C) Their vision is better than normal, resolving details invisible to the average eye at 6 meters
+D) They have normal visual acuity equivalent to 6/6
+E) They can only perceive hand movements at a distance of 6 meters
+Correct Answer: A) They can see at 6 meters what a person with normal vision can see at 12 meters
+Explanation:
+Visual acuity is expressed as test distance/line read by a normal eye. A 6/12 result means the patient stands at the standard 6-meter testing distance but can only resolve letters that a normal-sighted person could read from 12 meters, indicating reduced acuity. Option B reverses the fraction and describes better-than-normal vision, which is incorrect.
+###
+This test is used to asses? [IMG:colorvisiontest.png]
+A) Visual acuity
+B) Pupillary reflex
+C) Visual field
+D) Color vision
+E) Contrast sensitivity
+Correct Answer: D) Color vision
+Explanation:
+The pseudoisochromatic plate shown (numbers embedded in colored dots) is used to assess color vision, testing one of the key optic nerve functions. Visual acuity uses the Snellen chart, not colored dot plates, making A incorrect.
+###
+What condition causes painful loss of vision?
+A) Giant cell arteritis
+B) Acute angle-closure glaucoma
+C) Cataract
+D) Age-related macular degeneration
+E) Retinal detachment
+Correct Answer: B) Acute angle-closure glaucoma
+Explanation:
+Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.
+###
+All are causes of this sign except? [IMG:redeye.png]
+A) Allergic conjunctivitis
+B) Subconjunctival hemorrhage
+C) Bacterial keratitis
+D) Anterior uveitis
+E) Macular edema
+Correct Answer: E) Macular edema
+Explanation:
+Macular edema affects the central retina and causes distortion or blurred central vision, not conjunctival redness, so it is not a cause of red eye. Conjunctivitis, subconjunctival hemorrhage, keratitis, and uveitis are all recognized causes of red eye.
+###
+What is the term for pupils of different sizes?
+A) Nystagmus
+B) Anisocoria
+C) Ptosis
+D) Diplopia
+E) RAPD
+Correct Answer: B) Anisocoria
+Explanation:
+Anisocoria is defined as a difference in pupil size between the two eyes. Nystagmus refers to involuntary eye movement, and RAPD (relative afferent pupillary defect) refers to an abnormal pupillary light response, not a size difference.
+###
+What is the visual field exam called?
+A) Ishihara test
+B) Swinging light test
+C) Confrontation test
+D) Snellen test
+E) Ophthalmoscopy
+Correct Answer: C) Confrontation test
+Explanation:
+The bedside visual field examination, where the examiner compares their own visual field to the patient's by moving a target from the periphery toward the center, is known as the confrontation test. The swinging light test is used to detect an RAPD, not to assess visual fields.
+###
+What are the three components involved in accommodation?
+A) Accommodation, pupillary constriction, and convergence
+B) Accommodation, pupillary dilation, and divergence
+C) Visual acuity, color vision, and pupillary reflex
+D) Lens accommodation, RAPD, and visual field
+E) Convergence, dilation, and visual acuity
+Correct Answer: A) Accommodation, pupillary constriction, and convergence
+Explanation:
+The near reflex triad consists of lens accommodation, pupillary constriction, and convergence of both eyes, allowing clear focus on near objects. Pupillary dilation and divergence (option B) are the opposite responses and are incorrect.
+###
