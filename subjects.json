@@ -1158,6 +1158,325 @@
         ]
       },
       {
+        "id": "introduction__ai__forensic",
+        "name": "Forensic",
+        "type": "ai",
+        "subjectName": "Introduction",
+        "path": "Introduction/AI/Forensic.txt",
+        "questions": [
+          {
+            "id": "introduction__ai__forensic__1__ahluix",
+            "number": "1",
+            "text": "Forensic Death is defined as the complete, irreversible cessation of the integrated function of which three systems?",
+            "options": [
+              "CNS, RS, CVS",
+              "CNS, GIT, CVS",
+              "RS, GIT, Renal",
+              "CNS, Renal, CVS",
+              "RS, CVS, Renal"
+            ],
+            "originalOptions": [
+              "CNS, RS, CVS",
+              "CNS, GIT, CVS",
+              "RS, GIT, Renal",
+              "CNS, Renal, CVS",
+              "RS, CVS, Renal"
+            ],
+            "correctAnswer": "A) CNS, RS, CVS",
+            "correctAnswerText": "CNS, RS, CVS",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Death is defined as complete, irreversible cessation of the integrated function of the central nervous system, respiratory system, and cardiovascular system, reflected by absence of brain stem reflexes. This triad forms the basis for clinically confirming death before postmortem changes even begin.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__2__8et2wc",
+            "number": "2",
+            "text": "What is the main clinical rationale for recognizing early postmortem changes such as rigor mortis, hypostasis, and decomposition?",
+            "options": [
+              "To determine the exact cause of death immediately",
+              "To confirm death and avoid unnecessary resuscitation attempts",
+              "To estimate the victim's exact age at death",
+              "To identify the weapon used in an assault",
+              "To calculate the total blood loss at the scene"
+            ],
+            "originalOptions": [
+              "To determine the exact cause of death immediately",
+              "To confirm death and avoid unnecessary resuscitation attempts",
+              "To estimate the victim's exact age at death",
+              "To identify the weapon used in an assault",
+              "To calculate the total blood loss at the scene"
+            ],
+            "correctAnswer": "B) To confirm death and avoid unnecessary resuscitation attempts",
+            "correctAnswerText": "To confirm death and avoid unnecessary resuscitation attempts",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Recognizing these signs confirms that a person is already dead, so there is no need to perform CPR, defibrillation, or give adrenaline, saving time and effort. It also has a social value, since attempting resuscitation on an obviously dead body in front of family can be inappropriate.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__3__lalxhu",
+            "number": "3",
+            "text": "The pale areas seen at pressure points within a region of postmortem hypostasis are best explained by:",
+            "options": [
+              "Increased hemoglobin breakdown at those sites",
+              "Localized rigor mortis affecting the skin",
+              "Blood being unable to accumulate due to compression at those points",
+              "Early putrefaction changes at contact points",
+              "Reduced carboxyhemoglobin formation at those areas"
+            ],
+            "originalOptions": [
+              "Increased hemoglobin breakdown at those sites",
+              "Localized rigor mortis affecting the skin",
+              "Blood being unable to accumulate due to compression at those points",
+              "Early putrefaction changes at contact points",
+              "Reduced carboxyhemoglobin formation at those areas"
+            ],
+            "correctAnswer": "C) Blood being unable to accumulate due to compression at those points",
+            "correctAnswerText": "Blood being unable to accumulate due to compression at those points",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "This phenomenon, called pressure pallor, occurs because pressure at contact points squeezes blood out and prevents it from stagnating there, unlike the surrounding dependent skin. It is a useful clue for reconstructing the body's position or contact surfaces after death.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__4__cmrbgk",
+            "number": "4",
+            "text": "Rigor mortis characteristically begins first in which muscle group before descending through the body?",
+            "options": [
+              "Muscles of the hands and fingers",
+              "Muscles of the lower limbs",
+              "Large muscles of the back",
+              "Small muscles of the face and jaw",
+              "Muscles of the abdominal wall"
+            ],
+            "originalOptions": [
+              "Muscles of the hands and fingers",
+              "Muscles of the lower limbs",
+              "Large muscles of the back",
+              "Small muscles of the face and jaw",
+              "Muscles of the abdominal wall"
+            ],
+            "correctAnswer": "D) Small muscles of the face and jaw",
+            "correctAnswerText": "Small muscles of the face and jaw",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Rigor mortis typically starts in the small muscles of the face and jaw before progressing downward through the body. Because it preserves the position at the time of death, its distribution can help reconstruct how the body was positioned when the person died.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__5__5ro91u",
+            "number": "5",
+            "text": "A body found suspended by a ligature around the neck, with compression caused by the weight of the body, is most consistent with which manner of death?",
+            "options": [
+              "Mostly homicidal",
+              "Mostly accidental",
+              "Mostly natural",
+              "Mostly undetermined",
+              "Mostly suicidal"
+            ],
+            "originalOptions": [
+              "Mostly homicidal",
+              "Mostly accidental",
+              "Mostly natural",
+              "Mostly undetermined",
+              "Mostly suicidal"
+            ],
+            "correctAnswer": "E) Mostly suicidal",
+            "correctAnswerText": "Mostly suicidal",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Hanging is compression of the neck by the weight of the body (or part of it) and is mostly suicidal, though it can occasionally be accidental. This contrasts with strangulation by ligature or hands, which is mostly homicidal.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__6__3vc1zk",
+            "number": "6",
+            "text": "Choking, as a mechanical anoxic death, results from occlusion of the respiratory passages at which level?",
+            "options": [
+              "Larynx level, from inside",
+              "Nose and mouth level, from outside",
+              "Neck level, by ligature",
+              "Chest and abdomen level, by external force",
+              "Pharynx level, by external compression"
+            ],
+            "originalOptions": [
+              "Larynx level, from inside",
+              "Nose and mouth level, from outside",
+              "Neck level, by ligature",
+              "Chest and abdomen level, by external force",
+              "Pharynx level, by external compression"
+            ],
+            "correctAnswer": "A) Larynx level, from inside",
+            "correctAnswerText": "Larynx level, from inside",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Choking is the mechanical anoxic death caused by occlusion of the respiratory passages from inside, at the level of the larynx, such as by a swallowed foreign object. This distinguishes it from smothering (mouth/nose, external) and traumatic asphyxia (chest/abdomen).",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__7__fit75r",
+            "number": "7",
+            "text": "The presence of froth at the mouth when a body is retrieved from water is most suggestive of:",
+            "options": [
+              "Postmortem submersion after death",
+              "Antemortem drowning (alive when submerged)",
+              "Death from traumatic asphyxia before submersion",
+              "Decomposition changes from prolonged submersion",
+              "Contamination from surrounding water debris"
+            ],
+            "originalOptions": [
+              "Postmortem submersion after death",
+              "Antemortem drowning (alive when submerged)",
+              "Death from traumatic asphyxia before submersion",
+              "Decomposition changes from prolonged submersion",
+              "Contamination from surrounding water debris"
+            ],
+            "correctAnswer": "B) Antemortem drowning (alive when submerged)",
+            "correctAnswerText": "Antemortem drowning (alive when submerged)",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "If froth is found coming from the mouth when the body is pulled from the water, this indicates the person was still alive and breathing when submerged, i.e., antemortem drowning. This distinction is forensically essential to determine whether the person fell into water before or after death.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__8__r4lf9h",
+            "number": "8",
+            "text": "In a burn victim, a blood carboxyhemoglobin (CO) level above approximately 10% suggests which of the following?",
+            "options": [
+              "The person died before the fire started",
+              "The person had chronic COPD prior to death",
+              "The person was alive during the fire (antemortem burning)",
+              "The fire was electrical rather than chemical in origin",
+              "The body was moved into the fire after death"
+            ],
+            "originalOptions": [
+              "The person died before the fire started",
+              "The person had chronic COPD prior to death",
+              "The person was alive during the fire (antemortem burning)",
+              "The fire was electrical rather than chemical in origin",
+              "The body was moved into the fire after death"
+            ],
+            "correctAnswer": "C) The person was alive during the fire (antemortem burning)",
+            "correctAnswerText": "The person was alive during the fire (antemortem burning)",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "A COHb level above roughly 10% indicates the person was breathing combustion smoke and therefore alive during the fire, confirming antemortem burning. This is analogous to using froth to confirm antemortem drowning, both distinguishing whether the person was alive at the time of the fatal event.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__9__b2dded",
+            "number": "9",
+            "text": "\"Gagging\" differs from \"smothering\" mainly in that gagging involves closure of the airway:",
+            "options": [
+              "At the neck level rather than the mouth",
+              "By a ligature rather than by hands",
+              "At the chest level rather than the mouth",
+              "From inside the mouth rather than from outside",
+              "Due to natural disease rather than external force"
+            ],
+            "originalOptions": [
+              "At the neck level rather than the mouth",
+              "By a ligature rather than by hands",
+              "At the chest level rather than the mouth",
+              "From inside the mouth rather than from outside",
+              "Due to natural disease rather than external force"
+            ],
+            "correctAnswer": "D) From inside the mouth rather than from outside",
+            "correctAnswerText": "From inside the mouth rather than from outside",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "Gagging resembles smothering but occurs from inside, such as when a piece of cloth (the gag) is pushed into the mouth and pressed backward, closing the mouth and nose internally rather than externally. Both act at the same anatomical level (mouth and nose) but differ in the direction/source of occlusion.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__forensic__10__i68crv",
+            "number": "10",
+            "text": "Which wound feature at the wound bottom is most useful in distinguishing a laceration from an incised (cut) wound?",
+            "options": [
+              "Presence of surrounding contusion",
+              "Presence of surface bleeding",
+              "Presence of skin discoloration",
+              "Presence of wound depth variation",
+              "Presence of tissue bridging"
+            ],
+            "originalOptions": [
+              "Presence of surrounding contusion",
+              "Presence of surface bleeding",
+              "Presence of skin discoloration",
+              "Presence of wound depth variation",
+              "Presence of tissue bridging"
+            ],
+            "correctAnswer": "E) Presence of tissue bridging",
+            "correctAnswerText": "Presence of tissue bridging",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Lacerations, caused by blunt trauma, typically show tissue bridging at the wound bottom because some tougher tissue strands resist tearing, along with irregular edges and contused margins. Incised wounds, from sharp objects, characteristically lack bridging and instead show regular edges with a clean, clear margin.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "ai"
+          }
+        ]
+      },
+      {
         "id": "introduction__ai__psychology",
         "name": "Psychology",
         "type": "ai",
@@ -2596,6 +2915,316 @@
         "sourceType": "ai"
       },
       {
+        "id": "introduction__ai__forensic__1__ahluix",
+        "number": "1",
+        "text": "Forensic Death is defined as the complete, irreversible cessation of the integrated function of which three systems?",
+        "options": [
+          "CNS, RS, CVS",
+          "CNS, GIT, CVS",
+          "RS, GIT, Renal",
+          "CNS, Renal, CVS",
+          "RS, CVS, Renal"
+        ],
+        "originalOptions": [
+          "CNS, RS, CVS",
+          "CNS, GIT, CVS",
+          "RS, GIT, Renal",
+          "CNS, Renal, CVS",
+          "RS, CVS, Renal"
+        ],
+        "correctAnswer": "A) CNS, RS, CVS",
+        "correctAnswerText": "CNS, RS, CVS",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Death is defined as complete, irreversible cessation of the integrated function of the central nervous system, respiratory system, and cardiovascular system, reflected by absence of brain stem reflexes. This triad forms the basis for clinically confirming death before postmortem changes even begin.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__2__8et2wc",
+        "number": "2",
+        "text": "What is the main clinical rationale for recognizing early postmortem changes such as rigor mortis, hypostasis, and decomposition?",
+        "options": [
+          "To determine the exact cause of death immediately",
+          "To confirm death and avoid unnecessary resuscitation attempts",
+          "To estimate the victim's exact age at death",
+          "To identify the weapon used in an assault",
+          "To calculate the total blood loss at the scene"
+        ],
+        "originalOptions": [
+          "To determine the exact cause of death immediately",
+          "To confirm death and avoid unnecessary resuscitation attempts",
+          "To estimate the victim's exact age at death",
+          "To identify the weapon used in an assault",
+          "To calculate the total blood loss at the scene"
+        ],
+        "correctAnswer": "B) To confirm death and avoid unnecessary resuscitation attempts",
+        "correctAnswerText": "To confirm death and avoid unnecessary resuscitation attempts",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Recognizing these signs confirms that a person is already dead, so there is no need to perform CPR, defibrillation, or give adrenaline, saving time and effort. It also has a social value, since attempting resuscitation on an obviously dead body in front of family can be inappropriate.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__3__lalxhu",
+        "number": "3",
+        "text": "The pale areas seen at pressure points within a region of postmortem hypostasis are best explained by:",
+        "options": [
+          "Increased hemoglobin breakdown at those sites",
+          "Localized rigor mortis affecting the skin",
+          "Blood being unable to accumulate due to compression at those points",
+          "Early putrefaction changes at contact points",
+          "Reduced carboxyhemoglobin formation at those areas"
+        ],
+        "originalOptions": [
+          "Increased hemoglobin breakdown at those sites",
+          "Localized rigor mortis affecting the skin",
+          "Blood being unable to accumulate due to compression at those points",
+          "Early putrefaction changes at contact points",
+          "Reduced carboxyhemoglobin formation at those areas"
+        ],
+        "correctAnswer": "C) Blood being unable to accumulate due to compression at those points",
+        "correctAnswerText": "Blood being unable to accumulate due to compression at those points",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "This phenomenon, called pressure pallor, occurs because pressure at contact points squeezes blood out and prevents it from stagnating there, unlike the surrounding dependent skin. It is a useful clue for reconstructing the body's position or contact surfaces after death.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__4__cmrbgk",
+        "number": "4",
+        "text": "Rigor mortis characteristically begins first in which muscle group before descending through the body?",
+        "options": [
+          "Muscles of the hands and fingers",
+          "Muscles of the lower limbs",
+          "Large muscles of the back",
+          "Small muscles of the face and jaw",
+          "Muscles of the abdominal wall"
+        ],
+        "originalOptions": [
+          "Muscles of the hands and fingers",
+          "Muscles of the lower limbs",
+          "Large muscles of the back",
+          "Small muscles of the face and jaw",
+          "Muscles of the abdominal wall"
+        ],
+        "correctAnswer": "D) Small muscles of the face and jaw",
+        "correctAnswerText": "Small muscles of the face and jaw",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Rigor mortis typically starts in the small muscles of the face and jaw before progressing downward through the body. Because it preserves the position at the time of death, its distribution can help reconstruct how the body was positioned when the person died.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__5__5ro91u",
+        "number": "5",
+        "text": "A body found suspended by a ligature around the neck, with compression caused by the weight of the body, is most consistent with which manner of death?",
+        "options": [
+          "Mostly homicidal",
+          "Mostly accidental",
+          "Mostly natural",
+          "Mostly undetermined",
+          "Mostly suicidal"
+        ],
+        "originalOptions": [
+          "Mostly homicidal",
+          "Mostly accidental",
+          "Mostly natural",
+          "Mostly undetermined",
+          "Mostly suicidal"
+        ],
+        "correctAnswer": "E) Mostly suicidal",
+        "correctAnswerText": "Mostly suicidal",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Hanging is compression of the neck by the weight of the body (or part of it) and is mostly suicidal, though it can occasionally be accidental. This contrasts with strangulation by ligature or hands, which is mostly homicidal.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__6__3vc1zk",
+        "number": "6",
+        "text": "Choking, as a mechanical anoxic death, results from occlusion of the respiratory passages at which level?",
+        "options": [
+          "Larynx level, from inside",
+          "Nose and mouth level, from outside",
+          "Neck level, by ligature",
+          "Chest and abdomen level, by external force",
+          "Pharynx level, by external compression"
+        ],
+        "originalOptions": [
+          "Larynx level, from inside",
+          "Nose and mouth level, from outside",
+          "Neck level, by ligature",
+          "Chest and abdomen level, by external force",
+          "Pharynx level, by external compression"
+        ],
+        "correctAnswer": "A) Larynx level, from inside",
+        "correctAnswerText": "Larynx level, from inside",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Choking is the mechanical anoxic death caused by occlusion of the respiratory passages from inside, at the level of the larynx, such as by a swallowed foreign object. This distinguishes it from smothering (mouth/nose, external) and traumatic asphyxia (chest/abdomen).",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__7__fit75r",
+        "number": "7",
+        "text": "The presence of froth at the mouth when a body is retrieved from water is most suggestive of:",
+        "options": [
+          "Postmortem submersion after death",
+          "Antemortem drowning (alive when submerged)",
+          "Death from traumatic asphyxia before submersion",
+          "Decomposition changes from prolonged submersion",
+          "Contamination from surrounding water debris"
+        ],
+        "originalOptions": [
+          "Postmortem submersion after death",
+          "Antemortem drowning (alive when submerged)",
+          "Death from traumatic asphyxia before submersion",
+          "Decomposition changes from prolonged submersion",
+          "Contamination from surrounding water debris"
+        ],
+        "correctAnswer": "B) Antemortem drowning (alive when submerged)",
+        "correctAnswerText": "Antemortem drowning (alive when submerged)",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "If froth is found coming from the mouth when the body is pulled from the water, this indicates the person was still alive and breathing when submerged, i.e., antemortem drowning. This distinction is forensically essential to determine whether the person fell into water before or after death.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__8__r4lf9h",
+        "number": "8",
+        "text": "In a burn victim, a blood carboxyhemoglobin (CO) level above approximately 10% suggests which of the following?",
+        "options": [
+          "The person died before the fire started",
+          "The person had chronic COPD prior to death",
+          "The person was alive during the fire (antemortem burning)",
+          "The fire was electrical rather than chemical in origin",
+          "The body was moved into the fire after death"
+        ],
+        "originalOptions": [
+          "The person died before the fire started",
+          "The person had chronic COPD prior to death",
+          "The person was alive during the fire (antemortem burning)",
+          "The fire was electrical rather than chemical in origin",
+          "The body was moved into the fire after death"
+        ],
+        "correctAnswer": "C) The person was alive during the fire (antemortem burning)",
+        "correctAnswerText": "The person was alive during the fire (antemortem burning)",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "A COHb level above roughly 10% indicates the person was breathing combustion smoke and therefore alive during the fire, confirming antemortem burning. This is analogous to using froth to confirm antemortem drowning, both distinguishing whether the person was alive at the time of the fatal event.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__9__b2dded",
+        "number": "9",
+        "text": "\"Gagging\" differs from \"smothering\" mainly in that gagging involves closure of the airway:",
+        "options": [
+          "At the neck level rather than the mouth",
+          "By a ligature rather than by hands",
+          "At the chest level rather than the mouth",
+          "From inside the mouth rather than from outside",
+          "Due to natural disease rather than external force"
+        ],
+        "originalOptions": [
+          "At the neck level rather than the mouth",
+          "By a ligature rather than by hands",
+          "At the chest level rather than the mouth",
+          "From inside the mouth rather than from outside",
+          "Due to natural disease rather than external force"
+        ],
+        "correctAnswer": "D) From inside the mouth rather than from outside",
+        "correctAnswerText": "From inside the mouth rather than from outside",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "Gagging resembles smothering but occurs from inside, such as when a piece of cloth (the gag) is pushed into the mouth and pressed backward, closing the mouth and nose internally rather than externally. Both act at the same anatomical level (mouth and nose) but differ in the direction/source of occlusion.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__forensic__10__i68crv",
+        "number": "10",
+        "text": "Which wound feature at the wound bottom is most useful in distinguishing a laceration from an incised (cut) wound?",
+        "options": [
+          "Presence of surrounding contusion",
+          "Presence of surface bleeding",
+          "Presence of skin discoloration",
+          "Presence of wound depth variation",
+          "Presence of tissue bridging"
+        ],
+        "originalOptions": [
+          "Presence of surrounding contusion",
+          "Presence of surface bleeding",
+          "Presence of skin discoloration",
+          "Presence of wound depth variation",
+          "Presence of tissue bridging"
+        ],
+        "correctAnswer": "E) Presence of tissue bridging",
+        "correctAnswerText": "Presence of tissue bridging",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Lacerations, caused by blunt trauma, typically show tissue bridging at the wound bottom because some tougher tissue strands resist tearing, along with irregular edges and contused margins. Incised wounds, from sharp objects, characteristically lack bridging and instead show regular edges with a clean, clear margin.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "ai"
+      },
+      {
         "id": "introduction__ai__psychology__1__nqeq2k",
         "number": "1",
         "text": "Psychology Which of the following best defines psychiatry as a medical specialty?",
@@ -2906,8 +3535,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 46,
-    "totalLectures": 5,
+    "totalQuestions": 56,
+    "totalLectures": 6,
     "hasAiFolder": true
   }
 ]
