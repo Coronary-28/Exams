@@ -502,6 +502,239 @@
         ]
       },
       {
+        "id": "introduction__lecture__ophthalmology",
+        "name": "Ophthalmology",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Ophthalmology.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__ophthalmology__1__79z1u2",
+            "number": "1",
+            "text": "Ophthalmology If a patient has a visual acuity of 6/12, what does this mean?",
+            "imageUrl": null,
+            "options": [
+              "They can see at 6 meters what a person with normal vision can see at 12 meters",
+              "They can see at 12 meters what a person with normal vision can see at 6 meters",
+              "Their vision is better than normal, resolving details invisible to the average eye at 6 meters",
+              "They have normal visual acuity equivalent to 6/6",
+              "They can only perceive hand movements at a distance of 6 meters"
+            ],
+            "originalOptions": [
+              "They can see at 6 meters what a person with normal vision can see at 12 meters",
+              "They can see at 12 meters what a person with normal vision can see at 6 meters",
+              "Their vision is better than normal, resolving details invisible to the average eye at 6 meters",
+              "They have normal visual acuity equivalent to 6/6",
+              "They can only perceive hand movements at a distance of 6 meters"
+            ],
+            "correctAnswer": "A) They can see at 6 meters what a person with normal vision can see at 12 meters",
+            "correctAnswerText": "They can see at 6 meters what a person with normal vision can see at 12 meters",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "Visual acuity is expressed as test distance/line read by a normal eye. A 6/12 result means the patient stands at the standard 6-meter testing distance but can only resolve letters that a normal-sighted person could read from 12 meters, indicating reduced acuity. Option B reverses the fraction and describes better-than-normal vision, which is incorrect.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__2__ihfndo",
+            "number": "2",
+            "text": "This test is used to asses?",
+            "imageUrl": "colorvisiontest.png",
+            "options": [
+              "Visual acuity",
+              "Pupillary reflex",
+              "Visual field",
+              "Color vision",
+              "Contrast sensitivity"
+            ],
+            "originalOptions": [
+              "Visual acuity",
+              "Pupillary reflex",
+              "Visual field",
+              "Color vision",
+              "Contrast sensitivity"
+            ],
+            "correctAnswer": "D) Color vision",
+            "correctAnswerText": "Color vision",
+            "correctIndex": 3,
+            "correctAnswerLetter": "D",
+            "explanation": "The pseudoisochromatic plate shown (numbers embedded in colored dots) is used to assess color vision, testing one of the key optic nerve functions. Visual acuity uses the Snellen chart, not colored dot plates, making A incorrect.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__3__wtbbtv",
+            "number": "3",
+            "text": "What condition causes painful loss of vision?",
+            "imageUrl": null,
+            "options": [
+              "Giant cell arteritis",
+              "Acute angle-closure glaucoma",
+              "Cataract",
+              "Age-related macular degeneration",
+              "Retinal detachment"
+            ],
+            "originalOptions": [
+              "Giant cell arteritis",
+              "Acute angle-closure glaucoma",
+              "Cataract",
+              "Age-related macular degeneration",
+              "Retinal detachment"
+            ],
+            "correctAnswer": "B) Acute angle-closure glaucoma",
+            "correctAnswerText": "Acute angle-closure glaucoma",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__4__96ctg9",
+            "number": "4",
+            "text": "All are causes of this sign except?",
+            "imageUrl": "redeye.png",
+            "options": [
+              "Allergic conjunctivitis",
+              "Subconjunctival hemorrhage",
+              "Bacterial keratitis",
+              "Anterior uveitis",
+              "Macular edema"
+            ],
+            "originalOptions": [
+              "Allergic conjunctivitis",
+              "Subconjunctival hemorrhage",
+              "Bacterial keratitis",
+              "Anterior uveitis",
+              "Macular edema"
+            ],
+            "correctAnswer": "E) Macular edema",
+            "correctAnswerText": "Macular edema",
+            "correctIndex": 4,
+            "correctAnswerLetter": "E",
+            "explanation": "Macular edema affects the central retina and causes distortion or blurred central vision, not conjunctival redness, so it is not a cause of red eye. Conjunctivitis, subconjunctival hemorrhage, keratitis, and uveitis are all recognized causes of red eye.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__5__xqin3w",
+            "number": "5",
+            "text": "What is the term for pupils of different sizes?",
+            "imageUrl": null,
+            "options": [
+              "Nystagmus",
+              "Anisocoria",
+              "Ptosis",
+              "Diplopia",
+              "RAPD"
+            ],
+            "originalOptions": [
+              "Nystagmus",
+              "Anisocoria",
+              "Ptosis",
+              "Diplopia",
+              "RAPD"
+            ],
+            "correctAnswer": "B) Anisocoria",
+            "correctAnswerText": "Anisocoria",
+            "correctIndex": 1,
+            "correctAnswerLetter": "B",
+            "explanation": "Anisocoria is defined as a difference in pupil size between the two eyes. Nystagmus refers to involuntary eye movement, and RAPD (relative afferent pupillary defect) refers to an abnormal pupillary light response, not a size difference.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__6__mtury6",
+            "number": "6",
+            "text": "What is the visual field exam called?",
+            "imageUrl": null,
+            "options": [
+              "Ishihara test",
+              "Swinging light test",
+              "Confrontation test",
+              "Snellen test",
+              "Ophthalmoscopy"
+            ],
+            "originalOptions": [
+              "Ishihara test",
+              "Swinging light test",
+              "Confrontation test",
+              "Snellen test",
+              "Ophthalmoscopy"
+            ],
+            "correctAnswer": "C) Confrontation test",
+            "correctAnswerText": "Confrontation test",
+            "correctIndex": 2,
+            "correctAnswerLetter": "C",
+            "explanation": "The bedside visual field examination, where the examiner compares their own visual field to the patient's by moving a target from the periphery toward the center, is known as the confrontation test. The swinging light test is used to detect an RAPD, not to assess visual fields.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__7__vg0w00",
+            "number": "7",
+            "text": "What are the three components involved in accommodation?",
+            "imageUrl": null,
+            "options": [
+              "Accommodation, pupillary constriction, and convergence",
+              "Accommodation, pupillary dilation, and divergence",
+              "Visual acuity, color vision, and pupillary reflex",
+              "Lens accommodation, RAPD, and visual field",
+              "Convergence, dilation, and visual acuity"
+            ],
+            "originalOptions": [
+              "Accommodation, pupillary constriction, and convergence",
+              "Accommodation, pupillary dilation, and divergence",
+              "Visual acuity, color vision, and pupillary reflex",
+              "Lens accommodation, RAPD, and visual field",
+              "Convergence, dilation, and visual acuity"
+            ],
+            "correctAnswer": "A) Accommodation, pupillary constriction, and convergence",
+            "correctAnswerText": "Accommodation, pupillary constriction, and convergence",
+            "correctIndex": 0,
+            "correctAnswerLetter": "A",
+            "explanation": "The near reflex triad consists of lens accommodation, pupillary constriction, and convergence of both eyes, allowing clear focus on near objects. Pupillary dilation and divergence (option B) are the opposite responses and are incorrect.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "introduction__lecture__psychology",
         "name": "Psychology",
         "type": "lecture",
@@ -2961,6 +3194,230 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__ophthalmology__1__79z1u2",
+        "number": "1",
+        "text": "Ophthalmology If a patient has a visual acuity of 6/12, what does this mean?",
+        "imageUrl": null,
+        "options": [
+          "They can see at 6 meters what a person with normal vision can see at 12 meters",
+          "They can see at 12 meters what a person with normal vision can see at 6 meters",
+          "Their vision is better than normal, resolving details invisible to the average eye at 6 meters",
+          "They have normal visual acuity equivalent to 6/6",
+          "They can only perceive hand movements at a distance of 6 meters"
+        ],
+        "originalOptions": [
+          "They can see at 6 meters what a person with normal vision can see at 12 meters",
+          "They can see at 12 meters what a person with normal vision can see at 6 meters",
+          "Their vision is better than normal, resolving details invisible to the average eye at 6 meters",
+          "They have normal visual acuity equivalent to 6/6",
+          "They can only perceive hand movements at a distance of 6 meters"
+        ],
+        "correctAnswer": "A) They can see at 6 meters what a person with normal vision can see at 12 meters",
+        "correctAnswerText": "They can see at 6 meters what a person with normal vision can see at 12 meters",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "Visual acuity is expressed as test distance/line read by a normal eye. A 6/12 result means the patient stands at the standard 6-meter testing distance but can only resolve letters that a normal-sighted person could read from 12 meters, indicating reduced acuity. Option B reverses the fraction and describes better-than-normal vision, which is incorrect.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__2__ihfndo",
+        "number": "2",
+        "text": "This test is used to asses?",
+        "imageUrl": "colorvisiontest.png",
+        "options": [
+          "Visual acuity",
+          "Pupillary reflex",
+          "Visual field",
+          "Color vision",
+          "Contrast sensitivity"
+        ],
+        "originalOptions": [
+          "Visual acuity",
+          "Pupillary reflex",
+          "Visual field",
+          "Color vision",
+          "Contrast sensitivity"
+        ],
+        "correctAnswer": "D) Color vision",
+        "correctAnswerText": "Color vision",
+        "correctIndex": 3,
+        "correctAnswerLetter": "D",
+        "explanation": "The pseudoisochromatic plate shown (numbers embedded in colored dots) is used to assess color vision, testing one of the key optic nerve functions. Visual acuity uses the Snellen chart, not colored dot plates, making A incorrect.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__3__wtbbtv",
+        "number": "3",
+        "text": "What condition causes painful loss of vision?",
+        "imageUrl": null,
+        "options": [
+          "Giant cell arteritis",
+          "Acute angle-closure glaucoma",
+          "Cataract",
+          "Age-related macular degeneration",
+          "Retinal detachment"
+        ],
+        "originalOptions": [
+          "Giant cell arteritis",
+          "Acute angle-closure glaucoma",
+          "Cataract",
+          "Age-related macular degeneration",
+          "Retinal detachment"
+        ],
+        "correctAnswer": "B) Acute angle-closure glaucoma",
+        "correctAnswerText": "Acute angle-closure glaucoma",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Acute angle-closure glaucoma classically presents with sudden painful loss of vision due to a rapid rise in intraocular pressure. Cataract and AMD typically cause painless, gradual vision loss, while retinal detachment classically presents as painless curtain-like vision loss.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__4__96ctg9",
+        "number": "4",
+        "text": "All are causes of this sign except?",
+        "imageUrl": "redeye.png",
+        "options": [
+          "Allergic conjunctivitis",
+          "Subconjunctival hemorrhage",
+          "Bacterial keratitis",
+          "Anterior uveitis",
+          "Macular edema"
+        ],
+        "originalOptions": [
+          "Allergic conjunctivitis",
+          "Subconjunctival hemorrhage",
+          "Bacterial keratitis",
+          "Anterior uveitis",
+          "Macular edema"
+        ],
+        "correctAnswer": "E) Macular edema",
+        "correctAnswerText": "Macular edema",
+        "correctIndex": 4,
+        "correctAnswerLetter": "E",
+        "explanation": "Macular edema affects the central retina and causes distortion or blurred central vision, not conjunctival redness, so it is not a cause of red eye. Conjunctivitis, subconjunctival hemorrhage, keratitis, and uveitis are all recognized causes of red eye.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__5__xqin3w",
+        "number": "5",
+        "text": "What is the term for pupils of different sizes?",
+        "imageUrl": null,
+        "options": [
+          "Nystagmus",
+          "Anisocoria",
+          "Ptosis",
+          "Diplopia",
+          "RAPD"
+        ],
+        "originalOptions": [
+          "Nystagmus",
+          "Anisocoria",
+          "Ptosis",
+          "Diplopia",
+          "RAPD"
+        ],
+        "correctAnswer": "B) Anisocoria",
+        "correctAnswerText": "Anisocoria",
+        "correctIndex": 1,
+        "correctAnswerLetter": "B",
+        "explanation": "Anisocoria is defined as a difference in pupil size between the two eyes. Nystagmus refers to involuntary eye movement, and RAPD (relative afferent pupillary defect) refers to an abnormal pupillary light response, not a size difference.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__6__mtury6",
+        "number": "6",
+        "text": "What is the visual field exam called?",
+        "imageUrl": null,
+        "options": [
+          "Ishihara test",
+          "Swinging light test",
+          "Confrontation test",
+          "Snellen test",
+          "Ophthalmoscopy"
+        ],
+        "originalOptions": [
+          "Ishihara test",
+          "Swinging light test",
+          "Confrontation test",
+          "Snellen test",
+          "Ophthalmoscopy"
+        ],
+        "correctAnswer": "C) Confrontation test",
+        "correctAnswerText": "Confrontation test",
+        "correctIndex": 2,
+        "correctAnswerLetter": "C",
+        "explanation": "The bedside visual field examination, where the examiner compares their own visual field to the patient's by moving a target from the periphery toward the center, is known as the confrontation test. The swinging light test is used to detect an RAPD, not to assess visual fields.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__7__vg0w00",
+        "number": "7",
+        "text": "What are the three components involved in accommodation?",
+        "imageUrl": null,
+        "options": [
+          "Accommodation, pupillary constriction, and convergence",
+          "Accommodation, pupillary dilation, and divergence",
+          "Visual acuity, color vision, and pupillary reflex",
+          "Lens accommodation, RAPD, and visual field",
+          "Convergence, dilation, and visual acuity"
+        ],
+        "originalOptions": [
+          "Accommodation, pupillary constriction, and convergence",
+          "Accommodation, pupillary dilation, and divergence",
+          "Visual acuity, color vision, and pupillary reflex",
+          "Lens accommodation, RAPD, and visual field",
+          "Convergence, dilation, and visual acuity"
+        ],
+        "correctAnswer": "A) Accommodation, pupillary constriction, and convergence",
+        "correctAnswerText": "Accommodation, pupillary constriction, and convergence",
+        "correctIndex": 0,
+        "correctAnswerLetter": "A",
+        "explanation": "The near reflex triad consists of lens accommodation, pupillary constriction, and convergence of both eyes, allowing clear focus on near objects. Pupillary dilation and divergence (option B) are the opposite responses and are incorrect.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__psychology__1__2x0qqn",
         "number": "1",
         "text": "Psychology Which of the following statements best describes Alogia?",
@@ -4881,8 +5338,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 75,
-    "totalLectures": 8,
+    "totalQuestions": 82,
+    "totalLectures": 9,
     "hasAiFolder": true
   }
 ]
