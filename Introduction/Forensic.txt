@@ -1,12 +1,12 @@
 Which of the following is NOT an early sign of death?
 A) Livor mortis (postmortem hypostasis)
-B) Rigor mortis
+B) algor mortis (Cooling of the body)
 C) Pallor mortis
-D) Cessation of cardiac output
+D) Rigor mortis
 E) Loss of peripheral pulse
 Correct Answer: E) Loss of peripheral pulse
 Explanation:
-Livor mortis, rigor mortis, and pallor mortis are recognized postmortem changes that develop progressively over time and are used forensically to estimate time and circumstances of death. Loss of peripheral pulse occurs immediately at the moment of cardiac arrest rather than developing afterward, so it is a clinical sign of death, not a postmortem change. This distinction is why the lecture emphasized rigor mortis, hypostasis, and decomposition as the key diagnostic postmortem changes.
+Livor mortis, algor mortis, pallor mortis, and rigor mortis are all recognized early postmortem changes that develop progressively after death and are used forensically to help diagnose and estimate time of death. Loss of peripheral pulse occurs immediately at the moment of cardiac arrest itself, making it a clinical sign confirming death rather than a postmortem change that develops afterward.
 ###
 Traumatic asphyxia results from severe injury to which part of the body?
 A) Neck
