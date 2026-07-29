@@ -207,6 +207,99 @@
             "lectureName": "ENT",
             "groupName": "ENT",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__7__qx4ncy",
+            "number": "7",
+            "text": "Which of the following is NOT a cause of referred ear pain (otalgia)?",
+            "options": [
+              "Dental infection",
+              "Temporomandibular joint dysfunction",
+              "Tonsillitis",
+              "Scalp lipoma"
+            ],
+            "originalOptions": [
+              "Dental infection",
+              "Temporomandibular joint dysfunction",
+              "Tonsillitis",
+              "Scalp lipoma"
+            ],
+            "correctAnswer": "D) Scalp lipoma",
+            "correctAnswerText": "Scalp lipoma",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__8__jernhl",
+            "number": "8",
+            "text": "A heavy smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next investigation?",
+            "options": [
+              "Steroids",
+              "Voice rest",
+              "Laryngoscopy",
+              "Chest X-ray"
+            ],
+            "originalOptions": [
+              "Steroids",
+              "Voice rest",
+              "Laryngoscopy",
+              "Chest X-ray"
+            ],
+            "correctAnswer": "C) Laryngoscopy",
+            "correctAnswerText": "Laryngoscopy",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Any smoker with hoarseness >3 weeks needs urgent fiberoptic laryngoscopy to rule out laryngeal tumor. Steroids, voice rest, or chest X-ray do not directly visualize the vocal cords and would delay this needed evaluation.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ent__9__o2wboq",
+            "number": "9",
+            "text": "Most common source of epistaxis:",
+            "options": [
+              "Kiesselbach's plexus",
+              "Sphenopalatine artery",
+              "Anterior ethmoidal artery",
+              "Greater palatine artery"
+            ],
+            "originalOptions": [
+              "Kiesselbach's plexus",
+              "Sphenopalatine artery",
+              "Anterior ethmoidal artery",
+              "Greater palatine artery"
+            ],
+            "correctAnswer": "A) Kiesselbach's plexus",
+            "correctAnswerText": "Kiesselbach's plexus",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -3719,6 +3812,99 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__ent__7__qx4ncy",
+        "number": "7",
+        "text": "Which of the following is NOT a cause of referred ear pain (otalgia)?",
+        "options": [
+          "Dental infection",
+          "Temporomandibular joint dysfunction",
+          "Tonsillitis",
+          "Scalp lipoma"
+        ],
+        "originalOptions": [
+          "Dental infection",
+          "Temporomandibular joint dysfunction",
+          "Tonsillitis",
+          "Scalp lipoma"
+        ],
+        "correctAnswer": "D) Scalp lipoma",
+        "correctAnswerText": "Scalp lipoma",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__8__jernhl",
+        "number": "8",
+        "text": "A heavy smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next investigation?",
+        "options": [
+          "Steroids",
+          "Voice rest",
+          "Laryngoscopy",
+          "Chest X-ray"
+        ],
+        "originalOptions": [
+          "Steroids",
+          "Voice rest",
+          "Laryngoscopy",
+          "Chest X-ray"
+        ],
+        "correctAnswer": "C) Laryngoscopy",
+        "correctAnswerText": "Laryngoscopy",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Any smoker with hoarseness >3 weeks needs urgent fiberoptic laryngoscopy to rule out laryngeal tumor. Steroids, voice rest, or chest X-ray do not directly visualize the vocal cords and would delay this needed evaluation.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ent__9__o2wboq",
+        "number": "9",
+        "text": "Most common source of epistaxis:",
+        "options": [
+          "Kiesselbach's plexus",
+          "Sphenopalatine artery",
+          "Anterior ethmoidal artery",
+          "Greater palatine artery"
+        ],
+        "originalOptions": [
+          "Kiesselbach's plexus",
+          "Sphenopalatine artery",
+          "Anterior ethmoidal artery",
+          "Greater palatine artery"
+        ],
+        "correctAnswer": "A) Kiesselbach's plexus",
+        "correctAnswerText": "Kiesselbach's plexus",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "ENT",
+        "groupName": "ENT",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__forensic__1__aaw2e6",
         "number": "1",
         "text": "Which of the following is NOT an early sign of death?",
@@ -6943,7 +7129,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 104,
+    "totalQuestions": 107,
     "totalLectures": 10,
     "hasAiFolder": true
   }
