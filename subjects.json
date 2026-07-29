@@ -509,9 +509,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__forensic__7__9pgaj1",
+            "id": "introduction__lecture__forensic__7__q5au9q",
             "number": "7",
-            "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+            "text": "Which of the following is NOT a cause of an incisional wound?",
             "options": [
               "Knife",
               "Razor",
@@ -665,6 +665,68 @@
             "isMultiple": false,
             "correctAnswerLetter": "C",
             "explanation": "Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__12__l1pojk",
+            "number": "12",
+            "text": "Severity of rigor mortis is measured by:",
+            "options": [
+              "Calcium concentration",
+              "ATP depletion",
+              "Humidity",
+              "Muscle fiber type"
+            ],
+            "originalOptions": [
+              "Calcium concentration",
+              "ATP depletion",
+              "Humidity",
+              "Muscle fiber type"
+            ],
+            "correctAnswer": "B) ATP depletion",
+            "correctAnswerText": "ATP depletion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Rigor mortis develops due to falling ATP levels, causing actin and myosin to bind into a stiff gel. Calcium, humidity, and muscle fiber type aren't the mechanism described in the lecture.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Forensic",
+            "groupName": "Forensic",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__forensic__13__k6hf7s",
+            "number": "13",
+            "text": "A wound that contains uneven, jagged edges is classified as:",
+            "options": [
+              "Incised wound",
+              "Puncture wound",
+              "Abrasion",
+              "Lacerated wound"
+            ],
+            "originalOptions": [
+              "Incised wound",
+              "Puncture wound",
+              "Abrasion",
+              "Lacerated wound"
+            ],
+            "correctAnswer": "D) Lacerated wound",
+            "correctAnswerText": "Lacerated wound",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Lacerations are irregular, tear-like wounds from blunt trauma, unlike the regular, clean edges of incised wounds. Abrasions only involve superficial skin scraping, not edge irregularity, and puncture wounds weren't described this way in the lecture.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Introduction",
@@ -4103,9 +4165,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__forensic__7__9pgaj1",
+        "id": "introduction__lecture__forensic__7__q5au9q",
         "number": "7",
-        "text": "Which of the following is NOT a cause of an incisional (cut) wound?",
+        "text": "Which of the following is NOT a cause of an incisional wound?",
         "options": [
           "Knife",
           "Razor",
@@ -4259,6 +4321,68 @@
         "isMultiple": false,
         "correctAnswerLetter": "C",
         "explanation": "Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__12__l1pojk",
+        "number": "12",
+        "text": "Severity of rigor mortis is measured by:",
+        "options": [
+          "Calcium concentration",
+          "ATP depletion",
+          "Humidity",
+          "Muscle fiber type"
+        ],
+        "originalOptions": [
+          "Calcium concentration",
+          "ATP depletion",
+          "Humidity",
+          "Muscle fiber type"
+        ],
+        "correctAnswer": "B) ATP depletion",
+        "correctAnswerText": "ATP depletion",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Rigor mortis develops due to falling ATP levels, causing actin and myosin to bind into a stiff gel. Calcium, humidity, and muscle fiber type aren't the mechanism described in the lecture.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Forensic",
+        "groupName": "Forensic",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__forensic__13__k6hf7s",
+        "number": "13",
+        "text": "A wound that contains uneven, jagged edges is classified as:",
+        "options": [
+          "Incised wound",
+          "Puncture wound",
+          "Abrasion",
+          "Lacerated wound"
+        ],
+        "originalOptions": [
+          "Incised wound",
+          "Puncture wound",
+          "Abrasion",
+          "Lacerated wound"
+        ],
+        "correctAnswer": "D) Lacerated wound",
+        "correctAnswerText": "Lacerated wound",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Lacerations are irregular, tear-like wounds from blunt trauma, unlike the regular, clean edges of incised wounds. Abrasions only involve superficial skin scraping, not edge irregularity, and puncture wounds weren't described this way in the lecture.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Introduction",
@@ -7129,7 +7253,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 107,
+    "totalQuestions": 109,
     "totalLectures": 10,
     "hasAiFolder": true
   }
