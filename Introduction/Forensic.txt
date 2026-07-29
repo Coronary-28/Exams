@@ -58,7 +58,7 @@ Correct Answer: C) All of the above
 Explanation:
 Stab wounds can result from a purely sharp instrument, a blunt instrument, or a blunt object with a pointed tip (as illustrated by the example of a worker falling onto a round-tipped iron rod), since what matters legally and clinically is the depth and mechanism of penetration rather than the object's overall sharpness. This is why all three categories are considered valid classifications of stab wounds in forensic assessment.
 ###
-Which of the following is NOT a cause of an incisional (cut) wound?
+Which of the following is NOT a cause of an incisional wound?
 A) Knife
 B) Razor
 C) Broken glass
@@ -107,3 +107,21 @@ E) The time elapsed since cardiac arrest
 Correct Answer: C) The chemical state of hemoglobin molecules
 Explanation:
 Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.
+###
+Severity of rigor mortis is measured by:
+A) Calcium concentration
+B) ATP depletion
+C) Humidity
+D) Muscle fiber type
+Correct Answer: B) ATP depletion
+Explanation:
+Rigor mortis develops due to falling ATP levels, causing actin and myosin to bind into a stiff gel. Calcium, humidity, and muscle fiber type aren't the mechanism described in the lecture.
+###
+A wound that contains uneven, jagged edges is classified as:
+A) Incised wound
+B) Puncture wound
+C) Abrasion
+D) Lacerated wound
+Correct Answer: D) Lacerated wound
+Explanation:
+Lacerations are irregular, tear-like wounds from blunt trauma, unlike the regular, clean edges of incised wounds. Abrasions only involve superficial skin scraping, not edge irregularity, and puncture wounds weren't described this way in the lecture.
