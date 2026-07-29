@@ -1104,14 +1104,14 @@
         ]
       },
       {
-        "id": "introduction__lecture__psychology",
-        "name": "Psychology",
+        "id": "introduction__lecture__psychology-and-ethics",
+        "name": "Psychology and Ethics",
         "type": "lecture",
         "subjectName": "Introduction",
-        "path": "Introduction/Psychology.txt",
+        "path": "Introduction/Psychology and Ethics.txt",
         "questions": [
           {
-            "id": "introduction__lecture__psychology__1__y1dddk",
+            "id": "introduction__lecture__psychology-and-ethics__1__y1dddk",
             "number": "1",
             "text": "Which of the following statements best describes Alogia?",
             "options": [
@@ -1139,12 +1139,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__2__8zspe3",
+            "id": "introduction__lecture__psychology-and-ethics__2__8zspe3",
             "number": "2",
             "text": "Which of the following is NOT a component of thought content?",
             "options": [
@@ -1172,12 +1172,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__3__2wo25y",
+            "id": "introduction__lecture__psychology-and-ethics__3__2wo25y",
             "number": "3",
             "text": "What is the difference between mood and affect?",
             "options": [
@@ -1205,12 +1205,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__4__qyeep1",
+            "id": "introduction__lecture__psychology-and-ethics__4__qyeep1",
             "number": "4",
             "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
             "options": [
@@ -1238,12 +1238,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__5__g75hoj",
+            "id": "introduction__lecture__psychology-and-ethics__5__g75hoj",
             "number": "5",
             "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
             "options": [
@@ -1271,12 +1271,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__6__w3qvni",
+            "id": "introduction__lecture__psychology-and-ethics__6__w3qvni",
             "number": "6",
             "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
             "options": [
@@ -1304,12 +1304,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__7__qd4vwr",
+            "id": "introduction__lecture__psychology-and-ethics__7__qd4vwr",
             "number": "7",
             "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
             "options": [
@@ -1337,12 +1337,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__8__bwdj8l",
+            "id": "introduction__lecture__psychology-and-ethics__8__bwdj8l",
             "number": "8",
             "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
             "options": [
@@ -1370,12 +1370,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__9__h8ntno",
+            "id": "introduction__lecture__psychology-and-ethics__9__h8ntno",
             "number": "9",
             "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
             "options": [
@@ -1403,12 +1403,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__10__7g2ze8",
+            "id": "introduction__lecture__psychology-and-ethics__10__7g2ze8",
             "number": "10",
             "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
             "options": [
@@ -1436,12 +1436,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__11__rbd9y0",
+            "id": "introduction__lecture__psychology-and-ethics__11__rbd9y0",
             "number": "11",
             "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
             "options": [
@@ -1469,12 +1469,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__12__eehgne",
+            "id": "introduction__lecture__psychology-and-ethics__12__eehgne",
             "number": "12",
             "text": "A psychiatrist prescribes a new antidepressant to a patient during a rushed clinic visit. The consultation only covers dosage and administration timing, and the patient is discharged without a clear explanation of the possible adverse effects, discovering them only after experiencing severe symptoms at home. Which of the following best represents a breach of the principle of non-maleficence in this scenario?",
             "options": [
@@ -1502,12 +1502,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__13__z7g2dx",
+            "id": "introduction__lecture__psychology-and-ethics__13__z7g2dx",
             "number": "13",
             "text": "A 66-year-old man is brought in for evaluation of memory difficulty. During the interview, he gives the exact same response to every question asked, regardless of its content. This finding is most suggestive of which underlying process?",
             "options": [
@@ -1535,12 +1535,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__14__kowix",
+            "id": "introduction__lecture__psychology-and-ethics__14__kowix",
             "number": "14",
             "text": "A patient in an acute manic episode rapidly shifts from topic to topic, with each idea loosely connected to the previous one, and later begins stringing words together based on their sound rather than their meaning. Which of the following is NOT a thought process typically seen in this presentation?",
             "options": [
@@ -1568,12 +1568,12 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology__15__w5kb32",
+            "id": "introduction__lecture__psychology-and-ethics__15__w5kb32",
             "number": "15",
             "text": "Which of the following is a component of thought content?",
             "options": [
@@ -1601,8 +1601,8 @@
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
-            "lectureName": "Psychology",
-            "groupName": "Psychology",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
           }
         ]
@@ -4687,7 +4687,7 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__1__y1dddk",
+        "id": "introduction__lecture__psychology-and-ethics__1__y1dddk",
         "number": "1",
         "text": "Which of the following statements best describes Alogia?",
         "options": [
@@ -4715,12 +4715,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__2__8zspe3",
+        "id": "introduction__lecture__psychology-and-ethics__2__8zspe3",
         "number": "2",
         "text": "Which of the following is NOT a component of thought content?",
         "options": [
@@ -4748,12 +4748,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__3__2wo25y",
+        "id": "introduction__lecture__psychology-and-ethics__3__2wo25y",
         "number": "3",
         "text": "What is the difference between mood and affect?",
         "options": [
@@ -4781,12 +4781,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__4__qyeep1",
+        "id": "introduction__lecture__psychology-and-ethics__4__qyeep1",
         "number": "4",
         "text": "A 68-year-old man with a resectable colon cancer refuses a life-saving surgery after being fully informed of the risks, benefits, and consequences of declining treatment. He understands his diagnosis and can clearly explain his reasoning. Which ethical principle is most directly being exercised by the patient?",
         "options": [
@@ -4814,12 +4814,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__5__g75hoj",
+        "id": "introduction__lecture__psychology-and-ethics__5__g75hoj",
         "number": "5",
         "text": "A psychiatrist prescribes a sedating antipsychotic at an unnecessarily high dose, causing the patient significant drowsiness and a fall, without any added therapeutic benefit compared to a lower dose. Which ethical principle has been breached?",
         "options": [
@@ -4847,12 +4847,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__6__w3qvni",
+        "id": "introduction__lecture__psychology-and-ethics__6__w3qvni",
         "number": "6",
         "text": "A psychiatrist notices that a patient with depression has been missing follow-up visits and personally arranges transportation and a follow-up call to ensure the patient continues treatment and recovers. This action best reflects which principle?",
         "options": [
@@ -4880,12 +4880,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__7__qd4vwr",
+        "id": "introduction__lecture__psychology-and-ethics__7__qd4vwr",
         "number": "7",
         "text": "A hospital allocates its limited number of psychiatric inpatient beds based on clinical urgency rather than on patients' social status or ability to pay. This practice best reflects which ethical principle?",
         "options": [
@@ -4913,12 +4913,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__8__bwdj8l",
+        "id": "introduction__lecture__psychology-and-ethics__8__bwdj8l",
         "number": "8",
         "text": "A patient in psychotherapy discloses that he purchased a weapon and plans to harm a specific coworker once discharged. According to the limits of confidentiality discussed in psychiatric ethics, what is the most appropriate action?",
         "options": [
@@ -4946,12 +4946,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__9__h8ntno",
+        "id": "introduction__lecture__psychology-and-ethics__9__h8ntno",
         "number": "9",
         "text": "All of the following are required for a patient to be considered to have decision-making capacity EXCEPT:",
         "options": [
@@ -4979,12 +4979,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__10__7g2ze8",
+        "id": "introduction__lecture__psychology-and-ethics__10__7g2ze8",
         "number": "10",
         "text": "A court legally determines that a patient is unable to manage his own financial affairs and appoints a guardian. This determination is best described as an assessment of the patient's:",
         "options": [
@@ -5012,12 +5012,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__11__rbd9y0",
+        "id": "introduction__lecture__psychology-and-ethics__11__rbd9y0",
         "number": "11",
         "text": "Which ethical principle serves as the basis for informed consent, truth-telling, and confidentiality in the therapeutic relationship?",
         "options": [
@@ -5045,12 +5045,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__12__eehgne",
+        "id": "introduction__lecture__psychology-and-ethics__12__eehgne",
         "number": "12",
         "text": "A psychiatrist prescribes a new antidepressant to a patient during a rushed clinic visit. The consultation only covers dosage and administration timing, and the patient is discharged without a clear explanation of the possible adverse effects, discovering them only after experiencing severe symptoms at home. Which of the following best represents a breach of the principle of non-maleficence in this scenario?",
         "options": [
@@ -5078,12 +5078,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__13__z7g2dx",
+        "id": "introduction__lecture__psychology-and-ethics__13__z7g2dx",
         "number": "13",
         "text": "A 66-year-old man is brought in for evaluation of memory difficulty. During the interview, he gives the exact same response to every question asked, regardless of its content. This finding is most suggestive of which underlying process?",
         "options": [
@@ -5111,12 +5111,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__14__kowix",
+        "id": "introduction__lecture__psychology-and-ethics__14__kowix",
         "number": "14",
         "text": "A patient in an acute manic episode rapidly shifts from topic to topic, with each idea loosely connected to the previous one, and later begins stringing words together based on their sound rather than their meaning. Which of the following is NOT a thought process typically seen in this presentation?",
         "options": [
@@ -5144,12 +5144,12 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology__15__w5kb32",
+        "id": "introduction__lecture__psychology-and-ethics__15__w5kb32",
         "number": "15",
         "text": "Which of the following is a component of thought content?",
         "options": [
@@ -5177,8 +5177,8 @@
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
-        "lectureName": "Psychology",
-        "groupName": "Psychology",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
         "sourceType": "lecture"
       },
       {
