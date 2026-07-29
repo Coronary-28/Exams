@@ -8,7 +8,7 @@ Correct Answer: A) They can see at 6 meters what a person with normal vision can
 Explanation:
 6/12 = test distance/normal distance, meaning reduced acuity, not enhanced. B reverses the fraction (would mean better-than-normal vision), C and D wrongly describe normal or supranormal vision, and E describes near-blindness, far worse than 6/12.
 ###
-This test is used to asses (The image shows: A circle of green dots containing the number 12 made of orange dots) ?
+This test is used to asses ? [img: colorvision.png]
 A) Visual acuity
 B) Pupillary reflex
 C) Visual field
@@ -28,7 +28,7 @@ Correct Answer: B) Acute angle-closure glaucoma
 Explanation:
 Only angle-closure glaucoma is both acute and painful. A and E are acute but painless, while C and D are painless and gradual, not acute.
 ###
-All are causes of this sign except (The image shows: A red eye) ?
+All are causes of this sign except ? [img: redeye.png]
 A) Allergic conjunctivitis
 B) Subconjunctival hemorrhage
 C) Bacterial keratitis
@@ -77,3 +77,48 @@ E) Regeneration and proliferation of epithelial cells
 Correct Answer: E) Regeneration and proliferation of epithelial cells
 Explanation:
 Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.
+###
+Which of the following is a reason for urgent referral to ophthalmology?
+A) Chronic dry eye
+B) Refractive error
+C) Chemical burn
+D) Mild blepharitis
+Correct Answer: C) Chemical burn
+Explanation:
+Chemical burns are true ocular emergencies requiring immediate irrigation for at least 30 minutes before any further workup, since delay risks irreversible ischemia to the eye. A, B, and D are chronic, non-urgent conditions that can be managed in routine follow-up, not urgent referral.
+###
+The neural part of the eye is the:
+A) Cornea
+B) Lens
+C) Sclera
+D) Retina
+Correct Answer: D) Retina
+Explanation:
+The retina forms the neural layer of the eye, containing photoreceptors and neurons. Cornea and sclera are part of the fibrous layer, while the lens is a refractive structure, not neural tissue.
+###
+Which of the following is part of a routine visual ophthalmology examination?
+A) Active light testing (pupillary light response)
+B) Slit-lamp biomicroscopy
+C) Fluorescein angiography
+D) Optical coherence tomography
+Correct Answer: A) Active light testing (pupillary light response)
+Explanation:
+Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.
+###
+Contact lens users are at increased risk for:
+A) Cataract
+B) Glaucoma
+C) Pterygium
+D) Keratitis
+Correct Answer: D) Keratitis
+Explanation:
+Contact lens wear increases risk of microbial keratitis due to corneal surface disruption and contamination. Cataract, glaucoma, and pterygium are not specifically linked to contact lens use.
+###
+Red eye serious symptom:
+A) Watery discharge
+B) Photophobia
+C) Foreign body sensation
+D) Itching
+Correct Answer: B) Photophobia
+Explanation:
+Photophobia suggests corneal or intraocular involvement (e.g., keratitis, uveitis), making it a red flag symptom. Watery discharge and itching point to allergic/viral conjunctivitis, and foreign body sensation is less specific for serious pathology.
