@@ -623,9 +623,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__2__x5zi8f",
+            "id": "introduction__lecture__ophthalmology__2__6jexhf",
             "number": "2",
-            "text": "This test is used to asses (The image shows: A circle of green dots containing the number 12 made of orange dots) ?",
+            "text": "This test is used to asses ? [img: colorvision.png]",
             "options": [
               "Visual acuity",
               "Pupillary reflex",
@@ -689,9 +689,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__4__v0jw9f",
+            "id": "introduction__lecture__ophthalmology__4__myw3or",
             "number": "4",
-            "text": "All are causes of this sign except (The image shows: A red eye) ?",
+            "text": "All are causes of this sign except ? [img: redeye.png]",
             "options": [
               "Allergic conjunctivitis",
               "Subconjunctival hemorrhage",
@@ -845,6 +845,161 @@
             "isMultiple": false,
             "correctAnswerLetter": "E",
             "explanation": "Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__9__v6h4m7",
+            "number": "9",
+            "text": "Which of the following is a reason for urgent referral to ophthalmology?",
+            "options": [
+              "Chronic dry eye",
+              "Refractive error",
+              "Chemical burn",
+              "Mild blepharitis"
+            ],
+            "originalOptions": [
+              "Chronic dry eye",
+              "Refractive error",
+              "Chemical burn",
+              "Mild blepharitis"
+            ],
+            "correctAnswer": "C) Chemical burn",
+            "correctAnswerText": "Chemical burn",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Chemical burns are true ocular emergencies requiring immediate irrigation for at least 30 minutes before any further workup, since delay risks irreversible ischemia to the eye. A, B, and D are chronic, non-urgent conditions that can be managed in routine follow-up, not urgent referral.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__10__ptxprh",
+            "number": "10",
+            "text": "The neural part of the eye is the:",
+            "options": [
+              "Cornea",
+              "Lens",
+              "Sclera",
+              "Retina"
+            ],
+            "originalOptions": [
+              "Cornea",
+              "Lens",
+              "Sclera",
+              "Retina"
+            ],
+            "correctAnswer": "D) Retina",
+            "correctAnswerText": "Retina",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The retina forms the neural layer of the eye, containing photoreceptors and neurons. Cornea and sclera are part of the fibrous layer, while the lens is a refractive structure, not neural tissue.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__11__rkqqw",
+            "number": "11",
+            "text": "Which of the following is part of a routine visual ophthalmology examination?",
+            "options": [
+              "Active light testing (pupillary light response)",
+              "Slit-lamp biomicroscopy",
+              "Fluorescein angiography",
+              "Optical coherence tomography"
+            ],
+            "originalOptions": [
+              "Active light testing (pupillary light response)",
+              "Slit-lamp biomicroscopy",
+              "Fluorescein angiography",
+              "Optical coherence tomography"
+            ],
+            "correctAnswer": "A) Active light testing (pupillary light response)",
+            "correctAnswerText": "Active light testing (pupillary light response)",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__12__qcuc77",
+            "number": "12",
+            "text": "Contact lens users are at increased risk for:",
+            "options": [
+              "Cataract",
+              "Glaucoma",
+              "Pterygium",
+              "Keratitis"
+            ],
+            "originalOptions": [
+              "Cataract",
+              "Glaucoma",
+              "Pterygium",
+              "Keratitis"
+            ],
+            "correctAnswer": "D) Keratitis",
+            "correctAnswerText": "Keratitis",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Contact lens wear increases risk of microbial keratitis due to corneal surface disruption and contamination. Cataract, glaucoma, and pterygium are not specifically linked to contact lens use.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Ophthalmology",
+            "groupName": "Ophthalmology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__ophthalmology__13__rkhcad",
+            "number": "13",
+            "text": "Red eye serious symptom:",
+            "options": [
+              "Watery discharge",
+              "Photophobia",
+              "Foreign body sensation",
+              "Itching"
+            ],
+            "originalOptions": [
+              "Watery discharge",
+              "Photophobia",
+              "Foreign body sensation",
+              "Itching"
+            ],
+            "correctAnswer": "B) Photophobia",
+            "correctAnswerText": "Photophobia",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Photophobia suggests corneal or intraocular involvement (e.g., keratitis, uveitis), making it a red flag symptom. Watery discharge and itching point to allergic/viral conjunctivitis, and foreign body sensation is less specific for serious pathology.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Introduction",
@@ -3960,9 +4115,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__2__x5zi8f",
+        "id": "introduction__lecture__ophthalmology__2__6jexhf",
         "number": "2",
-        "text": "This test is used to asses (The image shows: A circle of green dots containing the number 12 made of orange dots) ?",
+        "text": "This test is used to asses ? [img: colorvision.png]",
         "options": [
           "Visual acuity",
           "Pupillary reflex",
@@ -4026,9 +4181,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__4__v0jw9f",
+        "id": "introduction__lecture__ophthalmology__4__myw3or",
         "number": "4",
-        "text": "All are causes of this sign except (The image shows: A red eye) ?",
+        "text": "All are causes of this sign except ? [img: redeye.png]",
         "options": [
           "Allergic conjunctivitis",
           "Subconjunctival hemorrhage",
@@ -4182,6 +4337,161 @@
         "isMultiple": false,
         "correctAnswerLetter": "E",
         "explanation": "Limbal stem cells continuously regenerate the corneal epithelium, allowing rapid repair after abrasion by cell spreading and proliferation. A is incomplete, as anchoring also involves hemidesmosomes and fibrils, not desmosomes alone. B is wrong — the endothelium instead repairs by cell spreading alone with loss of density, no regeneration. C and D describe Bowman's layer and the trabecular meshwork, unrelated structures.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__9__v6h4m7",
+        "number": "9",
+        "text": "Which of the following is a reason for urgent referral to ophthalmology?",
+        "options": [
+          "Chronic dry eye",
+          "Refractive error",
+          "Chemical burn",
+          "Mild blepharitis"
+        ],
+        "originalOptions": [
+          "Chronic dry eye",
+          "Refractive error",
+          "Chemical burn",
+          "Mild blepharitis"
+        ],
+        "correctAnswer": "C) Chemical burn",
+        "correctAnswerText": "Chemical burn",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Chemical burns are true ocular emergencies requiring immediate irrigation for at least 30 minutes before any further workup, since delay risks irreversible ischemia to the eye. A, B, and D are chronic, non-urgent conditions that can be managed in routine follow-up, not urgent referral.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__10__ptxprh",
+        "number": "10",
+        "text": "The neural part of the eye is the:",
+        "options": [
+          "Cornea",
+          "Lens",
+          "Sclera",
+          "Retina"
+        ],
+        "originalOptions": [
+          "Cornea",
+          "Lens",
+          "Sclera",
+          "Retina"
+        ],
+        "correctAnswer": "D) Retina",
+        "correctAnswerText": "Retina",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The retina forms the neural layer of the eye, containing photoreceptors and neurons. Cornea and sclera are part of the fibrous layer, while the lens is a refractive structure, not neural tissue.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__11__rkqqw",
+        "number": "11",
+        "text": "Which of the following is part of a routine visual ophthalmology examination?",
+        "options": [
+          "Active light testing (pupillary light response)",
+          "Slit-lamp biomicroscopy",
+          "Fluorescein angiography",
+          "Optical coherence tomography"
+        ],
+        "originalOptions": [
+          "Active light testing (pupillary light response)",
+          "Slit-lamp biomicroscopy",
+          "Fluorescein angiography",
+          "Optical coherence tomography"
+        ],
+        "correctAnswer": "A) Active light testing (pupillary light response)",
+        "correctAnswerText": "Active light testing (pupillary light response)",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__12__qcuc77",
+        "number": "12",
+        "text": "Contact lens users are at increased risk for:",
+        "options": [
+          "Cataract",
+          "Glaucoma",
+          "Pterygium",
+          "Keratitis"
+        ],
+        "originalOptions": [
+          "Cataract",
+          "Glaucoma",
+          "Pterygium",
+          "Keratitis"
+        ],
+        "correctAnswer": "D) Keratitis",
+        "correctAnswerText": "Keratitis",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Contact lens wear increases risk of microbial keratitis due to corneal surface disruption and contamination. Cataract, glaucoma, and pterygium are not specifically linked to contact lens use.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Ophthalmology",
+        "groupName": "Ophthalmology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__ophthalmology__13__rkhcad",
+        "number": "13",
+        "text": "Red eye serious symptom:",
+        "options": [
+          "Watery discharge",
+          "Photophobia",
+          "Foreign body sensation",
+          "Itching"
+        ],
+        "originalOptions": [
+          "Watery discharge",
+          "Photophobia",
+          "Foreign body sensation",
+          "Itching"
+        ],
+        "correctAnswer": "B) Photophobia",
+        "correctAnswerText": "Photophobia",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Photophobia suggests corneal or intraocular involvement (e.g., keratitis, uveitis), making it a red flag symptom. Watery discharge and itching point to allergic/viral conjunctivitis, and foreign body sensation is less specific for serious pathology.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Introduction",
@@ -6633,7 +6943,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 99,
+    "totalQuestions": 104,
     "totalLectures": 10,
     "hasAiFolder": true
   }
