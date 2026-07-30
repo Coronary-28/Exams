@@ -1071,28 +1071,28 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ophthalmology__11__rkqqw",
+            "id": "introduction__lecture__ophthalmology__11__1sltmx",
             "number": "11",
-            "text": "Which of the following is part of a routine visual ophthalmology examination?",
+            "text": "Which of the following is part of a routine pupil examination?",
             "options": [
-              "Active light testing (pupillary light response)",
+              "Active light testing",
               "Slit-lamp biomicroscopy",
               "Fluorescein angiography",
               "Optical coherence tomography"
             ],
             "originalOptions": [
-              "Active light testing (pupillary light response)",
+              "Active light testing",
               "Slit-lamp biomicroscopy",
               "Fluorescein angiography",
               "Optical coherence tomography"
             ],
-            "correctAnswer": "A) Active light testing (pupillary light response)",
-            "correctAnswerText": "Active light testing (pupillary light response)",
+            "correctAnswer": "A) Active light testing",
+            "correctAnswerText": "Active light testing",
             "correctIndex": 0,
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "A",
-            "explanation": "Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.",
+            "explanation": "Active light testing (pupillary light response) evaluates how the pupils constrict and dilate in response to light, making it the core component of a pupil examination. While slit-lamp biomicroscopy inspects the overall structure of the eye, tests like fluorescein angiography and optical coherence tomography (OCT) are advanced imaging techniques for the retina and blood vessels, not part of a standard pupil evaluation.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Introduction",
@@ -4842,28 +4842,28 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__ophthalmology__11__rkqqw",
+        "id": "introduction__lecture__ophthalmology__11__1sltmx",
         "number": "11",
-        "text": "Which of the following is part of a routine visual ophthalmology examination?",
+        "text": "Which of the following is part of a routine pupil examination?",
         "options": [
-          "Active light testing (pupillary light response)",
+          "Active light testing",
           "Slit-lamp biomicroscopy",
           "Fluorescein angiography",
           "Optical coherence tomography"
         ],
         "originalOptions": [
-          "Active light testing (pupillary light response)",
+          "Active light testing",
           "Slit-lamp biomicroscopy",
           "Fluorescein angiography",
           "Optical coherence tomography"
         ],
-        "correctAnswer": "A) Active light testing (pupillary light response)",
-        "correctAnswerText": "Active light testing (pupillary light response)",
+        "correctAnswer": "A) Active light testing",
+        "correctAnswerText": "Active light testing",
         "correctIndex": 0,
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "A",
-        "explanation": "Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.",
+        "explanation": "Active light testing (pupillary light response) evaluates how the pupils constrict and dilate in response to light, making it the core component of a pupil examination. While slit-lamp biomicroscopy inspects the overall structure of the eye, tests like fluorescein angiography and optical coherence tomography (OCT) are advanced imaging techniques for the retina and blood vessels, not part of a standard pupil evaluation.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Introduction",
