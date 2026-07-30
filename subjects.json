@@ -1972,6 +1972,130 @@
             "lectureName": "Radiology",
             "groupName": "Radiology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__10__q7t805",
+            "number": "10",
+            "text": "Which radiological finding is characteristic of pneumothorax on a chest radiograph?",
+            "options": [
+              "Dense opacification",
+              "Peripheral radiolucency",
+              "Blunting costophrenic angle",
+              "Peripheral air bronchograms"
+            ],
+            "originalOptions": [
+              "Dense opacification",
+              "Peripheral radiolucency",
+              "Blunting costophrenic angle",
+              "Peripheral air bronchograms"
+            ],
+            "correctAnswer": "B) Peripheral radiolucency",
+            "correctAnswerText": "Peripheral radiolucency",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Free air in the pleural space contains no vessels, so it appears radiolucent peripheral to the visceral pleural line. The other options belong to different pathologies (opacification/consolidation, blunting/effusion, air bronchograms/consolidation) and are not features of pneumothorax.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__11__v01b0r",
+            "number": "11",
+            "text": "Which sign on barium enema is classically associated with colorectal carcinoma? [img: apple.png ]",
+            "options": [
+              "Apple core sign",
+              "String sign",
+              "Lead-pipe",
+              "Thumbprinting"
+            ],
+            "originalOptions": [
+              "Apple core sign",
+              "String sign",
+              "Lead-pipe",
+              "Thumbprinting"
+            ],
+            "correctAnswer": "A) Apple core sign",
+            "correctAnswerText": "Apple core sign",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "The apple core sign reflects eccentric luminal narrowing caused by tumor infiltration of the colon wall, classically seen in colorectal carcinoma. String sign is associated with Crohn's disease, while lead-pipe and thumbprinting relate to ulcerative colitis and ischemic/edematous colitis, not colon cancer.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__12__u8lg3w",
+            "number": "12",
+            "text": "Which radiological finding characterizes pleural effusion on a chest radiograph? [img: costophrenic.png]",
+            "options": [
+              "Kerley B lines",
+              "Blunting costophrenic angle",
+              "Hyperlucency",
+              "Tracheal deviation toward lesion"
+            ],
+            "originalOptions": [
+              "Kerley B lines",
+              "Blunting costophrenic angle",
+              "Hyperlucency",
+              "Tracheal deviation toward lesion"
+            ],
+            "correctAnswer": "B) Blunting costophrenic angle",
+            "correctAnswerText": "Blunting costophrenic angle",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Fluid accumulation in the dependent pleural space obliterates the normally sharp costophrenic angle. Kerley B lines relate to interstitial edema, hyperlucency to pneumothorax, and tracheal deviation toward the lesion occurs in collapse, not effusion.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__13__723ogz",
+            "number": "13",
+            "text": "Which of the following imaging modalities does NOT use ionizing radiation?",
+            "options": [
+              "CT scan",
+              "X-ray",
+              "MRI",
+              "Fluoroscopy"
+            ],
+            "originalOptions": [
+              "CT scan",
+              "X-ray",
+              "MRI",
+              "Fluoroscopy"
+            ],
+            "correctAnswer": "C) MRI",
+            "correctAnswerText": "MRI",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "MRI relies on a powerful magnetic field rather than ionizing radiation. CT, X-ray, and fluoroscopy all use x-rays, which are a form of ionizing radiation.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
           }
         ]
       }
@@ -5603,6 +5727,130 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__radiology__10__q7t805",
+        "number": "10",
+        "text": "Which radiological finding is characteristic of pneumothorax on a chest radiograph?",
+        "options": [
+          "Dense opacification",
+          "Peripheral radiolucency",
+          "Blunting costophrenic angle",
+          "Peripheral air bronchograms"
+        ],
+        "originalOptions": [
+          "Dense opacification",
+          "Peripheral radiolucency",
+          "Blunting costophrenic angle",
+          "Peripheral air bronchograms"
+        ],
+        "correctAnswer": "B) Peripheral radiolucency",
+        "correctAnswerText": "Peripheral radiolucency",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Free air in the pleural space contains no vessels, so it appears radiolucent peripheral to the visceral pleural line. The other options belong to different pathologies (opacification/consolidation, blunting/effusion, air bronchograms/consolidation) and are not features of pneumothorax.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__11__v01b0r",
+        "number": "11",
+        "text": "Which sign on barium enema is classically associated with colorectal carcinoma? [img: apple.png ]",
+        "options": [
+          "Apple core sign",
+          "String sign",
+          "Lead-pipe",
+          "Thumbprinting"
+        ],
+        "originalOptions": [
+          "Apple core sign",
+          "String sign",
+          "Lead-pipe",
+          "Thumbprinting"
+        ],
+        "correctAnswer": "A) Apple core sign",
+        "correctAnswerText": "Apple core sign",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "The apple core sign reflects eccentric luminal narrowing caused by tumor infiltration of the colon wall, classically seen in colorectal carcinoma. String sign is associated with Crohn's disease, while lead-pipe and thumbprinting relate to ulcerative colitis and ischemic/edematous colitis, not colon cancer.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__12__u8lg3w",
+        "number": "12",
+        "text": "Which radiological finding characterizes pleural effusion on a chest radiograph? [img: costophrenic.png]",
+        "options": [
+          "Kerley B lines",
+          "Blunting costophrenic angle",
+          "Hyperlucency",
+          "Tracheal deviation toward lesion"
+        ],
+        "originalOptions": [
+          "Kerley B lines",
+          "Blunting costophrenic angle",
+          "Hyperlucency",
+          "Tracheal deviation toward lesion"
+        ],
+        "correctAnswer": "B) Blunting costophrenic angle",
+        "correctAnswerText": "Blunting costophrenic angle",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Fluid accumulation in the dependent pleural space obliterates the normally sharp costophrenic angle. Kerley B lines relate to interstitial edema, hyperlucency to pneumothorax, and tracheal deviation toward the lesion occurs in collapse, not effusion.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__radiology__13__723ogz",
+        "number": "13",
+        "text": "Which of the following imaging modalities does NOT use ionizing radiation?",
+        "options": [
+          "CT scan",
+          "X-ray",
+          "MRI",
+          "Fluoroscopy"
+        ],
+        "originalOptions": [
+          "CT scan",
+          "X-ray",
+          "MRI",
+          "Fluoroscopy"
+        ],
+        "correctAnswer": "C) MRI",
+        "correctAnswerText": "MRI",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "MRI relies on a powerful magnetic field rather than ionizing radiation. CT, X-ray, and fluoroscopy all use x-rays, which are a form of ionizing radiation.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__xx36t8",
         "number": "1",
         "text": "Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -7253,7 +7501,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 109,
+    "totalQuestions": 113,
     "totalLectures": 10,
     "hasAiFolder": true
   }
