@@ -96,14 +96,14 @@ Correct Answer: D) Retina
 Explanation:
 The retina forms the neural layer of the eye, containing photoreceptors and neurons. Cornea and sclera are part of the fibrous layer, while the lens is a refractive structure, not neural tissue.
 ###
-Which of the following is part of a routine visual ophthalmology examination?
-A) Active light testing (pupillary light response)
+Which of the following is part of a routine pupil examination?
+A) Active light testing
 B) Slit-lamp biomicroscopy
 C) Fluorescein angiography
 D) Optical coherence tomography
-Correct Answer: A) Active light testing (pupillary light response)
+Correct Answer: A) Active light testing
 Explanation:
-Pupillary light response testing is a basic, routine part of every ophthalmic exam. Slit-lamp exam, though common, is more specialized, while fluorescein angiography and OCT are advanced imaging tests reserved for specific indications, not routine screening.
+Active light testing (pupillary light response) evaluates how the pupils constrict and dilate in response to light, making it the core component of a pupil examination. While slit-lamp biomicroscopy inspects the overall structure of the eye, tests like fluorescein angiography and optical coherence tomography (OCT) are advanced imaging techniques for the retina and blood vessels, not part of a standard pupil evaluation.
 ###
 Contact lens users are at increased risk for:
 A) Cataract
