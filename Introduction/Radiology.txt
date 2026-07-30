@@ -122,3 +122,11 @@ D) Fluoroscopy
 Correct Answer: C) MRI
 Explanation: MRI relies on a powerful magnetic field rather than ionizing radiation. CT, X-ray, and fluoroscopy all use x-rays, which are a form of ionizing radiation.
 ###
+Finding differentiating pulmonary consolidation from collapse:
+A) Displacement of a fissure towards the opacity
+B) Elevation of the hemidiaphragm on the affected side
+C) Volume loss of the affected lung
+D) Presence of air bronchograms
+Correct Answer: D) Presence of air bronchograms
+Explanation:
+Air bronchograms indicate consolidation, where airways remain open amidst fluid-filled alveoli. Conversely, options A, B, and C are hallmark radiological signs of lung collapse caused by loss of air volume pulling surrounding structures.
