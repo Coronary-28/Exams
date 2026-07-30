@@ -87,3 +87,38 @@ E) Mammography
 Correct Answer: D) Chest radiograph (X-ray)
 Explanation:
 For any chest complaint, the chest x-ray is the first study obtained, since it is fast, widely available, and gives a broad initial assessment. CT is reserved for further characterization, ultrasound is mainly used for pleural effusion follow-up or procedures, and MRI of the chest is rarely performed.
+###
+Which radiological finding is characteristic of pneumothorax on a chest radiograph?
+A) Dense opacification
+B) Peripheral radiolucency
+C) Blunting costophrenic angle
+D) Peripheral air bronchograms
+Correct Answer: B) Peripheral radiolucency
+Explanation:
+Free air in the pleural space contains no vessels, so it appears radiolucent peripheral to the visceral pleural line. The other options belong to different pathologies (opacification/consolidation, blunting/effusion, air bronchograms/consolidation) and are not features of pneumothorax.
+###
+Which sign on barium enema is classically associated with colorectal carcinoma? [img: apple.png ]
+A) Apple core sign
+B) String sign
+C) Lead-pipe
+D) Thumbprinting
+Correct Answer: A) Apple core sign
+Explanation:
+The apple core sign reflects eccentric luminal narrowing caused by tumor infiltration of the colon wall, classically seen in colorectal carcinoma. String sign is associated with Crohn's disease, while lead-pipe and thumbprinting relate to ulcerative colitis and ischemic/edematous colitis, not colon cancer.
+###
+Which radiological finding characterizes pleural effusion on a chest radiograph? [img: costophrenic.png]
+A) Kerley B lines
+B) Blunting costophrenic angle
+C) Hyperlucency
+D) Tracheal deviation toward lesion
+Correct Answer: B) Blunting costophrenic angle
+Explanation: Fluid accumulation in the dependent pleural space obliterates the normally sharp costophrenic angle. Kerley B lines relate to interstitial edema, hyperlucency to pneumothorax, and tracheal deviation toward the lesion occurs in collapse, not effusion.
+###
+Which of the following imaging modalities does NOT use ionizing radiation?
+A) CT scan
+B) X-ray
+C) MRI
+D) Fluoroscopy
+Correct Answer: C) MRI
+Explanation: MRI relies on a powerful magnetic field rather than ionizing radiation. CT, X-ray, and fluoroscopy all use x-rays, which are a form of ionizing radiation.
+###
