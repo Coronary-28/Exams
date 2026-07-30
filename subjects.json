@@ -2096,6 +2096,37 @@
             "lectureName": "Radiology",
             "groupName": "Radiology",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__radiology__14__6vq15s",
+            "number": "14",
+            "text": "Finding differentiating pulmonary consolidation from collapse:",
+            "options": [
+              "Displacement of a fissure towards the opacity",
+              "Elevation of the hemidiaphragm on the affected side",
+              "Volume loss of the affected lung",
+              "Presence of air bronchograms"
+            ],
+            "originalOptions": [
+              "Displacement of a fissure towards the opacity",
+              "Elevation of the hemidiaphragm on the affected side",
+              "Volume loss of the affected lung",
+              "Presence of air bronchograms"
+            ],
+            "correctAnswer": "D) Presence of air bronchograms",
+            "correctAnswerText": "Presence of air bronchograms",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Air bronchograms indicate consolidation, where airways remain open amidst fluid-filled alveoli. Conversely, options A, B, and C are hallmark radiological signs of lung collapse caused by loss of air volume pulling surrounding structures.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Radiology",
+            "groupName": "Radiology",
+            "sourceType": "lecture"
           }
         ]
       }
@@ -5851,6 +5882,37 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__radiology__14__6vq15s",
+        "number": "14",
+        "text": "Finding differentiating pulmonary consolidation from collapse:",
+        "options": [
+          "Displacement of a fissure towards the opacity",
+          "Elevation of the hemidiaphragm on the affected side",
+          "Volume loss of the affected lung",
+          "Presence of air bronchograms"
+        ],
+        "originalOptions": [
+          "Displacement of a fissure towards the opacity",
+          "Elevation of the hemidiaphragm on the affected side",
+          "Volume loss of the affected lung",
+          "Presence of air bronchograms"
+        ],
+        "correctAnswer": "D) Presence of air bronchograms",
+        "correctAnswerText": "Presence of air bronchograms",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Air bronchograms indicate consolidation, where airways remain open amidst fluid-filled alveoli. Conversely, options A, B, and C are hallmark radiological signs of lung collapse caused by loss of air volume pulling surrounding structures.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Radiology",
+        "groupName": "Radiology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__ent__1__xx36t8",
         "number": "1",
         "text": "Which ossicle's footplate is attached directly to the oval window, transmitting sound into the inner ear?",
@@ -7501,7 +7563,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 113,
+    "totalQuestions": 114,
     "totalLectures": 10,
     "hasAiFolder": true
   }
