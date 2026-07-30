@@ -1666,6 +1666,171 @@
             "lectureName": "Psychology and Ethics",
             "groupName": "Psychology and Ethics",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology-and-ethics__16__30cg2k",
+            "number": "16",
+            "text": "Which of the following is NOT true regarding the historical practice of psychiatry?",
+            "options": [
+              "Psychiatrists were obligated to attend executions",
+              "Patients could be institutionalized involuntarily",
+              "Early asylums focused primarily on patient rehabilitation and reintegration",
+              "Treatments included insulin coma therapy",
+              "Early asylums focused mainly on containment rather than treatment"
+            ],
+            "originalOptions": [
+              "Psychiatrists were obligated to attend executions",
+              "Patients could be institutionalized involuntarily",
+              "Early asylums focused primarily on patient rehabilitation and reintegration",
+              "Treatments included insulin coma therapy",
+              "Early asylums focused mainly on containment rather than treatment"
+            ],
+            "correctAnswer": "A) Psychiatrists were obligated to attend executions",
+            "correctAnswerText": "Psychiatrists were obligated to attend executions",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "There is no historical basis for psychiatrists being obligated to attend executions, making this the false statement. B, D, and E reflect documented historical practices (involuntary institutionalization, insulin coma therapy, and custodial asylums), while C is simply a restatement of that containment-focused reality.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology-and-ethics__17__c7nvkv",
+            "number": "17",
+            "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status progressively declines. A psychiatrist is consulted. What is the first priority?",
+            "options": [
+              "Start an antipsychotic",
+              "Order a head CT",
+              "Protect the patient from unintended harm",
+              "Obtain collateral history from family",
+              "Assess the patient's decision-making capacity"
+            ],
+            "originalOptions": [
+              "Start an antipsychotic",
+              "Order a head CT",
+              "Protect the patient from unintended harm",
+              "Obtain collateral history from family",
+              "Assess the patient's decision-making capacity"
+            ],
+            "correctAnswer": "C) Protect the patient from unintended harm",
+            "correctAnswerText": "Protect the patient from unintended harm",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "In an acute, evolving medical emergency with fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is important but is inherently unreliable while the patient's mental status is actively deteriorating, so safety must come first.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology-and-ethics__18__wnn7uz",
+            "number": "18",
+            "text": "Collaboration between physical and mental health care is best supported by which of the following?",
+            "options": [
+              "Avoiding referrals between specialties",
+              "Easier referrals that improve outcomes",
+              "No interaction between physical and mental health teams",
+              "Assuming psychiatric medications have no physical side effects",
+              "Patients generally feeling more comfortable in general clinics than mental health clinics"
+            ],
+            "originalOptions": [
+              "Avoiding referrals between specialties",
+              "Easier referrals that improve outcomes",
+              "No interaction between physical and mental health teams",
+              "Assuming psychiatric medications have no physical side effects",
+              "Patients generally feeling more comfortable in general clinics than mental health clinics"
+            ],
+            "correctAnswer": "B) Easier referrals that improve outcomes",
+            "correctAnswerText": "Easier referrals that improve outcomes",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Facilitated referral pathways support integrated care and better outcomes, consistent with consultation-liaison psychiatry. E describes a stigma-related observation, not a mechanism of collaboration, so it does not directly answer what improves collaboration itself.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology-and-ethics__19__ibit54",
+            "number": "19",
+            "text": "Regarding the right to die and surrogate decision-making, which of the following is FALSE?",
+            "options": [
+              "The court or patient may decide",
+              "Patients have the right to refuse treatment",
+              "If the patient has not given sufficient instructions, the state guides the decision-making process",
+              "Advance directives guide decisions",
+              "Surrogates must always prolong life regardless of patient wishes"
+            ],
+            "originalOptions": [
+              "The court or patient may decide",
+              "Patients have the right to refuse treatment",
+              "If the patient has not given sufficient instructions, the state guides the decision-making process",
+              "Advance directives guide decisions",
+              "Surrogates must always prolong life regardless of patient wishes"
+            ],
+            "correctAnswer": "E) Surrogates must always prolong life regardless of patient wishes",
+            "correctAnswerText": "Surrogates must always prolong life regardless of patient wishes",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Surrogates are meant to represent the patient's known wishes or best interests, not to mandate prolonging life unconditionally, especially against advance directives. A, B, C, and D all correctly reflect accepted principles of surrogate and autonomous decision-making.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__psychology-and-ethics__20__xdwbh1",
+            "number": "20",
+            "text": "Which ethical principle refers to proper treatment and preventing unnecessary harm?",
+            "options": [
+              "Autonomy",
+              "Beneficence",
+              "Non-maleficence",
+              "Justice",
+              "Confidentiality"
+            ],
+            "originalOptions": [
+              "Autonomy",
+              "Beneficence",
+              "Non-maleficence",
+              "Justice",
+              "Confidentiality"
+            ],
+            "correctAnswer": "C) Non-maleficence",
+            "correctAnswerText": "Non-maleficence",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Non-maleficence means \"do no harm,\" specifically covering the avoidance of unnecessary harm such as excessive side effects or coercive interventions. Beneficence (B) is related but focuses on actively promoting benefit rather than avoiding harm.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Psychology and Ethics",
+            "groupName": "Psychology and Ethics",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -5461,6 +5626,171 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__psychology-and-ethics__16__30cg2k",
+        "number": "16",
+        "text": "Which of the following is NOT true regarding the historical practice of psychiatry?",
+        "options": [
+          "Psychiatrists were obligated to attend executions",
+          "Patients could be institutionalized involuntarily",
+          "Early asylums focused primarily on patient rehabilitation and reintegration",
+          "Treatments included insulin coma therapy",
+          "Early asylums focused mainly on containment rather than treatment"
+        ],
+        "originalOptions": [
+          "Psychiatrists were obligated to attend executions",
+          "Patients could be institutionalized involuntarily",
+          "Early asylums focused primarily on patient rehabilitation and reintegration",
+          "Treatments included insulin coma therapy",
+          "Early asylums focused mainly on containment rather than treatment"
+        ],
+        "correctAnswer": "A) Psychiatrists were obligated to attend executions",
+        "correctAnswerText": "Psychiatrists were obligated to attend executions",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "There is no historical basis for psychiatrists being obligated to attend executions, making this the false statement. B, D, and E reflect documented historical practices (involuntary institutionalization, insulin coma therapy, and custodial asylums), while C is simply a restatement of that containment-focused reality.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology-and-ethics__17__c7nvkv",
+        "number": "17",
+        "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status progressively declines. A psychiatrist is consulted. What is the first priority?",
+        "options": [
+          "Start an antipsychotic",
+          "Order a head CT",
+          "Protect the patient from unintended harm",
+          "Obtain collateral history from family",
+          "Assess the patient's decision-making capacity"
+        ],
+        "originalOptions": [
+          "Start an antipsychotic",
+          "Order a head CT",
+          "Protect the patient from unintended harm",
+          "Obtain collateral history from family",
+          "Assess the patient's decision-making capacity"
+        ],
+        "correctAnswer": "C) Protect the patient from unintended harm",
+        "correctAnswerText": "Protect the patient from unintended harm",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "In an acute, evolving medical emergency with fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is important but is inherently unreliable while the patient's mental status is actively deteriorating, so safety must come first.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology-and-ethics__18__wnn7uz",
+        "number": "18",
+        "text": "Collaboration between physical and mental health care is best supported by which of the following?",
+        "options": [
+          "Avoiding referrals between specialties",
+          "Easier referrals that improve outcomes",
+          "No interaction between physical and mental health teams",
+          "Assuming psychiatric medications have no physical side effects",
+          "Patients generally feeling more comfortable in general clinics than mental health clinics"
+        ],
+        "originalOptions": [
+          "Avoiding referrals between specialties",
+          "Easier referrals that improve outcomes",
+          "No interaction between physical and mental health teams",
+          "Assuming psychiatric medications have no physical side effects",
+          "Patients generally feeling more comfortable in general clinics than mental health clinics"
+        ],
+        "correctAnswer": "B) Easier referrals that improve outcomes",
+        "correctAnswerText": "Easier referrals that improve outcomes",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Facilitated referral pathways support integrated care and better outcomes, consistent with consultation-liaison psychiatry. E describes a stigma-related observation, not a mechanism of collaboration, so it does not directly answer what improves collaboration itself.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology-and-ethics__19__ibit54",
+        "number": "19",
+        "text": "Regarding the right to die and surrogate decision-making, which of the following is FALSE?",
+        "options": [
+          "The court or patient may decide",
+          "Patients have the right to refuse treatment",
+          "If the patient has not given sufficient instructions, the state guides the decision-making process",
+          "Advance directives guide decisions",
+          "Surrogates must always prolong life regardless of patient wishes"
+        ],
+        "originalOptions": [
+          "The court or patient may decide",
+          "Patients have the right to refuse treatment",
+          "If the patient has not given sufficient instructions, the state guides the decision-making process",
+          "Advance directives guide decisions",
+          "Surrogates must always prolong life regardless of patient wishes"
+        ],
+        "correctAnswer": "E) Surrogates must always prolong life regardless of patient wishes",
+        "correctAnswerText": "Surrogates must always prolong life regardless of patient wishes",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Surrogates are meant to represent the patient's known wishes or best interests, not to mandate prolonging life unconditionally, especially against advance directives. A, B, C, and D all correctly reflect accepted principles of surrogate and autonomous decision-making.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__psychology-and-ethics__20__xdwbh1",
+        "number": "20",
+        "text": "Which ethical principle refers to proper treatment and preventing unnecessary harm?",
+        "options": [
+          "Autonomy",
+          "Beneficence",
+          "Non-maleficence",
+          "Justice",
+          "Confidentiality"
+        ],
+        "originalOptions": [
+          "Autonomy",
+          "Beneficence",
+          "Non-maleficence",
+          "Justice",
+          "Confidentiality"
+        ],
+        "correctAnswer": "C) Non-maleficence",
+        "correctAnswerText": "Non-maleficence",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Non-maleficence means \"do no harm,\" specifically covering the avoidance of unnecessary harm such as excessive side effects or coercive interventions. Beneficence (B) is related but focuses on actively promoting benefit rather than avoiding harm.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Psychology and Ethics",
+        "groupName": "Psychology and Ethics",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__radiology__1__pyp8o1",
         "number": "1",
         "text": "Which imaging modality utilizes ionizing radiation to generate diagnostic images?",
@@ -7563,7 +7893,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 114,
+    "totalQuestions": 119,
     "totalLectures": 10,
     "hasAiFolder": true
   }
