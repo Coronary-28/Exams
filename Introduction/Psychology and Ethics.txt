@@ -158,7 +158,7 @@ Correct Answer: A) Psychiatrists were obligated to attend executions
 Explanation:
 There is no historical basis for psychiatrists being obligated to attend executions, making this the false statement. B, D, and E reflect documented historical practices (involuntary institutionalization, insulin coma therapy, and custodial asylums), while C is simply a restatement of that containment-focused reality.
 ###
-A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status progressively declines. A psychiatrist is consulted. What is the first priority?
+A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status shows a waxing and waning decline. A psychiatrist is consulted. What is the first priority?
 A) Start an antipsychotic
 B) Order a head CT
 C) Protect the patient from unintended harm
@@ -166,7 +166,7 @@ D) Obtain collateral history from family
 E) Assess the patient's decision-making capacity
 Correct Answer: C) Protect the patient from unintended harm
 Explanation:
-In an acute, evolving medical emergency with fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is important but is inherently unreliable while the patient's mental status is actively deteriorating, so safety must come first.
+A waxing and waning mental status in the setting of sepsis suggests delirium, an acute emergency where capacity fluctuates unpredictably and cannot be reliably assessed. In this unstable state, immediate safety takes priority over diagnostic workup, medication, or history-taking.
 ###
 Collaboration between physical and mental health care is best supported by which of the following?
 A) Avoiding referrals between specialties
