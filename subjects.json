@@ -1701,9 +1701,9 @@
             "sourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__psychology-and-ethics__17__c7nvkv",
+            "id": "introduction__lecture__psychology-and-ethics__17__ieozzk",
             "number": "17",
-            "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status progressively declines. A psychiatrist is consulted. What is the first priority?",
+            "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status shows a waxing and waning decline. A psychiatrist is consulted. What is the first priority?",
             "options": [
               "Start an antipsychotic",
               "Order a head CT",
@@ -1724,7 +1724,7 @@
             "correctIndices": [],
             "isMultiple": false,
             "correctAnswerLetter": "C",
-            "explanation": "In an acute, evolving medical emergency with fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is important but is inherently unreliable while the patient's mental status is actively deteriorating, so safety must come first.",
+            "explanation": "A waxing and waning mental status in the setting of sepsis suggests delirium, an acute emergency where capacity fluctuates unpredictably and cannot be reliably assessed. In this unstable state, immediate safety takes priority over diagnostic workup, medication, or history-taking.",
             "batchName": "",
             "pageNumber": "",
             "subjectName": "Introduction",
@@ -5659,9 +5659,9 @@
         "sourceType": "lecture"
       },
       {
-        "id": "introduction__lecture__psychology-and-ethics__17__c7nvkv",
+        "id": "introduction__lecture__psychology-and-ethics__17__ieozzk",
         "number": "17",
-        "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status progressively declines. A psychiatrist is consulted. What is the first priority?",
+        "text": "A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status shows a waxing and waning decline. A psychiatrist is consulted. What is the first priority?",
         "options": [
           "Start an antipsychotic",
           "Order a head CT",
@@ -5682,7 +5682,7 @@
         "correctIndices": [],
         "isMultiple": false,
         "correctAnswerLetter": "C",
-        "explanation": "In an acute, evolving medical emergency with fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is important but is inherently unreliable while the patient's mental status is actively deteriorating, so safety must come first.",
+        "explanation": "A waxing and waning mental status in the setting of sepsis suggests delirium, an acute emergency where capacity fluctuates unpredictably and cannot be reliably assessed. In this unstable state, immediate safety takes priority over diagnostic workup, medication, or history-taking.",
         "batchName": "",
         "pageNumber": "",
         "subjectName": "Introduction",
