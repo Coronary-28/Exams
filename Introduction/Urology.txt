@@ -1,0 +1,71 @@
+Which of the following is NOT a sign of benign prostatic hyperplasia (BPH)?
+A) Hesitancy
+B) Poor urinary stream
+C) Dysuria
+D) Incomplete voiding
+E) Straining during micturition
+Correct Answer: C) Dysuria
+Explanation:
+BPH causes obstructive LUTS such as hesitancy, poor stream, straining, and incomplete emptying due to bladder outlet obstruction. Dysuria (painful urination) reflects inflammation/infection rather than mechanical obstruction, so it is not a typical BPH sign.
+###
+What is the most likely cause of continuous urinary incontinence?
+A) Stress incontinence
+B) Urge incontinence
+C) Vesicovaginal fistula
+D) Overflow incontinence
+E) Detrusor overactivity
+Correct Answer: C) Vesicovaginal fistula
+Explanation:
+A vesicovaginal fistula creates an abnormal communication between the bladder and vagina, causing continuous, position-independent urine leakage. Stress and urge incontinence are intermittent and related to activity or sudden urge, not constant leakage.
+###
+All of the following can cause pneumaturia EXCEPT:
+A) Recent urinary catheterization
+B) Vesicoenteric fistula
+C) Infection with gas-forming organisms
+D) Ectopic ureter
+E) Colovesical fistula from diverticulitis
+Correct Answer: D) Ectopic ureter
+Explanation:
+Pneumaturia (gas in urine) results from recent catheterization, enteric fistulas communicating with the urinary tract, or infection with gas-forming organisms. An ectopic ureter causes abnormal ureteral insertion and incontinence, not gas in the urine.
+###
+~Choose the correct answers~
+Choose the conditions that cause urine to appear cloudy: (Select all that apply)
+A) Pyuria
+B) Phosphaturia
+C) Hematuria
+D) Chyluria
+E) Bilirubinuria
+Correct Answer: A) Pyuria / B) Phosphaturia / D) Chyluria
+Explanation:
+Pyuria causes turbidity from WBCs/pus, phosphaturia from phosphate crystal precipitation in alkaline urine (classic post-meal benign cause), and chyluria from lymphatic fluid mixing with urine. If a single option is required by the question, B is selected because pyuria and chyluria change urine turbidity too, while phosphaturia remains the classic non-pathological textbook answer for cloudiness. Hematuria and bilirubinuria mainly change urine color (red/dark amber) rather than causing true cloudiness.
+###
+Hematuria can best be distinguished from hemoglobinuria or myoglobinuria by which of the following?
+A) Urine dipstick testing alone
+B) Microscopic examination of urine
+C) 24-hour urine collection
+D) Urine culture
+E) Serum creatinine level
+Correct Answer: B) Microscopic examination of urine
+Explanation:
+Dipstick testing is positive for blood in all three conditions since it detects heme, but only true hematuria shows intact RBCs on microscopic sediment analysis. Hemoglobinuria and myoglobinuria show a positive dipstick with no RBCs seen microscopically.
+###
+What is the most common cause of glomerular hematuria?
+A) Post-streptococcal glomerulonephritis
+B) IgA nephropathy
+C) Lupus nephritis
+D) Alport syndrome
+E) Thin basement membrane disease
+Correct Answer: B) IgA nephropathy
+Explanation:
+IgA nephropathy is the most common cause of glomerular hematuria worldwide, often presenting with episodic gross hematuria following upper respiratory infections. The other options are important but less common causes of glomerular bleeding.
+###
+What is the underlying cause of pain associated with ureteral stones?
+A) Direct mechanical nerve compression by the stone
+B) Ureteral spasm or obstruction
+C) Laceration of the renal capsule
+D) Bladder mucosal irritation
+E) Infection-induced inflammation
+Correct Answer: B) Ureteral spasm or obstruction
+Explanation:
+Ureteral colic results from acute obstruction causing distension and spasm of the ureteral wall proximal to the stone, producing fluctuating, colicky pain. This differs from steady inflammatory pain, which is caused by capsular distension rather than obstruction.
+###
