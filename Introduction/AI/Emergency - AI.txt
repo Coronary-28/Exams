@@ -1,0 +1,98 @@
+Which level of prehospital care provider is trained to perform endotracheal intubation, establish IV access, and administer a wide range of emergency medications?
+A) Emergency Medical Responder (EMR)
+B) Emergency Medical Technician (EMT)
+C) Paramedic
+D) Critical Care Transport nurse
+Correct Answer: C) Paramedic
+Explanation:
+Paramedics provide Advanced Life Support (ALS), including intubation, IV access, cardiac monitoring, and administration of emergency drugs. EMRs and EMTs are limited to basic interventions like CPR, bleeding control, and non-invasive airway management. Critical Care Transport teams handle complex inter-facility transfers, not initial field ALS care.
+###
+A patient arrives unresponsive with severe respiratory distress and profound shock. According to the Emergency Severity Index, which triage level should this patient receive?
+A) ESI Level 1 (Resuscitation)
+B) ESI Level 2 (Emergent)
+C) ESI Level 3 (Urgent)
+D) ESI Level 4 (Non-Urgent)
+E) ESI Level 5 (Non-Urgent, no resources needed)
+Correct Answer: A) ESI Level 1 (Resuscitation)
+Explanation:
+ESI Level 1 is reserved for patients requiring immediate, life-saving intervention without delay, such as those in profound shock or unresponsive with severe respiratory distress.
+###
+During the primary trauma survey, which step involves controlling external hemorrhage and establishing large-bore IV access?
+A) Airway
+B) Breathing
+C) Circulation
+D) Disability
+E) Exposure
+Correct Answer: C) Circulation
+Explanation:
+The "C" in the ABCs of trauma resuscitation stands for Circulation, which includes assessing pulses, controlling external bleeding, and obtaining IV access for fluids or blood. Airway and Breathing precede Circulation, while Disability refers to the neurological exam. Bleeding must be controlled before resuscitation can proceed effectively.
+###
+An unconscious trauma patient arrives in the ED with no family present. Under which legal doctrine can the emergency physician proceed with life-saving treatment without formal consent?
+A) Implied consent
+B) Informed consent
+C) Substituted judgment
+D) Advance directive
+E) Guardianship consent
+Correct Answer: A) Implied consent
+Explanation:
+The Implied consent (Doctrine of Emergency) presumes that an unconscious patient with a life-threatening condition would consent to life-saving treatment, allowing physicians to act without formal consent. Informed consent requires an awake, capable patient to explicitly agree. Advance directives and guardianship require pre-existing documentation or a decision-maker, which are unavailable in this scenario.
+###
+A patient with massive, un-survivable trauma undergoes prolonged CPR despite no realistic chance of recovery. This scenario best illustrates which ethical concept?
+A) Medical futility
+B) Beneficence
+C) Distributive justice
+D) Implied consent
+E) Paternalism
+Correct Answer: A) Medical futility
+Explanation:
+Medical futility refers to interventions unlikely to produce meaningful benefit, such as prolonged CPR on a patient with un-survivable injuries. Physicians are not ethically obligated to provide futile care, though communicating this to families requires empathy. Beneficence and justice relate to providing benefit and fair resource allocation, not the specific concept of non-beneficial intervention.
+###
+Which zone of the emergency department is reserved for ESI Level 1 patients such as cardiac arrests and major traumas requiring full team mobilization?
+A) Fast Track
+B) Main ED / Acute area
+C) Trauma/Resus Bay
+D) Waiting room
+E) Outpatient clinic
+Correct Answer: C) Trauma/Resus Bay
+Explanation:
+The Trauma/Resus Bay consists of large, heavily equipped rooms reserved for the most critical ESI Level 1 patients requiring full team mobilization. Fast Track handles minor ESI 4/5 complaints, while the Main ED manages ESI 2–3 patients needing detailed workups. The waiting room and outpatient clinic are not part of acute in-department care.
+###
+A trauma patient presents with hypotension, tachycardia, and active external hemorrhage. Which type of shock is most consistent with this presentation?
+A) Cardiogenic shock
+B) Distributive shock
+C) Obstructive shock
+D) Hypovolemic shock
+E) Neurogenic shock
+Correct Answer: D) Hypovolemic shock
+Explanation:
+Active external hemorrhage with hypotension and tachycardia is classic for hypovolemic shock, requiring immediate hemorrhage control and massive transfusion. Cardiogenic and obstructive shock arise from pump or mechanical obstruction problems, not blood loss, while distributive shock stems from vasodilation such as in sepsis. Rapidly diagnosing the shock type is essential to initiate the correct targeted therapy.
+###
+A patient in a hospital lacking a neurosurgeon requires specialized neurosurgical care not available at that facility. Which disposition option is most appropriate?
+A) Discharge home
+B) Admit to hospital
+C) Transfer to a specialized facility
+D) Observation in Fast Track
+E) AMA discharge
+Correct Answer: C) Transfer to a specialized facility
+Explanation:
+Transfer is indicated when a patient requires specialized care unavailable at the current facility, such as neurosurgery. Admission is appropriate only if the needed resources exist on-site, and discharge home is unsafe for a patient with an unresolved emergent condition. This disposition ensures the patient reaches definitive, appropriate care safely.
+###
+Hospital-wide bed shortages cause admitted patients to remain in the ED for extended periods. This phenomenon, known as "boarding," most directly compromises which of the four pillars of medical ethics due to the resulting overcrowding and delayed care for new arrivals?
+A) Justice
+B) Autonomy
+C) Beneficence
+D) Non-maleficence
+E) Confidentiality
+Correct Answer: A) Justice
+Explanation:
+Boarding creates severe overcrowding that compromises justice by disrupting fair and equitable allocation of ED resources among patients. This systemic issue also directly increases patient mortality.
+###
+A patient has a documented Do Not Intubate (DNI) order but develops worsening respiratory distress. Which of the following interventions would still be appropriate under this order?
+A) Endotracheal intubation
+B) Surgical airway (cricothyrotomy)
+C) Rapid Sequence Intubation
+D) Non-invasive support such as BiPAP or medications
+E) Mechanical ventilation via endotracheal tube
+Correct Answer: D) Non-invasive support such as BiPAP or medications
+Explanation:
+A DNI order specifically prohibits placement of a breathing tube, but other treatments such as BiPAP or medications may still be given. Endotracheal intubation, RSI, surgical airway, and mechanical ventilation via ET tube all involve tube placement and are excluded by this order. Distinguishing DNI from DNR is essential, as DNI does not prohibit all supportive care.
