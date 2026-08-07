@@ -1,0 +1,44 @@
+At what age should osteoporosis screening begin routinely, and at what age in high-risk patients?
+A) Age 50 routinely; age 45 in high-risk patients
+B) Age 60 routinely; age 50 in high-risk patients
+C) Age 70 routinely; age 65 in high-risk patients
+D) Age 65 routinely; age 60 in high-risk patients
+E) Age 55 routinely; age 50 in high-risk patients
+Correct Answer: D) Age 65 routinely; age 60 in high-risk patients
+Explanation: Routine osteoporosis screening begins at age 65 in average-risk individuals, but is moved earlier to age 60 in patients with risk factors such as low body weight or family history. The other age pairs are close distractors but do not match the standard screening thresholds.
+###
+At what age should hyperlipidemia screening begin in men with no risk factors?
+A) Men aged 45 and older, regardless of risk factors
+B) Men aged 35 and older, regardless of risk factors
+C) Men aged 40 and older, only with risk factors
+D) Men aged 50 and older, regardless of risk factors
+E) Men aged 30 and older, only with risk factors
+Correct Answer: B) Men aged 35 and older, regardless of risk factors
+Explanation: Hyperlipidemia screening is recommended for men starting at age 35 even without risk factors, since cardiovascular risk begins to rise around this age. Screening starts earlier only when risk factors are present, which is a common exam trap tested by the other options.
+###
+Which of the following statements about the role of a general practitioner is incorrect?
+A) The role of a general practitioner does not include focusing on preventive measures or interventions.
+B) The general practitioner is a licensed medical graduate who provides care to individuals regardless of age, sex, and illness.
+C) The general practitioner aims to make early diagnoses and may attend to patients in various settings, including their homes, consulting rooms, clinics, or hospitals.
+D) The general practitioner includes and integrates physical, psychological, and social factors in their considerations about health and illness.
+E) The general practitioner serves as the first point of contact between patients and the healthcare system.
+Correct Answer: A) The role of a general practitioner does not include focusing on preventive measures or interventions.
+Explanation: Prevention and health promotion are core responsibilities of the general/family practitioner, not something excluded from the role, making this statement false. The remaining statements accurately reflect the GP's broad, integrative, and first-contact role.
+###
+Which of the following is NOT a criterion for diagnosing metabolic syndrome?
+A) Waist circumference greater than 35 inches (89 cm) in women and 40 inches in men
+B) Triglyceride levels of 150 milligrams per deciliter (mg/dl) or higher
+C) Blood pressure of 130/85 millimeters of mercury or higher
+D) Fasting blood glucose level of 110 mg/dl or higher
+E) High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)
+Correct Answer: E) High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)
+Explanation: The actual HDL criterion for metabolic syndrome is a low HDL (below approximately 40 mg/dl in men or 50 mg/dl in women), not "lower than 60," so this threshold is incorrect and does not represent a true diagnostic criterion. Waist circumference, triglycerides, blood pressure, and fasting glucose thresholds listed in the other options are all accurate components of the diagnosis.
+###
+Which of the following correctly represents the abbreviation for "E" in the context of RISE?
+A) Epidemiology
+B) Endocrine Factors
+C) Evaluation
+D) Education
+E) Environmental factors
+Correct Answer: D) Education
+Explanation: In the RISE framework, "E" stands for Education/Counseling, reflecting the physician's role in patient education as part of comprehensive care. The other options describe plausible-sounding but incorrect expansions of the letter.
