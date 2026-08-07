@@ -607,6 +607,180 @@
         ]
       },
       {
+        "id": "introduction__lecture__family-medicine",
+        "name": "Family Medicine",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Family Medicine.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__family-medicine__1__sl490x",
+            "number": "1",
+            "text": "At what age should osteoporosis screening begin routinely, and at what age in high-risk patients?",
+            "options": [
+              "Age 50 routinely; age 45 in high-risk patients",
+              "Age 60 routinely; age 50 in high-risk patients",
+              "Age 70 routinely; age 65 in high-risk patients",
+              "Age 65 routinely; age 60 in high-risk patients",
+              "Age 55 routinely; age 50 in high-risk patients"
+            ],
+            "originalOptions": [
+              "Age 50 routinely; age 45 in high-risk patients",
+              "Age 60 routinely; age 50 in high-risk patients",
+              "Age 70 routinely; age 65 in high-risk patients",
+              "Age 65 routinely; age 60 in high-risk patients",
+              "Age 55 routinely; age 50 in high-risk patients"
+            ],
+            "correctAnswer": "D) Age 65 routinely; age 60 in high-risk patients",
+            "correctAnswerText": "Age 65 routinely; age 60 in high-risk patients",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Routine osteoporosis screening begins at age 65 in average-risk individuals, but is moved earlier to age 60 in patients with risk factors such as low body weight or family history. The other age pairs are close distractors but do not match the standard screening thresholds.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Family Medicine",
+            "groupName": "Family Medicine",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__family-medicine__2__ijsql8",
+            "number": "2",
+            "text": "At what age should hyperlipidemia screening begin in men with no risk factors?",
+            "options": [
+              "Men aged 45 and older, regardless of risk factors",
+              "Men aged 35 and older, regardless of risk factors",
+              "Men aged 40 and older, only with risk factors",
+              "Men aged 50 and older, regardless of risk factors",
+              "Men aged 30 and older, only with risk factors"
+            ],
+            "originalOptions": [
+              "Men aged 45 and older, regardless of risk factors",
+              "Men aged 35 and older, regardless of risk factors",
+              "Men aged 40 and older, only with risk factors",
+              "Men aged 50 and older, regardless of risk factors",
+              "Men aged 30 and older, only with risk factors"
+            ],
+            "correctAnswer": "B) Men aged 35 and older, regardless of risk factors",
+            "correctAnswerText": "Men aged 35 and older, regardless of risk factors",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Hyperlipidemia screening is recommended for men starting at age 35 even without risk factors, since cardiovascular risk begins to rise around this age. Screening starts earlier only when risk factors are present, which is a common exam trap tested by the other options.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Family Medicine",
+            "groupName": "Family Medicine",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__family-medicine__3__xw1cqi",
+            "number": "3",
+            "text": "Which of the following statements about the role of a general practitioner is incorrect?",
+            "options": [
+              "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+              "The general practitioner is a licensed medical graduate who provides care to individuals regardless of age, sex, and illness.",
+              "The general practitioner aims to make early diagnoses and may attend to patients in various settings, including their homes, consulting rooms, clinics, or hospitals.",
+              "The general practitioner includes and integrates physical, psychological, and social factors in their considerations about health and illness.",
+              "The general practitioner serves as the first point of contact between patients and the healthcare system."
+            ],
+            "originalOptions": [
+              "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+              "The general practitioner is a licensed medical graduate who provides care to individuals regardless of age, sex, and illness.",
+              "The general practitioner aims to make early diagnoses and may attend to patients in various settings, including their homes, consulting rooms, clinics, or hospitals.",
+              "The general practitioner includes and integrates physical, psychological, and social factors in their considerations about health and illness.",
+              "The general practitioner serves as the first point of contact between patients and the healthcare system."
+            ],
+            "correctAnswer": "A) The role of a general practitioner does not include focusing on preventive measures or interventions.",
+            "correctAnswerText": "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Prevention and health promotion are core responsibilities of the general/family practitioner, not something excluded from the role, making this statement false. The remaining statements accurately reflect the GP's broad, integrative, and first-contact role.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Family Medicine",
+            "groupName": "Family Medicine",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__family-medicine__4__52o0i9",
+            "number": "4",
+            "text": "Which of the following is NOT a criterion for diagnosing metabolic syndrome?",
+            "options": [
+              "Waist circumference greater than 35 inches (89 cm) in women and 40 inches in men",
+              "Triglyceride levels of 150 milligrams per deciliter (mg/dl) or higher",
+              "Blood pressure of 130/85 millimeters of mercury or higher",
+              "Fasting blood glucose level of 110 mg/dl or higher",
+              "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)"
+            ],
+            "originalOptions": [
+              "Waist circumference greater than 35 inches (89 cm) in women and 40 inches in men",
+              "Triglyceride levels of 150 milligrams per deciliter (mg/dl) or higher",
+              "Blood pressure of 130/85 millimeters of mercury or higher",
+              "Fasting blood glucose level of 110 mg/dl or higher",
+              "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)"
+            ],
+            "correctAnswer": "E) High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)",
+            "correctAnswerText": "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "The actual HDL criterion for metabolic syndrome is a low HDL (below approximately 40 mg/dl in men or 50 mg/dl in women), not \"lower than 60,\" so this threshold is incorrect and does not represent a true diagnostic criterion. Waist circumference, triglycerides, blood pressure, and fasting glucose thresholds listed in the other options are all accurate components of the diagnosis.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Family Medicine",
+            "groupName": "Family Medicine",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__family-medicine__5__3gz9zf",
+            "number": "5",
+            "text": "Which of the following correctly represents the abbreviation for \"E\" in the context of RISE?",
+            "options": [
+              "Epidemiology",
+              "Endocrine Factors",
+              "Evaluation",
+              "Education",
+              "Environmental factors"
+            ],
+            "originalOptions": [
+              "Epidemiology",
+              "Endocrine Factors",
+              "Evaluation",
+              "Education",
+              "Environmental factors"
+            ],
+            "correctAnswer": "D) Education",
+            "correctAnswerText": "Education",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "In the RISE framework, \"E\" stands for Education/Counseling, reflecting the physician's role in patient education as part of comprehensive care. The other options describe plausible-sounding but incorrect expansions of the letter.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Family Medicine",
+            "groupName": "Family Medicine",
+            "sourceType": "lecture"
+          }
+        ]
+      },
+      {
         "id": "introduction__lecture__urology",
         "name": "Urology",
         "type": "lecture",
@@ -2454,6 +2628,171 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__family-medicine__1__sl490x",
+        "number": "1",
+        "text": "At what age should osteoporosis screening begin routinely, and at what age in high-risk patients?",
+        "options": [
+          "Age 50 routinely; age 45 in high-risk patients",
+          "Age 60 routinely; age 50 in high-risk patients",
+          "Age 70 routinely; age 65 in high-risk patients",
+          "Age 65 routinely; age 60 in high-risk patients",
+          "Age 55 routinely; age 50 in high-risk patients"
+        ],
+        "originalOptions": [
+          "Age 50 routinely; age 45 in high-risk patients",
+          "Age 60 routinely; age 50 in high-risk patients",
+          "Age 70 routinely; age 65 in high-risk patients",
+          "Age 65 routinely; age 60 in high-risk patients",
+          "Age 55 routinely; age 50 in high-risk patients"
+        ],
+        "correctAnswer": "D) Age 65 routinely; age 60 in high-risk patients",
+        "correctAnswerText": "Age 65 routinely; age 60 in high-risk patients",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Routine osteoporosis screening begins at age 65 in average-risk individuals, but is moved earlier to age 60 in patients with risk factors such as low body weight or family history. The other age pairs are close distractors but do not match the standard screening thresholds.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Family Medicine",
+        "groupName": "Family Medicine",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__family-medicine__2__ijsql8",
+        "number": "2",
+        "text": "At what age should hyperlipidemia screening begin in men with no risk factors?",
+        "options": [
+          "Men aged 45 and older, regardless of risk factors",
+          "Men aged 35 and older, regardless of risk factors",
+          "Men aged 40 and older, only with risk factors",
+          "Men aged 50 and older, regardless of risk factors",
+          "Men aged 30 and older, only with risk factors"
+        ],
+        "originalOptions": [
+          "Men aged 45 and older, regardless of risk factors",
+          "Men aged 35 and older, regardless of risk factors",
+          "Men aged 40 and older, only with risk factors",
+          "Men aged 50 and older, regardless of risk factors",
+          "Men aged 30 and older, only with risk factors"
+        ],
+        "correctAnswer": "B) Men aged 35 and older, regardless of risk factors",
+        "correctAnswerText": "Men aged 35 and older, regardless of risk factors",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Hyperlipidemia screening is recommended for men starting at age 35 even without risk factors, since cardiovascular risk begins to rise around this age. Screening starts earlier only when risk factors are present, which is a common exam trap tested by the other options.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Family Medicine",
+        "groupName": "Family Medicine",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__family-medicine__3__xw1cqi",
+        "number": "3",
+        "text": "Which of the following statements about the role of a general practitioner is incorrect?",
+        "options": [
+          "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+          "The general practitioner is a licensed medical graduate who provides care to individuals regardless of age, sex, and illness.",
+          "The general practitioner aims to make early diagnoses and may attend to patients in various settings, including their homes, consulting rooms, clinics, or hospitals.",
+          "The general practitioner includes and integrates physical, psychological, and social factors in their considerations about health and illness.",
+          "The general practitioner serves as the first point of contact between patients and the healthcare system."
+        ],
+        "originalOptions": [
+          "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+          "The general practitioner is a licensed medical graduate who provides care to individuals regardless of age, sex, and illness.",
+          "The general practitioner aims to make early diagnoses and may attend to patients in various settings, including their homes, consulting rooms, clinics, or hospitals.",
+          "The general practitioner includes and integrates physical, psychological, and social factors in their considerations about health and illness.",
+          "The general practitioner serves as the first point of contact between patients and the healthcare system."
+        ],
+        "correctAnswer": "A) The role of a general practitioner does not include focusing on preventive measures or interventions.",
+        "correctAnswerText": "The role of a general practitioner does not include focusing on preventive measures or interventions.",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Prevention and health promotion are core responsibilities of the general/family practitioner, not something excluded from the role, making this statement false. The remaining statements accurately reflect the GP's broad, integrative, and first-contact role.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Family Medicine",
+        "groupName": "Family Medicine",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__family-medicine__4__52o0i9",
+        "number": "4",
+        "text": "Which of the following is NOT a criterion for diagnosing metabolic syndrome?",
+        "options": [
+          "Waist circumference greater than 35 inches (89 cm) in women and 40 inches in men",
+          "Triglyceride levels of 150 milligrams per deciliter (mg/dl) or higher",
+          "Blood pressure of 130/85 millimeters of mercury or higher",
+          "Fasting blood glucose level of 110 mg/dl or higher",
+          "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)"
+        ],
+        "originalOptions": [
+          "Waist circumference greater than 35 inches (89 cm) in women and 40 inches in men",
+          "Triglyceride levels of 150 milligrams per deciliter (mg/dl) or higher",
+          "Blood pressure of 130/85 millimeters of mercury or higher",
+          "Fasting blood glucose level of 110 mg/dl or higher",
+          "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)"
+        ],
+        "correctAnswer": "E) High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)",
+        "correctAnswerText": "High-density lipoprotein cholesterol (HDL) lower than 60 milligrams per deciliter (mg/dl)",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "The actual HDL criterion for metabolic syndrome is a low HDL (below approximately 40 mg/dl in men or 50 mg/dl in women), not \"lower than 60,\" so this threshold is incorrect and does not represent a true diagnostic criterion. Waist circumference, triglycerides, blood pressure, and fasting glucose thresholds listed in the other options are all accurate components of the diagnosis.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Family Medicine",
+        "groupName": "Family Medicine",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__family-medicine__5__3gz9zf",
+        "number": "5",
+        "text": "Which of the following correctly represents the abbreviation for \"E\" in the context of RISE?",
+        "options": [
+          "Epidemiology",
+          "Endocrine Factors",
+          "Evaluation",
+          "Education",
+          "Environmental factors"
+        ],
+        "originalOptions": [
+          "Epidemiology",
+          "Endocrine Factors",
+          "Evaluation",
+          "Education",
+          "Environmental factors"
+        ],
+        "correctAnswer": "D) Education",
+        "correctAnswerText": "Education",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "In the RISE framework, \"E\" stands for Education/Counseling, reflecting the physician's role in patient education as part of comprehensive care. The other options describe plausible-sounding but incorrect expansions of the letter.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Family Medicine",
+        "groupName": "Family Medicine",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__urology__1__mlr67i",
         "number": "1",
         "text": "Which of the following is NOT a sign of benign prostatic hyperplasia (BPH)?",
@@ -3675,8 +4014,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 55,
-    "totalLectures": 4,
+    "totalQuestions": 60,
+    "totalLectures": 5,
     "hasAiFolder": true
   }
 ]
