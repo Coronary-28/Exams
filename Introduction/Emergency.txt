@@ -147,3 +147,33 @@ E) Random allocation to balance departmental workload
 Correct Answer: C) Priority based on the severity of their condition
 Explanation:
 Unlike most other settings, ED patients are not seen on a first-come, first-served basis. Triage ensures that patients are treated according to the severity and urgency of their condition, so that the most critically ill receive care first.
+###
+What is the correct sequence of steps in basic life support (BLS) upon encountering an unresponsive patient?
+A) Call 911 → Tap and shout → Check for breathing → Chest compressions
+B) Tap and shout → Call 911 → Check for breathing → Chest compressions
+C) Check for breathing → Tap and shout → Chest compressions → Call 911
+D) Chest compressions → Tap and shout → Call 911 → Check for breathing
+E) Tap and shout → Check for breathing → Call 911 → Chest compressions
+Correct Answer: B) Tap and shout → Call 911 → Check for breathing → Chest compressions
+Explanation:
+The correct BLS sequence begins with assessing responsiveness (tap and shout), then activating emergency services (call 911), followed by checking for breathing, and finally starting chest compressions if the patient is not breathing normally. Following this order ensures help is on the way before proceeding with further steps.
+###
+What is the primary purpose of performing high-quality, early CPR in a patient in cardiac arrest?
+A) To restore normal heart rhythm directly
+B) To prevent irreversible brain damage by maintaining perfusion
+C) To avoid the need for defibrillation
+D) To confirm the diagnosis of cardiac arrest
+E) To reduce the need for advanced airway management
+Correct Answer: B) To prevent irreversible brain damage by maintaining perfusion
+Explanation:
+The brain is extremely sensitive to oxygen deprivation. High-quality CPR maintains circulation and oxygen delivery to vital organs, most critically the brain, until spontaneous circulation returns or definitive treatment (such as defibrillation) can be administered. Delaying CPR risks irreversible neurological injury.
+###
+While explaining a poor prognosis to a patient, the patient's brother becomes angry, begins shouting, and behaves aggressively toward you. What is the most appropriate immediate action?
+A) Continue the conversation calmly and ignore the aggressive behavior
+B) Raise your voice to regain control of the conversation
+C) Ask the patient to calm their brother down
+D) Leave the room if your safety is at risk, and call security
+E) Sedate the brother to de-escalate the situation
+Correct Answer: D) Leave the room if your safety is at risk, and call security
+Explanation:
+Physician and staff safety take priority when a situation becomes aggressive or threatening. If safety is at risk, the appropriate action is to remove yourself from the room and call security rather than attempting to manage the aggression alone.
