@@ -96,3 +96,53 @@ E) Mechanical ventilation via endotracheal tube
 Correct Answer: D) Non-invasive support such as BiPAP or medications
 Explanation:
 A DNI order specifically prohibits placement of a breathing tube, but other treatments such as BiPAP or medications may still be given. Endotracheal intubation, RSI, surgical airway, and mechanical ventilation via ET tube all involve tube placement and are excluded by this order. Distinguishing DNI from DNR is essential, as DNI does not prohibit all supportive care.
+###
+A patient arrives at the ED with no pulse, no respiratory effort, and obvious signs of death (rigor mortis). To which triage area should this patient be assigned?
+A) Red area
+B) Yellow area
+C) Green area
+D) Black area
+E) Fast track
+Correct Answer: D) Black area
+Explanation:
+The Black area (or tag) is designated for patients who are deceased or have injuries incompatible with life. Unlike the Red area, which is for salvageable critically ill patients, resources are not directed toward resuscitation of patients already confirmed dead.
+###
+A patient presents to the ED with a minor laceration requiring simple wound closure, stable vital signs, and no other complaints. Which triage/care pathway is most appropriate?
+A) Trauma/Resus bay
+B) Main ED/Acute area
+C) Admission to the ICU
+D) Immediate CPR
+E) Fast Track
+Correct Answer: E) Fast Track
+Explanation:
+Fast Track is designed for low-acuity patients (ESI 4–5) such as those with simple lacerations, minor illnesses, or issues requiring only one or zero resources. This pathway allows for rapid throughput without occupying acute care resources
+###
+Which of the following best describes the primary goal of resuscitation as one of the three pillars of emergency care?
+A) Immediate stabilization of vital signs, taking the highest priority for the EM physician
+B) Determining the safest next step for the patient
+C) Rapidly identifying the underlying diagnosis
+D) Ensuring proper documentation before treatment
+E) Arranging outpatient follow-up
+Correct Answer: A) Immediate stabilization of vital signs, taking the highest priority for the EM physician
+Explanation:
+Resuscitation is the first and highest priority among the three pillars of emergency care (Resuscitation, Diagnosis, Disposition). Stabilizing the patient's vital signs takes precedence over reaching a definitive diagnosis or determining disposition, since an unstable patient may die before either can occur.
+###
+A physician determines that continuing CPR on a patient with massive, un-survivable trauma would provide no meaningful benefit. What is this concept called, and what is the physician's ethical obligation?
+A) Beneficence; the physician must continue regardless of family wishes
+B) Justice; the physician must involve the ethics committee before any decision
+C) Medical futility; the physician is not ethically obligated to provide futile care
+D) Autonomy; the family has full authority to demand continued care
+E) Non-maleficence; the physician must transfer the patient immediately
+Correct Answer: C) Medical futility; the physician is not ethically obligated to provide futile care
+Explanation:
+Medical futility refers to interventions unlikely to produce meaningful benefit. Physicians are not ethically obligated to provide futile care, though communicating this to a grieving family requires empathy and clear communication, and may involve the ethics committee when conflict arises.
+###
+A pulseless patient is found in the ED. Bystanders begin CPR immediately while another staff member activates the emergency response. To which triage area does this patient belong?
+A) Yellow area
+B) Green area
+C) Black area
+D) Red area
+E) Fast Track
+Correct Answer: D) Red area
+Explanation:
+Any pulseless patient requires immediate resuscitation and is classified as Red area (ESI Level 1), reflecting the need for immediate, life-saving intervention. This differs from the Black area, which is reserved for patients already confirmed deceased or with injuries incompatible with life.
