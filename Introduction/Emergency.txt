@@ -1,0 +1,149 @@
+A patient arrives at the emergency department with wheezing and a history of asthma. In the triage process, you need to categorize the patient and determine the initial position or intervention. Given the patient's condition, which of the following is the most appropriate triage category and initial action?
+A) Green (Minimal) - Have the patient lie flat and provide bronchodilators at a later time.
+B) Red (Immediate) - Place the patient in an upright position and administer bronchodilators immediately.
+C) Black (Deceased) - No intervention required, prioritize other patients.
+D) Yellow (Delayed) - Place the patient in a semi-reclining position and administer bronchodilators as soon as possible.
+E) Not classified - Refer the patient directly to an outpatient clinic without triage.
+Correct Answer: D) Yellow (Delayed) - Place the patient in a semi-reclining position and administer bronchodilators as soon as possible.
+Explanation:
+A wheezing asthmatic without signs of severe respiratory failure is not yet at ESI Level 1/Red, but still requires prompt care, placing them in the Yellow/urgent range. A semi-reclining position eases work of breathing, unlike lying flat (Green), which would worsen dyspnea. Red is reserved for patients in profound distress or actively dying.
+###
+A patient arrives at the emergency department with a capillary refill time greater than 3 seconds. In the triage process, which of the following is the most appropriate triage category and initial action?
+A) Yellow (Delayed) - Place the patient in a semi-reclining position and monitor closely before further action.
+B) Red (Immediate) - Assess the patient urgently and initiate immediate resuscitation and stabilization.
+C) Green (Minimal) - Have the patient sit comfortably and provide non-urgent care at a later time.
+D) Black (Deceased) - No immediate action required.
+E) Not classified - Delay assessment until vital signs are formally documented.
+Correct Answer: B) Red (Immediate) - Assess the patient urgently and initiate immediate resuscitation and stabilization.
+Explanation:
+A capillary refill greater than 3 seconds signals poor peripheral perfusion and possible shock, a time-critical finding requiring immediate resuscitation, consistent with ESI Level 1/Red. Yellow or Green categories underestimate the danger of impending hemodynamic collapse, while Black applies only to patients who are deceased, not those who are still salvageable.
+###
+What is the primary purpose of assigning a triage category to a patient?
+A) To prioritize the patient's care based on the level of urgency
+B) To establish the patient's demographic information for hospital records
+C) To determine the patient's previous medical conditions before treatment begins
+D) To evaluate the patient's insurance coverage prior to admission
+E) To assign the patient to a specific physician based on specialty preference
+Correct Answer: A) To prioritize the patient's care based on the level of urgency
+Explanation:
+Triage exists to sort patients by medical acuity so the sickest are seen first, reflecting the ED principle that care is not given on a first-come, first-served basis. Demographic data, insurance status, and physician assignment are administrative functions and play no role in the acuity-based sorting that defines triage.
+###
+A 60-year-old male is brought to the ED. On assessment, his respiratory rate is 34/min, capillary refill time is 4 seconds, and he is unable to follow simple commands. What is the most appropriate triage category for this patient?
+A) Yellow area
+B) Green area
+C) Red area
+D) Discharge with outpatient follow-up
+E) Fast track
+Correct Answer: C) Red area
+Explanation:
+RR > 30/min and capillary refill > 3 seconds are signs of shock, and combined with an altered ability to follow commands, this patient is critically unstable. Any patient in shock requires immediate resuscitation and is placed in the Red area regardless of the specific diagnosis.
+###
+A 33-year-old female with a known history of asthma presents with difficulty breathing and wheezing for 3 days. She is able to speak in full, understandable sentences but must pause periodically to catch her breath. She is not in cardiac or respiratory arrest. What is the most appropriate triage category?
+A) Green area
+B) Yellow area
+C) Red area
+D) Immediate CPR and resuscitation
+E) Fast track discharge
+Correct Answer: B) Yellow area
+Explanation:
+Because she can still speak in full sentences, she does not meet resuscitation criteria and is taken out of the Red area. However, she still has objective difficulty breathing and requires active management, so she cannot be classified as low-acuity — placing her in the Yellow area.
+###
+A 33-year-old female with a known history of asthma presents to the ED with a silent chest and is unable to speak in full sentences due to severe respiratory distress. What is the most appropriate triage category for this patient?
+A) Yellow area
+B) Green area
+C) Discharge home with a rescue inhaler
+D) Red area
+E) Fast track
+Correct Answer: D) Red area
+Explanation:
+A silent chest and inability to speak in full sentences indicate impending or actual respiratory failure. This patient is critically unstable and requires immediate resuscitation, placing her in the Red area — the same category used for cardiac/respiratory arrest and any patient who "cannot be left" without immediate intervention.
+###
+According to the described signs of respiratory distress in a critically ill patient requiring an immediate response, all of the following are correct EXCEPT:
+A) Use of accessory muscles is a warning sign
+B) Tachypnea (very fast breathing) is a warning sign
+C) A patient may progress to confusion or drowsiness due to respiratory muscle fatigue
+D) CO2 retention leading to drowsiness is especially concerning in COPD patients
+E) Bradypnea with fully normal mentation is the expected pattern of deterioration
+Correct Answer: E) Bradypnea with fully normal mentation is the expected pattern of deterioration
+Explanation:
+The described pattern of deterioration is accessory muscle use → tachypnea → confusion/drowsiness from respiratory muscle fatigue and CO2 retention, which is particularly dangerous in COPD patients. A calm, fully alert patient with slow breathing does not reflect this warning pattern — drowsiness/confusion is the expected finding, not normal mentation.
+###
+A patient arrives at the ED due to toxin exposure or ingestion of a liquid cleaning agent. He currently appears well and is talking normally. What is the appropriate triage category for this patient?
+A) Red area, regardless of his current general appearance
+B) Yellow area, since he currently looks stable
+C) Green area, since no obvious distress is present
+D) Triage should be based only on his current vital signs
+E) He can be observed briefly in the waiting area before triage
+Correct Answer: A) Red area, regardless of his current general appearance
+Explanation:
+Any patient exposed to toxins or who has ingested a toxic substance is placed in the Red area regardless of how well they currently appear, because such patients may deteriorate suddenly and become critically ill at any time.
+###
+A patient in the ED is found to be pulseless. What is the immediate and correct course of action?
+A) Assess the ABCs fully before deciding on any action
+B) Wait for the triage nurse to formally confirm pulselessness before acting
+C) Call for help and immediately start CPR; the patient is classified as Red area
+D) Move the patient to the Yellow area pending further assessment
+E) Discharge the patient if no pulse is felt after a brief check
+Correct Answer: C) Call for help and immediately start CPR; the patient is classified as Red area
+Explanation:
+Any pulseless patient requires an immediate call for help and initiation of CPR without delay. This is an automatic Red area (resuscitation) classification, as the patient needs immediate life-saving intervention.
+###
+A trauma patient arrives at the ED. Which of the following is NOT considered a high-risk mechanism of injury requiring trauma team activation?
+A) Fall from twice the patient's height
+B) Penetrating trauma proximal to the knee/elbow, with bleeding controlled
+C) Crush injury
+D) Pedestrian struck by a vehicle (RTA)
+E) Isolated femur fracture
+Correct Answer: E) Isolated femur fracture
+Explanation:
+Fall from twice the patient's height, penetrating trauma proximal to the knee/elbow (with bleeding controlled), crush injury, and pedestrian-vehicle collisions are all recognized high-risk mechanisms that mandate a high level of trauma concern regardless of the patient's initial appearance. An isolated femur fracture, while serious, is a specific injury rather than a high-risk mechanism criterion.
+###
+A patient with full decision-making capacity refuses a proposed treatment after being informed of the risks and benefits. Which ethical principle does the physician's obligation to respect this refusal reflect?
+A) Beneficence
+B) Autonomy
+C) Non-maleficence
+D) Justice
+E) Paternalism
+Correct Answer: B) Autonomy
+Explanation:
+Autonomy is the ethical principle granting a competent patient the right to accept or refuse medical treatment, even if that refusal may lead to a poor outcome. The physician must honor this right as long as the patient has intact decision-making capacity.
+###
+A physician fully and honestly discloses a patient's diagnosis and prognosis to them, even when the news is difficult. This practice of truth-telling is grounded in which ethical principle?
+A) Beneficence
+B) Non-maleficence
+C) Justice
+D) Confidentiality
+E) Autonomy
+Correct Answer: E) Autonomy
+Explanation:
+Truth-telling is a component of respecting patient autonomy, since a patient cannot exercise informed decision-making or give valid informed consent without accurate and honest information about their condition.
+###
+During a difficult conversation with a distressed patient, a physician actively listens and seeks to understand the root cause of the patient's distress rather than immediately offering solutions. What communication skill is being demonstrated?
+A) Active listening
+B) Closed-loop communication
+C) Paternalistic counseling
+D) Breaking bad news protocol
+E) Informed consent discussion
+Correct Answer: A) Active listening
+Explanation:
+Active listening involves fully attending to the patient, seeking to understand the underlying source of their distress rather than reacting superficially. This builds trust and allows the physician to address the patient's actual concerns, which is essential to effective doctor-patient communication.
+###
+A patient with an acute surgical emergency and intact decision-making capacity refuses a life-saving surgery after being informed of the consequences of refusal, including death. What should the physician do?
+A) Perform the surgery regardless, since it is life-saving
+B) Obtain a court order to override the patient's decision immediately
+C) Sedate the patient and proceed with surgery
+D) Respect the patient's refusal, since autonomy permits refusal even of life-saving treatment
+E) Ignore the refusal and proceed once family consents instead
+Correct Answer: D) Respect the patient's refusal, since autonomy permits refusal even of life-saving treatment
+Explanation:
+A competent, informed patient has the right to refuse even life-saving treatment under the principle of autonomy. The physician must document that the patient had capacity, was informed of the risks (including death), and still chose to refuse.
+###
+In the emergency department, patients are treated according to which of the following principles?
+A) First-come, first-served order of arrival
+B) Order of insurance or payment status
+C) Priority based on the severity of their condition
+D) Order requested by family members
+E) Random allocation to balance departmental workload
+Correct Answer: C) Priority based on the severity of their condition
+Explanation:
+Unlike most other settings, ED patients are not seen on a first-come, first-served basis. Triage ensures that patients are treated according to the severity and urgency of their condition, so that the most critically ill receive care first.
