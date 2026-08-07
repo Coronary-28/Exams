@@ -504,6 +504,105 @@
             "lectureName": "Emergency",
             "groupName": "Emergency",
             "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__emergency__16__jkw0fb",
+            "number": "16",
+            "text": "What is the correct sequence of steps in basic life support (BLS) upon encountering an unresponsive patient?",
+            "options": [
+              "Call 911 → Tap and shout → Check for breathing → Chest compressions",
+              "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+              "Check for breathing → Tap and shout → Chest compressions → Call 911",
+              "Chest compressions → Tap and shout → Call 911 → Check for breathing",
+              "Tap and shout → Check for breathing → Call 911 → Chest compressions"
+            ],
+            "originalOptions": [
+              "Call 911 → Tap and shout → Check for breathing → Chest compressions",
+              "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+              "Check for breathing → Tap and shout → Chest compressions → Call 911",
+              "Chest compressions → Tap and shout → Call 911 → Check for breathing",
+              "Tap and shout → Check for breathing → Call 911 → Chest compressions"
+            ],
+            "correctAnswer": "B) Tap and shout → Call 911 → Check for breathing → Chest compressions",
+            "correctAnswerText": "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The correct BLS sequence begins with assessing responsiveness (tap and shout), then activating emergency services (call 911), followed by checking for breathing, and finally starting chest compressions if the patient is not breathing normally. Following this order ensures help is on the way before proceeding with further steps.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency",
+            "groupName": "Emergency",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__emergency__17__dc6tio",
+            "number": "17",
+            "text": "What is the primary purpose of performing high-quality, early CPR in a patient in cardiac arrest?",
+            "options": [
+              "To restore normal heart rhythm directly",
+              "To prevent irreversible brain damage by maintaining perfusion",
+              "To avoid the need for defibrillation",
+              "To confirm the diagnosis of cardiac arrest",
+              "To reduce the need for advanced airway management"
+            ],
+            "originalOptions": [
+              "To restore normal heart rhythm directly",
+              "To prevent irreversible brain damage by maintaining perfusion",
+              "To avoid the need for defibrillation",
+              "To confirm the diagnosis of cardiac arrest",
+              "To reduce the need for advanced airway management"
+            ],
+            "correctAnswer": "B) To prevent irreversible brain damage by maintaining perfusion",
+            "correctAnswerText": "To prevent irreversible brain damage by maintaining perfusion",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "The brain is extremely sensitive to oxygen deprivation. High-quality CPR maintains circulation and oxygen delivery to vital organs, most critically the brain, until spontaneous circulation returns or definitive treatment (such as defibrillation) can be administered. Delaying CPR risks irreversible neurological injury.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency",
+            "groupName": "Emergency",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__emergency__18__y8mxmf",
+            "number": "18",
+            "text": "While explaining a poor prognosis to a patient, the patient's brother becomes angry, begins shouting, and behaves aggressively toward you. What is the most appropriate immediate action?",
+            "options": [
+              "Continue the conversation calmly and ignore the aggressive behavior",
+              "Raise your voice to regain control of the conversation",
+              "Ask the patient to calm their brother down",
+              "Leave the room if your safety is at risk, and call security",
+              "Sedate the brother to de-escalate the situation"
+            ],
+            "originalOptions": [
+              "Continue the conversation calmly and ignore the aggressive behavior",
+              "Raise your voice to regain control of the conversation",
+              "Ask the patient to calm their brother down",
+              "Leave the room if your safety is at risk, and call security",
+              "Sedate the brother to de-escalate the situation"
+            ],
+            "correctAnswer": "D) Leave the room if your safety is at risk, and call security",
+            "correctAnswerText": "Leave the room if your safety is at risk, and call security",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Physician and staff safety take priority when a situation becomes aggressive or threatening. If safety is at risk, the appropriate action is to remove yourself from the room and call security rather than attempting to manage the aggression alone.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency",
+            "groupName": "Emergency",
+            "sourceType": "lecture"
           }
         ]
       },
@@ -1589,6 +1688,105 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__emergency__16__jkw0fb",
+        "number": "16",
+        "text": "What is the correct sequence of steps in basic life support (BLS) upon encountering an unresponsive patient?",
+        "options": [
+          "Call 911 → Tap and shout → Check for breathing → Chest compressions",
+          "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+          "Check for breathing → Tap and shout → Chest compressions → Call 911",
+          "Chest compressions → Tap and shout → Call 911 → Check for breathing",
+          "Tap and shout → Check for breathing → Call 911 → Chest compressions"
+        ],
+        "originalOptions": [
+          "Call 911 → Tap and shout → Check for breathing → Chest compressions",
+          "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+          "Check for breathing → Tap and shout → Chest compressions → Call 911",
+          "Chest compressions → Tap and shout → Call 911 → Check for breathing",
+          "Tap and shout → Check for breathing → Call 911 → Chest compressions"
+        ],
+        "correctAnswer": "B) Tap and shout → Call 911 → Check for breathing → Chest compressions",
+        "correctAnswerText": "Tap and shout → Call 911 → Check for breathing → Chest compressions",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The correct BLS sequence begins with assessing responsiveness (tap and shout), then activating emergency services (call 911), followed by checking for breathing, and finally starting chest compressions if the patient is not breathing normally. Following this order ensures help is on the way before proceeding with further steps.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency",
+        "groupName": "Emergency",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__emergency__17__dc6tio",
+        "number": "17",
+        "text": "What is the primary purpose of performing high-quality, early CPR in a patient in cardiac arrest?",
+        "options": [
+          "To restore normal heart rhythm directly",
+          "To prevent irreversible brain damage by maintaining perfusion",
+          "To avoid the need for defibrillation",
+          "To confirm the diagnosis of cardiac arrest",
+          "To reduce the need for advanced airway management"
+        ],
+        "originalOptions": [
+          "To restore normal heart rhythm directly",
+          "To prevent irreversible brain damage by maintaining perfusion",
+          "To avoid the need for defibrillation",
+          "To confirm the diagnosis of cardiac arrest",
+          "To reduce the need for advanced airway management"
+        ],
+        "correctAnswer": "B) To prevent irreversible brain damage by maintaining perfusion",
+        "correctAnswerText": "To prevent irreversible brain damage by maintaining perfusion",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "The brain is extremely sensitive to oxygen deprivation. High-quality CPR maintains circulation and oxygen delivery to vital organs, most critically the brain, until spontaneous circulation returns or definitive treatment (such as defibrillation) can be administered. Delaying CPR risks irreversible neurological injury.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency",
+        "groupName": "Emergency",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__emergency__18__y8mxmf",
+        "number": "18",
+        "text": "While explaining a poor prognosis to a patient, the patient's brother becomes angry, begins shouting, and behaves aggressively toward you. What is the most appropriate immediate action?",
+        "options": [
+          "Continue the conversation calmly and ignore the aggressive behavior",
+          "Raise your voice to regain control of the conversation",
+          "Ask the patient to calm their brother down",
+          "Leave the room if your safety is at risk, and call security",
+          "Sedate the brother to de-escalate the situation"
+        ],
+        "originalOptions": [
+          "Continue the conversation calmly and ignore the aggressive behavior",
+          "Raise your voice to regain control of the conversation",
+          "Ask the patient to calm their brother down",
+          "Leave the room if your safety is at risk, and call security",
+          "Sedate the brother to de-escalate the situation"
+        ],
+        "correctAnswer": "D) Leave the room if your safety is at risk, and call security",
+        "correctAnswerText": "Leave the room if your safety is at risk, and call security",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Physician and staff safety take priority when a situation becomes aggressive or threatening. If safety is at risk, the appropriate action is to remove yourself from the room and call security rather than attempting to manage the aggression alone.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency",
+        "groupName": "Emergency",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__lecture__urology__1__mlr67i",
         "number": "1",
         "text": "Which of the following is NOT a sign of benign prostatic hyperplasia (BPH)?",
@@ -2152,7 +2350,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 32,
+    "totalQuestions": 35,
     "totalLectures": 3,
     "hasAiFolder": true
   }
