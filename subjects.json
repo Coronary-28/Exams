@@ -2294,6 +2294,250 @@
             "sourceType": "lecture"
           }
         ]
+      },
+      {
+        "id": "introduction__lecture__urology",
+        "name": "Urology",
+        "type": "lecture",
+        "subjectName": "Introduction",
+        "path": "Introduction/Urology.txt",
+        "questions": [
+          {
+            "id": "introduction__lecture__urology__1__mlr67i",
+            "number": "1",
+            "text": "Which of the following is NOT a sign of benign prostatic hyperplasia (BPH)?",
+            "options": [
+              "Hesitancy",
+              "Poor urinary stream",
+              "Dysuria",
+              "Incomplete voiding",
+              "Straining during micturition"
+            ],
+            "originalOptions": [
+              "Hesitancy",
+              "Poor urinary stream",
+              "Dysuria",
+              "Incomplete voiding",
+              "Straining during micturition"
+            ],
+            "correctAnswer": "C) Dysuria",
+            "correctAnswerText": "Dysuria",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "BPH causes obstructive LUTS such as hesitancy, poor stream, straining, and incomplete emptying due to bladder outlet obstruction. Dysuria (painful urination) reflects inflammation/infection rather than mechanical obstruction, so it is not a typical BPH sign.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__2__yis4pj",
+            "number": "2",
+            "text": "What is the most likely cause of continuous urinary incontinence?",
+            "options": [
+              "Stress incontinence",
+              "Urge incontinence",
+              "Vesicovaginal fistula",
+              "Overflow incontinence",
+              "Detrusor overactivity"
+            ],
+            "originalOptions": [
+              "Stress incontinence",
+              "Urge incontinence",
+              "Vesicovaginal fistula",
+              "Overflow incontinence",
+              "Detrusor overactivity"
+            ],
+            "correctAnswer": "C) Vesicovaginal fistula",
+            "correctAnswerText": "Vesicovaginal fistula",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "A vesicovaginal fistula creates an abnormal communication between the bladder and vagina, causing continuous, position-independent urine leakage. Stress and urge incontinence are intermittent and related to activity or sudden urge, not constant leakage.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__3__sqshfd",
+            "number": "3",
+            "text": "All of the following can cause pneumaturia EXCEPT:",
+            "options": [
+              "Recent urinary catheterization",
+              "Vesicoenteric fistula",
+              "Infection with gas-forming organisms",
+              "Ectopic ureter",
+              "Colovesical fistula from diverticulitis"
+            ],
+            "originalOptions": [
+              "Recent urinary catheterization",
+              "Vesicoenteric fistula",
+              "Infection with gas-forming organisms",
+              "Ectopic ureter",
+              "Colovesical fistula from diverticulitis"
+            ],
+            "correctAnswer": "D) Ectopic ureter",
+            "correctAnswerText": "Ectopic ureter",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Pneumaturia (gas in urine) results from recent catheterization, enteric fistulas communicating with the urinary tract, or infection with gas-forming organisms. An ectopic ureter causes abnormal ureteral insertion and incontinence, not gas in the urine.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__4__puy6do",
+            "number": "4",
+            "text": "Choose the conditions that cause urine to appear cloudy: (Select all that apply)",
+            "options": [
+              "Pyuria",
+              "Phosphaturia",
+              "Hematuria",
+              "Chyluria",
+              "Bilirubinuria"
+            ],
+            "originalOptions": [
+              "Pyuria",
+              "Phosphaturia",
+              "Hematuria",
+              "Chyluria",
+              "Bilirubinuria"
+            ],
+            "correctAnswer": "A) Pyuria / B) Phosphaturia / D) Chyluria",
+            "correctAnswerText": "A) Pyuria / B) Phosphaturia / D) Chyluria",
+            "correctIndex": -1,
+            "correctIndices": [
+              0,
+              1,
+              3
+            ],
+            "isMultiple": true,
+            "correctAnswerLetter": "",
+            "explanation": "Pyuria causes turbidity from WBCs/pus, phosphaturia from phosphate crystal precipitation in alkaline urine (classic post-meal benign cause), and chyluria from lymphatic fluid mixing with urine. If a single option is required by the question, B is selected because pyuria and chyluria change urine turbidity too, while phosphaturia remains the classic non-pathological textbook answer for cloudiness. Hematuria and bilirubinuria mainly change urine color (red/dark amber) rather than causing true cloudiness.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__5__trpn5g",
+            "number": "5",
+            "text": "Hematuria can best be distinguished from hemoglobinuria or myoglobinuria by which of the following?",
+            "options": [
+              "Urine dipstick testing alone",
+              "Microscopic examination of urine",
+              "24-hour urine collection",
+              "Urine culture",
+              "Serum creatinine level"
+            ],
+            "originalOptions": [
+              "Urine dipstick testing alone",
+              "Microscopic examination of urine",
+              "24-hour urine collection",
+              "Urine culture",
+              "Serum creatinine level"
+            ],
+            "correctAnswer": "B) Microscopic examination of urine",
+            "correctAnswerText": "Microscopic examination of urine",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Dipstick testing is positive for blood in all three conditions since it detects heme, but only true hematuria shows intact RBCs on microscopic sediment analysis. Hemoglobinuria and myoglobinuria show a positive dipstick with no RBCs seen microscopically.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__6__wfa5q6",
+            "number": "6",
+            "text": "What is the most common cause of glomerular hematuria?",
+            "options": [
+              "Post-streptococcal glomerulonephritis",
+              "IgA nephropathy",
+              "Lupus nephritis",
+              "Alport syndrome",
+              "Thin basement membrane disease"
+            ],
+            "originalOptions": [
+              "Post-streptococcal glomerulonephritis",
+              "IgA nephropathy",
+              "Lupus nephritis",
+              "Alport syndrome",
+              "Thin basement membrane disease"
+            ],
+            "correctAnswer": "B) IgA nephropathy",
+            "correctAnswerText": "IgA nephropathy",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "IgA nephropathy is the most common cause of glomerular hematuria worldwide, often presenting with episodic gross hematuria following upper respiratory infections. The other options are important but less common causes of glomerular bleeding.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          },
+          {
+            "id": "introduction__lecture__urology__7__tpwsh3",
+            "number": "7",
+            "text": "What is the underlying cause of pain associated with ureteral stones?",
+            "options": [
+              "Direct mechanical nerve compression by the stone",
+              "Ureteral spasm or obstruction",
+              "Laceration of the renal capsule",
+              "Bladder mucosal irritation",
+              "Infection-induced inflammation"
+            ],
+            "originalOptions": [
+              "Direct mechanical nerve compression by the stone",
+              "Ureteral spasm or obstruction",
+              "Laceration of the renal capsule",
+              "Bladder mucosal irritation",
+              "Infection-induced inflammation"
+            ],
+            "correctAnswer": "B) Ureteral spasm or obstruction",
+            "correctAnswerText": "Ureteral spasm or obstruction",
+            "correctIndex": 1,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "B",
+            "explanation": "Ureteral colic results from acute obstruction causing distension and spasm of the ureteral wall proximal to the stone, producing fluctuating, colicky pain. This differs from steady inflammatory pain, which is caused by capsular distension rather than obstruction.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Urology",
+            "groupName": "Urology",
+            "sourceType": "lecture"
+          }
+        ]
       }
     ],
     "ai": [
@@ -4885,6 +5129,241 @@
         "sourceType": "lecture"
       },
       {
+        "id": "introduction__lecture__urology__1__mlr67i",
+        "number": "1",
+        "text": "Which of the following is NOT a sign of benign prostatic hyperplasia (BPH)?",
+        "options": [
+          "Hesitancy",
+          "Poor urinary stream",
+          "Dysuria",
+          "Incomplete voiding",
+          "Straining during micturition"
+        ],
+        "originalOptions": [
+          "Hesitancy",
+          "Poor urinary stream",
+          "Dysuria",
+          "Incomplete voiding",
+          "Straining during micturition"
+        ],
+        "correctAnswer": "C) Dysuria",
+        "correctAnswerText": "Dysuria",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "BPH causes obstructive LUTS such as hesitancy, poor stream, straining, and incomplete emptying due to bladder outlet obstruction. Dysuria (painful urination) reflects inflammation/infection rather than mechanical obstruction, so it is not a typical BPH sign.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__2__yis4pj",
+        "number": "2",
+        "text": "What is the most likely cause of continuous urinary incontinence?",
+        "options": [
+          "Stress incontinence",
+          "Urge incontinence",
+          "Vesicovaginal fistula",
+          "Overflow incontinence",
+          "Detrusor overactivity"
+        ],
+        "originalOptions": [
+          "Stress incontinence",
+          "Urge incontinence",
+          "Vesicovaginal fistula",
+          "Overflow incontinence",
+          "Detrusor overactivity"
+        ],
+        "correctAnswer": "C) Vesicovaginal fistula",
+        "correctAnswerText": "Vesicovaginal fistula",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "A vesicovaginal fistula creates an abnormal communication between the bladder and vagina, causing continuous, position-independent urine leakage. Stress and urge incontinence are intermittent and related to activity or sudden urge, not constant leakage.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__3__sqshfd",
+        "number": "3",
+        "text": "All of the following can cause pneumaturia EXCEPT:",
+        "options": [
+          "Recent urinary catheterization",
+          "Vesicoenteric fistula",
+          "Infection with gas-forming organisms",
+          "Ectopic ureter",
+          "Colovesical fistula from diverticulitis"
+        ],
+        "originalOptions": [
+          "Recent urinary catheterization",
+          "Vesicoenteric fistula",
+          "Infection with gas-forming organisms",
+          "Ectopic ureter",
+          "Colovesical fistula from diverticulitis"
+        ],
+        "correctAnswer": "D) Ectopic ureter",
+        "correctAnswerText": "Ectopic ureter",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Pneumaturia (gas in urine) results from recent catheterization, enteric fistulas communicating with the urinary tract, or infection with gas-forming organisms. An ectopic ureter causes abnormal ureteral insertion and incontinence, not gas in the urine.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__4__puy6do",
+        "number": "4",
+        "text": "Choose the conditions that cause urine to appear cloudy: (Select all that apply)",
+        "options": [
+          "Pyuria",
+          "Phosphaturia",
+          "Hematuria",
+          "Chyluria",
+          "Bilirubinuria"
+        ],
+        "originalOptions": [
+          "Pyuria",
+          "Phosphaturia",
+          "Hematuria",
+          "Chyluria",
+          "Bilirubinuria"
+        ],
+        "correctAnswer": "A) Pyuria / B) Phosphaturia / D) Chyluria",
+        "correctAnswerText": "A) Pyuria / B) Phosphaturia / D) Chyluria",
+        "correctIndex": -1,
+        "correctIndices": [
+          0,
+          1,
+          3
+        ],
+        "isMultiple": true,
+        "correctAnswerLetter": "",
+        "explanation": "Pyuria causes turbidity from WBCs/pus, phosphaturia from phosphate crystal precipitation in alkaline urine (classic post-meal benign cause), and chyluria from lymphatic fluid mixing with urine. If a single option is required by the question, B is selected because pyuria and chyluria change urine turbidity too, while phosphaturia remains the classic non-pathological textbook answer for cloudiness. Hematuria and bilirubinuria mainly change urine color (red/dark amber) rather than causing true cloudiness.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__5__trpn5g",
+        "number": "5",
+        "text": "Hematuria can best be distinguished from hemoglobinuria or myoglobinuria by which of the following?",
+        "options": [
+          "Urine dipstick testing alone",
+          "Microscopic examination of urine",
+          "24-hour urine collection",
+          "Urine culture",
+          "Serum creatinine level"
+        ],
+        "originalOptions": [
+          "Urine dipstick testing alone",
+          "Microscopic examination of urine",
+          "24-hour urine collection",
+          "Urine culture",
+          "Serum creatinine level"
+        ],
+        "correctAnswer": "B) Microscopic examination of urine",
+        "correctAnswerText": "Microscopic examination of urine",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Dipstick testing is positive for blood in all three conditions since it detects heme, but only true hematuria shows intact RBCs on microscopic sediment analysis. Hemoglobinuria and myoglobinuria show a positive dipstick with no RBCs seen microscopically.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__6__wfa5q6",
+        "number": "6",
+        "text": "What is the most common cause of glomerular hematuria?",
+        "options": [
+          "Post-streptococcal glomerulonephritis",
+          "IgA nephropathy",
+          "Lupus nephritis",
+          "Alport syndrome",
+          "Thin basement membrane disease"
+        ],
+        "originalOptions": [
+          "Post-streptococcal glomerulonephritis",
+          "IgA nephropathy",
+          "Lupus nephritis",
+          "Alport syndrome",
+          "Thin basement membrane disease"
+        ],
+        "correctAnswer": "B) IgA nephropathy",
+        "correctAnswerText": "IgA nephropathy",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "IgA nephropathy is the most common cause of glomerular hematuria worldwide, often presenting with episodic gross hematuria following upper respiratory infections. The other options are important but less common causes of glomerular bleeding.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
+        "id": "introduction__lecture__urology__7__tpwsh3",
+        "number": "7",
+        "text": "What is the underlying cause of pain associated with ureteral stones?",
+        "options": [
+          "Direct mechanical nerve compression by the stone",
+          "Ureteral spasm or obstruction",
+          "Laceration of the renal capsule",
+          "Bladder mucosal irritation",
+          "Infection-induced inflammation"
+        ],
+        "originalOptions": [
+          "Direct mechanical nerve compression by the stone",
+          "Ureteral spasm or obstruction",
+          "Laceration of the renal capsule",
+          "Bladder mucosal irritation",
+          "Infection-induced inflammation"
+        ],
+        "correctAnswer": "B) Ureteral spasm or obstruction",
+        "correctAnswerText": "Ureteral spasm or obstruction",
+        "correctIndex": 1,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "B",
+        "explanation": "Ureteral colic results from acute obstruction causing distension and spasm of the ureteral wall proximal to the stone, producing fluctuating, colicky pain. This differs from steady inflammatory pain, which is caused by capsular distension rather than obstruction.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Urology",
+        "groupName": "Urology",
+        "sourceType": "lecture"
+      },
+      {
         "id": "introduction__ai__emergency-ai__1__fow15w",
         "number": "1",
         "text": "Which level of prehospital care provider is trained to perform endotracheal intubation, establish IV access, and administer a wide range of emergency medications?",
@@ -5213,8 +5692,8 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 79,
-    "totalLectures": 6,
+    "totalQuestions": 86,
+    "totalLectures": 7,
     "hasAiFolder": true
   }
 ]
