@@ -1186,6 +1186,171 @@
             "lectureName": "Emergency - AI",
             "groupName": "Emergency - AI",
             "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__emergency-ai__11__7j8j2a",
+            "number": "11",
+            "text": "A patient arrives at the ED with no pulse, no respiratory effort, and obvious signs of death (rigor mortis). To which triage area should this patient be assigned?",
+            "options": [
+              "Red area",
+              "Yellow area",
+              "Green area",
+              "Black area",
+              "Fast track"
+            ],
+            "originalOptions": [
+              "Red area",
+              "Yellow area",
+              "Green area",
+              "Black area",
+              "Fast track"
+            ],
+            "correctAnswer": "D) Black area",
+            "correctAnswerText": "Black area",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "The Black area (or tag) is designated for patients who are deceased or have injuries incompatible with life. Unlike the Red area, which is for salvageable critically ill patients, resources are not directed toward resuscitation of patients already confirmed dead.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency - AI",
+            "groupName": "Emergency - AI",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__emergency-ai__12__qoykhi",
+            "number": "12",
+            "text": "A patient presents to the ED with a minor laceration requiring simple wound closure, stable vital signs, and no other complaints. Which triage/care pathway is most appropriate?",
+            "options": [
+              "Trauma/Resus bay",
+              "Main ED/Acute area",
+              "Admission to the ICU",
+              "Immediate CPR",
+              "Fast Track"
+            ],
+            "originalOptions": [
+              "Trauma/Resus bay",
+              "Main ED/Acute area",
+              "Admission to the ICU",
+              "Immediate CPR",
+              "Fast Track"
+            ],
+            "correctAnswer": "E) Fast Track",
+            "correctAnswerText": "Fast Track",
+            "correctIndex": 4,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "E",
+            "explanation": "Fast Track is designed for low-acuity patients (ESI 4–5) such as those with simple lacerations, minor illnesses, or issues requiring only one or zero resources. This pathway allows for rapid throughput without occupying acute care resources",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency - AI",
+            "groupName": "Emergency - AI",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__emergency-ai__13__hfastv",
+            "number": "13",
+            "text": "Which of the following best describes the primary goal of resuscitation as one of the three pillars of emergency care?",
+            "options": [
+              "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+              "Determining the safest next step for the patient",
+              "Rapidly identifying the underlying diagnosis",
+              "Ensuring proper documentation before treatment",
+              "Arranging outpatient follow-up"
+            ],
+            "originalOptions": [
+              "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+              "Determining the safest next step for the patient",
+              "Rapidly identifying the underlying diagnosis",
+              "Ensuring proper documentation before treatment",
+              "Arranging outpatient follow-up"
+            ],
+            "correctAnswer": "A) Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+            "correctAnswerText": "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Resuscitation is the first and highest priority among the three pillars of emergency care (Resuscitation, Diagnosis, Disposition). Stabilizing the patient's vital signs takes precedence over reaching a definitive diagnosis or determining disposition, since an unstable patient may die before either can occur.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency - AI",
+            "groupName": "Emergency - AI",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__emergency-ai__14__3f6gbp",
+            "number": "14",
+            "text": "A physician determines that continuing CPR on a patient with massive, un-survivable trauma would provide no meaningful benefit. What is this concept called, and what is the physician's ethical obligation?",
+            "options": [
+              "Beneficence; the physician must continue regardless of family wishes",
+              "Justice; the physician must involve the ethics committee before any decision",
+              "Medical futility; the physician is not ethically obligated to provide futile care",
+              "Autonomy; the family has full authority to demand continued care",
+              "Non-maleficence; the physician must transfer the patient immediately"
+            ],
+            "originalOptions": [
+              "Beneficence; the physician must continue regardless of family wishes",
+              "Justice; the physician must involve the ethics committee before any decision",
+              "Medical futility; the physician is not ethically obligated to provide futile care",
+              "Autonomy; the family has full authority to demand continued care",
+              "Non-maleficence; the physician must transfer the patient immediately"
+            ],
+            "correctAnswer": "C) Medical futility; the physician is not ethically obligated to provide futile care",
+            "correctAnswerText": "Medical futility; the physician is not ethically obligated to provide futile care",
+            "correctIndex": 2,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "C",
+            "explanation": "Medical futility refers to interventions unlikely to produce meaningful benefit. Physicians are not ethically obligated to provide futile care, though communicating this to a grieving family requires empathy and clear communication, and may involve the ethics committee when conflict arises.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency - AI",
+            "groupName": "Emergency - AI",
+            "sourceType": "ai"
+          },
+          {
+            "id": "introduction__ai__emergency-ai__15__9t833s",
+            "number": "15",
+            "text": "A pulseless patient is found in the ED. Bystanders begin CPR immediately while another staff member activates the emergency response. To which triage area does this patient belong?",
+            "options": [
+              "Yellow area",
+              "Green area",
+              "Black area",
+              "Red area",
+              "Fast Track"
+            ],
+            "originalOptions": [
+              "Yellow area",
+              "Green area",
+              "Black area",
+              "Red area",
+              "Fast Track"
+            ],
+            "correctAnswer": "D) Red area",
+            "correctAnswerText": "Red area",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Any pulseless patient requires immediate resuscitation and is classified as Red area (ESI Level 1), reflecting the need for immediate, life-saving intervention. This differs from the Black area, which is reserved for patients already confirmed deceased or with injuries incompatible with life.",
+            "batchName": "",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "Emergency - AI",
+            "groupName": "Emergency - AI",
+            "sourceType": "ai"
           }
         ]
       },
@@ -2852,6 +3017,171 @@
         "sourceType": "ai"
       },
       {
+        "id": "introduction__ai__emergency-ai__11__7j8j2a",
+        "number": "11",
+        "text": "A patient arrives at the ED with no pulse, no respiratory effort, and obvious signs of death (rigor mortis). To which triage area should this patient be assigned?",
+        "options": [
+          "Red area",
+          "Yellow area",
+          "Green area",
+          "Black area",
+          "Fast track"
+        ],
+        "originalOptions": [
+          "Red area",
+          "Yellow area",
+          "Green area",
+          "Black area",
+          "Fast track"
+        ],
+        "correctAnswer": "D) Black area",
+        "correctAnswerText": "Black area",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "The Black area (or tag) is designated for patients who are deceased or have injuries incompatible with life. Unlike the Red area, which is for salvageable critically ill patients, resources are not directed toward resuscitation of patients already confirmed dead.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency - AI",
+        "groupName": "Emergency - AI",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__emergency-ai__12__qoykhi",
+        "number": "12",
+        "text": "A patient presents to the ED with a minor laceration requiring simple wound closure, stable vital signs, and no other complaints. Which triage/care pathway is most appropriate?",
+        "options": [
+          "Trauma/Resus bay",
+          "Main ED/Acute area",
+          "Admission to the ICU",
+          "Immediate CPR",
+          "Fast Track"
+        ],
+        "originalOptions": [
+          "Trauma/Resus bay",
+          "Main ED/Acute area",
+          "Admission to the ICU",
+          "Immediate CPR",
+          "Fast Track"
+        ],
+        "correctAnswer": "E) Fast Track",
+        "correctAnswerText": "Fast Track",
+        "correctIndex": 4,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "E",
+        "explanation": "Fast Track is designed for low-acuity patients (ESI 4–5) such as those with simple lacerations, minor illnesses, or issues requiring only one or zero resources. This pathway allows for rapid throughput without occupying acute care resources",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency - AI",
+        "groupName": "Emergency - AI",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__emergency-ai__13__hfastv",
+        "number": "13",
+        "text": "Which of the following best describes the primary goal of resuscitation as one of the three pillars of emergency care?",
+        "options": [
+          "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+          "Determining the safest next step for the patient",
+          "Rapidly identifying the underlying diagnosis",
+          "Ensuring proper documentation before treatment",
+          "Arranging outpatient follow-up"
+        ],
+        "originalOptions": [
+          "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+          "Determining the safest next step for the patient",
+          "Rapidly identifying the underlying diagnosis",
+          "Ensuring proper documentation before treatment",
+          "Arranging outpatient follow-up"
+        ],
+        "correctAnswer": "A) Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+        "correctAnswerText": "Immediate stabilization of vital signs, taking the highest priority for the EM physician",
+        "correctIndex": 0,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "A",
+        "explanation": "Resuscitation is the first and highest priority among the three pillars of emergency care (Resuscitation, Diagnosis, Disposition). Stabilizing the patient's vital signs takes precedence over reaching a definitive diagnosis or determining disposition, since an unstable patient may die before either can occur.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency - AI",
+        "groupName": "Emergency - AI",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__emergency-ai__14__3f6gbp",
+        "number": "14",
+        "text": "A physician determines that continuing CPR on a patient with massive, un-survivable trauma would provide no meaningful benefit. What is this concept called, and what is the physician's ethical obligation?",
+        "options": [
+          "Beneficence; the physician must continue regardless of family wishes",
+          "Justice; the physician must involve the ethics committee before any decision",
+          "Medical futility; the physician is not ethically obligated to provide futile care",
+          "Autonomy; the family has full authority to demand continued care",
+          "Non-maleficence; the physician must transfer the patient immediately"
+        ],
+        "originalOptions": [
+          "Beneficence; the physician must continue regardless of family wishes",
+          "Justice; the physician must involve the ethics committee before any decision",
+          "Medical futility; the physician is not ethically obligated to provide futile care",
+          "Autonomy; the family has full authority to demand continued care",
+          "Non-maleficence; the physician must transfer the patient immediately"
+        ],
+        "correctAnswer": "C) Medical futility; the physician is not ethically obligated to provide futile care",
+        "correctAnswerText": "Medical futility; the physician is not ethically obligated to provide futile care",
+        "correctIndex": 2,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "C",
+        "explanation": "Medical futility refers to interventions unlikely to produce meaningful benefit. Physicians are not ethically obligated to provide futile care, though communicating this to a grieving family requires empathy and clear communication, and may involve the ethics committee when conflict arises.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency - AI",
+        "groupName": "Emergency - AI",
+        "sourceType": "ai"
+      },
+      {
+        "id": "introduction__ai__emergency-ai__15__9t833s",
+        "number": "15",
+        "text": "A pulseless patient is found in the ED. Bystanders begin CPR immediately while another staff member activates the emergency response. To which triage area does this patient belong?",
+        "options": [
+          "Yellow area",
+          "Green area",
+          "Black area",
+          "Red area",
+          "Fast Track"
+        ],
+        "originalOptions": [
+          "Yellow area",
+          "Green area",
+          "Black area",
+          "Red area",
+          "Fast Track"
+        ],
+        "correctAnswer": "D) Red area",
+        "correctAnswerText": "Red area",
+        "correctIndex": 3,
+        "correctIndices": [],
+        "isMultiple": false,
+        "correctAnswerLetter": "D",
+        "explanation": "Any pulseless patient requires immediate resuscitation and is classified as Red area (ESI Level 1), reflecting the need for immediate, life-saving intervention. This differs from the Black area, which is reserved for patients already confirmed deceased or with injuries incompatible with life.",
+        "batchName": "",
+        "pageNumber": "",
+        "subjectName": "Introduction",
+        "subjectId": "introduction",
+        "lectureName": "Emergency - AI",
+        "groupName": "Emergency - AI",
+        "sourceType": "ai"
+      },
+      {
         "id": "introduction__ai__urology-ai__1__9otvt5",
         "number": "1",
         "text": "Which of the following best describes the scope of urology as a specialty?",
@@ -3345,7 +3675,7 @@
         "sourceType": "ai"
       }
     ],
-    "totalQuestions": 50,
+    "totalQuestions": 55,
     "totalLectures": 4,
     "hasAiFolder": true
   }
