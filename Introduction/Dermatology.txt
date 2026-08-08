@@ -1,0 +1,100 @@
+Which layer of the epidermis serves as the site of origin for new keratinocytes that subsequently migrate upward through the epidermis?
+A) Stratum basale
+B) Stratum spinosum
+C) Stratum granulosum
+D) Stratum corneum
+E) Papillary dermis
+Correct Answer: A) Stratum basale
+Explanation:
+The stratum basale is the deepest epidermal layer where keratinocytes proliferate before migrating upward through the spinosum, granulosum, and corneum. The other layers represent later stages of keratinocyte maturation, not sites of origin. The papillary dermis is a dermal, not epidermal, structure.
+###
+A 24-year-old presents with a solid, elevated skin lesion measuring 0.4 cm in diameter with no depth into the dermis. What is the most accurate term for this lesion?
+A) Nodule
+B) Papule
+C) Plaque
+D) Macule
+E) Wheal
+Correct Answer: B) Papule
+Explanation:
+A papule is a solid, elevated lesion less than 0.5 cm in diameter. Nodules are larger and extend deeper into the dermis, while plaques exceed 0.5 cm and are typically formed by confluent papules. Macules are flat, not elevated, ruling that option out.
+###
+Allergic contact dermatitis is best classified as which type of hypersensitivity reaction, and which bedside test is used to confirm it?
+A) Type I hypersensitivity; confirmed by prick testing
+B) Type II hypersensitivity; confirmed by skin biopsy
+C) Type IV hypersensitivity; confirmed by patch testing
+D) Type III hypersensitivity; confirmed by Tzanck smear
+E) Type I hypersensitivity; confirmed by Wood's lamp
+Correct Answer: C) Type IV hypersensitivity; confirmed by patch testing
+Explanation:
+Allergic contact dermatitis is a delayed (Type IV) hypersensitivity reaction, confirmed with patch testing where allergens are applied under occlusion for 48 hours and read later. Prick testing instead evaluates immediate (Type I) reactions such as classic allergies, making it inappropriate here.
+###
+A patient has a superficial skin lesion caused by loss of the epidermis only, which is expected to heal without scarring. What is this lesion called?
+A) Ulcer
+B) Fissure
+C) Atrophy
+D) Erosion
+E) Scar
+Correct Answer: D) Erosion
+Explanation:
+Erosion involves loss limited to the epidermis and heals without scarring, whereas an ulcer extends into the dermis and heals with scarring. Fissures are linear cracks rather than areas of tissue loss, and atrophy refers to thinning, not loss, of skin layers.
+###
+A patient with chronic eczema who reports years of persistent scratching now has thickened skin with exaggerated skin markings over the affected area. What secondary skin change does this describe?
+A) Atrophy
+B) Scale
+C) Crust
+D) Scar
+E) Lichenification
+Correct Answer: E) Lichenification
+Explanation:
+Lichenification is thickening of the skin with accentuated markings resulting from chronic rubbing or scratching, classically seen in long-standing eczema. Atrophy describes thinning rather than thickening, making it the opposite finding.
+###
+On Wood's lamp examination in a darkened room, a depigmented patch of skin appears chalky white. This finding is most consistent with which condition?
+A) Vitiligo
+B) Pityriasis alba
+C) Melasma
+D) Tinea capitis
+E) Erythrasma
+Correct Answer: A) Vitiligo
+Explanation:
+Vitiligo, a condition of complete depigmentation, produces a characteristic chalky white fluorescence under Wood's lamp, distinguishing it from hypopigmented conditions like pityriasis alba, which appear pale rather than chalky white. Tinea capitis and erythrasma instead produce green and coral pink fluorescence, respectively, reflecting infectious rather than pigmentary causes.
+###
+Skin scrapings from a scaly plaque are treated with potassium hydroxide to dissolve keratin prior to microscopic examination. This bedside test is primarily used to identify which type of infection?
+A) Bacterial infection
+B) Fungal infection
+C) Viral infection
+D) Parasitic infestation
+E) Mycobacterial infection
+Correct Answer: B) Fungal infection
+Explanation:
+KOH preparation dissolves keratin to allow visualization of fungal hyphae and spores, making it the standard bedside test for suspected fungal infections. Viral infections are instead assessed with a Tzanck smear, which detects multinucleated giant cells rather than fungal elements.
+###
+A flat, circumscribed area of discoloration measuring 0.6 cm in diameter is noted on examination, with no elevation or palpable substance. How should this lesion be classified?
+A) Papule
+B) Vesicle
+C) Macule
+D) Patch
+E) Plaque
+Correct Answer: C) Macule
+Explanation:
+A macule is a flat, circumscribed discoloration less than 1 cm in diameter, fitting this 0.6 cm lesion. A patch describes the same flat morphology but only when greater than 1 cm, while papules and plaques are by definition elevated, not flat.
+###
+What is the wavelength of ultraviolet light emitted by a Wood's lamp used in dermatological examination?
+A) 280 nm (UVB)
+B) 320 nm
+C) 400 nm (visible light)
+D) 365 nm (UVA)
+E) 200 nm (UVC)
+Correct Answer: D) 365 nm (UVA)
+Explanation:
+The Wood's lamp emits UVA light at approximately 365 nm, used to elicit characteristic fluorescence patterns in various infectious and pigmentary skin conditions. UVB and UVC wavelengths are not used for this purpose in standard dermatological bedside testing.
+###
+All of the following fluorescence colors on Wood's lamp examination are correctly matched with their causative condition EXCEPT:
+A) Tinea capitis - green fluorescence
+B) Pityriasis versicolor - golden yellow fluorescence
+C) Erythrasma - coral pink fluorescence
+D) Pseudomonas infection - blue/yellow-green fluorescence
+E) Vitiligo - golden yellow fluorescence
+Correct Answer: E) Vitiligo - golden yellow fluorescence
+Explanation:
+Vitiligo characteristically shows a chalky white appearance under Wood's lamp due to complete depigmentation, not golden yellow fluorescence. Golden yellow fluorescence is instead the classic finding in pityriasis versicolor, an infectious rather than pigmentary condition.
+###
