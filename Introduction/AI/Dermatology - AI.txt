@@ -1,0 +1,149 @@
+A Tzanck smear performed on scrapings from the base of a vesicle reveals multinucleated giant cells. This finding is most consistent with which infection?
+A) Herpes simplex virus infection
+B) Dermatophyte infection
+C) Bacterial folliculitis
+D) Scabies infestation
+E) Pemphigus vulgaris
+Correct Answer: A) Herpes simplex virus infection
+Explanation:
+Multinucleated giant cells on Tzanck smear are the classic finding in herpes simplex and varicella zoster infections. Acantholytic cells, not multinucleated giant cells, are the characteristic finding in pemphigus.
+###
+Which investigation involves introducing allergen into the skin and assessing for a wheal-and-flare reaction within 10-15 minutes?
+A) Patch test
+B) Tzanck smear
+C) Prick test
+D) KOH preparation
+E) Dermoscopy
+Correct Answer: C) Prick test
+Explanation:
+Prick testing evaluates immediate Type I hypersensitivity by introducing allergen into the skin and observing wheal formation within 10-15 minutes. Patch testing instead assesses delayed Type IV reactions over 48 hours.
+###
+Which dermal cell type is primarily responsible for synthesizing collagen, elastin, and other extracellular matrix components?
+A) Mast cells
+B) Langerhans cells
+C) Macrophages
+D) Fibroblasts
+E) Merkel cells
+Correct Answer: D) Fibroblasts
+Explanation:
+Fibroblasts synthesize collagen, elastin, glycosaminoglycans, and other extracellular matrix components that give the dermis its structural support. Mast cells and macrophages instead contribute to inflammatory and immune functions.
+###
+A patient presents with pinpoint, non-blanchable hemorrhagic lesions measuring less than 3 mm in diameter. What is the appropriate term for these lesions?
+A) Purpura
+B) Petechiae
+C) Ecchymosis
+D) Telangiectasia
+E) Burrow
+Correct Answer: B) Petechiae
+Explanation:
+Petechiae are pinpoint, non-blanchable hemorrhages less than 3 mm, often indicating platelet abnormalities or vasculopathy. Purpura and ecchymosis describe larger hemorrhagic lesions, 3-10 mm and greater than 10 mm respectively.
+###
+Which clinical sign, characterized by pinpoint bleeding upon removal of overlying scale, is classically associated with a papulosquamous condition featuring well-defined plaques on extensor surfaces?
+A) Koebner phenomenon
+B) Nikolsky sign
+C) Auspitz sign
+D) Darier sign
+E) Wickham's striae
+Correct Answer: C) Auspitz sign
+Explanation:
+The Auspitz sign, pinpoint bleeding after scale removal, is a special feature of psoriasis, which presents with well-defined, silvery-scaled plaques on extensor surfaces. Wickham's striae instead refer to fine white lines seen in lichen planus.
+###
+Purple, polygonal, pruritic papules and plaques with fine white lines on their surface, commonly affecting the wrists and oral mucosa, are associated with which named surface finding?
+A) Auspitz sign
+B) Koebner phenomenon
+C) Nikolsky sign
+D) Wickham's striae
+E) Collarette scale
+Correct Answer: D) Wickham's striae
+Explanation:
+Wickham's striae are fine white lines seen on the surface of lichen planus papules, a helpful diagnostic feature alongside the classic purple, polygonal, pruritic morphology. The Auspitz sign, by contrast, is specific to psoriasis rather than lichen planus.
+###
+A generalized papulosquamous eruption preceded by a single larger lesion, followed by a distribution along skin lines on the trunk, is most consistent with which condition?
+A) Pityriasis rosea
+B) Psoriasis
+C) Lichen planus
+D) Eczema
+E) Vasculitis
+Correct Answer: A) Pityriasis rosea
+Explanation:
+Pityriasis rosea characteristically begins with a herald patch followed by a generalized eruption oriented along skin lines, producing a "Christmas tree" pattern on the trunk. Psoriasis instead favors extensor surfaces with well-defined, silvery plaques rather than a herald patch.
+###
+A red lesion does not fade when compressed with a glass slide. This negative diascopy result is most consistent with which underlying process?
+A) Vasodilation
+B) Urticaria
+C) Extravasated blood
+D) Reactive erythema
+E) Telangiectasia
+Correct Answer: C) Extravasated blood
+Explanation:
+Non-blanchable redness on diascopy indicates hemorrhage with extravasated blood outside the vasculature, as seen in purpura or petechiae. Blanchable lesions such as urticaria and telangiectasia result from vasodilation rather than hemorrhage.
+###
+Patch testing for suspected allergic contact dermatitis involves applying allergens under occlusion to the skin for how long before the initial reading?
+A) 10 minutes
+B) 24 hours
+C) 12 hours
+D) 48 hours
+E) 1 week
+Correct Answer: D) 48 hours
+Explanation:
+Patch testing requires allergens to remain under occlusion on the skin for 48 hours, with reactions reassessed later at 72-96 hours. This delayed timeline reflects the Type IV hypersensitivity mechanism being tested, unlike the rapid 10-15 minute readout of prick testing.
+###
+Which epidermal layer is composed mainly of lipids and functions as the primary barrier preventing penetration of harmful substances and moisture loss
+A) Stratum corneum
+B) Stratum granulosum
+C) Stratum spinosum
+D) Stratum basale
+E) Papillary dermis
+Correct Answer: A) Stratum corneum
+Explanation:
+The stratum corneum is the outermost, dead, lipid-rich layer that serves as the skin's principal barrier against harmful substances and moisture loss. The stratum basale, by contrast, is the deepest proliferative layer rather than the barrier layer.
+###
+Damage to desmosomal connections between keratinocytes, as seen in pemphigus, results in which histological finding?
+A) Hyperkeratosis
+B) Parakeratosis
+C) Acantholysis
+D) Spongiosis
+E) Dyskeratosis
+Correct Answer: C) Acantholysis
+Explanation:
+Desmosomes maintain keratinocyte adhesion, and their disruption produces acantholysis, the loss of cell-to-cell cohesion characteristic of pemphigus. This differs from hyperkeratosis, which reflects excess stratum corneum thickening rather than loss of adhesion.
+###
+A patient presents with red, non-blanchable, palpable lesions on the legs that are painful and have persisted for several weeks. Which condition is most likely?
+A) Vasculitis
+B) Urticaria
+C) Eczema
+D) Psoriasis
+E) Lichen planus
+Correct Answer: A) Vasculitis
+Explanation:
+Vasculitis classically presents as palpable, non-blanchable purpura on the legs, often painful and persisting for weeks, reflecting a hemorrhagic rather than vasodilatory process. Urticaria, in contrast, is blanchable and transient, resolving within hours.
+###
+A skin defect extending through the epidermis and into at least part of the dermis, expected to heal with scar formation, is best classified as which lesion?
+A) Erosion
+B) Fissure
+C) Atrophy
+D) Ulcer
+E) Excoriation
+Correct Answer: D) Ulcer
+Explanation:
+An ulcer involves loss of epidermis and at least part of the dermis, and therefore heals with scarring. An erosion is limited to the epidermis alone and heals without scarring, distinguishing it from an ulcer.
+###
+Which feature most reliably distinguishes eczema from psoriasis on clinical examination?
+A) Presence of scale
+B) Symmetrical distribution
+C) Ill-defined margins versus well-defined margins
+D) Pruritus
+E) Erythema
+Correct Answer: C) Ill-defined margins versus well-defined margins
+Explanation:
+Eczema classically has ill-defined margins, whereas psoriasis presents with sharply well-defined plaque margins, making margin definition a key distinguishing feature. Scale, erythema, and pruritus can occur in both conditions and are therefore less discriminating.
+###
+Linear, curvilinear tracks in the epidermis produced by a burrowing organism are known as which special skin lesion, and are diagnostic of which condition?
+A) Fissure; tinea pedis
+B) Telangiectasia; rosacea
+C) Burrow; scabies
+D) Comedone; acne
+E) Excoriation; eczema
+Correct Answer: C) Burrow; scabies
+Explanation:
+Burrows are linear or curvilinear tracts created by burrowing mites and are diagnostic for scabies infestation. Fissures, by contrast, are linear cracks caused by mechanical splitting rather than parasitic burrowing.
