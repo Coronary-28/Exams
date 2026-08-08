@@ -1,0 +1,135 @@
+A patient with a new complaint visits her family physician first, who then decides whether specialist referral or hospital admission is needed. This reflects which core principle of Family Medicine?
+A) Continuity of Care
+B) Comprehensive Care
+C) Coordination of Care
+D) First Contact Care
+E) Community-Oriented Care
+Correct Answer: D) First Contact Care
+Explanation: First Contact Care means the family physician is typically the initial point of entry into the healthcare system, deciding whether further specialist or hospital care is needed. Continuity, comprehensiveness, and coordination describe ongoing or multi-domain aspects of care rather than this initial gatekeeping role.
+###
+A physician who has followed the same patient for eight years, reviewing his blood pressure, HbA1c, and personal circumstances at each visit, best demonstrates which principle?
+A) Comprehensive Care
+B) Continuity of Care
+C) Coordination of Care
+D) Patient-Centered Care
+E) First Contact Care
+Correct Answer: B) Continuity of Care
+Explanation: Continuity of Care refers to a physician remaining consistently involved with a patient over time, building a longitudinal understanding of their condition and life circumstances. While comprehensive and patient-centered care are also relevant to good practice, the defining feature here is the long-term, ongoing relationship.
+###
+A physician evaluating a patient's knee pain who also reviews her hypertension, vaccination status, and screens for depression is demonstrating which principle?
+A) Coordination of Care
+B) Continuity of Care
+C) Comprehensive Care
+D) Community-Oriented Care
+E) Family-Oriented Care
+Correct Answer: C) Comprehensive Care
+Explanation: Comprehensive Care means addressing all aspects of a patient's health during a single encounter, not just the presenting complaint. Coordination instead refers to organizing care between multiple providers, which is not the focus of this scenario.
+###
+A physician who reviews a hospital discharge summary, reconciles medications, and arranges follow-up with a cardiologist and endocrinologist is demonstrating which principle?
+A) Comprehensive Care
+B) Coordination of Care
+C) Continuity of Care
+D) First Contact Care
+E) Patient-Centered Care
+Correct Answer: B) Coordination of Care
+Explanation: Coordination of Care involves organizing a patient's treatment and follow-up across multiple specialists and care settings, as shown by reconciling medications and arranging specialist follow-up. Comprehensive care instead refers to addressing multiple health domains within one visit, not coordinating between providers.
+###
+Which statement best reflects the concept of patient-centered care as emphasized by Sir William Osler?
+A) The great physician treats the disease rather than the patient who has it
+B) The good physician treats the disease, the great physician treats the patient who has the disease
+C) The great physician treats only patients who actively request treatment
+D) The good physician treats the patient's family rather than the patient
+E) The great physician avoids exploring the patient's personal ideas and concerns
+Correct Answer: B) The good physician treats the disease, the great physician treats the patient who has the disease
+Explanation: Osler's quote captures the essence of patient-centered care, distinguishing a good physician who focuses only on disease from a great physician who focuses on the whole patient. The other options invert or distort this principle.
+###
+A government imposes a tax on sugar-sweetened beverages to reduce future population-wide obesity risk before individuals develop unhealthy habits. This represents which level of prevention?
+A) Primary prevention, since it targets an existing risk factor
+B) Secondary prevention, since it detects disease early
+C) Primordial prevention, since it prevents the emergence of risk factors themselves
+D) Tertiary prevention, since it reduces complications of established disease
+E) Quaternary prevention, since it avoids unnecessary medical intervention
+Correct Answer: C) Primordial prevention, since it prevents the emergence of risk factors themselves
+Explanation: Primordial prevention aims to prevent risk factors from emerging in the first place by shaping healthy social and environmental conditions, such as taxing sugary drinks before unhealthy habits develop. This differs from primary prevention, which controls or eliminates risk factors that already exist.
+###
+A physician avoids ordering a routine chest x-ray for a patient with a self-limited viral upper respiratory infection, recognizing that further imaging would not change management. This reflects which level of prevention?
+A) Primary prevention
+B) Secondary prevention
+C) Tertiary prevention
+D) Quaternary prevention
+E) Primordial prevention
+Correct Answer: D) Quaternary prevention
+Explanation: Quaternary prevention involves protecting patients from unnecessary or potentially harmful medical interventions, such as avoiding routine imaging that offers no clinical benefit. This is distinct from primary, secondary, and tertiary prevention, which involve actively intervening on risk factors, disease detection, or complications.
+###
+A 58-year-old man with long-standing type 2 diabetes undergoes an annual retinal examination and foot examination to detect early complications, while his physician also counsels him on medication adherence. Which level of prevention does this scenario best represent?
+A) Primary prevention only, since it addresses an existing risk factor
+B) Secondary prevention only, since retinal screening detects asymptomatic disease
+C) Tertiary prevention, since it aims to prevent complications in a patient with established disease
+D) Primordial prevention, since it targets social conditions before disease onset
+E) Quaternary prevention, since it avoids unnecessary intervention
+Correct Answer: C) Tertiary prevention, since it aims to prevent complications in a patient with established disease
+Explanation: Because the patient already has established diabetes, screening for complications such as retinopathy and counseling on adherence falls under tertiary prevention, which aims to reduce complications and disability in patients with existing disease. This is a common exam trap, since annual retinal screening superficially resembles secondary prevention, but the key distinction is that the underlying disease is already present.
+###
+According to the biopsychosocial model applied in Family Medicine, which combination of domains must a family physician integrate during every consultation?
+A) Biological, pharmacological, and surgical factors
+B) Biological, psychological, and sociological factors
+C) Psychological, radiological, and epidemiological factors
+D) Biological, environmental, and economic factors only
+E) Sociological and biological factors only, excluding psychological factors
+Correct Answer: B) Biological, psychological, and sociological factors
+Explanation: The biopsychosocial model requires family physicians to integrate biological, psychological, and sociological dimensions of a patient's health during every consultation. The distractors substitute unrelated domains or omit one of the three core components.
+###
+A 62-year-old woman with symptomatic gallstones is informed of the risks and benefits of laparoscopic cholecystectomy by her surgeon. She states she understands the recommendation but declines surgery. The physician documents the discussion, ensures she understands the consequences, and respects her decision while discussing alternative management. Which two ethical principles are most directly demonstrated together in this scenario?
+A) Justice and Beneficence
+B) Autonomy and Informed Consent
+C) Confidentiality and Veracity
+D) Nonmaleficence and Justice
+E) Beneficence and Confidentiality
+Correct Answer: B) Autonomy and Informed Consent
+Explanation: This scenario demonstrates autonomy through informed refusal, where the patient understands the consequences of declining treatment and the physician documents this understanding as part of informed consent. Justice, confidentiality, and beneficence are not the central principles being tested here, since the scenario centers on the patient's right to make an informed decision about her own care.
+###
+A 68-year-old man is newly diagnosed with colon cancer after biopsy. He asks his family physician direct questions about his prognosis. The physician answers honestly and compassionately rather than withholding or softening the diagnosis. Which ethical principle is being demonstrated?
+A) Autonomy
+B) Beneficence
+C) Veracity
+D) Justice
+E) Confidentiality
+Correct Answer: C) Veracity
+Explanation:
+Veracity refers to the physician's duty to tell the patient the truth about their diagnosis and prognosis, even when the news is difficult. Autonomy concerns respecting the patient's right to decide, and confidentiality concerns protecting information, neither of which is the focus here.
+###
+A 66-year-old man with established chronic obstructive pulmonary disease (COPD) is enrolled in a pulmonary rehabilitation program and counseled on smoking cessation to slow disease progression and prevent further decline. Which level of prevention does this represent?
+A) Primary prevention
+B) Secondary prevention
+C) Tertiary prevention
+D) Quaternary prevention
+E) Primordial prevention
+Correct Answer: C) Tertiary prevention
+Explanation: Because the patient already has established COPD, smoking cessation and rehabilitation here aim to reduce complications and disability rather than prevent disease onset, making this tertiary prevention. This differs from primary prevention, where smoking cessation would be used to prevent COPD from developing in the first place.
+###
+Which of the following is NOT one of the "4 Cs" core principles of Family Medicine?
+A) First Contact Care
+B) Continuity of Care
+C) Comprehensive Care
+D) Coordination of Care
+E) Patient-Centered Care
+Correct Answer: E) Patient-Centered Care
+Explanation: The "4 Cs" are First Contact, Continuity, Comprehensive, and Coordination of Care, which distinguish Family Medicine from hospital-based specialties. Patient-centered care is an important additional principle in Family Medicine but is not one of the original 4 Cs.
+###
+A hospital has only one dialysis slot available for multiple patients in need. The care team prioritizes patients using transparent, objective medical criteria rather than social status, connections, or ability to pay. Which ethical principle is most directly demonstrated?
+A) Beneficence
+B) Autonomy
+C) Veracity
+D) Justice
+E) Nonmaleficence
+Correct Answer: D) Justice
+Explanation: Justice requires fair and equitable distribution of limited healthcare resources based on objective medical criteria rather than social or financial factors. Beneficence and nonmaleficence relate to benefiting or not harming an individual patient, not to fair allocation across multiple patients.
+###
+A patient living in a remote village is able to reach basic family medicine services without excessive travel or cost, as the clinic was deliberately placed within reasonable geographic reach of the local population. Which essential attribute of primary care does this best illustrate?
+A) Comprehensive
+B) Coordinated
+C) Accessible
+D) Accountable
+E) Continuous
+Correct Answer: C) Accessible
+Explanation: Accessibility refers to primary care being geographically reachable so that patients, including those in remote areas, can obtain care without excessive burden. Comprehensiveness instead refers to the breadth of services offered, not geographic reach.
