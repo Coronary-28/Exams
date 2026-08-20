@@ -96,6 +96,7 @@ D) Peripheral air bronchograms
 Correct Answer: B) Peripheral radiolucency
 Explanation:
 Free air in the pleural space contains no vessels, so it appears radiolucent peripheral to the visceral pleural line. The other options belong to different pathologies (opacification/consolidation, blunting/effusion, air bronchograms/consolidation) and are not features of pneumothorax.
+Coronary - 5 Mid
 ###
 Which sign on barium enema is classically associated with colorectal carcinoma? [img: apple.png ]
 A) Apple core sign
@@ -105,6 +106,7 @@ D) Thumbprinting
 Correct Answer: A) Apple core sign
 Explanation:
 The apple core sign reflects eccentric luminal narrowing caused by tumor infiltration of the colon wall, classically seen in colorectal carcinoma. String sign is associated with Crohn's disease, while lead-pipe and thumbprinting relate to ulcerative colitis and ischemic/edematous colitis, not colon cancer.
+Coronary - 5 Mid
 ###
 Which radiological finding characterizes pleural effusion on a chest radiograph? [img: costophrenic.png]
 A) Kerley B lines
@@ -113,6 +115,7 @@ C) Hyperlucency
 D) Tracheal deviation toward lesion
 Correct Answer: B) Blunting costophrenic angle
 Explanation: Fluid accumulation in the dependent pleural space obliterates the normally sharp costophrenic angle. Kerley B lines relate to interstitial edema, hyperlucency to pneumothorax, and tracheal deviation toward the lesion occurs in collapse, not effusion.
+Coronary - 5 Mid
 ###
 Which of the following imaging modalities does NOT use ionizing radiation?
 A) CT scan
@@ -121,6 +124,7 @@ C) MRI
 D) Fluoroscopy
 Correct Answer: C) MRI
 Explanation: MRI relies on a powerful magnetic field rather than ionizing radiation. CT, X-ray, and fluoroscopy all use x-rays, which are a form of ionizing radiation.
+Coronary - 5 Mid
 ###
 Finding differentiating pulmonary consolidation from collapse:
 A) Displacement of a fissure towards the opacity
@@ -130,3 +134,4 @@ D) Presence of air bronchograms
 Correct Answer: D) Presence of air bronchograms
 Explanation:
 Air bronchograms indicate consolidation, where airways remain open amidst fluid-filled alveoli. Conversely, options A, B, and C are hallmark radiological signs of lung collapse caused by loss of air volume pulling surrounding structures.
+Coronary - 5 Mid
