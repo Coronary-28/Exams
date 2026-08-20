@@ -632,7 +632,7 @@
             "isMultiple": false,
             "correctAnswerLetter": "A",
             "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
-            "batchName": "Coronary - 5",
+            "batchName": "Coronary - 5 mid",
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
@@ -4680,38 +4680,6 @@
             "originalSourceType": "lecture"
           },
           {
-            "id": "introduction__lecture__ent__9__o2wboq",
-            "number": "9",
-            "text": "Most common source of epistaxis:",
-            "options": [
-              "Kiesselbach's plexus",
-              "Sphenopalatine artery",
-              "Anterior ethmoidal artery",
-              "Greater palatine artery"
-            ],
-            "originalOptions": [
-              "Kiesselbach's plexus",
-              "Sphenopalatine artery",
-              "Anterior ethmoidal artery",
-              "Greater palatine artery"
-            ],
-            "correctAnswer": "A) Kiesselbach's plexus",
-            "correctAnswerText": "Kiesselbach's plexus",
-            "correctIndex": 0,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "A",
-            "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
-            "batchName": "Coronary - 5",
-            "pageNumber": "",
-            "subjectName": "Introduction",
-            "subjectId": "introduction",
-            "lectureName": "ENT",
-            "groupName": "ENT",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          },
-          {
             "id": "introduction__lecture__forensic__7__q5au9q",
             "number": "7",
             "text": "Which of the following is NOT a cause of an incisional wound?",
@@ -5002,6 +4970,46 @@
             "subjectId": "introduction",
             "lectureName": "Ophthalmology",
             "groupName": "Ophthalmology",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          }
+        ]
+      },
+      {
+        "id": "introduction__year__coronary-5-mid",
+        "name": "Coronary - 5 mid",
+        "type": "year",
+        "subjectName": "Introduction",
+        "questions": [
+          {
+            "id": "introduction__lecture__ent__9__o2wboq",
+            "number": "9",
+            "text": "Most common source of epistaxis:",
+            "options": [
+              "Kiesselbach's plexus",
+              "Sphenopalatine artery",
+              "Anterior ethmoidal artery",
+              "Greater palatine artery"
+            ],
+            "originalOptions": [
+              "Kiesselbach's plexus",
+              "Sphenopalatine artery",
+              "Anterior ethmoidal artery",
+              "Greater palatine artery"
+            ],
+            "correctAnswer": "A) Kiesselbach's plexus",
+            "correctAnswerText": "Kiesselbach's plexus",
+            "correctIndex": 0,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "A",
+            "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
+            "batchName": "Coronary - 5 mid",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -5622,7 +5630,7 @@
         "isMultiple": false,
         "correctAnswerLetter": "A",
         "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is the most common site of epistaxis due to its rich, superficial vascular anastomosis. The other arteries contribute to this plexus or supply posterior/other regions but are not individually the most common source.",
-        "batchName": "Coronary - 5",
+        "batchName": "Coronary - 5 mid",
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
@@ -9446,7 +9454,7 @@
       }
     ],
     "totalQuestions": 135,
-    "totalLectures": 12,
+    "totalLectures": 13,
     "hasAiFolder": true
   }
 ]
