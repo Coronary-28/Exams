@@ -570,7 +570,7 @@
             "isMultiple": false,
             "correctAnswerLetter": "D",
             "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
-            "batchName": "Coronary - 5 mid",
+            "batchName": "Coronary - 5 Mid",
             "pageNumber": "",
             "subjectName": "Introduction",
             "subjectId": "introduction",
@@ -5077,6 +5077,38 @@
             "originalSourceType": "lecture"
           },
           {
+            "id": "introduction__lecture__ent__7__qx4ncy",
+            "number": "7",
+            "text": "Which of the following is NOT a cause of referred ear pain (otalgia)?",
+            "options": [
+              "Dental infection",
+              "Temporomandibular joint dysfunction",
+              "Tonsillitis",
+              "Scalp lipoma"
+            ],
+            "originalOptions": [
+              "Dental infection",
+              "Temporomandibular joint dysfunction",
+              "Tonsillitis",
+              "Scalp lipoma"
+            ],
+            "correctAnswer": "D) Scalp lipoma",
+            "correctAnswerText": "Scalp lipoma",
+            "correctIndex": 3,
+            "correctIndices": [],
+            "isMultiple": false,
+            "correctAnswerLetter": "D",
+            "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
+            "batchName": "Coronary - 5 Mid",
+            "pageNumber": "",
+            "subjectName": "Introduction",
+            "subjectId": "introduction",
+            "lectureName": "ENT",
+            "groupName": "ENT",
+            "sourceType": "year",
+            "originalSourceType": "lecture"
+          },
+          {
             "id": "introduction__lecture__ent__8__jernhl",
             "number": "8",
             "text": "A heavy smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next investigation?",
@@ -5623,46 +5655,6 @@
             "subjectId": "introduction",
             "lectureName": "Radiology",
             "groupName": "Radiology",
-            "sourceType": "year",
-            "originalSourceType": "lecture"
-          }
-        ]
-      },
-      {
-        "id": "introduction__year__coronary-5-mid",
-        "name": "Coronary - 5 mid",
-        "type": "year",
-        "subjectName": "Introduction",
-        "questions": [
-          {
-            "id": "introduction__lecture__ent__7__qx4ncy",
-            "number": "7",
-            "text": "Which of the following is NOT a cause of referred ear pain (otalgia)?",
-            "options": [
-              "Dental infection",
-              "Temporomandibular joint dysfunction",
-              "Tonsillitis",
-              "Scalp lipoma"
-            ],
-            "originalOptions": [
-              "Dental infection",
-              "Temporomandibular joint dysfunction",
-              "Tonsillitis",
-              "Scalp lipoma"
-            ],
-            "correctAnswer": "D) Scalp lipoma",
-            "correctAnswerText": "Scalp lipoma",
-            "correctIndex": 3,
-            "correctIndices": [],
-            "isMultiple": false,
-            "correctAnswerLetter": "D",
-            "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
-            "batchName": "Coronary - 5 mid",
-            "pageNumber": "",
-            "subjectName": "Introduction",
-            "subjectId": "introduction",
-            "lectureName": "ENT",
-            "groupName": "ENT",
             "sourceType": "year",
             "originalSourceType": "lecture"
           }
@@ -6221,7 +6213,7 @@
         "isMultiple": false,
         "correctAnswerLetter": "D",
         "explanation": "Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.",
-        "batchName": "Coronary - 5 mid",
+        "batchName": "Coronary - 5 Mid",
         "pageNumber": "",
         "subjectName": "Introduction",
         "subjectId": "introduction",
@@ -10559,7 +10551,7 @@
       }
     ],
     "totalQuestions": 149,
-    "totalLectures": 14,
+    "totalLectures": 13,
     "hasAiFolder": true
   }
 ]
