@@ -127,3 +127,4 @@ Correct Answer: B) Photophobia
 Explanation:
 Photophobia suggests corneal or intraocular involvement (e.g., keratitis, uveitis), making it a red flag symptom. Watery discharge and itching point to allergic/viral conjunctivitis, and foreign body sensation is less specific for serious pathology.
 Coronary
+###
