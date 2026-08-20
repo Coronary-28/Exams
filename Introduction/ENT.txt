@@ -17,7 +17,7 @@ E) Left sensorineural hearing loss
 Correct Answer: A) Right conductive hearing loss
 Explanation:
 A negative Rinne test (bone conduction > air conduction) on the right ear indicates a conductive problem in that ear, and Weber lateralizing to the same (right) ear confirms this, since sound lateralizes toward the affected ear in conductive hearing loss. In sensorineural loss, Rinne would remain positive (air > bone) and Weber would lateralize to the opposite, better-hearing ear.
-Coronary - 5
+Coronary - 5 mid
 ###
 What tuning fork frequency is used for hearing tests?
 A) 128 Hz
@@ -38,7 +38,7 @@ E) Thyroglossal cyst
 Correct Answer: E) Thyroglossal cyst
 Explanation:
 A thyroglossal cyst is a midline neck lump that characteristically moves upward on tongue protrusion due to its embryological connection to the foramen cecum. Thyroid isthmus swelling moves with swallowing but not tongue protrusion, dermoid cysts are non-tender and mobile without this movement, and branchial cysts are lateral, not midline.
-Coronary - 5
+Coronary - 5 mid
 ###
 A 55-year-old male smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next step in management?
 A) Reassure and review in 3 months
@@ -68,7 +68,7 @@ D) Scalp lipoma
 Correct Answer: D) Scalp lipoma
 Explanation:
 Dental disease, TMJ dysfunction, and tonsillitis are all listed causes of referred (non-otological) ear pain. A scalp lipoma is a painless subcutaneous lump, not a source of referred otalgia.
-Coronary - 5
+Coronary - 5 mid
 ###
 A heavy smoker presents with hoarseness of voice persisting for 3 weeks. What is the most appropriate next investigation?
 A) Steroids
@@ -78,7 +78,7 @@ D) Chest X-ray
 Correct Answer: C) Laryngoscopy
 Explanation:
 Any smoker with hoarseness >3 weeks needs urgent fiberoptic laryngoscopy to rule out laryngeal tumor. Steroids, voice rest, or chest X-ray do not directly visualize the vocal cords and would delay this needed evaluation.
-Coronary - 5
+Coronary - 5 mid
 ###
 Most common source of epistaxis:
 A) Kiesselbach's plexus
