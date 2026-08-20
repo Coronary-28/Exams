@@ -67,7 +67,7 @@ E) Glass splinter
 Correct Answer: D) Rock
 Explanation:
 Incisions/cut wounds are caused by a clean, sharp-edged object such as a knife, razor, or glass splinter/broken glass. A rock is a blunt object, so injury from it produces a laceration (irregular tear-like wound), not an incision — making it the exception among the choices.
-Coronary - 5
+Coronary - 5 Mid
 ###
 The mechanism of rigor mortis involves decreased ATP leading to which direct biochemical event in muscle cells?
 A) Depolymerization of actin filaments
@@ -88,7 +88,7 @@ E) Occlusion of the respiratory passages from inside
 Correct Answer: C) Closure of the nostrils and mouth at the same time from outside
 Explanation:
 Smothering occurs at the level of the mouth and nose, involving external closure of both openings simultaneously, and is mostly suicidal though it can be homicidal. This differs from gagging, which produces a similar effect but from inside the mouth (e.g., a cloth pushed into the mouth and pharynx).
-Coronary - 5
+Coronary - 5 Mid
 ###
 A wound characterized by irregular, tear-like edges caused by blunt trauma is best classified as which type of injury?
 A) Incision
@@ -109,7 +109,7 @@ E) The time elapsed since cardiac arrest
 Correct Answer: C) The chemical state of hemoglobin molecules
 Explanation:
 Postmortem hypostasis color depends on the chemical state of hemoglobin (e.g., carboxyhemoglobin, methemoglobin), which is why, for example, carbon monoxide poisoning classically produces a pink or light red discoloration rather than the usual bluish-purple color. This makes hypostasis color a useful clue for suspecting certain causes of death, such as CO poisoning.
-Coronary - 5
+Coronary - 5 Mid
 ###
 Severity of rigor mortis is measured by:
 A) Calcium concentration
@@ -119,7 +119,7 @@ D) Muscle fiber type
 Correct Answer: B) ATP depletion
 Explanation:
 Rigor mortis develops due to falling ATP levels, causing actin and myosin to bind into a stiff gel.
-Coronary - 5
+Coronary - 5 Mid
 ###
 A wound that contains uneven, jagged edges is classified as:
 A) Incised wound
@@ -129,4 +129,4 @@ D) Lacerated wound
 Correct Answer: D) Lacerated wound
 Explanation:
 Lacerations are irregular, tear-like wounds from blunt trauma, unlike the regular, clean edges of incised wounds. Abrasions only involve superficial skin scraping, not edge irregularity, and puncture wounds weren't described this way in the lecture.
-Coronary - mid
+Coronary - 5 Mid
