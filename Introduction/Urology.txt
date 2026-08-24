@@ -69,3 +69,202 @@ Correct Answer: B) Ureteral spasm or obstruction
 Explanation:
 Ureteral colic results from acute obstruction causing distension and spasm of the ureteral wall proximal to the stone, producing fluctuating, colicky pain. This differs from steady inflammatory pain, which is caused by capsular distension rather than obstruction.
 ###
+All of the following are irritative symptoms EXCEPT:
+A) Frequency
+B) Urgency
+C) Intermittency
+D) Nocturia
+Correct Answer: C) Intermittency
+Explanation:
+Irritative (storage) symptoms include frequency, urgency, and nocturia, reflecting bladder storage dysfunction. Intermittency is an obstructive (voiding) symptom, not irritative.
+Coronary - 5 Final
+###
+All of the following are related to post-voiding micturition EXCEPT:
+A) Postvoid dribbling
+B) Incomplete emptying
+C) Straining
+D) Nocturia
+Correct Answer: D) Nocturia
+Explanation:
+Postvoid dribbling, incomplete emptying, and straining occur during or right after voiding as obstructive symptoms. Nocturia is a storage/irritative symptom unrelated to the voiding phase itself.
+Coronary - 5 Final
+###
+All of the following are signs and symptoms of testicular torsion EXCEPT:
+A) Prehn's sign
+B) Absent cremasteric reflex
+C) High-riding testis
+D) Transverse lie
+Correct Answer: A) Prehn's sign
+Explanation:
+A positive Prehn's sign (pain relief with testicular elevation) is characteristic of epididymitis, not torsion. Absent cremasteric reflex, high-riding testis, and transverse lie are classic torsion findings.
+Coronary - 5 Final
+###
+Which of the following is a sign/symptom of testicular torsion?
+A) Gradual onset of pain
+B) Sudden severe unilateral scrotal pain
+C) "Bag of worms" on palpation
+D) Dysuria and frequency
+Correct Answer: B) Sudden severe unilateral scrotal pain
+Explanation:
+Testicular torsion classically presents with sudden, severe, unilateral scrotal pain, often with nausea and vomiting — a time-sensitive emergency. Gradual pain and dysuria suggest epididymo-orchitis, while "bag of worms" describes varicocele.
+Coronary - 5 Final
+###
+All of the following statements are correct regarding the Digital Rectal Examination (DRE) EXCEPT:
+A) It is performed at the very end of the clinical examination
+B) The patient is in lithotomy position with legs apart
+C) The prostate feels smooth and symmetrical in prostate cancer
+D) The prostate feels rough, hard, and asymmetrical in prostate cancer
+Correct Answer: C) The prostate feels smooth and symmetrical in prostate cancer
+Explanation:
+Prostate cancer classically presents on DRE as a hard, irregular, asymmetrical nodule with loss of the midline sulcus — not a smooth, symmetrical gland. DRE is done at the end of examination, typically in left lateral decubitus (not lithotomy) per the lecture.
+Coronary - 5 Final
+###
+A patient presents with hematuria that appears only at the end of urination. Where is the most likely site of the pathology?
+A) Urethra
+B) Bladder and upper urinary tract
+C) Kidney
+D) Bladder neck or prostatic urethra
+Correct Answer: D) Bladder neck or prostatic urethra
+Explanation:
+Terminal hematuria (blood at the end of urination) localizes to the bladder neck or prostatic urethra. Initial hematuria points to the urethra, while total hematuria suggests bladder or upper tract origin.
+Coronary - 5 Final
+###
+A patient presents with flank pain and costovertebral angle tenderness. What is the most likely diagnosis?
+A) Acute pyelonephritis
+B) Renal colic
+C) Cystitis
+D) Testicular torsion
+Correct Answer: A) Acute pyelonephritis
+Explanation:
+Costovertebral angle tenderness on percussion is a classic sign of pyelonephritis, reflecting renal capsule inflammation. Renal colic from stones causes fluctuating pain but not typically true CVA tenderness of infection.
+Coronary - 5 Final
+###
+Which of the following is WRONG regarding scrotal examination?
+A) Varicocele feels like a "bag of worms"
+B) Hydrocele is described as a "bag of worms"
+C) Hydrocele transilluminates
+D) Testicular tumor feels firm and hard
+Correct Answer: B) Hydrocele is described as a "bag of worms"
+Explanation:
+The "bag of worms" description applies to varicocele, caused by dilated pampiniform plexus veins, not hydrocele. Hydrocele is a fluid collection that classically transilluminates.
+Coronary - 5 Final
+###
+A patient presents with severe flank pain that radiates to the groin. What is the most likely diagnosis?
+A) Acute pyelonephritis
+B) Testicular torsion
+C) Renal colic
+D) Cystitis
+Correct Answer: C) Renal colic
+Explanation:
+Renal colic from ureteral stones causes severe, colicky flank pain radiating toward the groin as the stone travels distally along the ureter. Pyelonephritis pain is typically steady, not colicky.
+Coronary - 5 Final
+###
+Which of the following questions should be asked in a patient presenting with hematuria?
+A) Is there pain associated with the hematuria?
+B) Is there a history of dysuria, frequency, or urgency?
+C) Is there a history of smoking or occupational exposure?
+D) Is there a history of trauma or recent instrumentation?
+E) All of the above
+Correct Answer: E) All of the above
+Explanation:
+A thorough hematuria history should assess pain, associated LUTS, and risk factors such as smoking, occupational carcinogen exposure, and recent trauma or instrumentation. Each of these helps localize the cause and assess malignancy risk.
+###
+What is the normal capacity of the adult urinary bladder?
+A) 400–600 mL
+B) 100–200 mL
+C) 200–300 mL
+D) 800–1000 mL
+Correct Answer: A) 400–600 mL
+Explanation:
+The adult bladder normally holds about 400–600 mL of urine. Smaller volumes are subthreshold for the urge to void, while larger volumes exceed normal physiological capacity.
+Coronary - 5 Final
+###
+Which of the following can be detected by urinary sediment analysis?
+A) Bilirubin
+B) Red blood cells
+C) Ketones
+D) Glucose
+Correct Answer: B) Red blood cells
+Explanation:
+Microscopic sediment analysis identifies formed elements such as RBCs, WBCs, epithelial cells, casts, and crystals. Bilirubin, ketones, and glucose are detected chemically on dipstick, not by sediment microscopy.
+Coronary - 5 Final
+###
+Which of the following is a common symptom of lower urinary tract symptoms (LUTS)?
+A) Hemoptysis
+B) Jaundice
+C) Frequency
+D) Dysphagia
+Correct Answer: C) Frequency
+Explanation:
+Frequency is the most common urological symptom and a core component of LUTS, reflecting either polyuria or reduced bladder capacity. The other options belong to respiratory, hepatic, and GI systems respectively.
+Coronary - 5 Final
+###
+On digital rectal examination, which finding is suspicious for prostate cancer?
+A) Smooth, soft prostate
+B) Symmetrically enlarged prostate
+C) Tender prostate only
+D) Hard, irregular mass
+Correct Answer: D) Hard, irregular mass
+Explanation:
+A hard, irregular, asymmetrical mass with loss of the midline sulcus on DRE is suspicious for prostate cancer. A smooth, symmetrically enlarged gland is more typical of BPH, and tenderness alone suggests prostatitis.
+Coronary - 5 Final
+###
+Initial hematuria, in which blood is present only at the beginning of urination, most commonly suggests a lesion in the:
+A) Urethra
+B) Kidney
+C) Ureter
+D) Bladder
+Correct Answer: A) Urethra
+Explanation:
+Initial hematuria (blood at the start of voiding that then clears) localizes to the urethra. Total hematuria throughout the stream suggests bladder or upper tract origin.
+Coronary - 5 Final
+###
+The upper urinary tract consists of the:
+A) Bladder and urethra
+B) Kidney and ureter
+C) Prostate and bladder
+D) Urethra and ureter
+Correct Answer: B) Kidney and ureter
+Explanation:
+The urinary tract is divided into upper (kidneys and ureters) and lower (bladder, urethra, and prostate in males) segments. This anatomical division helps localize symptoms and pathology.
+Coronary - 5 Final
+###
+Which of the following is NOT a physiological narrowing of the ureter?
+A) Ureteropelvic junction
+B) Crossing of the iliac vessels
+C) Renal calyx
+D) Ureterovesical junction
+Correct Answer: C) Renal calyx
+Explanation:
+The three physiological ureteral narrowings are the ureteropelvic junction (PUJ), the crossing of the iliac vessels, and the ureterovesical junction (VUJ) — common sites for stone impaction. The renal calyx is not one of these constriction sites.
+Coronary - 5 Final
+###
+The functional unit of the kidney is the:
+A) Glomerulus
+B) Renal pelvis
+C) Collecting duct
+D) Nephron
+Correct Answer: D) Nephron
+Explanation:
+The nephron is the functional unit of the kidney, with each kidney containing about one million nephrons responsible for filtration and urine formation. The glomerulus and collecting duct are components of the nephron/collecting system, not the functional unit itself.
+Coronary - 5 Final
+###
+The external urethral sphincter is composed mainly of:
+A) Striated voluntary muscle
+B) Smooth involuntary muscle
+C) Cardiac muscle
+D) Elastic tissue
+Correct Answer: A) Striated voluntary muscle
+Explanation:
+The external sphincter is striated muscle under voluntary control, innervated by the pudendal nerve. The internal sphincter, in contrast, is smooth muscle under involuntary sympathetic control.
+Coronary - 5 Final
+###
+Urology is the medical specialty concerned primarily with diseases of the:
+A) Female reproductive system only
+B) Urinary system and male genital system
+C) Gastrointestinal system
+D) Endocrine system
+Correct Answer: B) Urinary system and male genital system
+Explanation:
+Urology is the surgical specialty dealing with the urinary tract (in both sexes) and the male genital tract, involving both medical and surgical management. It is distinct from nephrology, which manages medical kidney diseases.
+Coronary - 5 Final
