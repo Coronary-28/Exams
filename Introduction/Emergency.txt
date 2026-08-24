@@ -107,6 +107,7 @@ E) Paternalism
 Correct Answer: B) Autonomy
 Explanation:
 Autonomy is the ethical principle granting a competent patient the right to accept or refuse medical treatment, even if that refusal may lead to a poor outcome. The physician must honor this right as long as the patient has intact decision-making capacity.
+Coronary - 5 Final
 ###
 A physician fully and honestly discloses a patient's diagnosis and prognosis to them, even when the news is difficult. This practice of truth-telling is grounded in which ethical principle?
 A) Beneficence
@@ -177,3 +178,163 @@ E) Sedate the brother to de-escalate the situation
 Correct Answer: D) Leave the room if your safety is at risk, and call security
 Explanation:
 Physician and staff safety take priority when a situation becomes aggressive or threatening. If safety is at risk, the appropriate action is to remove yourself from the room and call security rather than attempting to manage the aggression alone.
+###
+What is the appropriate management for a patient in a "cannot intubate, cannot oxygenate" (CICO) situation?
+A) Endotracheal intubation reattempt
+B) Bag-valve-mask ventilation
+C) Emergency cricothyrotomy
+D) Nasotracheal intubation
+Correct Answer: C) Emergency cricothyrotomy
+Explanation:
+When intubation fails and the patient cannot be oxygenated by any other means, a surgical airway (cricothyrotomy) is the definitive life-saving intervention, bypassing the upper airway obstruction directly through the neck.
+Coronary - 5 Final
+###
+Which term describes the situation in which healthcare providers know the right ethical care to give, but systemic constraints such as overcrowding and insurance barriers make it impossible to deliver?
+A) Physical exhaustion from long shifts
+B) Burnout due to excessive patient volume alone
+C) Compassion fatigue from repeated trauma exposure
+D) Moral injury
+Correct Answer: D) Moral injury
+Explanation:
+Moral injury occurs when a provider understands what ethically correct care looks like but is prevented from delivering it by external systemic barriers, distinct from general burnout or compassion fatigue, which stem from workload and emotional exhaustion rather than blocked ethical action.
+Coronary - 5 Final
+###
+Which of the following are considered elements of informed consent?
+A) Diagnosis, proposed treatment, risks/benefits, and alternatives
+B) Diagnosis, cost of treatment, insurance status, and prognosis
+C) Proposed treatment, physician's credentials, hospital policy, and consent form
+D) Risks/benefits, alternatives, family opinion, and legal documentation
+Correct Answer: A) Diagnosis, proposed treatment, risks/benefits, and alternatives
+Explanation:
+Valid informed consent requires the patient to understand their diagnosis, the proposed treatment, its risks and benefits, and available alternatives (including the option of no treatment), so they can make an autonomous, informed decision.
+Coronary - 5 Final
+###
+What is the most common ethical conflict in the Emergency Department, where the physician's desire to heal clashes with the patient's right to refuse care?
+A) Justice vs Non-maleficence
+B) Beneficence vs Autonomy
+C) Autonomy vs Confidentiality
+D) Non-maleficence vs Justice
+Correct Answer: B) Beneficence vs Autonomy
+Explanation:
+This is the most frequent ethical tension in the ED: the physician's obligation to act in the patient's best interest (beneficence) conflicts with the patient's right to make their own decisions, including refusing recommended care (autonomy).
+Coronary - 5 Final
+###
+Within how many minutes of arrival should an ECG be performed and interpreted in a patient with chest pain to detect STEMI?
+A) 5 minutes
+B) 15 minutes
+C) 10 minutes
+D) 30 minutes
+Correct Answer: C) 10 minutes
+Explanation:
+Current standards require an ECG to be obtained and interpreted within 10 minutes of arrival for any patient presenting with chest pain, allowing rapid identification of STEMI and timely activation of reperfusion therapy.
+Coronary - 5 Final
+###
+Which of the following is true regarding Point-of-Care Ultrasound (POCUS)?
+A) It replaces formal radiology imaging entirely
+B) It requires a radiologist to interpret it in real time
+C) It is used only for cardiac indications
+D) It allows immediate answers to binary questions, such as "Is there fluid around the heart?"
+Correct Answer: D) It allows immediate answers to binary questions, such as "Is there fluid around the heart?"
+Explanation:
+POCUS is performed and interpreted directly by the emergency physician at the bedside, providing rapid answers to focused yes/no clinical questions (e.g., pericardial fluid, internal bleeding on FAST exam), which saves critical time during resuscitation.
+Coronary - 5 Final
+###
+What is the appropriate area for patients classified as ESI Level 4 or 5 in the Emergency Department?
+A) Fast Track
+B) Trauma/Resus bay
+C) Main ED/Acute area
+D) ICU admission
+Correct Answer: A) Fast Track
+Explanation:
+Fast Track is designed for low-acuity ESI Level 4 and 5 patients who require zero to one resource, allowing rapid throughput for minor complaints without occupying acute care beds.
+Coronary - 5 Final
+###
+What is the gold standard for securing a compromised airway?
+A) Surgical cricothyrotomy
+B) Endotracheal intubation
+C) Supraglottic airway device
+D) Nasopharyngeal airway
+Correct Answer: B) Endotracheal intubation
+Explanation:
+Endotracheal intubation, where a tube is passed through the vocal cords into the trachea using a laryngoscope, is the gold standard for securing a compromised airway, with surgical cricothyrotomy reserved as a rescue technique when intubation fails.
+Coronary - 5 Final
+###
+A patient presents with active chest pain and suspected myocardial infarction. What is the appropriate ESI level?
+A) ESI 4
+B) ESI 3
+C) ESI 2
+D) ESI 1
+Correct Answer: C) ESI 2
+Explanation:
+Active chest pain with suspected heart attack represents a high risk of deterioration or a time-critical problem, meeting criteria for ESI Level 2 (Emergent) — the patient should not wait for care.
+Coronary - 5 Final
+###
+What is the highest priority in emergency care for a critically ill patient?
+A) Diagnosis
+B) Disposition
+C) Documentation
+D) Resuscitation
+Correct Answer: D) Resuscitation
+Explanation:
+Of the three pillars of emergency care (Resuscitation, Diagnosis, Disposition), resuscitation (immediate stabilization of vital signs) is the absolute highest priority, since an unstable patient must be stabilized before a definitive diagnosis or safe disposition can be pursued.
+Coronary - 5 Final
+###
+Approximately what percentage of emergency department visits are made by patients with an AMA (against medical advice) discharge?
+A) 1–2%
+B) 5–6%
+C) 10–12%
+D) 15–20%
+Correct Answer: A) 1–2%
+Explanation:
+AMA discharges account for roughly 1–2% of all ED visits. These represent high-risk legal and ethical scenarios requiring thorough documentation of the patient's capacity and understanding of the risks of leaving.
+Coronary - 5 Final
+###
+According to EMS standards, approximately how long should it take to transport a patient with a life-threatening emergency to the hospital?
+A) 1–2 minutes
+B) 8–9 minutes
+C) 3–4 minutes
+D) 15–20 minutes
+Correct Answer: B) 8–9 minutes
+Explanation:
+The standard benchmark for EMS response to a life-threatening priority call in an urban setting is generally 8 to 9 minutes. Rapid response combined with bystander CPR significantly increases neurologically intact survival.
+Coronary - 5 Final
+###
+A critically ill unconscious patient requires an emergency procedure, but no family member is available to provide consent. The physician proceeds because delaying treatment would threaten the patient's life. This is based on:
+A) Written consent
+B) Advance directive
+C) Informed refusal
+D) Implied consent
+Correct Answer: D) Implied consent
+Explanation:
+When a patient with a life-threatening condition is unconscious or unable to communicate, the law presumes they would consent to life-saving treatment — this is known as implied consent, allowing physicians to act without delay under the "doctrine of emergency."
+Coronary - 5 Final
+###
+Rapid Sequence Intubation (RSI) generally involves the administration of:
+A) Sedative and paralytic
+B) Antibiotic and analgesic
+C) Anticholinergic and antibiotic
+D) Opioid and antihistamine
+Correct Answer: A) Sedative and paralytic
+Explanation:
+RSI involves the simultaneous administration of a sedative (e.g., etomidate) and a paralytic (e.g., rocuronium) to rapidly facilitate intubation and reduce the risk of aspiration.
+Coronary - 5 Final
+###
+In the ABC primary survey of an unstable patient, the letter D stands for:
+A) Diagnosis
+B) Drainage
+C) Disability
+D) Decision
+Correct Answer: C) Disability
+Explanation:
+In the ABCDE primary survey, "D" stands for Disability — a brief neurological exam (e.g., Glasgow Coma Scale, pupil response) performed to check for severe brain injury, following assessment of Airway, Breathing, and Circulation.
+Coronary - 5 Final
+###
+Which biomarker is most specific and clinically useful for detecting myocardial injury in suspected acute coronary syndrome?
+A) CK
+B) LDH
+C) Myoglobin
+D) Troponin
+Correct Answer: D) Troponin
+Explanation:
+Troponin is the most specific and sensitive biomarker for myocardial injury, making it the standard rapid lab test used in the ED to help rule in or rule out acute coronary syndrome in patients with chest pain.
+Coronary - 5 Final
