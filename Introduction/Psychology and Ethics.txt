@@ -197,3 +197,58 @@ E) Confidentiality
 Correct Answer: C) Non-maleficence
 Explanation:
 Non-maleficence means "do no harm," specifically covering the avoidance of unnecessary harm such as excessive side effects or coercive interventions. Beneficence (B) is related but focuses on actively promoting benefit rather than avoiding harm.
+###
+Which of the following is NOT true regarding the historical practice of psychiatry?
+A) Psychiatrists were obligated to attend executions
+B) Patients could be institutionalized involuntarily
+C) Early asylums focused on containment
+D) Treatments included insulin coma therapy
+E) Early asylums lacked any legal oversight of admissions
+Correct Answer: A) Psychiatrists were obligated to attend executions
+Explanation:
+There is no historical basis for psychiatrists being obligated to attend executions, making this the false statement. Involuntary institutionalization, containment-focused asylums, and insulin coma therapy are all documented historical realities of psychiatric practice.
+Coronary - 5 Final
+###
+A patient with a history of psychotic disorder presents to the ER with sepsis. Over 10 hours, she becomes agitated, irritable, anxious, and her mental status is progressively declining. A psychiatrist is consulted. What is the first priority?
+A) Start an antipsychotic
+B) Order a head CT
+C) Protect the patient from unintended harm
+D) Obtain collateral history from family
+E) Assess the patient's decision-making capacity
+Correct Answer: C) Protect the patient from unintended harm
+Explanation:
+In an acute medical emergency with a progressively declining, fluctuating mental status, immediate safety takes priority over other steps. Capacity assessment (E) is unreliable in this unstable, evolving state, so protecting the patient from harm comes first.
+Coronary - 5 Final
+###
+Collaboration between physical and mental health care is best supported by which of the following?
+A) Avoiding referrals between specialties
+B) Easier referrals that improve outcomes
+C) No interaction between physical and mental health teams
+D) Assuming psychiatric medications have no physical side effects
+E) Patients generally feeling more comfortable in general clinics than mental health clinics
+Correct Answer: B) Easier referrals that improve outcomes
+Explanation:
+Facilitated, easier referral pathways between physical and mental health services support integrated care and improve patient outcomes. Option E describes a stigma-related observation rather than a mechanism that directly drives collaboration.
+Coronary - 5 Final
+###
+Regarding the right to die and surrogate decision-making, which of the following is FALSE?
+A) The court or patient may decide
+B) Patients have the right to refuse treatment
+C) Surrogates must always prolong life regardless of patient wishes
+D) Advance directives guide decisions
+E) If the patient has not given sufficient instructions, the state guides the decision-making process
+Correct Answer: C) Surrogates must always prolong life regardless of patient wishes
+Explanation:
+Surrogates are meant to represent the patient's known wishes or best interests, not to mandate prolonging life unconditionally against those wishes. The other options correctly reflect accepted principles of surrogate and autonomous decision-making.
+Coronary - 5 Final
+###
+Which ethical principle refers to proper treatment and preventing unnecessary harm?
+A) Autonomy
+B) Beneficence
+C) Non-maleficence
+D) Justice
+E) Confidentiality
+Correct Answer: B) Beneficence
+Explanation:
+Beneficence is the duty to actively provide proper, effective treatment in the patient's best interest, going beyond simply avoiding harm (non-maleficence) to actively promoting recovery and preventing unnecessary complications.
+Coronary - 5 Final
